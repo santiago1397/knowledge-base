@@ -7,8 +7,699 @@
   "video_url": "https://www.loom.com/share/ed50d46e97494037abe3449b68b709b8?sid=68ce01bb-d8c0-4020-ae18-afb2e20a34fb?hide_owner=true&hide_share=true&hide_title=true&hideEmbedTopBar=true",
   "video_file": "75e25c91_client-deliverables-walkthrough [ed50d46e97494037abe3449b68b709b8].mp4",
   "content_md": "# Client Deliverables Walkthrough\n\n- Code: 75e25c91\n- Source: https://www.skool.com/ai-seo-mastery-pro/classroom/63a81f62?md=75e25c91512f49f6beb5935e9fd806f8\n- Video: https://www.loom.com/share/ed50d46e97494037abe3449b68b709b8?sid=68ce01bb-d8c0-4020-ae18-afb2e20a34fb?hide_owner=true&hide_share=true&hide_title=true&hideEmbedTopBar=true\n- Duration: 5m 36s\n- Resources:\n  - [Internal Tracking Template](https://docs.google.com/spreadsheets/d/1HkPRnfl4Bm9jZE9_9nHKq1J0w2H7fV_QNnqTbGQbBaE/copy)\n  - [Done-For-You SEO Services](https://icecreamtruck.shop/collections/our-services)\n\n## Description\n\n_(no description)_\n",
-  "transcript": [],
-  "transcript_text": "",
+  "transcript": [
+    {
+      "start": 0.62,
+      "end": 4.18,
+      "text": "So I want to give a quick overview of how we manage new clients."
+    },
+    {
+      "start": 4.18,
+      "end": 7.54,
+      "text": "So this sheet right here, it is what we basically"
+    },
+    {
+      "start": 7.54,
+      "end": 10.3,
+      "text": "use to track our agency clients."
+    },
+    {
+      "start": 10.3,
+      "end": 14.22,
+      "text": "This is obviously a copy of it, but the actual real sheet,"
+    },
+    {
+      "start": 14.22,
+      "end": 18.22,
+      "text": "we're still using every day for tracking our clients."
+    },
+    {
+      "start": 18.22,
+      "end": 22.38,
+      "text": "So we have some helpful links here for some things"
+    },
+    {
+      "start": 22.38,
+      "end": 25.1,
+      "text": "that you might need, schema generator, schema test,"
+    },
+    {
+      "start": 25.1,
+      "end": 29.14,
+      "text": "if you need zip codes, and yeah, to the GVP for managing"
+    },
+    {
+      "start": 29.14,
+      "end": 30.06,
+      "text": "businesses."
+    },
+    {
+      "start": 30.06,
+      "end": 32.26,
+      "text": "This is a quick Loom video I recorded."
+    },
+    {
+      "start": 32.26,
+      "end": 33.94,
+      "text": "You can check it out, record your own,"
+    },
+    {
+      "start": 33.94,
+      "end": 36.78,
+      "text": "but it just basically walks through how a client can"
+    },
+    {
+      "start": 36.78,
+      "end": 38.02,
+      "text": "give us access."
+    },
+    {
+      "start": 38.02,
+      "end": 39.66,
+      "text": "Then we also have these documents,"
+    },
+    {
+      "start": 39.66,
+      "end": 41.5,
+      "text": "which I'll walk through what those are,"
+    },
+    {
+      "start": 41.5,
+      "end": 44.14,
+      "text": "and just some scratch notes on the overall process."
+    },
+    {
+      "start": 44.14,
+      "end": 47.7,
+      "text": "So the way this looks, second tab here,"
+    },
+    {
+      "start": 47.7,
+      "end": 51.06,
+      "text": "we'll have the client name, and then we just have information."
+    },
+    {
+      "start": 51.06,
+      "end": 53.46,
+      "text": "How many articles are we doing in the first month?"
+    },
+    {
+      "start": 53.46,
+      "end": 55.26,
+      "text": "How many articles are we doing ongoing?"
+    },
+    {
+      "start": 55.26,
+      "end": 57.78,
+      "text": "We almost always do fewer articles in the first month"
+    },
+    {
+      "start": 57.82,
+      "end": 61.34,
+      "text": "because we have the GVP review, the landing page reviews,"
+    },
+    {
+      "start": 61.34,
+      "end": 62.5,
+      "text": "things like that."
+    },
+    {
+      "start": 62.5,
+      "end": 64.66,
+      "text": "We have a Google Drive for every folder,"
+    },
+    {
+      "start": 64.66,
+      "end": 66.38,
+      "text": "so we're gonna link it there."
+    },
+    {
+      "start": 66.38,
+      "end": 69.14,
+      "text": "We have a GVP questionnaire that we ask each client"
+    },
+    {
+      "start": 69.14,
+      "end": 71.26,
+      "text": "to fill out, so we'll have a link to that there."
+    },
+    {
+      "start": 71.26,
+      "end": 72.9,
+      "text": "Then we have their location."
+    },
+    {
+      "start": 72.9,
+      "end": 75.06,
+      "text": "If there are multi-location, we'll take yes here,"
+    },
+    {
+      "start": 75.06,
+      "end": 78.14,
+      "text": "and then add multi-locations form there."
+    },
+    {
+      "start": 78.14,
+      "end": 79.7,
+      "text": "And then for the actual deliverables,"
+    },
+    {
+      "start": 79.7,
+      "end": 81.18,
+      "text": "again, we have the client."
+    },
+    {
+      "start": 81.18,
+      "end": 84.02,
+      "text": "We have what the deliverable is, when it's due."
+    },
+    {
+      "start": 84.02,
+      "end": 86.34,
+      "text": "We can check what it is, is that the GVP review"
+    },
+    {
+      "start": 86.34,
+      "end": 89.22,
+      "text": "is the landing page, location content, supporting content."
+    },
+    {
+      "start": 89.22,
+      "end": 91.46,
+      "text": "We have a link to the Google Doc for it,"
+    },
+    {
+      "start": 91.46,
+      "end": 94.1,
+      "text": "and then we have the status of it."
+    },
+    {
+      "start": 94.1,
+      "end": 96.42,
+      "text": "We run zero GPT and all of the content."
+    },
+    {
+      "start": 96.42,
+      "end": 99.26,
+      "text": "We're targeting something in a 60 to 70% range."
+    },
+    {
+      "start": 100.18,
+      "end": 102.34,
+      "text": "So we'll put what that score is there."
+    },
+    {
+      "start": 102.34,
+      "end": 104.86,
+      "text": "Once it's posted, we'll have a live URL."
+    },
+    {
+      "start": 104.86,
+      "end": 107.46,
+      "text": "This is just tracking if we sourced a link to it"
+    },
+    {
+      "start": 107.46,
+      "end": 110.7,
+      "text": "or not yet, and then any specific notes that we may have."
+    },
+    {
+      "start": 110.7,
+      "end": 114.18,
+      "text": "So that's it, really basic, really easy to track this."
+    },
+    {
+      "start": 114.22,
+      "end": 117.62,
+      "text": "For every client, we're basically doing the same scope of work."
+    },
+    {
+      "start": 117.62,
+      "end": 119.74,
+      "text": "The only thing that changes is the number of articles"
+    },
+    {
+      "start": 119.74,
+      "end": 121.06,
+      "text": "we publish each month."
+    },
+    {
+      "start": 121.06,
+      "end": 124.58,
+      "text": "That's what sets the pricing."
+    },
+    {
+      "start": 124.58,
+      "end": 126.7,
+      "text": "So the GVP review."
+    },
+    {
+      "start": 126.7,
+      "end": 130.1,
+      "text": "This is the first thing that we do for a new client."
+    },
+    {
+      "start": 130.1,
+      "end": 132.78,
+      "text": "Typically, and you can see some scratch notes over here,"
+    },
+    {
+      "start": 132.78,
+      "end": 135.74,
+      "text": "the GVP review is going to be within two or three"
+    },
+    {
+      "start": 135.74,
+      "end": 137.98,
+      "text": "business days of them signing off."
+    },
+    {
+      "start": 137.98,
+      "end": 139.7,
+      "text": "So this is the first thing we give them,"
+    },
+    {
+      "start": 139.7,
+      "end": 142.3,
+      "text": "and we make sure that we give them this very, very soon,"
+    },
+    {
+      "start": 142.3,
+      "end": 145.14,
+      "text": "just a couple of days after they pay their invoice."
+    },
+    {
+      "start": 145.14,
+      "end": 148.42,
+      "text": "So you can see we give a URL for the GVP,"
+    },
+    {
+      "start": 148.42,
+      "end": 151.14,
+      "text": "what the landing page is, and the city state."
+    },
+    {
+      "start": 151.14,
+      "end": 153.42,
+      "text": "Then we're going to give, if we disagree,"
+    },
+    {
+      "start": 153.42,
+      "end": 155.3,
+      "text": "what we think the landing page should be,"
+    },
+    {
+      "start": 155.3,
+      "end": 158.22,
+      "text": "what the H1 should be, what the title takes should be."
+    },
+    {
+      "start": 158.22,
+      "end": 162.1,
+      "text": "And as we go through this, we're basically going through,"
+    },
+    {
+      "start": 162.1,
+      "end": 164.18,
+      "text": "like, hey, is the name address phone number,"
+    },
+    {
+      "start": 164.18,
+      "end": 167.54,
+      "text": "is it exactly matched on the GVP landing page as on the GVP?"
+    },
+    {
+      "start": 167.54,
+      "end": 171.1,
+      "text": "You'd be surprised, this usually is not an exact match."
+    },
+    {
+      "start": 171.1,
+      "end": 172.42,
+      "text": "Does it appear in the footer?"
+    },
+    {
+      "start": 172.42,
+      "end": 173.86,
+      "text": "Do they have schema?"
+    },
+    {
+      "start": 173.86,
+      "end": 176.3,
+      "text": "Is there content about the location?"
+    },
+    {
+      "start": 176.3,
+      "end": 179.02,
+      "text": "Is there a GVP embedded on it?"
+    },
+    {
+      "start": 179.02,
+      "end": 181.14,
+      "text": "Do they have Google reviews embedded on it?"
+    },
+    {
+      "start": 181.14,
+      "end": 185.38,
+      "text": "Are all of the telephone numbers clicked to call?"
+    },
+    {
+      "start": 185.38,
+      "end": 187.66,
+      "text": "How many categories do they have?"
+    },
+    {
+      "start": 187.66,
+      "end": 190.42,
+      "text": "Is everything in the GVP filled out?"
+    },
+    {
+      "start": 190.42,
+      "end": 194.22,
+      "text": "And in order to complete these areas, we also have this,"
+    },
+    {
+      "start": 194.22,
+      "end": 197.5,
+      "text": "let me move this, we also have this GVP questionnaire"
+    },
+    {
+      "start": 197.5,
+      "end": 199.9,
+      "text": "that we give to clients to have them fill it out."
+    },
+    {
+      "start": 199.9,
+      "end": 202.02,
+      "text": "So it's, when was it founded?"
+    },
+    {
+      "start": 202.02,
+      "end": 202.94,
+      "text": "What's the service area?"
+    },
+    {
+      "start": 202.94,
+      "end": 205.02,
+      "text": "How many employees, primary phone number?"
+    },
+    {
+      "start": 205.02,
+      "end": 206.18,
+      "text": "What are the hours?"
+    },
+    {
+      "start": 206.18,
+      "end": 207.9,
+      "text": "Any holiday hours?"
+    },
+    {
+      "start": 207.9,
+      "end": 210.06,
+      "text": "Any of these other types of hours?"
+    },
+    {
+      "start": 210.06,
+      "end": 212.1,
+      "text": "We want social media links in there."
+    },
+    {
+      "start": 212.1,
+      "end": 214.58,
+      "text": "Then the GVP asks these questions."
+    },
+    {
+      "start": 214.58,
+      "end": 216.58,
+      "text": "We're going to ask the client to make sure we get it correct."
+    },
+    {
+      "start": 216.58,
+      "end": 218.34,
+      "text": "Do they identify as any of these?"
+    },
+    {
+      "start": 218.34,
+      "end": 220.9,
+      "text": "Do they have these accessibility options, amenities?"
+    },
+    {
+      "start": 220.9,
+      "end": 221.74,
+      "text": "What about the crowd?"
+    },
+    {
+      "start": 221.74,
+      "end": 224.1,
+      "text": "What about the parking, the planning, the languages,"
+    },
+    {
+      "start": 224.1,
+      "end": 224.94,
+      "text": "payment types?"
+    },
+    {
+      "start": 224.94,
+      "end": 226.22,
+      "text": "All of that is just to make sure"
+    },
+    {
+      "start": 226.22,
+      "end": 228.98,
+      "text": "that when we update their GVP, everything is correct."
+    },
+    {
+      "start": 229.02,
+      "end": 230.74,
+      "text": "And here's the questionnaire."
+    },
+    {
+      "start": 230.74,
+      "end": 233.62,
+      "text": "All right, so special hours, holiday hours,"
+    },
+    {
+      "start": 233.62,
+      "end": 235.62,
+      "text": "that's something that you'll basically need to log"
+    },
+    {
+      "start": 235.62,
+      "end": 238.58,
+      "text": "into the GVP every couple of months and check."
+    },
+    {
+      "start": 238.58,
+      "end": 240.98,
+      "text": "We have an ongoing calendar reminder"
+    },
+    {
+      "start": 240.98,
+      "end": 243.74,
+      "text": "for someone on my team to do that."
+    },
+    {
+      "start": 243.74,
+      "end": 245.66,
+      "text": "And then, you know, we want to make sure"
+    },
+    {
+      "start": 245.66,
+      "end": 248.58,
+      "text": "they have at least 20 service areas."
+    },
+    {
+      "start": 248.58,
+      "end": 250.54,
+      "text": "We want to make sure the product and offers is correct,"
+    },
+    {
+      "start": 250.54,
+      "end": 251.66,
+      "text": "that they're posting regularly."
+    },
+    {
+      "start": 251.66,
+      "end": 253.54,
+      "text": "The booking button is active."
+    },
+    {
+      "start": 253.54,
+      "end": 254.46,
+      "text": "They have an appointment link."
+    },
+    {
+      "start": 254.46,
+      "end": 256.06,
+      "text": "The service link is active."
+    },
+    {
+      "start": 256.06,
+      "end": 257.78,
+      "text": "We want to make sure they're responding to reviews."
+    },
+    {
+      "start": 257.78,
+      "end": 260.1,
+      "text": "They should respond to every single review."
+    },
+    {
+      "start": 260.1,
+      "end": 262.98,
+      "text": "We want to have at least 20 photos."
+    },
+    {
+      "start": 262.98,
+      "end": 265.26,
+      "text": "We can get more if we need to."
+    },
+    {
+      "start": 265.26,
+      "end": 268.22,
+      "text": "Again, we want some Q&As, question and answers."
+    },
+    {
+      "start": 268.22,
+      "end": 270.86,
+      "text": "We want lots of services, and we want to get rid"
+    },
+    {
+      "start": 270.86,
+      "end": 273.06,
+      "text": "of any duplicate services or categories."
+    },
+    {
+      "start": 273.06,
+      "end": 277.26,
+      "text": "So this takes maybe a half hour for us to go through and do,"
+    },
+    {
+      "start": 277.26,
+      "end": 279.74,
+      "text": "and it just makes sure we check everything on their GVP"
+    },
+    {
+      "start": 279.74,
+      "end": 282.1,
+      "text": "that it's fully optimized."
+    },
+    {
+      "start": 282.1,
+      "end": 285.38,
+      "text": "After the GVP review, the next thing that we do"
+    },
+    {
+      "start": 285.38,
+      "end": 287.3,
+      "text": "is the GVP landing page."
+    },
+    {
+      "start": 288.18,
+      "end": 291.94,
+      "text": "We deliver four business days after the GVP review."
+    },
+    {
+      "start": 291.94,
+      "end": 294.38,
+      "text": "And this is this very simple sheet"
+    },
+    {
+      "start": 294.38,
+      "end": 295.7,
+      "text": "that we send to them, right?"
+    },
+    {
+      "start": 295.7,
+      "end": 297.34,
+      "text": "Here's what the URL should be."
+    },
+    {
+      "start": 297.34,
+      "end": 300.42,
+      "text": "Here's our suggested meta title, title tag."
+    },
+    {
+      "start": 300.42,
+      "end": 301.94,
+      "text": "Here's our suggested meta description,"
+    },
+    {
+      "start": 301.94,
+      "end": 303.74,
+      "text": "and then we're just gonna have the content here."
+    },
+    {
+      "start": 303.74,
+      "end": 305.82,
+      "text": "This is something that we can just give to our developer"
+    },
+    {
+      "start": 305.82,
+      "end": 308.98,
+      "text": "to implement because we've given him the URL right there."
+    },
+    {
+      "start": 309.94,
+      "end": 313.26,
+      "text": "So then, after that, the next thing we deliver"
+    },
+    {
+      "start": 313.26,
+      "end": 314.9,
+      "text": "is the content gap analysis."
+    },
+    {
+      "start": 314.9,
+      "end": 316.82,
+      "text": "That we deliver three business days"
+    },
+    {
+      "start": 316.82,
+      "end": 318.82,
+      "text": "after the GVP landing page review."
+    },
+    {
+      "start": 318.82,
+      "end": 320.3,
+      "text": "Pretty quick to do that."
+    },
+    {
+      "start": 320.3,
+      "end": 322.42,
+      "text": "It's really just running a single prompt."
+    },
+    {
+      "start": 322.42,
+      "end": 325.66,
+      "text": "And then once that's done, we just go right into the flow,"
+    },
+    {
+      "start": 325.66,
+      "end": 328.22,
+      "text": "start producing the regular articles"
+    },
+    {
+      "start": 328.22,
+      "end": 330.22,
+      "text": "that we're going to track over here."
+    },
+    {
+      "start": 330.22,
+      "end": 332.66,
+      "text": "The ongoing articles, whatever number we said"
+    },
+    {
+      "start": 332.66,
+      "end": 334.82,
+      "text": "we were going to do, we just start producing"
+    },
+    {
+      "start": 334.82,
+      "end": 336.86,
+      "text": "that quantity every month."
+    }
+  ],
+  "transcript_text": "So I want to give a quick overview of how we manage new clients. So this sheet right here, it is what we basically use to track our agency clients. This is obviously a copy of it, but the actual real sheet, we're still using every day for tracking our clients. So we have some helpful links here for some things that you might need, schema generator, schema test, if you need zip codes, and yeah, to the GVP for managing businesses. This is a quick Loom video I recorded. You can check it out, record your own, but it just basically walks through how a client can give us access. Then we also have these documents, which I'll walk through what those are, and just some scratch notes on the overall process. So the way this looks, second tab here, we'll have the client name, and then we just have information. How many articles are we doing in the first month? How many articles are we doing ongoing? We almost always do fewer articles in the first month because we have the GVP review, the landing page reviews, things like that. We have a Google Drive for every folder, so we're gonna link it there. We have a GVP questionnaire that we ask each client to fill out, so we'll have a link to that there. Then we have their location. If there are multi-location, we'll take yes here, and then add multi-locations form there. And then for the actual deliverables, again, we have the client. We have what the deliverable is, when it's due. We can check what it is, is that the GVP review is the landing page, location content, supporting content. We have a link to the Google Doc for it, and then we have the status of it. We run zero GPT and all of the content. We're targeting something in a 60 to 70% range. So we'll put what that score is there. Once it's posted, we'll have a live URL. This is just tracking if we sourced a link to it or not yet, and then any specific notes that we may have. So that's it, really basic, really easy to track this. For every client, we're basically doing the same scope of work. The only thing that changes is the number of articles we publish each month. That's what sets the pricing. So the GVP review. This is the first thing that we do for a new client. Typically, and you can see some scratch notes over here, the GVP review is going to be within two or three business days of them signing off. So this is the first thing we give them, and we make sure that we give them this very, very soon, just a couple of days after they pay their invoice. So you can see we give a URL for the GVP, what the landing page is, and the city state. Then we're going to give, if we disagree, what we think the landing page should be, what the H1 should be, what the title takes should be. And as we go through this, we're basically going through, like, hey, is the name address phone number, is it exactly matched on the GVP landing page as on the GVP? You'd be surprised, this usually is not an exact match. Does it appear in the footer? Do they have schema? Is there content about the location? Is there a GVP embedded on it? Do they have Google reviews embedded on it? Are all of the telephone numbers clicked to call? How many categories do they have? Is everything in the GVP filled out? And in order to complete these areas, we also have this, let me move this, we also have this GVP questionnaire that we give to clients to have them fill it out. So it's, when was it founded? What's the service area? How many employees, primary phone number? What are the hours? Any holiday hours? Any of these other types of hours? We want social media links in there. Then the GVP asks these questions. We're going to ask the client to make sure we get it correct. Do they identify as any of these? Do they have these accessibility options, amenities? What about the crowd? What about the parking, the planning, the languages, payment types? All of that is just to make sure that when we update their GVP, everything is correct. And here's the questionnaire. All right, so special hours, holiday hours, that's something that you'll basically need to log into the GVP every couple of months and check. We have an ongoing calendar reminder for someone on my team to do that. And then, you know, we want to make sure they have at least 20 service areas. We want to make sure the product and offers is correct, that they're posting regularly. The booking button is active. They have an appointment link. The service link is active. We want to make sure they're responding to reviews. They should respond to every single review. We want to have at least 20 photos. We can get more if we need to. Again, we want some Q&As, question and answers. We want lots of services, and we want to get rid of any duplicate services or categories. So this takes maybe a half hour for us to go through and do, and it just makes sure we check everything on their GVP that it's fully optimized. After the GVP review, the next thing that we do is the GVP landing page. We deliver four business days after the GVP review. And this is this very simple sheet that we send to them, right? Here's what the URL should be. Here's our suggested meta title, title tag. Here's our suggested meta description, and then we're just gonna have the content here. This is something that we can just give to our developer to implement because we've given him the URL right there. So then, after that, the next thing we deliver is the content gap analysis. That we deliver three business days after the GVP landing page review. Pretty quick to do that. It's really just running a single prompt. And then once that's done, we just go right into the flow, start producing the regular articles that we're going to track over here. The ongoing articles, whatever number we said we were going to do, we just start producing that quantity every month.",
   "summary": "",
   "key_points": [],
   "tags": []

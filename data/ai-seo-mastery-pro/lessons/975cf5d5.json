@@ -7,8 +7,679 @@
   "video_url": "https://www.loom.com/share/eef2c1a4e0bc42f397bf592be35d53c6?sid=32592a70-a97d-44f5-bb09-83fb06773567?hide_owner=true&hide_share=true&hide_title=true&hideEmbedTopBar=true",
   "video_file": "975cf5d5_create-even-more-schema [eef2c1a4e0bc42f397bf592be35d53c6].mp4",
   "content_md": "# Create Even More Schema\n\n- Code: 975cf5d5\n- Source: https://www.skool.com/ai-seo-mastery-pro/classroom/63a81f62?md=975cf5d58b364063acae91d4b7035b19\n- Video: https://www.loom.com/share/eef2c1a4e0bc42f397bf592be35d53c6?sid=32592a70-a97d-44f5-bb09-83fb06773567?hide_owner=true&hide_share=true&hide_title=true&hideEmbedTopBar=true\n- Duration: 5m 46s\n- Resources:\n  - [Schema Markup Generator [Tool]](https://technicalseo.com/tools/schema-markup-generator/)\n  - [Schema Validator [Tool]](https://validator.schema.org/)\n\n## Description\n\n_(no description)_\n",
-  "transcript": [],
-  "transcript_text": "",
+  "transcript": [
+    {
+      "start": 0.0,
+      "end": 2.44,
+      "text": "Let's talk about schema."
+    },
+    {
+      "start": 2.44,
+      "end": 6.56,
+      "text": "I hopefully you're ready to hear me say schema many, many times."
+    },
+    {
+      "start": 6.56,
+      "end": 9.24,
+      "text": "OK, now, obviously, if you don't know this,"
+    },
+    {
+      "start": 9.24,
+      "end": 11.44,
+      "text": "schema does not affect how users see your site."
+    },
+    {
+      "start": 11.44,
+      "end": 12.84,
+      "text": "Users will never see schema."
+    },
+    {
+      "start": 12.84,
+      "end": 14.76,
+      "text": "It's code embedded in your site."
+    },
+    {
+      "start": 14.76,
+      "end": 18.56,
+      "text": "It is designed to help Google enhance some of the search engine"
+    },
+    {
+      "start": 18.56,
+      "end": 21.08,
+      "text": "results page features."
+    },
+    {
+      "start": 21.08,
+      "end": 25.32,
+      "text": "Additionally, ChatGPT heavily relies on schema"
+    },
+    {
+      "start": 25.32,
+      "end": 27.36,
+      "text": "to interpret your business legitimacy."
+    },
+    {
+      "start": 27.36,
+      "end": 28.56,
+      "text": "It's important to note, of course,"
+    },
+    {
+      "start": 28.56,
+      "end": 31.96,
+      "text": "that Google develops schema, not ChatGPT."
+    },
+    {
+      "start": 31.96,
+      "end": 34.68,
+      "text": "Schema has existed for a long time,"
+    },
+    {
+      "start": 34.68,
+      "end": 36.48,
+      "text": "and it was really used by Google."
+    },
+    {
+      "start": 39.48,
+      "end": 43.76,
+      "text": "What we think about schema, it allows you, using code,"
+    },
+    {
+      "start": 43.76,
+      "end": 46.84,
+      "text": "to basically tell AI directly and Google directly."
+    },
+    {
+      "start": 46.84,
+      "end": 50.24,
+      "text": "It's the only way that you can directly connect and communicate"
+    },
+    {
+      "start": 50.24,
+      "end": 53.36,
+      "text": "with AI and Google that are crawling your website."
+    },
+    {
+      "start": 53.36,
+      "end": 56.08,
+      "text": "You tell them who you are, what you offer, where you serve,"
+    },
+    {
+      "start": 56.08,
+      "end": 58.48,
+      "text": "when you're open, why people trust you."
+    },
+    {
+      "start": 58.76,
+      "end": 60.68,
+      "text": "So the example that I like to think about when"
+    },
+    {
+      "start": 60.68,
+      "end": 65.04,
+      "text": "I think about schema and what it is, is moving boxes."
+    },
+    {
+      "start": 65.04,
+      "end": 67.32,
+      "text": "So if you're moving from one place to another place,"
+    },
+    {
+      "start": 67.32,
+      "end": 70.2,
+      "text": "you need to pack all of your worldly possessions into boxes,"
+    },
+    {
+      "start": 70.2,
+      "end": 72.32,
+      "text": "move them into the new place, and then unpack them."
+    },
+    {
+      "start": 72.32,
+      "end": 76.56,
+      "text": "Schema is the label on those moving boxes."
+    },
+    {
+      "start": 76.56,
+      "end": 78.52,
+      "text": "You don't need to label the moving boxes."
+    },
+    {
+      "start": 78.52,
+      "end": 80.6,
+      "text": "You could move them all over to the new place,"
+    },
+    {
+      "start": 80.6,
+      "end": 82.52,
+      "text": "open the moving boxes, and then rummage around"
+    },
+    {
+      "start": 82.52,
+      "end": 83.88,
+      "text": "and try to figure out what it is."
+    },
+    {
+      "start": 83.88,
+      "end": 87.24,
+      "text": "But I can guarantee to you that moving day will"
+    },
+    {
+      "start": 87.24,
+      "end": 90.64,
+      "text": "be so much easier if you label the moving boxes,"
+    },
+    {
+      "start": 90.64,
+      "end": 93.0,
+      "text": "so much easier to unpack, and know where they go."
+    },
+    {
+      "start": 93.0,
+      "end": 94.92,
+      "text": "That is schema."
+    },
+    {
+      "start": 94.92,
+      "end": 98.4,
+      "text": "So the absolute minimum schema that you should be using,"
+    },
+    {
+      "start": 98.4,
+      "end": 99.8,
+      "text": "and this is for Google, right?"
+    },
+    {
+      "start": 99.8,
+      "end": 102.84,
+      "text": "For Google and for ChatGPT is local business."
+    },
+    {
+      "start": 102.84,
+      "end": 109.5,
+      "text": "Local business only goes on the GVP landing page."
+    },
+    {
+      "start": 109.5,
+      "end": 113.18,
+      "text": "Organization, postal address, and opening hours, right?"
+    },
+    {
+      "start": 113.18,
+      "end": 116.89,
+      "text": "Organization can go everywhere."
+    },
+    {
+      "start": 116.89,
+      "end": 120.17,
+      "text": "And the other two also only on the GVP landing page."
+    },
+    {
+      "start": 121.09,
+      "end": 124.45,
+      "text": "So this is the absolute minimum schema you should,"
+    },
+    {
+      "start": 124.45,
+      "end": 125.57,
+      "text": "I'm trying to get, there you go."
+    },
+    {
+      "start": 125.57,
+      "end": 127.57,
+      "text": "You should have the schema anyway"
+    },
+    {
+      "start": 128.57,
+      "end": 131.53,
+      "text": "if you are trying to rank on Google."
+    },
+    {
+      "start": 131.53,
+      "end": 134.05,
+      "text": "There's more schema that we should put in"
+    },
+    {
+      "start": 134.05,
+      "end": 136.77,
+      "text": "to help ChatGPT to help AI."
+    },
+    {
+      "start": 136.77,
+      "end": 138.77,
+      "text": "We should have service schema."
+    },
+    {
+      "start": 138.77,
+      "end": 141.33,
+      "text": "That lists on each service you offer with descriptions."
+    },
+    {
+      "start": 141.33,
+      "end": 143.33,
+      "text": "Yes, these are also on your GVP,"
+    },
+    {
+      "start": 143.33,
+      "end": 144.69,
+      "text": "but we'll talk about the language"
+    },
+    {
+      "start": 144.69,
+      "end": 146.29,
+      "text": "that you should use in these descriptions"
+    },
+    {
+      "start": 146.29,
+      "end": 148.05,
+      "text": "for your AI schema."
+    },
+    {
+      "start": 148.05,
+      "end": 150.65,
+      "text": "You should have product schema if you have products."
+    },
+    {
+      "start": 150.65,
+      "end": 152.49,
+      "text": "You should FAQ schema."
+    },
+    {
+      "start": 152.49,
+      "end": 154.85,
+      "text": "That is massively helpful to ChatGPT"
+    },
+    {
+      "start": 154.85,
+      "end": 157.01,
+      "text": "to match your content to user questions."
+    },
+    {
+      "start": 157.01,
+      "end": 159.41,
+      "text": "Because remember, the ways ChatGPT works"
+    },
+    {
+      "start": 159.41,
+      "end": 162.01,
+      "text": "is it generates answers based on user questions."
+    },
+    {
+      "start": 162.01,
+      "end": 164.45,
+      "text": "This is much more powerful than simply asking people"
+    },
+    {
+      "start": 164.45,
+      "end": 166.61,
+      "text": "also ask questions on Google"
+    },
+    {
+      "start": 166.61,
+      "end": 169.61,
+      "text": "as the entire search on ChatGPT"
+    },
+    {
+      "start": 169.61,
+      "end": 172.49,
+      "text": "is going to be conversational with questions."
+    },
+    {
+      "start": 172.49,
+      "end": 174.09,
+      "text": "Okay, review schema."
+    },
+    {
+      "start": 174.09,
+      "end": 176.53,
+      "text": "That doesn't really work for Google anymore,"
+    },
+    {
+      "start": 176.53,
+      "end": 178.09,
+      "text": "but you can still use it for ChatGPT"
+    },
+    {
+      "start": 178.09,
+      "end": 180.77,
+      "text": "to inject the real testimonials into the data."
+    },
+    {
+      "start": 180.77,
+      "end": 183.05,
+      "text": "Aggregate rating, that's similar to the review."
+    },
+    {
+      "start": 183.05,
+      "end": 185.81,
+      "text": "We have the geo-coordinates, the service area, okay?"
+    },
+    {
+      "start": 186.89,
+      "end": 190.45,
+      "text": "Now, you can even go more advanced on this."
+    },
+    {
+      "start": 190.45,
+      "end": 193.49,
+      "text": "One thing that we really like doing is nesting schema."
+    },
+    {
+      "start": 193.49,
+      "end": 195.61,
+      "text": "So you have the local business schema"
+    },
+    {
+      "start": 195.61,
+      "end": 198.73,
+      "text": "and inside that schema you can add service schema"
+    },
+    {
+      "start": 198.73,
+      "end": 200.49,
+      "text": "and talk about the services that you offer"
+    },
+    {
+      "start": 200.49,
+      "end": 202.13,
+      "text": "inside the local business schema."
+    },
+    {
+      "start": 202.13,
+      "end": 204.93,
+      "text": "If you don't know how to code JSON,"
+    },
+    {
+      "start": 204.93,
+      "end": 206.49,
+      "text": "no problem, ChatGPT does."
+    },
+    {
+      "start": 206.49,
+      "end": 209.33,
+      "text": "It's a great way to actually get all of this written for you."
+    },
+    {
+      "start": 209.33,
+      "end": 212.57,
+      "text": "Just tell ChatGPT that you want to use nested schema."
+    },
+    {
+      "start": 212.57,
+      "end": 214.29,
+      "text": "It'll take care of coding it for you."
+    },
+    {
+      "start": 214.29,
+      "end": 216.53,
+      "text": "Okay, now, the FAQ content,"
+    },
+    {
+      "start": 216.53,
+      "end": 219.09,
+      "text": "you want to mirror the prompts"
+    },
+    {
+      "start": 219.09,
+      "end": 222.65,
+      "text": "that users are typing into ChatGPT, right?"
+    },
+    {
+      "start": 222.65,
+      "end": 224.55,
+      "text": "So do you offer emergency services?"
+    },
+    {
+      "start": 224.55,
+      "end": 225.81,
+      "text": "How much does service cost?"
+    },
+    {
+      "start": 225.81,
+      "end": 229.13,
+      "text": "Use the language that users are typing into ChatGPT."
+    },
+    {
+      "start": 229.13,
+      "end": 231.45,
+      "text": "I know I said exact match language"
+    },
+    {
+      "start": 231.45,
+      "end": 233.77,
+      "text": "isn't nearly as valuable for ChatGPT"
+    },
+    {
+      "start": 233.77,
+      "end": 234.81,
+      "text": "as it was for Google,"
+    },
+    {
+      "start": 234.81,
+      "end": 237.61,
+      "text": "but if you can mirror users language"
+    },
+    {
+      "start": 237.61,
+      "end": 239.91,
+      "text": "that is going to make it much easier for ChatGPT"
+    },
+    {
+      "start": 239.91,
+      "end": 243.97,
+      "text": "to match up the semantically relevant answers, okay?"
+    },
+    {
+      "start": 243.97,
+      "end": 245.45,
+      "text": "Talked about the actual view quotes"
+    },
+    {
+      "start": 245.45,
+      "end": 247.17,
+      "text": "within the review schema and yeah,"
+    },
+    {
+      "start": 247.17,
+      "end": 248.73,
+      "text": "mimicking writing language."
+    },
+    {
+      "start": 248.73,
+      "end": 252.49,
+      "text": "So this is an example of bad schema."
+    },
+    {
+      "start": 252.49,
+      "end": 254.01,
+      "text": "So this is service schema"
+    },
+    {
+      "start": 254.01,
+      "end": 255.85,
+      "text": "and the service is emergency plumbing"
+    },
+    {
+      "start": 255.85,
+      "end": 257.53,
+      "text": "and the description we offer professional"
+    },
+    {
+      "start": 257.53,
+      "end": 259.25,
+      "text": "emergency plumbing services 24 hours a day,"
+    },
+    {
+      "start": 259.25,
+      "end": 260.29,
+      "text": "seven days a week."
+    },
+    {
+      "start": 260.29,
+      "end": 262.01,
+      "text": "No one talks like that, right?"
+    },
+    {
+      "start": 262.01,
+      "end": 265.45,
+      "text": "That's not how somebody's going to ask ChatGPT"
+    },
+    {
+      "start": 265.45,
+      "end": 267.45,
+      "text": "to find an emergency plumber near them."
+    },
+    {
+      "start": 267.45,
+      "end": 269.61,
+      "text": "Instead, we could write need help fast,"
+    },
+    {
+      "start": 269.61,
+      "end": 272.75,
+      "text": "we fix burst pipes, leaks and clogs 24-7 within the hour."
+    },
+    {
+      "start": 272.75,
+      "end": 277.75,
+      "text": "Much more powerful at showing ChatGPT exactly what you do"
+    },
+    {
+      "start": 278.47,
+      "end": 282.73,
+      "text": "and mimicking the language that somebody would ask ChatGPT"
+    },
+    {
+      "start": 282.73,
+      "end": 284.41,
+      "text": "in order to get ChatGPT,"
+    },
+    {
+      "start": 284.41,
+      "end": 286.69,
+      "text": "more likely to recommend you"
+    },
+    {
+      "start": 286.69,
+      "end": 289.23,
+      "text": "because you've used semantically similar language"
+    },
+    {
+      "start": 289.23,
+      "end": 290.89,
+      "text": "in your schema."
+    },
+    {
+      "start": 290.89,
+      "end": 293.37,
+      "text": "I know I am beating on this,"
+    },
+    {
+      "start": 293.37,
+      "end": 298.7,
+      "text": "but it is really that important."
+    },
+    {
+      "start": 298.7,
+      "end": 301.06,
+      "text": "Yeah, use language that matches user intent,"
+    },
+    {
+      "start": 301.06,
+      "end": 303.02,
+      "text": "natural phrases, compositional speech"
+    },
+    {
+      "start": 303.02,
+      "end": 304.74,
+      "text": "when you are doing the schema."
+    },
+    {
+      "start": 304.74,
+      "end": 306.38,
+      "text": "And here are some tools."
+    },
+    {
+      "start": 306.38,
+      "end": 309.1,
+      "text": "Honestly, usually I'm just using ChatGPT"
+    },
+    {
+      "start": 309.1,
+      "end": 310.66,
+      "text": "to write the schema."
+    },
+    {
+      "start": 310.66,
+      "end": 312.74,
+      "text": "There's a tool here that'll generate it for you,"
+    },
+    {
+      "start": 312.74,
+      "end": 314.42,
+      "text": "but it's not going to be able to generate"
+    },
+    {
+      "start": 314.42,
+      "end": 317.14,
+      "text": "as much of the advanced stuff as ChatGPT will."
+    },
+    {
+      "start": 317.14,
+      "end": 319.62,
+      "text": "So you could start here with something simple"
+    },
+    {
+      "start": 319.62,
+      "end": 321.82,
+      "text": "like local business schema or service schema"
+    },
+    {
+      "start": 321.82,
+      "end": 324.58,
+      "text": "and then ask ChatGPT to make it the nested form"
+    },
+    {
+      "start": 324.58,
+      "end": 327.58,
+      "text": "or just go straight to ChatGPT, tell it what you want."
+    },
+    {
+      "start": 327.58,
+      "end": 330.58,
+      "text": "You can even ask ChatGPT what schema you should do"
+    },
+    {
+      "start": 330.58,
+      "end": 332.54,
+      "text": "and then ask it to generate it for you."
+    },
+    {
+      "start": 332.54,
+      "end": 334.38,
+      "text": "Always test your schema."
+    },
+    {
+      "start": 334.38,
+      "end": 336.86,
+      "text": "This web address here is going to validate it."
+    },
+    {
+      "start": 336.86,
+      "end": 338.98,
+      "text": "If there are any errors, right?"
+    },
+    {
+      "start": 338.98,
+      "end": 342.62,
+      "text": "If there are any errors or any warnings,"
+    },
+    {
+      "start": 342.62,
+      "end": 345.86,
+      "text": "give ChatGPT that error or warning and tell it to fix it."
+    }
+  ],
+  "transcript_text": "Let's talk about schema. I hopefully you're ready to hear me say schema many, many times. OK, now, obviously, if you don't know this, schema does not affect how users see your site. Users will never see schema. It's code embedded in your site. It is designed to help Google enhance some of the search engine results page features. Additionally, ChatGPT heavily relies on schema to interpret your business legitimacy. It's important to note, of course, that Google develops schema, not ChatGPT. Schema has existed for a long time, and it was really used by Google. What we think about schema, it allows you, using code, to basically tell AI directly and Google directly. It's the only way that you can directly connect and communicate with AI and Google that are crawling your website. You tell them who you are, what you offer, where you serve, when you're open, why people trust you. So the example that I like to think about when I think about schema and what it is, is moving boxes. So if you're moving from one place to another place, you need to pack all of your worldly possessions into boxes, move them into the new place, and then unpack them. Schema is the label on those moving boxes. You don't need to label the moving boxes. You could move them all over to the new place, open the moving boxes, and then rummage around and try to figure out what it is. But I can guarantee to you that moving day will be so much easier if you label the moving boxes, so much easier to unpack, and know where they go. That is schema. So the absolute minimum schema that you should be using, and this is for Google, right? For Google and for ChatGPT is local business. Local business only goes on the GVP landing page. Organization, postal address, and opening hours, right? Organization can go everywhere. And the other two also only on the GVP landing page. So this is the absolute minimum schema you should, I'm trying to get, there you go. You should have the schema anyway if you are trying to rank on Google. There's more schema that we should put in to help ChatGPT to help AI. We should have service schema. That lists on each service you offer with descriptions. Yes, these are also on your GVP, but we'll talk about the language that you should use in these descriptions for your AI schema. You should have product schema if you have products. You should FAQ schema. That is massively helpful to ChatGPT to match your content to user questions. Because remember, the ways ChatGPT works is it generates answers based on user questions. This is much more powerful than simply asking people also ask questions on Google as the entire search on ChatGPT is going to be conversational with questions. Okay, review schema. That doesn't really work for Google anymore, but you can still use it for ChatGPT to inject the real testimonials into the data. Aggregate rating, that's similar to the review. We have the geo-coordinates, the service area, okay? Now, you can even go more advanced on this. One thing that we really like doing is nesting schema. So you have the local business schema and inside that schema you can add service schema and talk about the services that you offer inside the local business schema. If you don't know how to code JSON, no problem, ChatGPT does. It's a great way to actually get all of this written for you. Just tell ChatGPT that you want to use nested schema. It'll take care of coding it for you. Okay, now, the FAQ content, you want to mirror the prompts that users are typing into ChatGPT, right? So do you offer emergency services? How much does service cost? Use the language that users are typing into ChatGPT. I know I said exact match language isn't nearly as valuable for ChatGPT as it was for Google, but if you can mirror users language that is going to make it much easier for ChatGPT to match up the semantically relevant answers, okay? Talked about the actual view quotes within the review schema and yeah, mimicking writing language. So this is an example of bad schema. So this is service schema and the service is emergency plumbing and the description we offer professional emergency plumbing services 24 hours a day, seven days a week. No one talks like that, right? That's not how somebody's going to ask ChatGPT to find an emergency plumber near them. Instead, we could write need help fast, we fix burst pipes, leaks and clogs 24-7 within the hour. Much more powerful at showing ChatGPT exactly what you do and mimicking the language that somebody would ask ChatGPT in order to get ChatGPT, more likely to recommend you because you've used semantically similar language in your schema. I know I am beating on this, but it is really that important. Yeah, use language that matches user intent, natural phrases, compositional speech when you are doing the schema. And here are some tools. Honestly, usually I'm just using ChatGPT to write the schema. There's a tool here that'll generate it for you, but it's not going to be able to generate as much of the advanced stuff as ChatGPT will. So you could start here with something simple like local business schema or service schema and then ask ChatGPT to make it the nested form or just go straight to ChatGPT, tell it what you want. You can even ask ChatGPT what schema you should do and then ask it to generate it for you. Always test your schema. This web address here is going to validate it. If there are any errors, right? If there are any errors or any warnings, give ChatGPT that error or warning and tell it to fix it.",
   "summary": "",
   "key_points": [],
   "tags": []

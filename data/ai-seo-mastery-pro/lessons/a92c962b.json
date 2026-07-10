@@ -7,8 +7,389 @@
   "video_url": "https://www.loom.com/share/1735e9bf560f41caa518fc8ac5b9d2ca?sid=32592a70-a97d-44f5-bb09-83fb06773567?hide_owner=true&hide_share=true&hide_title=true&hideEmbedTopBar=true",
   "video_file": "a92c962b_building-more-topical-relevance [1735e9bf560f41caa518fc8ac5b9d2ca].mp4",
   "content_md": "# Building More Topical Relevance\n\n- Code: a92c962b\n- Source: https://www.skool.com/ai-seo-mastery-pro/classroom/63a81f62?md=a92c962b3fc24a76972646e306bb6b32\n- Video: https://www.loom.com/share/1735e9bf560f41caa518fc8ac5b9d2ca?sid=32592a70-a97d-44f5-bb09-83fb06773567?hide_owner=true&hide_share=true&hide_title=true&hideEmbedTopBar=true\n- Duration: 5m 4s\n- Resources:\n  - [[DoneForYou] Human Written Content](https://icecreamtruck.shop/collections/our-services/products/great-content)\n  - [[DoneForYou] AI Generated Content](https://icecreamtruck.shop/collections/our-services/products/okay-content)\n\n## Description\n\n_(no description)_\n",
-  "transcript": [],
-  "transcript_text": "",
+  "transcript": [
+    {
+      "start": 0.21,
+      "end": 5.01,
+      "text": "So let's talk about building topical relevance with supporting content."
+    },
+    {
+      "start": 5.01,
+      "end": 8.73,
+      "text": "So this comes into play after you've already done the core 30."
+    },
+    {
+      "start": 8.73,
+      "end": 14.55,
+      "text": "And if you've done the core 30, you've built all of the articles, one for each category,"
+    },
+    {
+      "start": 14.55,
+      "end": 20.89,
+      "text": "one for each service, and you've sourced external links to all of those pages, and your rank"
+    },
+    {
+      "start": 20.89,
+      "end": 26.39,
+      "text": "map still looks like this, then that's a sign that we need more topical relevance."
+    },
+    {
+      "start": 26.39,
+      "end": 32.31,
+      "text": "So what that means, we're going to basically answer people also ask questions and then"
+    },
+    {
+      "start": 32.31,
+      "end": 38.03,
+      "text": "do internal linking so that Google knows that we're building more relevance for this topic."
+    },
+    {
+      "start": 38.03,
+      "end": 43.79,
+      "text": "Obviously, Google sees the people also ask questions as highly relevant to our target"
+    },
+    {
+      "start": 43.79,
+      "end": 44.79,
+      "text": "keywords."
+    },
+    {
+      "start": 44.79,
+      "end": 47.99,
+      "text": "That's why Google is showing the people also ask section."
+    },
+    {
+      "start": 47.99,
+      "end": 52.35,
+      "text": "So type your category or service into Google without the geographic modifier."
+    },
+    {
+      "start": 52.35,
+      "end": 56.55,
+      "text": "For example, if you're trying to rank a plumber in Houston, just type the word plumber."
+    },
+    {
+      "start": 56.55,
+      "end": 59.35,
+      "text": "Then scroll down, look for the people also ask section."
+    },
+    {
+      "start": 59.35,
+      "end": 62.83,
+      "text": "If it's not there, add the word how or add the word what, that'll often get it to come"
+    },
+    {
+      "start": 62.83,
+      "end": 63.83,
+      "text": "up."
+    },
+    {
+      "start": 63.83,
+      "end": 66.35,
+      "text": "And generally, you're going to find three or four questions."
+    },
+    {
+      "start": 66.35,
+      "end": 69.91,
+      "text": "If you click to open and then click to close and then click to open, click to close, click"
+    },
+    {
+      "start": 69.91,
+      "end": 71.43,
+      "text": "to open, click to close."
+    },
+    {
+      "start": 71.43,
+      "end": 80.48,
+      "text": "If you do that enough, you can end up with several dozen people also ask questions."
+    },
+    {
+      "start": 80.48,
+      "end": 88.48,
+      "text": "Now, historically, that is before summer of 2023, we would make the people also ask question"
+    },
+    {
+      "start": 88.48,
+      "end": 91.76,
+      "text": "an exact match H2 subheading."
+    },
+    {
+      "start": 91.76,
+      "end": 97.68,
+      "text": "Now we have a prompt where we ask AI to rewrite the people also ask questions in a semantically"
+    },
+    {
+      "start": 97.68,
+      "end": 99.0,
+      "text": "relevant way."
+    },
+    {
+      "start": 99.0,
+      "end": 103.44,
+      "text": "Then we use that as the H2 tag with the city added."
+    },
+    {
+      "start": 103.44,
+      "end": 108.56,
+      "text": "And below that H2 subheading, the first few words are going to answer the question as"
+    },
+    {
+      "start": 108.56,
+      "end": 111.32,
+      "text": "quickly, succinctly as possible."
+    },
+    {
+      "start": 111.32,
+      "end": 116.4,
+      "text": "Again, we're delivering the goal completion portion of Google's search engine."
+    },
+    {
+      "start": 116.4,
+      "end": 122.2,
+      "text": "So the example, if the subheading where how much money does a plumber make in Houston?"
+    },
+    {
+      "start": 122.2,
+      "end": 125.8,
+      "text": "Remember maybe the PAA is something like how much does a plumber make?"
+    },
+    {
+      "start": 125.8,
+      "end": 130.68,
+      "text": "So we've added in Houston, then we're going to answer it immediately and succinctly."
+    },
+    {
+      "start": 130.68,
+      "end": 135.2,
+      "text": "A plumber in Houston makes between $75,000 and $120,000 per year on average."
+    },
+    {
+      "start": 135.2,
+      "end": 141.2,
+      "text": "We do this to make sure that Google understands this question or this is an answer for this"
+    },
+    {
+      "start": 141.2,
+      "end": 142.68,
+      "text": "question."
+    },
+    {
+      "start": 142.68,
+      "end": 147.52,
+      "text": "So we're repeating the question in the answer just to make it super clear."
+    },
+    {
+      "start": 147.52,
+      "end": 149.56,
+      "text": "That's what we're answering."
+    },
+    {
+      "start": 149.56,
+      "end": 150.64,
+      "text": "Simple direct language."
+    },
+    {
+      "start": 150.64,
+      "end": 153.28,
+      "text": "See how much money does a plumber make in Houston?"
+    },
+    {
+      "start": 153.28,
+      "end": 155.12,
+      "text": "A plumber in Houston makes."
+    },
+    {
+      "start": 155.12,
+      "end": 160.76,
+      "text": "We're repeating the question to make sure that Google's math, Google's algorithm understands"
+    },
+    {
+      "start": 160.76,
+      "end": 164.84,
+      "text": "this is a clear succinct answer to this question."
+    },
+    {
+      "start": 165.48,
+      "end": 172.72,
+      "text": "What we're going to do is write another maybe 50 or 50 to 75 words total in this paragraph."
+    },
+    {
+      "start": 172.72,
+      "end": 178.44,
+      "text": "And in that block of text, in that 50 to 75 words, we're going to link to a new long form"
+    },
+    {
+      "start": 178.44,
+      "end": 183.4,
+      "text": "article where we take 1500 words to answer that question."
+    },
+    {
+      "start": 183.4,
+      "end": 189.2,
+      "text": "Maybe we have long sections about different types of plumbers in Houston, different levels"
+    },
+    {
+      "start": 189.2,
+      "end": 193.56,
+      "text": "of experience, different lengths of time with a plumbing license, all of this different"
+    },
+    {
+      "start": 193.56,
+      "end": 194.56,
+      "text": "stuff."
+    },
+    {
+      "start": 194.56,
+      "end": 197.2,
+      "text": "We want that to be specific to Houston, right?"
+    },
+    {
+      "start": 197.2,
+      "end": 199.08,
+      "text": "We want to write it specific for Houston."
+    },
+    {
+      "start": 199.08,
+      "end": 203.32,
+      "text": "So the target keyword is going to be how much does a plumber make in Houston?"
+    },
+    {
+      "start": 203.32,
+      "end": 208.84,
+      "text": "And when we write this content with AI, we're going to give AI the target keyword how much"
+    },
+    {
+      "start": 208.84,
+      "end": 213.36,
+      "text": "money does a plumber make in Houston, okay?"
+    },
+    {
+      "start": 213.36,
+      "end": 218.92,
+      "text": "And then in that long form article, we're also going to add contextual editorial link."
+    },
+    {
+      "start": 218.92,
+      "end": 225.4,
+      "text": "That's just a fancy way to say make some like right here, make this a link."
+    },
+    {
+      "start": 225.4,
+      "end": 227.24,
+      "text": "And that would be a right."
+    },
+    {
+      "start": 227.24,
+      "end": 230.12,
+      "text": "So if I made this a link, then the word article would be anchor text."
+    },
+    {
+      "start": 230.12,
+      "end": 232.08,
+      "text": "And this is a contextual editorial link."
+    },
+    {
+      "start": 232.08,
+      "end": 237.56,
+      "text": "So we're going to do that to point up to the URL where the FAQ is the raw URL is fine."
+    },
+    {
+      "start": 237.56,
+      "end": 242.16,
+      "text": "We don't need to specifically point it to where that question is just anywhere on that"
+    },
+    {
+      "start": 242.16,
+      "end": 243.4,
+      "text": "raw URL."
+    },
+    {
+      "start": 243.4,
+      "end": 246.8,
+      "text": "And then we source an external link to the article."
+    },
+    {
+      "start": 246.8,
+      "end": 250.84,
+      "text": "Now from a quantity standpoint, we're usually going to target three to five of these per"
+    },
+    {
+      "start": 250.84,
+      "end": 253.92,
+      "text": "month per topic, depending of course on the client's budget."
+    },
+    {
+      "start": 253.92,
+      "end": 255.76,
+      "text": "But we do them every other month."
+    },
+    {
+      "start": 255.76,
+      "end": 260.92,
+      "text": "So what I mean by that, if we're trying to rank for both plumber and water heater replacement,"
+    },
+    {
+      "start": 260.92,
+      "end": 264.32,
+      "text": "then in the first month, we'll write questions about the plumber."
+    },
+    {
+      "start": 264.32,
+      "end": 267.68,
+      "text": "In the second month, we'll write questions about the water heater replacement."
+    },
+    {
+      "start": 267.68,
+      "end": 272.32,
+      "text": "And then in the third month, we're going to write questions about the plumber again."
+    },
+    {
+      "start": 272.32,
+      "end": 275.76,
+      "text": "So we go back and forth between the topics we're trying to rank for."
+    },
+    {
+      "start": 275.76,
+      "end": 279.68,
+      "text": "Now the reason we do that is because it often takes time to see improvements on the rank"
+    },
+    {
+      "start": 279.68,
+      "end": 280.68,
+      "text": "map."
+    },
+    {
+      "start": 280.68,
+      "end": 285.56,
+      "text": "And we don't want to produce a bunch of content where we don't need the topic of relevance."
+    },
+    {
+      "start": 285.56,
+      "end": 289.96,
+      "text": "So we write three to five articles, give it a month, then three to five more if we need"
+    },
+    {
+      "start": 289.96,
+      "end": 293.52,
+      "text": "to."
+    },
+    {
+      "start": 293.52,
+      "end": 298.68,
+      "text": "And we're just going to keep producing topical content, topical relevance like this until"
+    },
+    {
+      "start": 298.68,
+      "end": 303.08,
+      "text": "our rank map looks something like this, which is a sign that it's time to shift into building"
+    },
+    {
+      "start": 303.08,
+      "end": 304.48,
+      "text": "geographical relevance."
+    }
+  ],
+  "transcript_text": "So let's talk about building topical relevance with supporting content. So this comes into play after you've already done the core 30. And if you've done the core 30, you've built all of the articles, one for each category, one for each service, and you've sourced external links to all of those pages, and your rank map still looks like this, then that's a sign that we need more topical relevance. So what that means, we're going to basically answer people also ask questions and then do internal linking so that Google knows that we're building more relevance for this topic. Obviously, Google sees the people also ask questions as highly relevant to our target keywords. That's why Google is showing the people also ask section. So type your category or service into Google without the geographic modifier. For example, if you're trying to rank a plumber in Houston, just type the word plumber. Then scroll down, look for the people also ask section. If it's not there, add the word how or add the word what, that'll often get it to come up. And generally, you're going to find three or four questions. If you click to open and then click to close and then click to open, click to close, click to open, click to close. If you do that enough, you can end up with several dozen people also ask questions. Now, historically, that is before summer of 2023, we would make the people also ask question an exact match H2 subheading. Now we have a prompt where we ask AI to rewrite the people also ask questions in a semantically relevant way. Then we use that as the H2 tag with the city added. And below that H2 subheading, the first few words are going to answer the question as quickly, succinctly as possible. Again, we're delivering the goal completion portion of Google's search engine. So the example, if the subheading where how much money does a plumber make in Houston? Remember maybe the PAA is something like how much does a plumber make? So we've added in Houston, then we're going to answer it immediately and succinctly. A plumber in Houston makes between $75,000 and $120,000 per year on average. We do this to make sure that Google understands this question or this is an answer for this question. So we're repeating the question in the answer just to make it super clear. That's what we're answering. Simple direct language. See how much money does a plumber make in Houston? A plumber in Houston makes. We're repeating the question to make sure that Google's math, Google's algorithm understands this is a clear succinct answer to this question. What we're going to do is write another maybe 50 or 50 to 75 words total in this paragraph. And in that block of text, in that 50 to 75 words, we're going to link to a new long form article where we take 1500 words to answer that question. Maybe we have long sections about different types of plumbers in Houston, different levels of experience, different lengths of time with a plumbing license, all of this different stuff. We want that to be specific to Houston, right? We want to write it specific for Houston. So the target keyword is going to be how much does a plumber make in Houston? And when we write this content with AI, we're going to give AI the target keyword how much money does a plumber make in Houston, okay? And then in that long form article, we're also going to add contextual editorial link. That's just a fancy way to say make some like right here, make this a link. And that would be a right. So if I made this a link, then the word article would be anchor text. And this is a contextual editorial link. So we're going to do that to point up to the URL where the FAQ is the raw URL is fine. We don't need to specifically point it to where that question is just anywhere on that raw URL. And then we source an external link to the article. Now from a quantity standpoint, we're usually going to target three to five of these per month per topic, depending of course on the client's budget. But we do them every other month. So what I mean by that, if we're trying to rank for both plumber and water heater replacement, then in the first month, we'll write questions about the plumber. In the second month, we'll write questions about the water heater replacement. And then in the third month, we're going to write questions about the plumber again. So we go back and forth between the topics we're trying to rank for. Now the reason we do that is because it often takes time to see improvements on the rank map. And we don't want to produce a bunch of content where we don't need the topic of relevance. So we write three to five articles, give it a month, then three to five more if we need to. And we're just going to keep producing topical content, topical relevance like this until our rank map looks something like this, which is a sign that it's time to shift into building geographical relevance.",
   "summary": "",
   "key_points": [],
   "tags": []

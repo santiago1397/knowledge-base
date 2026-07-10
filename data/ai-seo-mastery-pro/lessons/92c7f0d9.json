@@ -7,8 +7,904 @@
   "video_url": "https://www.loom.com/share/30f3bc38af9e43259d2c286328a8853a?hide_owner=true&hide_share=true&hide_title=true&hideEmbedTopBar=true",
   "video_file": "92c7f0d9_walkthrough-of-calebs-build [30f3bc38af9e43259d2c286328a8853a].mp4",
   "content_md": "# Walkthrough of Caleb's Build\n\n- Code: 92c7f0d9\n- Source: https://www.skool.com/ai-seo-mastery-pro/classroom/63a81f62?md=92c7f0d9258141de9b4020112d7c8d7e\n- Video: https://www.loom.com/share/30f3bc38af9e43259d2c286328a8853a?hide_owner=true&hide_share=true&hide_title=true&hideEmbedTopBar=true\n- Duration: 8m 51s\n\n## Description\n\n_(no description)_\n",
-  "transcript": [],
-  "transcript_text": "",
+  "transcript": [
+    {
+      "start": 0.11,
+      "end": 6.35,
+      "text": "I'm going to walk through how I built this and use this series of prompts for the example"
+    },
+    {
+      "start": 6.35,
+      "end": 7.35,
+      "text": "website."
+    },
+    {
+      "start": 7.35,
+      "end": 10.19,
+      "text": "So first, this is the first prompt that we give to lovable."
+    },
+    {
+      "start": 10.19,
+      "end": 15.03,
+      "text": "And I did that by giving the prompt, I don't know what that is, anyway, by giving the prompt"
+    },
+    {
+      "start": 15.03,
+      "end": 19.23,
+      "text": "zero over to Claude."
+    },
+    {
+      "start": 19.23,
+      "end": 21.39,
+      "text": "This is the prompt zero."
+    },
+    {
+      "start": 21.39,
+      "end": 25.15,
+      "text": "And I filled in the information for the two secondary category pages, two core services"
+    },
+    {
+      "start": 25.15,
+      "end": 26.75,
+      "text": "and all these additional services."
+    },
+    {
+      "start": 26.75,
+      "end": 34.59,
+      "text": "Claude gave me this output for the site architecture for the Gary plumbing company."
+    },
+    {
+      "start": 34.59,
+      "end": 35.87,
+      "text": "That was all the output."
+    },
+    {
+      "start": 35.87,
+      "end": 36.87,
+      "text": "Great."
+    },
+    {
+      "start": 36.87,
+      "end": 40.71,
+      "text": "So I basically gave that site architecture back over to lovable."
+    },
+    {
+      "start": 40.71,
+      "end": 45.87,
+      "text": "You can see it's just copy paste into the whole thing."
+    },
+    {
+      "start": 45.87,
+      "end": 50.47,
+      "text": "And then lovable started going about building everything."
+    },
+    {
+      "start": 50.47,
+      "end": 52.55,
+      "text": "And then lovable says it's done."
+    },
+    {
+      "start": 52.55,
+      "end": 55.39,
+      "text": "So then I give it the next."
+    },
+    {
+      "start": 55.39,
+      "end": 58.01,
+      "text": "So I give it the page content here."
+    },
+    {
+      "start": 58.01,
+      "end": 64.73,
+      "text": "So that page content basically came, I used the exact same prompt that you have in the"
+    },
+    {
+      "start": 64.73,
+      "end": 72.53,
+      "text": "training there to give it the site architecture and to give it the content writing prompt."
+    },
+    {
+      "start": 72.53,
+      "end": 75.17,
+      "text": "And it went ahead, wrote it and implemented it."
+    },
+    {
+      "start": 75.17,
+      "end": 80.21,
+      "text": "Then I gave it the next prompt to create the secondary category pages with, again, repeating"
+    },
+    {
+      "start": 80.21,
+      "end": 81.85,
+      "text": "the site architecture."
+    },
+    {
+      "start": 81.85,
+      "end": 82.85,
+      "text": "Lovable does it."
+    },
+    {
+      "start": 82.85,
+      "end": 87.37,
+      "text": "Then I gave it the next one to create complete core service pages with the site architecture."
+    },
+    {
+      "start": 87.37,
+      "end": 92.49,
+      "text": "Now I would say if I were doing this for an actual client, we would write the content"
+    },
+    {
+      "start": 92.49,
+      "end": 96.69,
+      "text": "with Claude, very similar to how we wrote it for the GPP landing page."
+    },
+    {
+      "start": 96.69,
+      "end": 103.13,
+      "text": "I would use the content writing prompts that we have in the Caleb's copywriting training"
+    },
+    {
+      "start": 103.13,
+      "end": 104.13,
+      "text": "lesson."
+    },
+    {
+      "start": 104.13,
+      "end": 107.69,
+      "text": "It's the first lesson in the copywriting section."
+    },
+    {
+      "start": 107.69,
+      "end": 115.41,
+      "text": "So I would use those lessons to have Claude write the secondary service and our secondary"
+    },
+    {
+      "start": 115.41,
+      "end": 117.65,
+      "text": "category and core service pages."
+    },
+    {
+      "start": 117.65,
+      "end": 121.17,
+      "text": "Then I would give lovable that content instead of having lovable write it."
+    },
+    {
+      "start": 121.17,
+      "end": 125.25,
+      "text": "It's the only thing different I would do if this were a real client."
+    },
+    {
+      "start": 125.25,
+      "end": 127.53,
+      "text": "And you can see lovable creates it all."
+    },
+    {
+      "start": 127.53,
+      "end": 132.21,
+      "text": "And now I'm asking it to create the service hub page, which is the service page here."
+    },
+    {
+      "start": 132.21,
+      "end": 134.21,
+      "text": "And it comes through and does it."
+    },
+    {
+      "start": 134.21,
+      "end": 137.53,
+      "text": "Then I ask it to create the about us and contact pages."
+    },
+    {
+      "start": 137.53,
+      "end": 142.61,
+      "text": "Again in this case, obviously if this were a real client, I would have some unique differentiating"
+    },
+    {
+      "start": 142.61,
+      "end": 147.09,
+      "text": "information about that client to write the about us and contact pages."
+    },
+    {
+      "start": 147.09,
+      "end": 149.09,
+      "text": "I would also have Claude write those."
+    },
+    {
+      "start": 149.09,
+      "end": 151.09,
+      "text": "I wouldn't have lovable."
+    },
+    {
+      "start": 151.09,
+      "end": 153.01,
+      "text": "Claude is a much better writer than lovable."
+    },
+    {
+      "start": 153.01,
+      "end": 155.89,
+      "text": "Having lovable write it is easier."
+    },
+    {
+      "start": 155.89,
+      "end": 160.89,
+      "text": "But generally for pages that I expect visitors to be on, I will have Claude write it."
+    },
+    {
+      "start": 160.89,
+      "end": 162.61,
+      "text": "So we'll come down here and it does that."
+    },
+    {
+      "start": 162.61,
+      "end": 163.61,
+      "text": "Okay."
+    },
+    {
+      "start": 163.61,
+      "end": 166.53,
+      "text": "And now the next one, we're going to implement the final technical elements."
+    },
+    {
+      "start": 166.53,
+      "end": 170.33,
+      "text": "Again, I give it the site architecture so it hasn't aware of that."
+    },
+    {
+      "start": 170.33,
+      "end": 172.93,
+      "text": "And it comes through, creates all of this."
+    },
+    {
+      "start": 172.93,
+      "end": 175.53,
+      "text": "And then it didn't build all the service pages."
+    },
+    {
+      "start": 175.53,
+      "end": 177.85,
+      "text": "So I'm just telling it, hey, build the remaining service pages."
+    },
+    {
+      "start": 177.85,
+      "end": 178.85,
+      "text": "It does."
+    },
+    {
+      "start": 178.85,
+      "end": 179.85,
+      "text": "And it's okay."
+    },
+    {
+      "start": 179.85,
+      "end": 184.93,
+      "text": "Continue updating because it stops when you tell it like, hey, go create 50 pages."
+    },
+    {
+      "start": 184.93,
+      "end": 185.93,
+      "text": "It won't do it all at once."
+    },
+    {
+      "start": 185.93,
+      "end": 187.89,
+      "text": "You have to prompt it several times."
+    },
+    {
+      "start": 187.89,
+      "end": 192.29,
+      "text": "If this were a real client, I would not write all of these individual service pages with"
+    },
+    {
+      "start": 192.29,
+      "end": 193.29,
+      "text": "Claude."
+    },
+    {
+      "start": 193.29,
+      "end": 196.69,
+      "text": "I probably would be fine with lovable doing it as long as I didn't have an issue getting"
+    },
+    {
+      "start": 196.69,
+      "end": 198.67,
+      "text": "this content indexed."
+    },
+    {
+      "start": 198.67,
+      "end": 203.65,
+      "text": "If I started to see in the Google search console, a bunch of these pages being reported as crawled"
+    },
+    {
+      "start": 203.65,
+      "end": 210.23,
+      "text": "not indexed, then I would have Claude write these pages, replace the content with Claude's"
+    },
+    {
+      "start": 210.23,
+      "end": 211.23,
+      "text": "content."
+    },
+    {
+      "start": 211.23,
+      "end": 212.23,
+      "text": "Super simple to do."
+    },
+    {
+      "start": 212.23,
+      "end": 213.75,
+      "text": "I would just have the content."
+    },
+    {
+      "start": 213.75,
+      "end": 218.57,
+      "text": "I would have the URL and I would tell lovable, replace the content on this URL with this"
+    },
+    {
+      "start": 218.57,
+      "end": 220.07,
+      "text": "new content."
+    },
+    {
+      "start": 220.07,
+      "end": 221.31,
+      "text": "Okay."
+    },
+    {
+      "start": 221.31,
+      "end": 223.71,
+      "text": "So keep coming through, continue to update."
+    },
+    {
+      "start": 223.71,
+      "end": 228.27,
+      "text": "And then this is the next prompt to say, just test the site navigation, verify the internal"
+    },
+    {
+      "start": 228.27,
+      "end": 230.99,
+      "text": "links work correctly between parent and child service pages."
+    },
+    {
+      "start": 230.99,
+      "end": 231.99,
+      "text": "It does that."
+    },
+    {
+      "start": 231.99,
+      "end": 233.07,
+      "text": "It says, great."
+    },
+    {
+      "start": 233.07,
+      "end": 236.79,
+      "text": "Some more questions of the site have schema, all the pages in the skeleton, internal links,"
+    },
+    {
+      "start": 236.79,
+      "end": 240.99,
+      "text": "all working structures laid out in the skeleton, basically, hey, lovable, double check your"
+    },
+    {
+      "start": 240.99,
+      "end": 241.99,
+      "text": "work."
+    },
+    {
+      "start": 241.99,
+      "end": 243.79,
+      "text": "It found an issue with the schema."
+    },
+    {
+      "start": 243.79,
+      "end": 244.79,
+      "text": "No problem."
+    },
+    {
+      "start": 244.79,
+      "end": 246.91,
+      "text": "So then, yes, add the homepage schema."
+    },
+    {
+      "start": 246.91,
+      "end": 249.31,
+      "text": "And now how do I publish this, right?"
+    },
+    {
+      "start": 249.31,
+      "end": 251.31,
+      "text": "First time using lovable, cool."
+    },
+    {
+      "start": 251.31,
+      "end": 252.67,
+      "text": "And then it says to click publish."
+    },
+    {
+      "start": 252.67,
+      "end": 256.59,
+      "text": "And when you do that, I can actually connect a unique domain."
+    },
+    {
+      "start": 256.59,
+      "end": 260.15,
+      "text": "So I can hit add custom domain and go through and do that here."
+    },
+    {
+      "start": 260.15,
+      "end": 264.07,
+      "text": "So obviously this is just on the lovable domain."
+    },
+    {
+      "start": 264.07,
+      "end": 267.59,
+      "text": "But if this were a real client, I would connect a real domain to it."
+    },
+    {
+      "start": 267.59,
+      "end": 268.59,
+      "text": "Okay."
+    },
+    {
+      "start": 268.59,
+      "end": 275.23,
+      "text": "Now let me come back up to where I was."
+    },
+    {
+      "start": 275.23,
+      "end": 276.23,
+      "text": "Where was I?"
+    },
+    {
+      "start": 276.23,
+      "end": 279.09,
+      "text": "Ah, okay."
+    },
+    {
+      "start": 279.09,
+      "end": 280.09,
+      "text": "So here we go."
+    },
+    {
+      "start": 280.09,
+      "end": 281.09,
+      "text": "How do I publish?"
+    },
+    {
+      "start": 281.09,
+      "end": 282.09,
+      "text": "Great."
+    },
+    {
+      "start": 282.09,
+      "end": 283.69,
+      "text": "And now a few changes we need on the homepage."
+    },
+    {
+      "start": 283.69,
+      "end": 287.69,
+      "text": "So this is, I had, I reviewed the homepage in a little more detail."
+    },
+    {
+      "start": 287.69,
+      "end": 292.93,
+      "text": "I basically treated the homepage review as I would do a client homepage review."
+    },
+    {
+      "start": 292.93,
+      "end": 298.53,
+      "text": "There are lessons on exactly how I do that in the foundation section for the pro training."
+    },
+    {
+      "start": 298.53,
+      "end": 303.17,
+      "text": "And this basically goes through, hey, I reviewed it and I want to move things around."
+    },
+    {
+      "start": 303.17,
+      "end": 304.85,
+      "text": "So that's what these prompts are."
+    },
+    {
+      "start": 304.85,
+      "end": 307.77,
+      "text": "This is me basically moving things around."
+    },
+    {
+      "start": 307.77,
+      "end": 308.77,
+      "text": "Yeah."
+    },
+    {
+      "start": 308.77,
+      "end": 313.61,
+      "text": "And it, you know, I see the location hub created on link too, but not the reordering."
+    },
+    {
+      "start": 313.61,
+      "end": 317.81,
+      "text": "And then I gave it the reorder that I wanted and it reordered it great."
+    },
+    {
+      "start": 317.81,
+      "end": 323.77,
+      "text": "And the reason for that, when we track what users do on local home pages, they'll read"
+    },
+    {
+      "start": 323.77,
+      "end": 327.01,
+      "text": "the top, they'll read the above the fold, they'll scroll down a little bit."
+    },
+    {
+      "start": 327.01,
+      "end": 330.25,
+      "text": "And then they'll typically scroll all the way to the bottom and then start scrolling"
+    },
+    {
+      "start": 330.25,
+      "end": 331.25,
+      "text": "up."
+    },
+    {
+      "start": 331.25,
+      "end": 334.01,
+      "text": "So we have the GBP map embed and then we have the services down here."
+    },
+    {
+      "start": 334.01,
+      "end": 335.85,
+      "text": "So that's why we laid out like that."
+    },
+    {
+      "start": 335.85,
+      "end": 339.21,
+      "text": "People typically scroll down a little bit, jump all the way to the bottom and then start"
+    },
+    {
+      "start": 339.21,
+      "end": 340.21,
+      "text": "to scroll up."
+    },
+    {
+      "start": 340.21,
+      "end": 343.41,
+      "text": "That's normally how people interact with web pages."
+    },
+    {
+      "start": 343.41,
+      "end": 344.61,
+      "text": "I know it seems weird."
+    },
+    {
+      "start": 344.61,
+      "end": 345.61,
+      "text": "Okay."
+    },
+    {
+      "start": 345.61,
+      "end": 351.49,
+      "text": "So then why Gary homeowners call his first section, we, I again, just rewrote the content."
+    },
+    {
+      "start": 351.49,
+      "end": 353.65,
+      "text": "I wasn't super happy with what Claude produced."
+    },
+    {
+      "start": 353.65,
+      "end": 357.29,
+      "text": "So I had Claude rewrite it with goal completion in mind."
+    },
+    {
+      "start": 357.29,
+      "end": 359.01,
+      "text": "Then what did I keep the design before?"
+    },
+    {
+      "start": 359.01,
+      "end": 360.13,
+      "text": "Yeah, it messed things up."
+    },
+    {
+      "start": 360.13,
+      "end": 361.13,
+      "text": "No problem."
+    },
+    {
+      "start": 361.13,
+      "end": 362.13,
+      "text": "Okay."
+    },
+    {
+      "start": 362.13,
+      "end": 363.13,
+      "text": "Too many links in the footer."
+    },
+    {
+      "start": 363.13,
+      "end": 364.25,
+      "text": "It had a crazy number of footer links."
+    },
+    {
+      "start": 364.25,
+      "end": 365.25,
+      "text": "It was basically everything."
+    },
+    {
+      "start": 365.25,
+      "end": 368.13,
+      "text": "So I said, Hey, I don't want all those links."
+    },
+    {
+      "start": 368.13,
+      "end": 370.29,
+      "text": "I just want these."
+    },
+    {
+      "start": 370.29,
+      "end": 371.93,
+      "text": "And what do I have here?"
+    },
+    {
+      "start": 371.93,
+      "end": 372.93,
+      "text": "Okay."
+    },
+    {
+      "start": 372.93,
+      "end": 373.93,
+      "text": "Yeah."
+    },
+    {
+      "start": 373.93,
+      "end": 379.45,
+      "text": "So this is where, so I, at this point, I believe I had posted the sample site in the group"
+    },
+    {
+      "start": 379.45,
+      "end": 382.81,
+      "text": "and some of you were very helpful in providing comments."
+    },
+    {
+      "start": 382.81,
+      "end": 385.21,
+      "text": "You said you wanted to see location pages."
+    },
+    {
+      "start": 385.21,
+      "end": 390.25,
+      "text": "So I had lovable create some location pages."
+    },
+    {
+      "start": 390.25,
+      "end": 395.41,
+      "text": "These obviously these are not based on a local rank map because this is a fake business."
+    },
+    {
+      "start": 395.41,
+      "end": 398.81,
+      "text": "So these are all just based on, I asked Claude come up with a bunch of location pages for"
+    },
+    {
+      "start": 398.81,
+      "end": 400.33,
+      "text": "get a plumber and Gary Indiana."
+    },
+    {
+      "start": 400.33,
+      "end": 406.01,
+      "text": "I came up with these and I asked lovable to create that content."
+    },
+    {
+      "start": 406.01,
+      "end": 409.97,
+      "text": "Then yeah, someone had mentioned again, very helpful."
+    },
+    {
+      "start": 409.97,
+      "end": 411.37,
+      "text": "They were looking at the local business schema."
+    },
+    {
+      "start": 411.37,
+      "end": 412.37,
+      "text": "The address didn't match."
+    },
+    {
+      "start": 412.37,
+      "end": 416.41,
+      "text": "So I asked lovable make it match and add service schema."
+    },
+    {
+      "start": 416.41,
+      "end": 418.97,
+      "text": "Those are both missing from the initial run through."
+    },
+    {
+      "start": 418.97,
+      "end": 419.97,
+      "text": "I didn't catch it."
+    },
+    {
+      "start": 419.97,
+      "end": 422.81,
+      "text": "So thank you guys for catching it."
+    },
+    {
+      "start": 422.81,
+      "end": 427.37,
+      "text": "And yeah, when you visited the page, there's this little edit with lovable pop up and I"
+    },
+    {
+      "start": 427.37,
+      "end": 429.81,
+      "text": "asked it to remove it and we had to do it in the settings."
+    },
+    {
+      "start": 429.81,
+      "end": 430.81,
+      "text": "That did it."
+    },
+    {
+      "start": 430.81,
+      "end": 431.81,
+      "text": "Great."
+    },
+    {
+      "start": 431.81,
+      "end": 438.69,
+      "text": "And now we're creating all the location pages and don't use the anchor tags, primary category"
+    },
+    {
+      "start": 438.69,
+      "end": 439.69,
+      "text": "in your landmark."
+    },
+    {
+      "start": 439.69,
+      "end": 440.69,
+      "text": "Great."
+    },
+    {
+      "start": 440.69,
+      "end": 443.61,
+      "text": "Add driving directions because with the first pass of the location content, it didn't have"
+    },
+    {
+      "start": 443.61,
+      "end": 445.37,
+      "text": "the driving directions."
+    },
+    {
+      "start": 445.37,
+      "end": 449.09,
+      "text": "This is again, you can see I'm kind of being lazy here."
+    },
+    {
+      "start": 449.09,
+      "end": 454.41,
+      "text": "What I should have done was grab the prompt for writing location based content and giving"
+    },
+    {
+      "start": 454.41,
+      "end": 458.57,
+      "text": "it to lovable rather than just sort of doing this laziness."
+    },
+    {
+      "start": 458.57,
+      "end": 459.57,
+      "text": "So keep that in mind."
+    },
+    {
+      "start": 459.57,
+      "end": 462.61,
+      "text": "I don't always do the way I do it."
+    },
+    {
+      "start": 462.61,
+      "end": 466.29,
+      "text": "And then yeah, the geo pages didn't have any images, so I asked them to add in, still didn't"
+    },
+    {
+      "start": 466.29,
+      "end": 467.29,
+      "text": "see any."
+    },
+    {
+      "start": 467.29,
+      "end": 471.37,
+      "text": "So I asked it to add it back and then yeah, the local business schema was on every single"
+    },
+    {
+      "start": 471.37,
+      "end": 472.37,
+      "text": "page."
+    },
+    {
+      "start": 472.37,
+      "end": 473.53,
+      "text": "So I had lovable remove it."
+    },
+    {
+      "start": 473.53,
+      "end": 474.53,
+      "text": "So hopefully that's helpful."
+    },
+    {
+      "start": 474.53,
+      "end": 479.77,
+      "text": "I just wanted to walk through the exact prompt sequence between Claude and lovable that ended"
+    },
+    {
+      "start": 479.77,
+      "end": 481.25,
+      "text": "up generating this page."
+    },
+    {
+      "start": 481.25,
+      "end": 487.17,
+      "text": "Overall, it took me about an hour or so to get the first version done and then the additional"
+    },
+    {
+      "start": 487.17,
+      "end": 491.97,
+      "text": "changes based on comments from you guys in the pro group took another half hour or so."
+    },
+    {
+      "start": 491.97,
+      "end": 497.09,
+      "text": "So this full pay or this full local business website, around 80 pages took about an hour"
+    },
+    {
+      "start": 497.09,
+      "end": 498.09,
+      "text": "and a half."
+    },
+    {
+      "start": 498.09,
+      "end": 504.09,
+      "text": "Now, doing it the correct way as if it were like a real client, probably would have increased"
+    },
+    {
+      "start": 504.09,
+      "end": 508.69,
+      "text": "that to three or four hours because I would have used Claude to write not only the homepage,"
+    },
+    {
+      "start": 508.69,
+      "end": 513.29,
+      "text": "I would have also used Claude to write the service pages, the core service pages, the"
+    },
+    {
+      "start": 513.29,
+      "end": 515.09,
+      "text": "secondary category pages."
+    },
+    {
+      "start": 515.09,
+      "end": 519.17,
+      "text": "And then I would have actually grabbed our content writing prompts and given those to"
+    },
+    {
+      "start": 519.17,
+      "end": 523.13,
+      "text": "lovable rather than just being like write location page content."
+    },
+    {
+      "start": 523.13,
+      "end": 526.85,
+      "text": "That would have made the content on these pages quite a bit better."
+    },
+    {
+      "start": 526.85,
+      "end": 530.65,
+      "text": "But this is an example page that exists to show you guys the structure."
+    },
+    {
+      "start": 530.65,
+      "end": 531.25,
+      "text": "Hopefully that's helpful."
+    }
+  ],
+  "transcript_text": "I'm going to walk through how I built this and use this series of prompts for the example website. So first, this is the first prompt that we give to lovable. And I did that by giving the prompt, I don't know what that is, anyway, by giving the prompt zero over to Claude. This is the prompt zero. And I filled in the information for the two secondary category pages, two core services and all these additional services. Claude gave me this output for the site architecture for the Gary plumbing company. That was all the output. Great. So I basically gave that site architecture back over to lovable. You can see it's just copy paste into the whole thing. And then lovable started going about building everything. And then lovable says it's done. So then I give it the next. So I give it the page content here. So that page content basically came, I used the exact same prompt that you have in the training there to give it the site architecture and to give it the content writing prompt. And it went ahead, wrote it and implemented it. Then I gave it the next prompt to create the secondary category pages with, again, repeating the site architecture. Lovable does it. Then I gave it the next one to create complete core service pages with the site architecture. Now I would say if I were doing this for an actual client, we would write the content with Claude, very similar to how we wrote it for the GPP landing page. I would use the content writing prompts that we have in the Caleb's copywriting training lesson. It's the first lesson in the copywriting section. So I would use those lessons to have Claude write the secondary service and our secondary category and core service pages. Then I would give lovable that content instead of having lovable write it. It's the only thing different I would do if this were a real client. And you can see lovable creates it all. And now I'm asking it to create the service hub page, which is the service page here. And it comes through and does it. Then I ask it to create the about us and contact pages. Again in this case, obviously if this were a real client, I would have some unique differentiating information about that client to write the about us and contact pages. I would also have Claude write those. I wouldn't have lovable. Claude is a much better writer than lovable. Having lovable write it is easier. But generally for pages that I expect visitors to be on, I will have Claude write it. So we'll come down here and it does that. Okay. And now the next one, we're going to implement the final technical elements. Again, I give it the site architecture so it hasn't aware of that. And it comes through, creates all of this. And then it didn't build all the service pages. So I'm just telling it, hey, build the remaining service pages. It does. And it's okay. Continue updating because it stops when you tell it like, hey, go create 50 pages. It won't do it all at once. You have to prompt it several times. If this were a real client, I would not write all of these individual service pages with Claude. I probably would be fine with lovable doing it as long as I didn't have an issue getting this content indexed. If I started to see in the Google search console, a bunch of these pages being reported as crawled not indexed, then I would have Claude write these pages, replace the content with Claude's content. Super simple to do. I would just have the content. I would have the URL and I would tell lovable, replace the content on this URL with this new content. Okay. So keep coming through, continue to update. And then this is the next prompt to say, just test the site navigation, verify the internal links work correctly between parent and child service pages. It does that. It says, great. Some more questions of the site have schema, all the pages in the skeleton, internal links, all working structures laid out in the skeleton, basically, hey, lovable, double check your work. It found an issue with the schema. No problem. So then, yes, add the homepage schema. And now how do I publish this, right? First time using lovable, cool. And then it says to click publish. And when you do that, I can actually connect a unique domain. So I can hit add custom domain and go through and do that here. So obviously this is just on the lovable domain. But if this were a real client, I would connect a real domain to it. Okay. Now let me come back up to where I was. Where was I? Ah, okay. So here we go. How do I publish? Great. And now a few changes we need on the homepage. So this is, I had, I reviewed the homepage in a little more detail. I basically treated the homepage review as I would do a client homepage review. There are lessons on exactly how I do that in the foundation section for the pro training. And this basically goes through, hey, I reviewed it and I want to move things around. So that's what these prompts are. This is me basically moving things around. Yeah. And it, you know, I see the location hub created on link too, but not the reordering. And then I gave it the reorder that I wanted and it reordered it great. And the reason for that, when we track what users do on local home pages, they'll read the top, they'll read the above the fold, they'll scroll down a little bit. And then they'll typically scroll all the way to the bottom and then start scrolling up. So we have the GBP map embed and then we have the services down here. So that's why we laid out like that. People typically scroll down a little bit, jump all the way to the bottom and then start to scroll up. That's normally how people interact with web pages. I know it seems weird. Okay. So then why Gary homeowners call his first section, we, I again, just rewrote the content. I wasn't super happy with what Claude produced. So I had Claude rewrite it with goal completion in mind. Then what did I keep the design before? Yeah, it messed things up. No problem. Okay. Too many links in the footer. It had a crazy number of footer links. It was basically everything. So I said, Hey, I don't want all those links. I just want these. And what do I have here? Okay. Yeah. So this is where, so I, at this point, I believe I had posted the sample site in the group and some of you were very helpful in providing comments. You said you wanted to see location pages. So I had lovable create some location pages. These obviously these are not based on a local rank map because this is a fake business. So these are all just based on, I asked Claude come up with a bunch of location pages for get a plumber and Gary Indiana. I came up with these and I asked lovable to create that content. Then yeah, someone had mentioned again, very helpful. They were looking at the local business schema. The address didn't match. So I asked lovable make it match and add service schema. Those are both missing from the initial run through. I didn't catch it. So thank you guys for catching it. And yeah, when you visited the page, there's this little edit with lovable pop up and I asked it to remove it and we had to do it in the settings. That did it. Great. And now we're creating all the location pages and don't use the anchor tags, primary category in your landmark. Great. Add driving directions because with the first pass of the location content, it didn't have the driving directions. This is again, you can see I'm kind of being lazy here. What I should have done was grab the prompt for writing location based content and giving it to lovable rather than just sort of doing this laziness. So keep that in mind. I don't always do the way I do it. And then yeah, the geo pages didn't have any images, so I asked them to add in, still didn't see any. So I asked it to add it back and then yeah, the local business schema was on every single page. So I had lovable remove it. So hopefully that's helpful. I just wanted to walk through the exact prompt sequence between Claude and lovable that ended up generating this page. Overall, it took me about an hour or so to get the first version done and then the additional changes based on comments from you guys in the pro group took another half hour or so. So this full pay or this full local business website, around 80 pages took about an hour and a half. Now, doing it the correct way as if it were like a real client, probably would have increased that to three or four hours because I would have used Claude to write not only the homepage, I would have also used Claude to write the service pages, the core service pages, the secondary category pages. And then I would have actually grabbed our content writing prompts and given those to lovable rather than just being like write location page content. That would have made the content on these pages quite a bit better. But this is an example page that exists to show you guys the structure. Hopefully that's helpful.",
   "summary": "",
   "key_points": [],
   "tags": []

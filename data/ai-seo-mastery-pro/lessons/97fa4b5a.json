@@ -7,8 +7,529 @@
   "video_url": "https://www.loom.com/share/829a674127bd4c7897231aec691dbd2a?sid=32592a70-a97d-44f5-bb09-83fb06773567?hide_owner=true&hide_share=true&hide_title=true&hideEmbedTopBar=true",
   "video_file": "97fa4b5a_data-source-chatgpt-vs-google [829a674127bd4c7897231aec691dbd2a].mp4",
   "content_md": "# Data Source: ChatGPT VS. Google\n\n- Code: 97fa4b5a\n- Source: https://www.skool.com/ai-seo-mastery-pro/classroom/63a81f62?md=97fa4b5a1bb84111b5a9b905f36df09a\n- Video: https://www.loom.com/share/829a674127bd4c7897231aec691dbd2a?sid=32592a70-a97d-44f5-bb09-83fb06773567?hide_owner=true&hide_share=true&hide_title=true&hideEmbedTopBar=true\n- Duration: 5m 21s\n\n## Description\n\n_(no description)_\n",
-  "transcript": [],
-  "transcript_text": "",
+  "transcript": [
+    {
+      "start": 1.14,
+      "end": 6.7,
+      "text": "So, let's talk about the data source differences between what ChatGPT is using and what Google"
+    },
+    {
+      "start": 6.7,
+      "end": 7.7,
+      "text": "is using."
+    },
+    {
+      "start": 7.7,
+      "end": 11.18,
+      "text": "Okay, so, freshness as a factor."
+    },
+    {
+      "start": 11.18,
+      "end": 14.98,
+      "text": "Google heavily relies on freshness, especially for news-related stuff, which we don't really"
+    },
+    {
+      "start": 14.98,
+      "end": 19.34,
+      "text": "care about as a local business, but freshness is a huge factor."
+    },
+    {
+      "start": 19.34,
+      "end": 23.78,
+      "text": "ChatGPT very rarely cares about freshness unless you're specifically asking it to search"
+    },
+    {
+      "start": 23.78,
+      "end": 25.58,
+      "text": "online for something."
+    },
+    {
+      "start": 25.58,
+      "end": 30.86,
+      "text": "For trust signals, the big one that we use for Google is going to be high-quality backlinks."
+    },
+    {
+      "start": 30.86,
+      "end": 36.46,
+      "text": "It's going to be user signals that are critical, how users are engaging with the website, and"
+    },
+    {
+      "start": 36.46,
+      "end": 37.62,
+      "text": "brand authority."
+    },
+    {
+      "start": 37.62,
+      "end": 40.86,
+      "text": "For ChatGPT, it cares about citations a lot more than Google does."
+    },
+    {
+      "start": 40.86,
+      "end": 42.42,
+      "text": "Google cares about it."
+    },
+    {
+      "start": 42.42,
+      "end": 43.94,
+      "text": "They used to care about it more."
+    },
+    {
+      "start": 43.94,
+      "end": 46.58,
+      "text": "ChatGPT cares about it more than Google currently does."
+    },
+    {
+      "start": 46.58,
+      "end": 51.78,
+      "text": "It mentions, this is what I talked about before, on Google, you need links to your website for"
+    },
+    {
+      "start": 51.78,
+      "end": 53.1,
+      "text": "it to count."
+    },
+    {
+      "start": 53.1,
+      "end": 54.78,
+      "text": "On ChatGPT, you don't."
+    },
+    {
+      "start": 54.78,
+      "end": 56.7,
+      "text": "You just need the business name to be mentioned."
+    },
+    {
+      "start": 56.78,
+      "end": 59.26,
+      "text": "ChatGPT will see that and recognize it."
+    },
+    {
+      "start": 59.26,
+      "end": 62.42,
+      "text": "Schema, huge, and review content."
+    },
+    {
+      "start": 62.42,
+      "end": 66.26,
+      "text": "ChatGPT will read all of your reviews on every platform."
+    },
+    {
+      "start": 66.26,
+      "end": 69.46,
+      "text": "All right, Google, we know it crawls the internet."
+    },
+    {
+      "start": 69.46,
+      "end": 70.82,
+      "text": "It indexes pages."
+    },
+    {
+      "start": 70.82,
+      "end": 73.1,
+      "text": "It recrawls updates its index."
+    },
+    {
+      "start": 73.1,
+      "end": 79.26,
+      "text": "ChatGPT, it will pull from Bing data when necessary, but a lot of what ChatGPT is doing"
+    },
+    {
+      "start": 79.26,
+      "end": 84.26,
+      "text": "is relying on pre-trained data, which is accurate up to 2023."
+    },
+    {
+      "start": 84.26,
+      "end": 87.18,
+      "text": "Google can see just the website."
+    },
+    {
+      "start": 87.18,
+      "end": 90.86,
+      "text": "Google is trying to aggregate brand mentions."
+    },
+    {
+      "start": 90.86,
+      "end": 96.94,
+      "text": "We've seen evidence that brand search volume is a rank factor on Google, but it just isn't"
+    },
+    {
+      "start": 96.94,
+      "end": 101.46,
+      "text": "as important a factor for Google as it is for ChatGPT."
+    },
+    {
+      "start": 101.46,
+      "end": 103.66,
+      "text": "ChatGPT isn't evaluating your website."
+    },
+    {
+      "start": 103.66,
+      "end": 105.5,
+      "text": "It's not evaluating your URLs."
+    },
+    {
+      "start": 105.5,
+      "end": 108.7,
+      "text": "It's evaluating your business by your business name."
+    },
+    {
+      "start": 108.7,
+      "end": 111.46,
+      "text": "A subtle difference, but an important difference."
+    },
+    {
+      "start": 111.7,
+      "end": 115.82,
+      "text": "And obviously, Google updates constantly and ChatGPT doesn't."
+    },
+    {
+      "start": 115.82,
+      "end": 119.1,
+      "text": "Now, the core sources of data for ChatGPT."
+    },
+    {
+      "start": 119.1,
+      "end": 123.06,
+      "text": "OK, the first core source of data, of course, Bing Search API."
+    },
+    {
+      "start": 123.06,
+      "end": 125.14,
+      "text": "ChatGPT is directly connected to it."
+    },
+    {
+      "start": 125.14,
+      "end": 127.18,
+      "text": "It's using this for any real-time queries."
+    },
+    {
+      "start": 127.18,
+      "end": 130.74,
+      "text": "It's going to run out to the Bing Search API and find recent information."
+    },
+    {
+      "start": 130.74,
+      "end": 136.5,
+      "text": "This means for us local people focused on local SEO, Bing Places is much, much more"
+    },
+    {
+      "start": 136.5,
+      "end": 137.98,
+      "text": "important than GVPs."
+    },
+    {
+      "start": 138.02,
+      "end": 143.38,
+      "text": "OK, I know a lot of us largely ignore Bing Places because who cares about ranking on Bing?"
+    },
+    {
+      "start": 143.38,
+      "end": 146.5,
+      "text": "You should care about ranking on Bing if you care about ChatGPT."
+    },
+    {
+      "start": 146.5,
+      "end": 149.3,
+      "text": "Bing Places is more important than the GVP."
+    },
+    {
+      "start": 149.3,
+      "end": 153.5,
+      "text": "OK, beyond that, we have just the 2023 cutoff, pre-trained internet data."
+    },
+    {
+      "start": 153.5,
+      "end": 156.78,
+      "text": "This is basically the entire internet, 2023 and below."
+    },
+    {
+      "start": 156.78,
+      "end": 158.98,
+      "text": "ChatGPT has access to everything."
+    },
+    {
+      "start": 158.98,
+      "end": 162.02,
+      "text": "And the third one here, live web search."
+    },
+    {
+      "start": 162.02,
+      "end": 164.14,
+      "text": "And I say sometimes not guaranteed."
+    },
+    {
+      "start": 164.14,
+      "end": 167.86,
+      "text": "It's not uncommon that ChatGPT will say it is searching the internet and then"
+    },
+    {
+      "start": 167.86,
+      "end": 168.9,
+      "text": "it just doesn't do it."
+    },
+    {
+      "start": 168.9,
+      "end": 170.66,
+      "text": "It uses heuristics."
+    },
+    {
+      "start": 170.66,
+      "end": 173.5,
+      "text": "It's a very fancy way to say ChatGPT just makes it up."
+    },
+    {
+      "start": 173.5,
+      "end": 174.9,
+      "text": "So be careful here."
+    },
+    {
+      "start": 174.9,
+      "end": 177.94,
+      "text": "Even if it says it's doing a live web search, sometimes it doesn't."
+    },
+    {
+      "start": 177.94,
+      "end": 179.46,
+      "text": "It just makes it up anyway."
+    },
+    {
+      "start": 179.46,
+      "end": 181.54,
+      "text": "But these are the core data sources."
+    },
+    {
+      "start": 181.54,
+      "end": 184.74,
+      "text": "Now, ChatGPT does not use backlinks."
+    },
+    {
+      "start": 184.74,
+      "end": 186.26,
+      "text": "OK, it does not use backlinks."
+    },
+    {
+      "start": 186.26,
+      "end": 187.46,
+      "text": "It does not rely on backlinks."
+    },
+    {
+      "start": 187.46,
+      "end": 190.62,
+      "text": "Backlinks mean nothing to ChatGPT."
+    },
+    {
+      "start": 190.62,
+      "end": 192.18,
+      "text": "Second one, exact match domains."
+    },
+    {
+      "start": 192.18,
+      "end": 193.46,
+      "text": "ChatGPT doesn't care."
+    },
+    {
+      "start": 193.46,
+      "end": 195.34,
+      "text": "Does not care about exact match domains."
+    },
+    {
+      "start": 195.34,
+      "end": 198.3,
+      "text": "And it does not care about page speed or core web vitals."
+    },
+    {
+      "start": 198.3,
+      "end": 202.62,
+      "text": "Remember, a lot of its data is coming from an offline internet download."
+    },
+    {
+      "start": 202.62,
+      "end": 204.86,
+      "text": "So it doesn't care about page speed."
+    },
+    {
+      "start": 204.86,
+      "end": 207.98,
+      "text": "It doesn't evaluate page speed, not a factor."
+    },
+    {
+      "start": 207.98,
+      "end": 211.9,
+      "text": "So what that means, if you have built yourself this high speed,"
+    },
+    {
+      "start": 211.9,
+      "end": 216.62,
+      "text": "perfectly optimized WordPress website, and you have an AHRF domain rating of 90,"
+    },
+    {
+      "start": 216.62,
+      "end": 221.02,
+      "text": "that will not matter at all in terms of ChatGPT recommending your business"
+    },
+    {
+      "start": 221.02,
+      "end": 223.74,
+      "text": "if no one talks about your business online."
+    },
+    {
+      "start": 223.74,
+      "end": 225.22,
+      "text": "So this is the key difference."
+    },
+    {
+      "start": 225.22,
+      "end": 229.3,
+      "text": "If this high speed, optimized WordPress website with an AHRF domain rating of 90,"
+    },
+    {
+      "start": 229.3,
+      "end": 231.06,
+      "text": "that's going to be number one on Google."
+    },
+    {
+      "start": 231.06,
+      "end": 234.18,
+      "text": "Easily number one on Google, even if you're not mentioned anywhere else,"
+    },
+    {
+      "start": 234.18,
+      "end": 235.78,
+      "text": "these factors will get you there."
+    },
+    {
+      "start": 235.78,
+      "end": 240.66,
+      "text": "But ChatGPT cares about if people are talking about your business online"
+    },
+    {
+      "start": 240.66,
+      "end": 245.66,
+      "text": "in trusted high authority places."
+    },
+    {
+      "start": 245.66,
+      "end": 250.06,
+      "text": "So the things that influence ChatGPT, right, we talked a little bit about this,"
+    },
+    {
+      "start": 250.06,
+      "end": 256.82,
+      "text": "the business directories, the reviews, blogs, news, schema, and consistent information."
+    },
+    {
+      "start": 257.22,
+      "end": 260.9,
+      "text": "Obviously, you can be ranked in the top three on Google Maps,"
+    },
+    {
+      "start": 260.9,
+      "end": 264.18,
+      "text": "but you could just not be recommended by ChatGPT,"
+    },
+    {
+      "start": 264.18,
+      "end": 266.02,
+      "text": "especially if you don't have a Bing listing, right?"
+    },
+    {
+      "start": 266.02,
+      "end": 268.74,
+      "text": "No Bing listing, ChatGPT, it doesn't like that."
+    },
+    {
+      "start": 268.74,
+      "end": 270.02,
+      "text": "You need a Bing listing."
+    },
+    {
+      "start": 270.02,
+      "end": 271.7,
+      "text": "You need to be mentioned on forums."
+    },
+    {
+      "start": 271.7,
+      "end": 274.66,
+      "text": "Again, it doesn't need to be links, it just needs to mention your brand name."
+    },
+    {
+      "start": 275.3,
+      "end": 278.1,
+      "text": "Your review should match search intent, right?"
+    },
+    {
+      "start": 278.1,
+      "end": 282.42,
+      "text": "So that means if you get a review that talks about how great a job the plumber did,"
+    },
+    {
+      "start": 282.42,
+      "end": 285.46,
+      "text": "how they're on time, they cleaned up, they fixed the problem,"
+    },
+    {
+      "start": 285.46,
+      "end": 286.58,
+      "text": "that is excellent."
+    },
+    {
+      "start": 286.58,
+      "end": 288.42,
+      "text": "It's amazing for ChatGPT."
+    },
+    {
+      "start": 289.38,
+      "end": 296.26,
+      "text": "Google doesn't care unless the reviews mention specific keyword exact match areas on it."
+    },
+    {
+      "start": 296.26,
+      "end": 297.78,
+      "text": "ChatGPT cares a lot."
+    },
+    {
+      "start": 297.78,
+      "end": 301.46,
+      "text": "And of course, as I mentioned, we need schema to be correct"
+    },
+    {
+      "start": 301.46,
+      "end": 303.06,
+      "text": "and to be correctly configured."
+    },
+    {
+      "start": 303.06,
+      "end": 304.74,
+      "text": "And we need a lot of schema."
+    },
+    {
+      "start": 304.74,
+      "end": 306.58,
+      "text": "Again, I'll talk about that later."
+    },
+    {
+      "start": 306.58,
+      "end": 309.78,
+      "text": "Now, there's a prompt that's right below here."
+    },
+    {
+      "start": 309.78,
+      "end": 311.14,
+      "text": "If you run that prompt on your business,"
+    },
+    {
+      "start": 311.14,
+      "end": 315.86,
+      "text": "it's going to compare what ChatGPT knows about you to what Google knows about you."
+    },
+    {
+      "start": 315.86,
+      "end": 320.82,
+      "text": "It will also give you all the data sources that ChatGPT used to pull that information."
+    }
+  ],
+  "transcript_text": "So, let's talk about the data source differences between what ChatGPT is using and what Google is using. Okay, so, freshness as a factor. Google heavily relies on freshness, especially for news-related stuff, which we don't really care about as a local business, but freshness is a huge factor. ChatGPT very rarely cares about freshness unless you're specifically asking it to search online for something. For trust signals, the big one that we use for Google is going to be high-quality backlinks. It's going to be user signals that are critical, how users are engaging with the website, and brand authority. For ChatGPT, it cares about citations a lot more than Google does. Google cares about it. They used to care about it more. ChatGPT cares about it more than Google currently does. It mentions, this is what I talked about before, on Google, you need links to your website for it to count. On ChatGPT, you don't. You just need the business name to be mentioned. ChatGPT will see that and recognize it. Schema, huge, and review content. ChatGPT will read all of your reviews on every platform. All right, Google, we know it crawls the internet. It indexes pages. It recrawls updates its index. ChatGPT, it will pull from Bing data when necessary, but a lot of what ChatGPT is doing is relying on pre-trained data, which is accurate up to 2023. Google can see just the website. Google is trying to aggregate brand mentions. We've seen evidence that brand search volume is a rank factor on Google, but it just isn't as important a factor for Google as it is for ChatGPT. ChatGPT isn't evaluating your website. It's not evaluating your URLs. It's evaluating your business by your business name. A subtle difference, but an important difference. And obviously, Google updates constantly and ChatGPT doesn't. Now, the core sources of data for ChatGPT. OK, the first core source of data, of course, Bing Search API. ChatGPT is directly connected to it. It's using this for any real-time queries. It's going to run out to the Bing Search API and find recent information. This means for us local people focused on local SEO, Bing Places is much, much more important than GVPs. OK, I know a lot of us largely ignore Bing Places because who cares about ranking on Bing? You should care about ranking on Bing if you care about ChatGPT. Bing Places is more important than the GVP. OK, beyond that, we have just the 2023 cutoff, pre-trained internet data. This is basically the entire internet, 2023 and below. ChatGPT has access to everything. And the third one here, live web search. And I say sometimes not guaranteed. It's not uncommon that ChatGPT will say it is searching the internet and then it just doesn't do it. It uses heuristics. It's a very fancy way to say ChatGPT just makes it up. So be careful here. Even if it says it's doing a live web search, sometimes it doesn't. It just makes it up anyway. But these are the core data sources. Now, ChatGPT does not use backlinks. OK, it does not use backlinks. It does not rely on backlinks. Backlinks mean nothing to ChatGPT. Second one, exact match domains. ChatGPT doesn't care. Does not care about exact match domains. And it does not care about page speed or core web vitals. Remember, a lot of its data is coming from an offline internet download. So it doesn't care about page speed. It doesn't evaluate page speed, not a factor. So what that means, if you have built yourself this high speed, perfectly optimized WordPress website, and you have an AHRF domain rating of 90, that will not matter at all in terms of ChatGPT recommending your business if no one talks about your business online. So this is the key difference. If this high speed, optimized WordPress website with an AHRF domain rating of 90, that's going to be number one on Google. Easily number one on Google, even if you're not mentioned anywhere else, these factors will get you there. But ChatGPT cares about if people are talking about your business online in trusted high authority places. So the things that influence ChatGPT, right, we talked a little bit about this, the business directories, the reviews, blogs, news, schema, and consistent information. Obviously, you can be ranked in the top three on Google Maps, but you could just not be recommended by ChatGPT, especially if you don't have a Bing listing, right? No Bing listing, ChatGPT, it doesn't like that. You need a Bing listing. You need to be mentioned on forums. Again, it doesn't need to be links, it just needs to mention your brand name. Your review should match search intent, right? So that means if you get a review that talks about how great a job the plumber did, how they're on time, they cleaned up, they fixed the problem, that is excellent. It's amazing for ChatGPT. Google doesn't care unless the reviews mention specific keyword exact match areas on it. ChatGPT cares a lot. And of course, as I mentioned, we need schema to be correct and to be correctly configured. And we need a lot of schema. Again, I'll talk about that later. Now, there's a prompt that's right below here. If you run that prompt on your business, it's going to compare what ChatGPT knows about you to what Google knows about you. It will also give you all the data sources that ChatGPT used to pull that information.",
   "summary": "",
   "key_points": [],
   "tags": []

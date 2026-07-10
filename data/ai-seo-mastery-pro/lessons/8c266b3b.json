@@ -7,8 +7,319 @@
   "video_url": "https://www.loom.com/share/ea44debfa73c43ec93761116c0d07977?hide_owner=true&hide_share=true&hide_title=true&hideEmbedTopBar=true",
   "video_file": "8c266b3b_structure-for-multiple-locations [ea44debfa73c43ec93761116c0d07977].mp4",
   "content_md": "# Structure for Multiple Locations\n\n- Code: 8c266b3b\n- Source: https://www.skool.com/ai-seo-mastery-pro/classroom/63a81f62?md=8c266b3b783246908270d88672365071\n- Video: https://www.loom.com/share/ea44debfa73c43ec93761116c0d07977?hide_owner=true&hide_share=true&hide_title=true&hideEmbedTopBar=true\n- Duration: 4m 55s\n\n## Description\n\n_(no description)_\n",
-  "transcript": [],
-  "transcript_text": "",
+  "transcript": [
+    {
+      "start": 0.0,
+      "end": 4.96,
+      "text": "So let me walk through how we would structure a multi-location site. So the"
+    },
+    {
+      "start": 4.96,
+      "end": 9.96,
+      "text": "first caveat on this is whenever we look at a new client, a new perspective"
+    },
+    {
+      "start": 9.96,
+      "end": 13.44,
+      "text": "client, and they have a multi-location setup, that means they have more than one"
+    },
+    {
+      "start": 13.44,
+      "end": 19.08,
+      "text": "GBP, they've almost always linked all of their GBPs to the home page. So the"
+    },
+    {
+      "start": 19.08,
+      "end": 24.66,
+      "text": "structure that we're going through here is going to be the most recommended way"
+    },
+    {
+      "start": 24.66,
+      "end": 29.36,
+      "text": "to do this, and it gets ranking results faster than linking everything to the"
+    },
+    {
+      "start": 29.36,
+      "end": 34.76,
+      "text": "home page. The reason I mention this is before you change the GBP landing page,"
+    },
+    {
+      "start": 34.76,
+      "end": 40.64,
+      "text": "you must run a local rank map. If they're ranking, don't move the GBP landing page."
+    },
+    {
+      "start": 40.64,
+      "end": 45.56,
+      "text": "You will lose ranking, okay? I've looked at clients before that had eight"
+    },
+    {
+      "start": 45.56,
+      "end": 50.3,
+      "text": "locations. All eight GBPs were pointed to the home page, six of them were ranking"
+    },
+    {
+      "start": 50.3,
+      "end": 54.44,
+      "text": "really well, two of them weren't. The two that weren't ranking well, we created"
+    },
+    {
+      "start": 54.44,
+      "end": 58.72,
+      "text": "new GBP landing pages. For those two, we left the other six pointed to the home"
+    },
+    {
+      "start": 58.72,
+      "end": 65.44,
+      "text": "page. Do not make GBP landing page URL changes and expect not to lose rank"
+    },
+    {
+      "start": 65.44,
+      "end": 70.12,
+      "text": "position if you have it. So the basic theory with this multi-location site"
+    },
+    {
+      "start": 70.12,
+      "end": 74.28,
+      "text": "structure, and I know this looks really confusing, but this is essentially the"
+    },
+    {
+      "start": 74.28,
+      "end": 79.52,
+      "text": "same thing that we're doing for a single location except we're treating the GBP"
+    },
+    {
+      "start": 79.52,
+      "end": 84.76,
+      "text": "landing pages for every additional location as its own home page. So remember"
+    },
+    {
+      "start": 84.96,
+      "end": 89.6,
+      "text": "landing page one, the primary keyword is going to be primary category city name."
+    },
+    {
+      "start": 89.6,
+      "end": 95.28,
+      "text": "The target keyword here is secondary category city name and this is"
+    },
+    {
+      "start": 95.28,
+      "end": 101.52,
+      "text": "going to be service city name etc., right? So GBP landing page two, the target"
+    },
+    {
+      "start": 101.52,
+      "end": 105.8,
+      "text": "keyword will be primary category city name, the category one, this is the first"
+    },
+    {
+      "start": 105.8,
+      "end": 109.72,
+      "text": "secondary category, the target keyword will be secondary category city name and"
+    },
+    {
+      "start": 109.72,
+      "end": 114.24,
+      "text": "this will be service city name. So you've basically built out the exact same"
+    },
+    {
+      "start": 114.68,
+      "end": 120.08,
+      "text": "hierarchical structure under each one of the GBP landing pages. The supporting"
+    },
+    {
+      "start": 120.08,
+      "end": 123.64,
+      "text": "content is supporting this service. If we needed supporting content for this"
+    },
+    {
+      "start": 123.64,
+      "end": 127.0,
+      "text": "service, it would look exactly the same. We'd have supporting content linking to"
+    },
+    {
+      "start": 127.0,
+      "end": 132.96,
+      "text": "that. Every GBP needs its own phone number. Now the way we place these here is"
+    },
+    {
+      "start": 132.96,
+      "end": 137.16,
+      "text": "we place them underneath the locations. You don't need to do that if you want"
+    },
+    {
+      "start": 137.16,
+      "end": 140.76,
+      "text": "to link to these other landing pages directly from the home page so that"
+    },
+    {
+      "start": 140.8,
+      "end": 145.28,
+      "text": "these are basically promoted up one. That also is perfectly fine if you don't"
+    },
+    {
+      "start": 145.28,
+      "end": 149.48,
+      "text": "want to put them underneath the locations page. These GBP landing pages are"
+    },
+    {
+      "start": 149.48,
+      "end": 154.84,
+      "text": "basically copies of the home page. They function like a home page. Something"
+    },
+    {
+      "start": 154.84,
+      "end": 160.0,
+      "text": "like 90% of traffic to a local business website is going to go to the GBP"
+    },
+    {
+      "start": 160.0,
+      "end": 163.88,
+      "text": "landing page. We know that from looking at Google Analytics. So these landing"
+    },
+    {
+      "start": 163.88,
+      "end": 168.6,
+      "text": "pages are essentially mini home pages that are structured with the exact"
+    },
+    {
+      "start": 168.6,
+      "end": 174.68,
+      "text": "same core 30 structure as your primary GBP. Now the one that gets the home page"
+    },
+    {
+      "start": 174.68,
+      "end": 178.56,
+      "text": "is going to rank the fastest and easiest. The home page is almost always the"
+    },
+    {
+      "start": 178.56,
+      "end": 183.2,
+      "text": "most powerful URL on your domain. So if you had a location in Chicago and then"
+    },
+    {
+      "start": 183.2,
+      "end": 186.96,
+      "text": "one in Algonquin and one in Naperville, the Chicago one is the one that we"
+    },
+    {
+      "start": 186.96,
+      "end": 190.4,
+      "text": "would point to the home page. Algonquin in Naperville, we would point to two"
+    },
+    {
+      "start": 190.4,
+      "end": 197.64,
+      "text": "and three. Caveat, of course, is if they already have the Algonquin location"
+    },
+    {
+      "start": 197.64,
+      "end": 201.36,
+      "text": "first pointed to the home page and they're adding a Chicago location. If you"
+    },
+    {
+      "start": 201.36,
+      "end": 205.0,
+      "text": "create a new landing page and move the Algonquin one to the new landing page,"
+    },
+    {
+      "start": 205.0,
+      "end": 210.2,
+      "text": "you will lose rank position. Moving GBP landing pages to a new page will lose"
+    },
+    {
+      "start": 210.2,
+      "end": 214.24,
+      "text": "rank position. Moving it away from the home page will lose rank position. So"
+    },
+    {
+      "start": 214.24,
+      "end": 218.0,
+      "text": "that's a discussion to have with your client. It will be easier to rank in"
+    },
+    {
+      "start": 218.0,
+      "end": 222.56,
+      "text": "Chicago if they're using their home page as the Chicago landing page. But if they"
+    },
+    {
+      "start": 222.56,
+      "end": 228.84,
+      "text": "move their existing GBP away from the home page, it will lose rank. Okay? Hopefully"
+    },
+    {
+      "start": 228.84,
+      "end": 233.96,
+      "text": "I'm making sense with this. If it is a particularly high competition area, then"
+    },
+    {
+      "start": 233.96,
+      "end": 239.96,
+      "text": "what we often will do is create a second set of category and service pages where"
+    },
+    {
+      "start": 239.96,
+      "end": 245.36,
+      "text": "the target keyword is just the category and service without the target city. Then"
+    },
+    {
+      "start": 245.36,
+      "end": 249.8,
+      "text": "those would be the ones that live in the nav bar. So if we did that, we would have"
+    },
+    {
+      "start": 249.84,
+      "end": 254.44,
+      "text": "GBP category one, two, three, all these different services. We'd have another set"
+    },
+    {
+      "start": 254.44,
+      "end": 258.28,
+      "text": "of them that looked just like this. And that set is the set we would put in the"
+    },
+    {
+      "start": 258.28,
+      "end": 264.0,
+      "text": "nav bar. If GBP location one was New York City and location two was Miami, we"
+    },
+    {
+      "start": 264.0,
+      "end": 268.28,
+      "text": "would not want someone who lands in Miami to click on one of the pages in the"
+    },
+    {
+      "start": 268.28,
+      "end": 273.08,
+      "text": "nav bar, which are targeting New York City. We don't do that for every client."
+    },
+    {
+      "start": 273.08,
+      "end": 276.76,
+      "text": "Just ones that are very, very high competition just because that's a, you"
+    },
+    {
+      "start": 276.76,
+      "end": 281.32,
+      "text": "know, a significant increase to the amount of content that we would need to do"
+    },
+    {
+      "start": 281.32,
+      "end": 287.16,
+      "text": "that. So all of these are editorial links. They can be nav bar. We try to minimize"
+    },
+    {
+      "start": 287.16,
+      "end": 291.04,
+      "text": "nav bar links, but these are going to be editorial links on the copy just the"
+    },
+    {
+      "start": 291.04,
+      "end": 293.68,
+      "text": "exact way we do the core 34 single location."
+    }
+  ],
+  "transcript_text": "So let me walk through how we would structure a multi-location site. So the first caveat on this is whenever we look at a new client, a new perspective client, and they have a multi-location setup, that means they have more than one GBP, they've almost always linked all of their GBPs to the home page. So the structure that we're going through here is going to be the most recommended way to do this, and it gets ranking results faster than linking everything to the home page. The reason I mention this is before you change the GBP landing page, you must run a local rank map. If they're ranking, don't move the GBP landing page. You will lose ranking, okay? I've looked at clients before that had eight locations. All eight GBPs were pointed to the home page, six of them were ranking really well, two of them weren't. The two that weren't ranking well, we created new GBP landing pages. For those two, we left the other six pointed to the home page. Do not make GBP landing page URL changes and expect not to lose rank position if you have it. So the basic theory with this multi-location site structure, and I know this looks really confusing, but this is essentially the same thing that we're doing for a single location except we're treating the GBP landing pages for every additional location as its own home page. So remember landing page one, the primary keyword is going to be primary category city name. The target keyword here is secondary category city name and this is going to be service city name etc., right? So GBP landing page two, the target keyword will be primary category city name, the category one, this is the first secondary category, the target keyword will be secondary category city name and this will be service city name. So you've basically built out the exact same hierarchical structure under each one of the GBP landing pages. The supporting content is supporting this service. If we needed supporting content for this service, it would look exactly the same. We'd have supporting content linking to that. Every GBP needs its own phone number. Now the way we place these here is we place them underneath the locations. You don't need to do that if you want to link to these other landing pages directly from the home page so that these are basically promoted up one. That also is perfectly fine if you don't want to put them underneath the locations page. These GBP landing pages are basically copies of the home page. They function like a home page. Something like 90% of traffic to a local business website is going to go to the GBP landing page. We know that from looking at Google Analytics. So these landing pages are essentially mini home pages that are structured with the exact same core 30 structure as your primary GBP. Now the one that gets the home page is going to rank the fastest and easiest. The home page is almost always the most powerful URL on your domain. So if you had a location in Chicago and then one in Algonquin and one in Naperville, the Chicago one is the one that we would point to the home page. Algonquin in Naperville, we would point to two and three. Caveat, of course, is if they already have the Algonquin location first pointed to the home page and they're adding a Chicago location. If you create a new landing page and move the Algonquin one to the new landing page, you will lose rank position. Moving GBP landing pages to a new page will lose rank position. Moving it away from the home page will lose rank position. So that's a discussion to have with your client. It will be easier to rank in Chicago if they're using their home page as the Chicago landing page. But if they move their existing GBP away from the home page, it will lose rank. Okay? Hopefully I'm making sense with this. If it is a particularly high competition area, then what we often will do is create a second set of category and service pages where the target keyword is just the category and service without the target city. Then those would be the ones that live in the nav bar. So if we did that, we would have GBP category one, two, three, all these different services. We'd have another set of them that looked just like this. And that set is the set we would put in the nav bar. If GBP location one was New York City and location two was Miami, we would not want someone who lands in Miami to click on one of the pages in the nav bar, which are targeting New York City. We don't do that for every client. Just ones that are very, very high competition just because that's a, you know, a significant increase to the amount of content that we would need to do that. So all of these are editorial links. They can be nav bar. We try to minimize nav bar links, but these are going to be editorial links on the copy just the exact way we do the core 34 single location.",
   "summary": "",
   "key_points": [],
   "tags": []

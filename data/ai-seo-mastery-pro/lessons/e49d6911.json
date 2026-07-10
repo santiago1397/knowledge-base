@@ -7,8 +7,324 @@
   "video_url": "https://www.loom.com/share/ca7db1bba1f1422b9117e2d6a3fefa26?sid=03991079-da16-4b3b-95f3-7c9416bd3f05?hide_owner=true&hide_share=true&hide_title=true&hideEmbedTopBar=true",
   "video_file": "e49d6911_basic-site-structure [ca7db1bba1f1422b9117e2d6a3fefa26].mp4",
   "content_md": "# Basic Site Structure\n\n- Code: e49d6911\n- Source: https://www.skool.com/ai-seo-mastery-pro/classroom/63a81f62?md=e49d6911bc4c4630b0b12ce8ae744d8a\n- Video: https://www.loom.com/share/ca7db1bba1f1422b9117e2d6a3fefa26?sid=03991079-da16-4b3b-95f3-7c9416bd3f05?hide_owner=true&hide_share=true&hide_title=true&hideEmbedTopBar=true\n- Duration: 2m 33s\n\n## Description\n\n_(no description)_\n",
-  "transcript": [],
-  "transcript_text": "",
+  "transcript": [
+    {
+      "start": 0.14,
+      "end": 3.06,
+      "text": "Okay, so let's talk about how we structure content,"
+    },
+    {
+      "start": 3.06,
+      "end": 6.22,
+      "text": "how we structure a website for non-local websites."
+    },
+    {
+      "start": 6.22,
+      "end": 7.5,
+      "text": "So here I'm going to assume"
+    },
+    {
+      "start": 7.5,
+      "end": 9.3,
+      "text": "that you've done the Topical Relevance Map."
+    },
+    {
+      "start": 9.3,
+      "end": 11.34,
+      "text": "That's an earlier module set,"
+    },
+    {
+      "start": 11.34,
+      "end": 13.18,
+      "text": "so go do that if you haven't yet."
+    },
+    {
+      "start": 13.18,
+      "end": 15.06,
+      "text": "But once we do that, we basically,"
+    },
+    {
+      "start": 15.06,
+      "end": 17.3,
+      "text": "let me with this, structure the site"
+    },
+    {
+      "start": 17.3,
+      "end": 19.22,
+      "text": "around that Topical Relevance Map."
+    },
+    {
+      "start": 19.22,
+      "end": 21.58,
+      "text": "So the first thing we did with the Topical Relevance Map"
+    },
+    {
+      "start": 21.58,
+      "end": 26.02,
+      "text": "is we asked ChatGPT to give us"
+    },
+    {
+      "start": 26.02,
+      "end": 27.66,
+      "text": "a bunch of different topics"
+    },
+    {
+      "start": 27.66,
+      "end": 29.78,
+      "text": "based on the same target keyword."
+    },
+    {
+      "start": 29.78,
+      "end": 32.54,
+      "text": "So here we have four different topics."
+    },
+    {
+      "start": 32.54,
+      "end": 33.98,
+      "text": "I think we asked for 30,"
+    },
+    {
+      "start": 33.98,
+      "end": 36.74,
+      "text": "so we could go all the way up to topic number 30."
+    },
+    {
+      "start": 36.74,
+      "end": 39.9,
+      "text": "Then we asked ChatGPT for 15 variations,"
+    },
+    {
+      "start": 39.9,
+      "end": 42.46,
+      "text": "and we're going to do that for each of the 30 topics."
+    },
+    {
+      "start": 42.46,
+      "end": 44.7,
+      "text": "So topic one, here's the variations."
+    },
+    {
+      "start": 44.7,
+      "end": 48.18,
+      "text": "Topic two, variations, three variations, four variations."
+    },
+    {
+      "start": 48.18,
+      "end": 51.26,
+      "text": "And then if we aren't quite ranking well enough,"
+    },
+    {
+      "start": 51.26,
+      "end": 53.18,
+      "text": "we're going to start to do supporting content"
+    },
+    {
+      "start": 53.18,
+      "end": 55.06,
+      "text": "for the keyword variations."
+    },
+    {
+      "start": 55.06,
+      "end": 57.06,
+      "text": "Typically we do the supporting content there"
+    },
+    {
+      "start": 57.06,
+      "end": 58.46,
+      "text": "under the keyword variations."
+    },
+    {
+      "start": 58.46,
+      "end": 60.22,
+      "text": "We can do it under the topic,"
+    },
+    {
+      "start": 60.22,
+      "end": 63.14,
+      "text": "but 15 variations is usually enough"
+    },
+    {
+      "start": 63.14,
+      "end": 64.5,
+      "text": "so that we can worry about"
+    },
+    {
+      "start": 64.5,
+      "end": 66.58,
+      "text": "doing supporting content down here."
+    },
+    {
+      "start": 66.58,
+      "end": 71.5,
+      "text": "So 30 topics, 15 variations for each topic"
+    },
+    {
+      "start": 71.5,
+      "end": 72.78,
+      "text": "that obviously translates into"
+    },
+    {
+      "start": 72.78,
+      "end": 76.06,
+      "text": "just a huge number of articles."
+    },
+    {
+      "start": 76.06,
+      "end": 78.86,
+      "text": "The way this linking will work is this topic,"
+    },
+    {
+      "start": 78.86,
+      "end": 80.7,
+      "text": "the article in topic one,"
+    },
+    {
+      "start": 80.7,
+      "end": 84.54,
+      "text": "will link to each one of the variation URLs."
+    },
+    {
+      "start": 84.54,
+      "end": 87.06,
+      "text": "And that link will happen in a section of text"
+    },
+    {
+      "start": 87.06,
+      "end": 89.5,
+      "text": "that is relevant to these variations."
+    },
+    {
+      "start": 89.5,
+      "end": 93.06,
+      "text": "Each one of these variations will also link back up"
+    },
+    {
+      "start": 93.06,
+      "end": 95.5,
+      "text": "to topic one, and we'll do a link circle."
+    },
+    {
+      "start": 95.5,
+      "end": 99.26,
+      "text": "So one links to two, two links to three, three links to one."
+    },
+    {
+      "start": 99.26,
+      "end": 100.3,
+      "text": "Obviously if we had more of these,"
+    },
+    {
+      "start": 100.3,
+      "end": 102.5,
+      "text": "we would just keep that link circle going."
+    },
+    {
+      "start": 102.5,
+      "end": 104.74,
+      "text": "Same thing for the supporting content,"
+    },
+    {
+      "start": 104.74,
+      "end": 107.1,
+      "text": "except we treat the variation like the topic."
+    },
+    {
+      "start": 107.1,
+      "end": 108.9,
+      "text": "So variation links down to one,"
+    },
+    {
+      "start": 108.9,
+      "end": 110.46,
+      "text": "variation links down to two,"
+    },
+    {
+      "start": 110.46,
+      "end": 112.7,
+      "text": "supporting content one links up to variation,"
+    },
+    {
+      "start": 112.7,
+      "end": 114.94,
+      "text": "supporting content two links up to variation,"
+    },
+    {
+      "start": 114.94,
+      "end": 117.1,
+      "text": "one links to two, okay?"
+    },
+    {
+      "start": 117.1,
+      "end": 121.06,
+      "text": "Now, we do not want topic four, variation two,"
+    },
+    {
+      "start": 121.06,
+      "end": 122.68,
+      "text": "to link over to topic one."
+    },
+    {
+      "start": 122.68,
+      "end": 125.14,
+      "text": "We wanna keep these as structured silos"
+    },
+    {
+      "start": 125.14,
+      "end": 127.9,
+      "text": "that don't interlink across these different topics,"
+    },
+    {
+      "start": 127.9,
+      "end": 130.98,
+      "text": "and that's how we build up topical relevance"
+    },
+    {
+      "start": 130.98,
+      "end": 133.26,
+      "text": "as quickly as possible."
+    },
+    {
+      "start": 133.26,
+      "end": 135.7,
+      "text": "Follow the guidelines on how to write content"
+    },
+    {
+      "start": 135.7,
+      "end": 138.42,
+      "text": "with chat GPT, and these,"
+    },
+    {
+      "start": 138.42,
+      "end": 140.58,
+      "text": "I know it looks like a lot of content,"
+    },
+    {
+      "start": 140.58,
+      "end": 143.18,
+      "text": "but content is relatively inexpensive now,"
+    },
+    {
+      "start": 143.18,
+      "end": 145.26,
+      "text": "so this'll come together fairly quickly."
+    },
+    {
+      "start": 146.74,
+      "end": 149.62,
+      "text": "And don't forget, generally we wanna source"
+    },
+    {
+      "start": 149.62,
+      "end": 151.82,
+      "text": "at least one link to each one of these"
+    },
+    {
+      "start": 151.82,
+      "end": 153.86,
+      "text": "so that Google knows it's good content."
+    }
+  ],
+  "transcript_text": "Okay, so let's talk about how we structure content, how we structure a website for non-local websites. So here I'm going to assume that you've done the Topical Relevance Map. That's an earlier module set, so go do that if you haven't yet. But once we do that, we basically, let me with this, structure the site around that Topical Relevance Map. So the first thing we did with the Topical Relevance Map is we asked ChatGPT to give us a bunch of different topics based on the same target keyword. So here we have four different topics. I think we asked for 30, so we could go all the way up to topic number 30. Then we asked ChatGPT for 15 variations, and we're going to do that for each of the 30 topics. So topic one, here's the variations. Topic two, variations, three variations, four variations. And then if we aren't quite ranking well enough, we're going to start to do supporting content for the keyword variations. Typically we do the supporting content there under the keyword variations. We can do it under the topic, but 15 variations is usually enough so that we can worry about doing supporting content down here. So 30 topics, 15 variations for each topic that obviously translates into just a huge number of articles. The way this linking will work is this topic, the article in topic one, will link to each one of the variation URLs. And that link will happen in a section of text that is relevant to these variations. Each one of these variations will also link back up to topic one, and we'll do a link circle. So one links to two, two links to three, three links to one. Obviously if we had more of these, we would just keep that link circle going. Same thing for the supporting content, except we treat the variation like the topic. So variation links down to one, variation links down to two, supporting content one links up to variation, supporting content two links up to variation, one links to two, okay? Now, we do not want topic four, variation two, to link over to topic one. We wanna keep these as structured silos that don't interlink across these different topics, and that's how we build up topical relevance as quickly as possible. Follow the guidelines on how to write content with chat GPT, and these, I know it looks like a lot of content, but content is relatively inexpensive now, so this'll come together fairly quickly. And don't forget, generally we wanna source at least one link to each one of these so that Google knows it's good content.",
   "summary": "",
   "key_points": [],
   "tags": []

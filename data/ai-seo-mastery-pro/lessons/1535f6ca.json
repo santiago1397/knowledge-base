@@ -7,8 +7,604 @@
   "video_url": "https://www.loom.com/share/e3b20aedba074a13a9677392c224f5d1?sid=c3938e72-530b-4ce4-b3b5-9f676d9e3494?hide_owner=true&hide_share=true&hide_title=true&hideEmbedTopBar=true",
   "video_file": "1535f6ca_technical-audit [e3b20aedba074a13a9677392c224f5d1].mp4",
   "content_md": "# Technical Audit\n\n- Code: 1535f6ca\n- Source: https://www.skool.com/ai-seo-mastery-pro/classroom/63a81f62?md=1535f6ca78dd46398c841e0bdad4529a\n- Video: https://www.loom.com/share/e3b20aedba074a13a9677392c224f5d1?sid=c3938e72-530b-4ce4-b3b5-9f676d9e3494?hide_owner=true&hide_share=true&hide_title=true&hideEmbedTopBar=true\n- Duration: 5m 59s\n- Resources:\n  - [Audit Prompt](None)\n\n## Description\n\n_(no description)_\n",
-  "transcript": [],
-  "transcript_text": "",
+  "transcript": [
+    {
+      "start": 0.34,
+      "end": 2.26,
+      "text": "So let's talk about a technical audit."
+    },
+    {
+      "start": 2.26,
+      "end": 4.46,
+      "text": "Now, we're not going to do this for every single client."
+    },
+    {
+      "start": 4.46,
+      "end": 7.5,
+      "text": "We only do this for the largest clients."
+    },
+    {
+      "start": 7.5,
+      "end": 9.06,
+      "text": "And when I say largest clients, I"
+    },
+    {
+      "start": 9.06,
+      "end": 11.3,
+      "text": "mean the client with the largest websites."
+    },
+    {
+      "start": 11.3,
+      "end": 13.22,
+      "text": "So we're going to use Screaming Frog."
+    },
+    {
+      "start": 13.22,
+      "end": 15.02,
+      "text": "And you can see this one is licensed."
+    },
+    {
+      "start": 15.02,
+      "end": 18.34,
+      "text": "And that's just because if the client is large enough,"
+    },
+    {
+      "start": 18.34,
+      "end": 21.18,
+      "text": "if their website is large enough to justify technical audit,"
+    },
+    {
+      "start": 21.18,
+      "end": 23.74,
+      "text": "they probably have more than 500 URLs."
+    },
+    {
+      "start": 23.74,
+      "end": 27.62,
+      "text": "OK, so before we actually go through and do it,"
+    },
+    {
+      "start": 27.62,
+      "end": 30.26,
+      "text": "we're going to have to make sure that the page speed"
+    },
+    {
+      "start": 30.26,
+      "end": 33.82,
+      "text": "is set up with an API key."
+    },
+    {
+      "start": 33.82,
+      "end": 35.66,
+      "text": "So to do that, under Configuration,"
+    },
+    {
+      "start": 35.66,
+      "end": 39.86,
+      "text": "come down to API Access and hit Page Speed Insights."
+    },
+    {
+      "start": 39.86,
+      "end": 43.5,
+      "text": "And if you click on this link, it'll bring you somewhere"
+    },
+    {
+      "start": 43.5,
+      "end": 45.82,
+      "text": "where you can grab a free API key."
+    },
+    {
+      "start": 45.82,
+      "end": 47.3,
+      "text": "And you just put it in here."
+    },
+    {
+      "start": 47.3,
+      "end": 48.74,
+      "text": "Fairly simple to do."
+    },
+    {
+      "start": 48.74,
+      "end": 50.62,
+      "text": "Then you'll put the home page here."
+    },
+    {
+      "start": 50.62,
+      "end": 52.9,
+      "text": "You'll hit Start."
+    },
+    {
+      "start": 52.9,
+      "end": 54.54,
+      "text": "It'll take quite a bit longer than normal"
+    },
+    {
+      "start": 54.54,
+      "end": 57.18,
+      "text": "because the API key with the page speed insights."
+    },
+    {
+      "start": 57.18,
+      "end": 59.62,
+      "text": "And then we're going to grab a bunch of files."
+    },
+    {
+      "start": 59.62,
+      "end": 61.14,
+      "text": "So I have the prompt here."
+    },
+    {
+      "start": 61.14,
+      "end": 62.54,
+      "text": "So we're going to grab Internal All."
+    },
+    {
+      "start": 62.54,
+      "end": 65.1,
+      "text": "So we're going to click Internal."
+    },
+    {
+      "start": 65.1,
+      "end": 67.9,
+      "text": "And we're going to hit Export."
+    },
+    {
+      "start": 67.9,
+      "end": 71.33,
+      "text": "And we'll Overwrite."
+    },
+    {
+      "start": 71.33,
+      "end": 80.69,
+      "text": "And we're going to grab Page Titles."
+    },
+    {
+      "start": 80.69,
+      "end": 88.46,
+      "text": "And we're going to grab Meta Descriptions."
+    },
+    {
+      "start": 88.46,
+      "end": 98.18,
+      "text": "And we're going to grab Response Codes."
+    },
+    {
+      "start": 98.18,
+      "end": 112.84,
+      "text": "And we're going to grab Images."
+    },
+    {
+      "start": 112.84,
+      "end": 118.03,
+      "text": "There it is, Export Images."
+    },
+    {
+      "start": 118.03,
+      "end": 121.95,
+      "text": "And after Images, we get Canonicals and Structured Data."
+    },
+    {
+      "start": 121.95,
+      "end": 134.05,
+      "text": "So we'll grab Canonicals and Structured Data."
+    },
+    {
+      "start": 134.05,
+      "end": 136.89,
+      "text": "And we'll go to Page Speed, Links, and Directives."
+    },
+    {
+      "start": 136.89,
+      "end": 138.01,
+      "text": "So Page Speed."
+    },
+    {
+      "start": 138.01,
+      "end": 139.77,
+      "text": "If you didn't have the API connected,"
+    },
+    {
+      "start": 139.77,
+      "end": 141.77,
+      "text": "this would basically be blank."
+    },
+    {
+      "start": 141.77,
+      "end": 145.56,
+      "text": "So we'll export the Page Speed."
+    },
+    {
+      "start": 145.56,
+      "end": 150.46,
+      "text": "We'll export all the links."
+    },
+    {
+      "start": 150.46,
+      "end": 159.26,
+      "text": "And the last one was Directives."
+    },
+    {
+      "start": 159.26,
+      "end": 160.9,
+      "text": "OK."
+    },
+    {
+      "start": 160.9,
+      "end": 163.14,
+      "text": "So now we'll pull up Claude."
+    },
+    {
+      "start": 163.14,
+      "end": 166.58,
+      "text": "We'll grab the prompt."
+    },
+    {
+      "start": 166.58,
+      "end": 168.94,
+      "text": "And these are optional from the Search Console."
+    },
+    {
+      "start": 168.94,
+      "end": 171.1,
+      "text": "You can add them or not add them."
+    },
+    {
+      "start": 171.1,
+      "end": 176.23,
+      "text": "It's really the technical audit that we're after here."
+    },
+    {
+      "start": 176.23,
+      "end": 179.82,
+      "text": "So we'll give it the prompt."
+    },
+    {
+      "start": 179.82,
+      "end": 181.06,
+      "text": "So we give it the prompt."
+    },
+    {
+      "start": 181.06,
+      "end": 186.26,
+      "text": "And then we give it all of these files for Screaming Frog."
+    },
+    {
+      "start": 186.26,
+      "end": 188.02,
+      "text": "And then we're going to select Opus, which"
+    },
+    {
+      "start": 188.02,
+      "end": 191.46,
+      "text": "is going to do a much better job at this analysis."
+    },
+    {
+      "start": 191.46,
+      "end": 193.18,
+      "text": "So I'll run it and pause the recording"
+    },
+    {
+      "start": 193.18,
+      "end": 196.02,
+      "text": "while it is doing the analysis."
+    },
+    {
+      "start": 196.02,
+      "end": 199.06,
+      "text": "All right, so the analysis is done, took a few minutes."
+    },
+    {
+      "start": 199.06,
+      "end": 201.66,
+      "text": "And basically, we have this executive summary"
+    },
+    {
+      "start": 201.66,
+      "end": 205.74,
+      "text": "that goes through the top issues for this particular website."
+    },
+    {
+      "start": 205.74,
+      "end": 208.54,
+      "text": "Generally, what we would do from here"
+    },
+    {
+      "start": 208.54,
+      "end": 214.42,
+      "text": "is break this report into different sections, things"
+    },
+    {
+      "start": 214.42,
+      "end": 216.34,
+      "text": "that my employees need to handle,"
+    },
+    {
+      "start": 216.34,
+      "end": 218.22,
+      "text": "things that I can just give to the developer"
+    },
+    {
+      "start": 218.22,
+      "end": 222.06,
+      "text": "and have them handle it, and things like that."
+    },
+    {
+      "start": 222.06,
+      "end": 225.18,
+      "text": "So for example, absence of local schema."
+    },
+    {
+      "start": 225.18,
+      "end": 227.34,
+      "text": "I'm going to kick that over to my employee."
+    },
+    {
+      "start": 227.34,
+      "end": 231.66,
+      "text": "She knows which URLs is going to need local schema."
+    },
+    {
+      "start": 231.66,
+      "end": 233.54,
+      "text": "We'll have caught that with other audits."
+    },
+    {
+      "start": 233.54,
+      "end": 236.38,
+      "text": "So this isn't super important to catch in this one."
+    },
+    {
+      "start": 236.38,
+      "end": 238.86,
+      "text": "I agree it is critical, but it's so critical"
+    },
+    {
+      "start": 238.86,
+      "end": 240.66,
+      "text": "that we would find it otherwise."
+    },
+    {
+      "start": 240.66,
+      "end": 242.34,
+      "text": "No geographic keywords and title tags."
+    },
+    {
+      "start": 242.34,
+      "end": 245.38,
+      "text": "Again, we would find this through a lot of the other process."
+    },
+    {
+      "start": 245.38,
+      "end": 246.94,
+      "text": "Mobile paid speed failures."
+    },
+    {
+      "start": 246.94,
+      "end": 247.9,
+      "text": "This is a big one."
+    },
+    {
+      "start": 247.9,
+      "end": 252.26,
+      "text": "So I could ask Claude to separate the mobile page speed"
+    },
+    {
+      "start": 252.26,
+      "end": 255.58,
+      "text": "failures into a separate report, and I would just"
+    },
+    {
+      "start": 255.58,
+      "end": 259.1,
+      "text": "give that to the developer and say, please fix this."
+    },
+    {
+      "start": 259.1,
+      "end": 261.98,
+      "text": "And yeah, NAPA consistency signals."
+    },
+    {
+      "start": 261.98,
+      "end": 264.82,
+      "text": "Again, we'll do that in other audits"
+    },
+    {
+      "start": 264.82,
+      "end": 267.58,
+      "text": "that we do, thin content on service pages."
+    },
+    {
+      "start": 267.58,
+      "end": 268.38,
+      "text": "That's a problem."
+    },
+    {
+      "start": 268.38,
+      "end": 270.7,
+      "text": "30% of the pages with less than 300 words."
+    },
+    {
+      "start": 270.7,
+      "end": 273.06,
+      "text": "So that's definitely something that goes to my employee,"
+    },
+    {
+      "start": 273.06,
+      "end": 276.58,
+      "text": "where we're going to try to combine prune, merge,"
+    },
+    {
+      "start": 276.58,
+      "end": 280.74,
+      "text": "or just delete some of these thin content pages."
+    },
+    {
+      "start": 280.74,
+      "end": 283.3,
+      "text": "Obviously, the no dedicated location service area pages"
+    },
+    {
+      "start": 283.3,
+      "end": 286.46,
+      "text": "will find that in the content analysis gap, the Core 30."
+    },
+    {
+      "start": 286.46,
+      "end": 287.86,
+      "text": "Image optimization issues."
+    },
+    {
+      "start": 287.86,
+      "end": 289.26,
+      "text": "This is another one that we could just"
+    },
+    {
+      "start": 289.26,
+      "end": 291.54,
+      "text": "kick over to the developer to fix."
+    },
+    {
+      "start": 291.54,
+      "end": 294.1,
+      "text": "So basically, this report just gives you, hey,"
+    },
+    {
+      "start": 294.1,
+      "end": 296.74,
+      "text": "here are the issues that need to be fixed."
+    },
+    {
+      "start": 296.74,
+      "end": 299.9,
+      "text": "We'll hand them out to the right team members."
+    },
+    {
+      "start": 299.9,
+      "end": 302.06,
+      "text": "We have a local health score."
+    },
+    {
+      "start": 302.06,
+      "end": 306.5,
+      "text": "We can actually have Claude generate a PDF of this"
+    },
+    {
+      "start": 306.5,
+      "end": 308.62,
+      "text": "and give it directly to the end client."
+    },
+    {
+      "start": 308.66,
+      "end": 310.78,
+      "text": "And then once all the issues are fixed,"
+    },
+    {
+      "start": 310.78,
+      "end": 313.46,
+      "text": "we can run this again, generate another PDF"
+    },
+    {
+      "start": 313.46,
+      "end": 315.98,
+      "text": "where this local SEO health score is much higher,"
+    },
+    {
+      "start": 315.98,
+      "end": 317.5,
+      "text": "because a lot of the issues are fixed,"
+    },
+    {
+      "start": 317.5,
+      "end": 319.66,
+      "text": "and send that also to the client."
+    },
+    {
+      "start": 319.66,
+      "end": 323.34,
+      "text": "This will, of course, improve more than just the score."
+    },
+    {
+      "start": 323.34,
+      "end": 325.1,
+      "text": "A lot of these things are issues that"
+    },
+    {
+      "start": 325.1,
+      "end": 326.58,
+      "text": "need to be fixed if we want to rank"
+    },
+    {
+      "start": 326.58,
+      "end": 328.46,
+      "text": "in highly competitive spaces."
+    },
+    {
+      "start": 328.46,
+      "end": 331.82,
+      "text": "Notice this is a plastic surgeon in Houston."
+    },
+    {
+      "start": 331.82,
+      "end": 333.54,
+      "text": "Again, this type of technical audit"
+    },
+    {
+      "start": 333.54,
+      "end": 335.38,
+      "text": "is not something that we typically"
+    },
+    {
+      "start": 335.38,
+      "end": 337.38,
+      "text": "do for all of our clients."
+    },
+    {
+      "start": 337.38,
+      "end": 342.58,
+      "text": "This particular client has almost 1,000 URLs."
+    },
+    {
+      "start": 342.58,
+      "end": 343.7,
+      "text": "Actually, I take it back."
+    },
+    {
+      "start": 343.7,
+      "end": 345.38,
+      "text": "They have 1,400 URLs."
+    },
+    {
+      "start": 345.38,
+      "end": 348.38,
+      "text": "So this is a big website in a highly competitive space."
+    },
+    {
+      "start": 348.38,
+      "end": 350.7,
+      "text": "That's why we're doing this technical audit for them."
+    },
+    {
+      "start": 350.7,
+      "end": 352.26,
+      "text": "Not every client needs this."
+    },
+    {
+      "start": 352.26,
+      "end": 353.82,
+      "text": "Not every client gets this."
+    },
+    {
+      "start": 353.82,
+      "end": 355.86,
+      "text": "But I just wanted to show you guys"
+    },
+    {
+      "start": 355.86,
+      "end": 359.58,
+      "text": "how we do a technical audit with AI and Screaming Frog."
+    }
+  ],
+  "transcript_text": "So let's talk about a technical audit. Now, we're not going to do this for every single client. We only do this for the largest clients. And when I say largest clients, I mean the client with the largest websites. So we're going to use Screaming Frog. And you can see this one is licensed. And that's just because if the client is large enough, if their website is large enough to justify technical audit, they probably have more than 500 URLs. OK, so before we actually go through and do it, we're going to have to make sure that the page speed is set up with an API key. So to do that, under Configuration, come down to API Access and hit Page Speed Insights. And if you click on this link, it'll bring you somewhere where you can grab a free API key. And you just put it in here. Fairly simple to do. Then you'll put the home page here. You'll hit Start. It'll take quite a bit longer than normal because the API key with the page speed insights. And then we're going to grab a bunch of files. So I have the prompt here. So we're going to grab Internal All. So we're going to click Internal. And we're going to hit Export. And we'll Overwrite. And we're going to grab Page Titles. And we're going to grab Meta Descriptions. And we're going to grab Response Codes. And we're going to grab Images. There it is, Export Images. And after Images, we get Canonicals and Structured Data. So we'll grab Canonicals and Structured Data. And we'll go to Page Speed, Links, and Directives. So Page Speed. If you didn't have the API connected, this would basically be blank. So we'll export the Page Speed. We'll export all the links. And the last one was Directives. OK. So now we'll pull up Claude. We'll grab the prompt. And these are optional from the Search Console. You can add them or not add them. It's really the technical audit that we're after here. So we'll give it the prompt. So we give it the prompt. And then we give it all of these files for Screaming Frog. And then we're going to select Opus, which is going to do a much better job at this analysis. So I'll run it and pause the recording while it is doing the analysis. All right, so the analysis is done, took a few minutes. And basically, we have this executive summary that goes through the top issues for this particular website. Generally, what we would do from here is break this report into different sections, things that my employees need to handle, things that I can just give to the developer and have them handle it, and things like that. So for example, absence of local schema. I'm going to kick that over to my employee. She knows which URLs is going to need local schema. We'll have caught that with other audits. So this isn't super important to catch in this one. I agree it is critical, but it's so critical that we would find it otherwise. No geographic keywords and title tags. Again, we would find this through a lot of the other process. Mobile paid speed failures. This is a big one. So I could ask Claude to separate the mobile page speed failures into a separate report, and I would just give that to the developer and say, please fix this. And yeah, NAPA consistency signals. Again, we'll do that in other audits that we do, thin content on service pages. That's a problem. 30% of the pages with less than 300 words. So that's definitely something that goes to my employee, where we're going to try to combine prune, merge, or just delete some of these thin content pages. Obviously, the no dedicated location service area pages will find that in the content analysis gap, the Core 30. Image optimization issues. This is another one that we could just kick over to the developer to fix. So basically, this report just gives you, hey, here are the issues that need to be fixed. We'll hand them out to the right team members. We have a local health score. We can actually have Claude generate a PDF of this and give it directly to the end client. And then once all the issues are fixed, we can run this again, generate another PDF where this local SEO health score is much higher, because a lot of the issues are fixed, and send that also to the client. This will, of course, improve more than just the score. A lot of these things are issues that need to be fixed if we want to rank in highly competitive spaces. Notice this is a plastic surgeon in Houston. Again, this type of technical audit is not something that we typically do for all of our clients. This particular client has almost 1,000 URLs. Actually, I take it back. They have 1,400 URLs. So this is a big website in a highly competitive space. That's why we're doing this technical audit for them. Not every client needs this. Not every client gets this. But I just wanted to show you guys how we do a technical audit with AI and Screaming Frog.",
   "summary": "",
   "key_points": [],
   "tags": []

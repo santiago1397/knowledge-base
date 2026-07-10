@@ -1,0 +1,476 @@
+{
+  "course": "ai-seo-mastery-pro",
+  "code": "67c469bd",
+  "title": "Identify Content with Existing Authority",
+  "duration": "7m59s",
+  "source_url": "https://www.skool.com/ai-seo-mastery-pro/classroom/63a81f62?md=67c469bde9304d10ab8931524a173232",
+  "video_url": "https://player.vimeo.com/video/1094188111",
+  "video_file": "67c469bd_identify-content-with-existing-authority [1094188111].mp4",
+  "content_md": "# Identify Content with Existing Authority\n\n- Code: 67c469bd\n- Source: https://www.skool.com/ai-seo-mastery-pro/classroom/63a81f62?md=67c469bde9304d10ab8931524a173232\n- Video: https://vimeo.com/1094188111?share=copy\n- Duration: 7m 59s\n- Resources:\n  - [AI Prompt for Authority Content](None)\n  - [ScreamingFrog SEO Spider [Tool]](https://www.screamingfrog.co.uk/seo-spider/)\n  - [[Prerequisite Lesson] CTR Analysis](https://www.skool.com/ai-seo-mastery-pro/classroom/63a81f62?md=be54d5488bee48c59022f84a0caab827)\n\n## Description\n\n_(no description)_\n",
+  "transcript": [
+    {
+      "start": 0.0,
+      "end": 5.28,
+      "text": "Our goal is to get ChatGPT to suggest additional content that we already have a topical authority on."
+    },
+    {
+      "start": 5.28,
+      "end": 9.2,
+      "text": "The reason for that is if we already have authority on a specific topic,"
+    },
+    {
+      "start": 9.2,
+      "end": 14.64,
+      "text": "and then we write more content about that topic, that new content is likely to rank very,"
+    },
+    {
+      "start": 14.64,
+      "end": 20.08,
+      "text": "very quickly, even without needing to wait for it to age or source additional backlinks."
+    },
+    {
+      "start": 20.08,
+      "end": 24.8,
+      "text": "Google already recognizes this domain as a topical authority,"
+    },
+    {
+      "start": 24.8,
+      "end": 28.24,
+      "text": "so when we publish additional content in that same space, it ranks."
+    },
+    {
+      "start": 29.2,
+      "end": 34.8,
+      "text": "So I'm going to go ahead and close this and upload it,"
+    },
+    {
+      "start": 36.56,
+      "end": 41.92,
+      "text": "and then give it this prompt. And the prompt is basically, hey, I'm giving you this data on all"
+    },
+    {
+      "start": 41.92,
+      "end": 47.44,
+      "text": "of these URLs, title tags, meta descriptions that I already have. Using that information,"
+    },
+    {
+      "start": 47.44,
+      "end": 54.96,
+      "text": "give me some ideas that I don't have content for. And here we go. It generates a whole bunch."
+    },
+    {
+      "start": 55.04,
+      "end": 58.72,
+      "text": "I asked it for 15. You can change it. You can increase it if you want to."
+    },
+    {
+      "start": 59.44,
+      "end": 65.52,
+      "text": "But now we have a whole set of topics that we can write about that are going to be reasonably"
+    },
+    {
+      "start": 65.52,
+      "end": 69.92,
+      "text": "relevant to the content we already have on the domain. That will both help the domain"
+    },
+    {
+      "start": 69.92,
+      "end": 76.32,
+      "text": "improve its topical relevance, and it will make these articles very likely to rank quickly."
+    },
+    {
+      "start": 76.88,
+      "end": 82.64,
+      "text": "All right, so here what we're going to talk about is getting some quick wins for a new SEO client,"
+    },
+    {
+      "start": 82.64,
+      "end": 88.64,
+      "text": "finding and ranking low-hanging fruit. So what we mean when we say this is what we're trying to do"
+    },
+    {
+      "start": 88.64,
+      "end": 94.24,
+      "text": "is find pages on a client's website or on your website that's on the second, third, fourth page"
+    },
+    {
+      "start": 94.24,
+      "end": 99.28,
+      "text": "and push those up to the first page. One of my favorite jokes in SEO, the only joke I know,"
+    },
+    {
+      "start": 99.28,
+      "end": 103.68,
+      "text": "is right, where's the best place to hide a dead body? The second page of Google search."
+    },
+    {
+      "start": 103.68,
+      "end": 108.72,
+      "text": "So the reason we do this is if a page is on the second page of search results,"
+    },
+    {
+      "start": 108.72,
+      "end": 113.36,
+      "text": "then we know Google trusts that page. We know Google is showing it to some searchers,"
+    },
+    {
+      "start": 113.36,
+      "end": 118.56,
+      "text": "and all we need to do is push it up a couple of spots onto the first page,"
+    },
+    {
+      "start": 118.56,
+      "end": 123.28,
+      "text": "and we're going to 10x the traffic. And when we can do this in the first month or two of a new"
+    },
+    {
+      "start": 123.28,
+      "end": 127.84,
+      "text": "engagement, the clients are happy. They are much more likely to stay around long term."
+    },
+    {
+      "start": 127.84,
+      "end": 133.76,
+      "text": "This is just a core part of our process is this content audit, which is what we call it."
+    },
+    {
+      "start": 134.48,
+      "end": 140.8,
+      "text": "So as I mentioned, find URLs on your client's domain that are on the second,"
+    },
+    {
+      "start": 140.8,
+      "end": 144.32,
+      "text": "third or fourth page for reasonably high volume keywords, and of course,"
+    },
+    {
+      "start": 144.32,
+      "end": 149.76,
+      "text": "high volume relative to your client's current traffic. And then we're going to take that content,"
+    },
+    {
+      "start": 149.76,
+      "end": 153.04,
+      "text": "we're going to improve the quality, we're going to improve the keyword optimization,"
+    },
+    {
+      "start": 153.04,
+      "end": 156.88,
+      "text": "and we're going to improve the topical relevance. Then we're going to source external links to it,"
+    },
+    {
+      "start": 156.88,
+      "end": 162.56,
+      "text": "and often if we choose a good target, this is going to be enough to push it onto the first page"
+    },
+    {
+      "start": 162.56,
+      "end": 168.0,
+      "text": "within a handful of weeks. Like I said, going from the second page to the first page is 10xing"
+    },
+    {
+      "start": 168.0,
+      "end": 173.2,
+      "text": "the traffic. So let's talk about improving the existing content. This little bubble is all over"
+    },
+    {
+      "start": 173.2,
+      "end": 178.32,
+      "text": "the place. Okay, so first thing, we're going to try to find those URLs where we're on the second,"
+    },
+    {
+      "start": 178.32,
+      "end": 183.04,
+      "text": "third or fourth page, then we're going to edit that content so that it is more closely aligned"
+    },
+    {
+      "start": 183.04,
+      "end": 187.52,
+      "text": "to what Google's algorithm wants to see. So we're going to do that with two main tools."
+    },
+    {
+      "start": 187.52,
+      "end": 193.04,
+      "text": "Chat GPT is going to let us expand the content that is make it longer. And we're going to add"
+    },
+    {
+      "start": 193.04,
+      "end": 197.76,
+      "text": "topical relevance, we're also going to add some exact match keywords that they're already ranking"
+    },
+    {
+      "start": 197.76,
+      "end": 202.72,
+      "text": "for. And then we're going to use page optimizer pro to improve the keyword use optimization,"
+    },
+    {
+      "start": 202.72,
+      "end": 209.12,
+      "text": "two steps relatively quick, relatively easy to do. And again, we want to 10 extra traffic from"
+    },
+    {
+      "start": 209.12,
+      "end": 216.32,
+      "text": "these specific queries. So on top of that, it's very important that the content meets"
+    },
+    {
+      "start": 216.32,
+      "end": 220.56,
+      "text": "searcher's needs for the target keyword. So what we have to do is we have to look at the"
+    },
+    {
+      "start": 220.56,
+      "end": 226.08,
+      "text": "pages that are currently ranking in a top three, top four positions, and make sure that our content"
+    },
+    {
+      "start": 226.08,
+      "end": 231.6,
+      "text": "meets the same searchers needs. Otherwise, we're going to do all this work to push your URLs onto"
+    },
+    {
+      "start": 231.6,
+      "end": 234.96,
+      "text": "the first page of results. And then they're immediately going to drop off because Google is"
+    },
+    {
+      "start": 234.96,
+      "end": 239.28,
+      "text": "going to see terrible user engagement. So we need to maintain user engagement while we're doing this"
+    },
+    {
+      "start": 239.28,
+      "end": 243.92,
+      "text": "also. And then of course, we're always going to use external links. So we edit the content,"
+    },
+    {
+      "start": 243.92,
+      "end": 249.28,
+      "text": "we optimize the content. And then we're going to source one, maybe two quality external links"
+    },
+    {
+      "start": 249.28,
+      "end": 254.08,
+      "text": "that's assigned for Google to go ahead and re crawl that content. We don't want to manually"
+    },
+    {
+      "start": 254.08,
+      "end": 258.72,
+      "text": "request a re crawl from the Google search console. I know we can do that. But generally,"
+    },
+    {
+      "start": 258.72,
+      "end": 264.4,
+      "text": "we try to avoid doing things that only an SEO would do. And only an SEO would manually ask"
+    },
+    {
+      "start": 264.4,
+      "end": 268.96,
+      "text": "for a URL to be recalled. So let me show you real quick, I'm going to focus on,"
+    },
+    {
+      "start": 269.12,
+      "end": 273.92,
+      "text": "um, I'm going to pull up a h refs. I said this is the tool we use. I'm going to resize it a"
+    },
+    {
+      "start": 273.92,
+      "end": 279.12,
+      "text": "little bit so you can see what I'm doing on it. And I'm going to show you how we do this quick"
+    },
+    {
+      "start": 279.12,
+      "end": 285.04,
+      "text": "content audit, how we find pages that are close to ranking and move this over here."
+    },
+    {
+      "start": 286.0,
+      "end": 291.2,
+      "text": "And this is something that we very often will do as part of an undercover lead magnet or something"
+    },
+    {
+      "start": 291.2,
+      "end": 295.68,
+      "text": "like that, because this is just so fast. I'm going to do on Skillshare.com. So we're going to come"
+    },
+    {
+      "start": 295.68,
+      "end": 302.4,
+      "text": "over to not keywords Explorer. We're going to come over to top keywords, organic keywords."
+    },
+    {
+      "start": 303.76,
+      "end": 308.88,
+      "text": "And then we're going to sort by positions. We want to see 11 through 30. So that's going to"
+    },
+    {
+      "start": 308.88,
+      "end": 314.0,
+      "text": "show us keywords on the second, third and fourth page. And then we're going to show results."
+    },
+    {
+      "start": 315.36,
+      "end": 319.76,
+      "text": "And now we're going to start by volume. So what we can see here, right? For example,"
+    },
+    {
+      "start": 319.76,
+      "end": 327.44,
+      "text": "we have the word drawing and we're in position 26 and it's a night, uh, 575,000 search volume."
+    },
+    {
+      "start": 327.44,
+      "end": 332.08,
+      "text": "And Skillshare, if you don't know, it's a platform or user generated content teaches,"
+    },
+    {
+      "start": 332.88,
+      "end": 337.44,
+      "text": "teaches things. So drawing is interesting. They actually have a whole browse category for drawing"
+    },
+    {
+      "start": 337.44,
+      "end": 343.52,
+      "text": "and they're on position 26, which is pretty high. So I might grab this drawing keyword,"
+    },
+    {
+      "start": 343.52,
+      "end": 349.2,
+      "text": "grab this URL, focus on improving this one because the difficulty is so high. This might be a little"
+    },
+    {
+      "start": 349.2,
+      "end": 353.6,
+      "text": "bit more challenging, but I still think this is worth going after because of the volume."
+    },
+    {
+      "start": 353.6,
+      "end": 358.56,
+      "text": "We also have Etsy shop. That could be very interesting. This is showing us a specific class"
+    },
+    {
+      "start": 359.6,
+      "end": 363.68,
+      "text": "about growing an Etsy shop. And remember, right? Skillshare has a domain rating of,"
+    },
+    {
+      "start": 363.68,
+      "end": 366.88,
+      "text": "I can't remember what it was, 87 or something. So a lot of these keywords,"
+    },
+    {
+      "start": 366.88,
+      "end": 372.64,
+      "text": "we actually have a shot to hit things to draw is interesting. We got a keyword difficulty of 15."
+    },
+    {
+      "start": 372.64,
+      "end": 376.56,
+      "text": "So my point is what we're going to do is we're going to make note of these target keywords."
+    },
+    {
+      "start": 376.56,
+      "end": 381.2,
+      "text": "We're going to grab these URLs and we're just going to assemble all of that so that for the"
+    },
+    {
+      "start": 381.2,
+      "end": 385.92,
+      "text": "next step in this process, when we actually go through and improve the content, we have some"
+    },
+    {
+      "start": 385.92,
+      "end": 390.56,
+      "text": "key targets. The other thing I really like about some of these pages, something to keep in mind"
+    },
+    {
+      "start": 390.56,
+      "end": 394.48,
+      "text": "is how much traffic they're currently getting because depending on what keywords they're currently"
+    },
+    {
+      "start": 394.48,
+      "end": 399.68,
+      "text": "ranking for, if we reoptimize them for a different keyword, we might actually lose that traffic."
+    },
+    {
+      "start": 399.68,
+      "end": 405.84,
+      "text": "So drawing here, we're only getting four, no real risk of traffic loss, but things to draw,"
+    },
+    {
+      "start": 405.84,
+      "end": 411.44,
+      "text": "they're already getting over a thousand hits. So they're getting traffic from something. So"
+    },
+    {
+      "start": 411.44,
+      "end": 415.44,
+      "text": "I'd probably want to see what they're getting traffic from to see if it's worth reoptimizing"
+    },
+    {
+      "start": 415.44,
+      "end": 421.2,
+      "text": "this for a different keyword. And if we keep coming down, here we go position 11, but just for"
+    },
+    {
+      "start": 421.2,
+      "end": 427.52,
+      "text": "genre photography. And again, this is browsing classes. So position 12 for photography, I mean,"
+    },
+    {
+      "start": 427.52,
+      "end": 431.44,
+      "text": "and they're basically getting no traffic at all. So that's another very interesting one that we"
+    },
+    {
+      "start": 431.44,
+      "end": 438.24,
+      "text": "could potentially go after. So this is the process and assembling target keyword and target URL,"
+    },
+    {
+      "start": 438.24,
+      "end": 441.84,
+      "text": "that's something that you can do in just a couple of minutes and send it over to the client as part"
+    },
+    {
+      "start": 441.84,
+      "end": 445.92,
+      "text": "of a lead magnet to show, Hey, here's the keywords are going to go after here's the URLs are going"
+    },
+    {
+      "start": 445.92,
+      "end": 451.68,
+      "text": "to optimize and look at what the potential is, right? Etsy shop, they're getting no traffic from"
+    },
+    {
+      "start": 451.68,
+      "end": 458.0,
+      "text": "it. But if they're on like position 10 or 11 or position 10 or nine, which is really improving"
+    },
+    {
+      "start": 458.0,
+      "end": 464.48,
+      "text": "them 10 or 11 positions, then, you know, the traffic goes from zero to 2000, 3000, even on"
+    },
+    {
+      "start": 464.48,
+      "end": 469.84,
+      "text": "position 10. And assuming that the landing page is well built, this class is well built,"
+    },
+    {
+      "start": 469.84,
+      "end": 475.04,
+      "text": "and user engagement metrics are good, we can expect to see this continuing to climb,"
+    },
+    {
+      "start": 475.04,
+      "end": 479.52,
+      "text": "continuing to climb. So that's the process behind identifying low hanging fruit."
+    }
+  ],
+  "transcript_text": "Our goal is to get ChatGPT to suggest additional content that we already have a topical authority on. The reason for that is if we already have authority on a specific topic, and then we write more content about that topic, that new content is likely to rank very, very quickly, even without needing to wait for it to age or source additional backlinks. Google already recognizes this domain as a topical authority, so when we publish additional content in that same space, it ranks. So I'm going to go ahead and close this and upload it, and then give it this prompt. And the prompt is basically, hey, I'm giving you this data on all of these URLs, title tags, meta descriptions that I already have. Using that information, give me some ideas that I don't have content for. And here we go. It generates a whole bunch. I asked it for 15. You can change it. You can increase it if you want to. But now we have a whole set of topics that we can write about that are going to be reasonably relevant to the content we already have on the domain. That will both help the domain improve its topical relevance, and it will make these articles very likely to rank quickly. All right, so here what we're going to talk about is getting some quick wins for a new SEO client, finding and ranking low-hanging fruit. So what we mean when we say this is what we're trying to do is find pages on a client's website or on your website that's on the second, third, fourth page and push those up to the first page. One of my favorite jokes in SEO, the only joke I know, is right, where's the best place to hide a dead body? The second page of Google search. So the reason we do this is if a page is on the second page of search results, then we know Google trusts that page. We know Google is showing it to some searchers, and all we need to do is push it up a couple of spots onto the first page, and we're going to 10x the traffic. And when we can do this in the first month or two of a new engagement, the clients are happy. They are much more likely to stay around long term. This is just a core part of our process is this content audit, which is what we call it. So as I mentioned, find URLs on your client's domain that are on the second, third or fourth page for reasonably high volume keywords, and of course, high volume relative to your client's current traffic. And then we're going to take that content, we're going to improve the quality, we're going to improve the keyword optimization, and we're going to improve the topical relevance. Then we're going to source external links to it, and often if we choose a good target, this is going to be enough to push it onto the first page within a handful of weeks. Like I said, going from the second page to the first page is 10xing the traffic. So let's talk about improving the existing content. This little bubble is all over the place. Okay, so first thing, we're going to try to find those URLs where we're on the second, third or fourth page, then we're going to edit that content so that it is more closely aligned to what Google's algorithm wants to see. So we're going to do that with two main tools. Chat GPT is going to let us expand the content that is make it longer. And we're going to add topical relevance, we're also going to add some exact match keywords that they're already ranking for. And then we're going to use page optimizer pro to improve the keyword use optimization, two steps relatively quick, relatively easy to do. And again, we want to 10 extra traffic from these specific queries. So on top of that, it's very important that the content meets searcher's needs for the target keyword. So what we have to do is we have to look at the pages that are currently ranking in a top three, top four positions, and make sure that our content meets the same searchers needs. Otherwise, we're going to do all this work to push your URLs onto the first page of results. And then they're immediately going to drop off because Google is going to see terrible user engagement. So we need to maintain user engagement while we're doing this also. And then of course, we're always going to use external links. So we edit the content, we optimize the content. And then we're going to source one, maybe two quality external links that's assigned for Google to go ahead and re crawl that content. We don't want to manually request a re crawl from the Google search console. I know we can do that. But generally, we try to avoid doing things that only an SEO would do. And only an SEO would manually ask for a URL to be recalled. So let me show you real quick, I'm going to focus on, um, I'm going to pull up a h refs. I said this is the tool we use. I'm going to resize it a little bit so you can see what I'm doing on it. And I'm going to show you how we do this quick content audit, how we find pages that are close to ranking and move this over here. And this is something that we very often will do as part of an undercover lead magnet or something like that, because this is just so fast. I'm going to do on Skillshare.com. So we're going to come over to not keywords Explorer. We're going to come over to top keywords, organic keywords. And then we're going to sort by positions. We want to see 11 through 30. So that's going to show us keywords on the second, third and fourth page. And then we're going to show results. And now we're going to start by volume. So what we can see here, right? For example, we have the word drawing and we're in position 26 and it's a night, uh, 575,000 search volume. And Skillshare, if you don't know, it's a platform or user generated content teaches, teaches things. So drawing is interesting. They actually have a whole browse category for drawing and they're on position 26, which is pretty high. So I might grab this drawing keyword, grab this URL, focus on improving this one because the difficulty is so high. This might be a little bit more challenging, but I still think this is worth going after because of the volume. We also have Etsy shop. That could be very interesting. This is showing us a specific class about growing an Etsy shop. And remember, right? Skillshare has a domain rating of, I can't remember what it was, 87 or something. So a lot of these keywords, we actually have a shot to hit things to draw is interesting. We got a keyword difficulty of 15. So my point is what we're going to do is we're going to make note of these target keywords. We're going to grab these URLs and we're just going to assemble all of that so that for the next step in this process, when we actually go through and improve the content, we have some key targets. The other thing I really like about some of these pages, something to keep in mind is how much traffic they're currently getting because depending on what keywords they're currently ranking for, if we reoptimize them for a different keyword, we might actually lose that traffic. So drawing here, we're only getting four, no real risk of traffic loss, but things to draw, they're already getting over a thousand hits. So they're getting traffic from something. So I'd probably want to see what they're getting traffic from to see if it's worth reoptimizing this for a different keyword. And if we keep coming down, here we go position 11, but just for genre photography. And again, this is browsing classes. So position 12 for photography, I mean, and they're basically getting no traffic at all. So that's another very interesting one that we could potentially go after. So this is the process and assembling target keyword and target URL, that's something that you can do in just a couple of minutes and send it over to the client as part of a lead magnet to show, Hey, here's the keywords are going to go after here's the URLs are going to optimize and look at what the potential is, right? Etsy shop, they're getting no traffic from it. But if they're on like position 10 or 11 or position 10 or nine, which is really improving them 10 or 11 positions, then, you know, the traffic goes from zero to 2000, 3000, even on position 10. And assuming that the landing page is well built, this class is well built, and user engagement metrics are good, we can expect to see this continuing to climb, continuing to climb. So that's the process behind identifying low hanging fruit.",
+  "summary": "",
+  "key_points": [],
+  "tags": []
+}

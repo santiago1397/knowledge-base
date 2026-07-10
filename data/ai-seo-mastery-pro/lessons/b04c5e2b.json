@@ -7,8 +7,279 @@
   "video_url": "https://www.loom.com/share/7a0cbd8ab9b840f0988a85f462ee43d2?hide_owner=true&hide_share=true&hide_title=true&hideEmbedTopBar=true",
   "video_file": "b04c5e2b_using-custom-projects-in-claude [7a0cbd8ab9b840f0988a85f462ee43d2].mp4",
   "content_md": "# Using Custom Projects in Claude\n\n- Code: b04c5e2b\n- Source: https://www.skool.com/ai-seo-mastery-pro/classroom/63a81f62?md=b04c5e2b462e47e69d811e3c131d0917\n- Video: https://www.loom.com/share/7a0cbd8ab9b840f0988a85f462ee43d2?hide_owner=true&hide_share=true&hide_title=true&hideEmbedTopBar=true\n- Duration: 4m 17s\n\n## Description\n\n_(no description)_\n",
-  "transcript": [],
-  "transcript_text": "",
+  "transcript": [
+    {
+      "start": 0.27,
+      "end": 5.99,
+      "text": "So I'm going to show you how to create a custom project with Claude that will make it much easier and faster"
+    },
+    {
+      "start": 6.35,
+      "end": 11.27,
+      "text": "For you to use Claude for a lot of the AI asks now in the past"
+    },
+    {
+      "start": 11.27,
+      "end": 15.77,
+      "text": "I haven't recommended using the GPT's the custom GPT's for chat GPT"
+    },
+    {
+      "start": 15.77,
+      "end": 21.35,
+      "text": "And that's because I found them not super effective chat GPT often would do things outside of the"
+    },
+    {
+      "start": 21.99,
+      "end": 27.83,
+      "text": "Specific directions in the GPT, but I found that Claude is much better at following these project instructions"
+    },
+    {
+      "start": 27.83,
+      "end": 30.53,
+      "text": "so we're going to go to Claude and we're going to go to projects and"
+    },
+    {
+      "start": 31.19,
+      "end": 35.07,
+      "text": "We're going to create a new project and I'm going to call this one"
+    },
+    {
+      "start": 35.99,
+      "end": 37.15,
+      "text": "summarize"
+    },
+    {
+      "start": 37.15,
+      "end": 39.15,
+      "text": "weekly zoom"
+    },
+    {
+      "start": 39.47,
+      "end": 41.47,
+      "text": "transcript for"
+    },
+    {
+      "start": 41.63,
+      "end": 43.63,
+      "text": "community I"
+    },
+    {
+      "start": 43.75,
+      "end": 45.75,
+      "text": "want to give you a"
+    },
+    {
+      "start": 46.79,
+      "end": 54.71,
+      "text": "transcript for a weekly zoom call and ask you to pull out the most important parts for"
+    },
+    {
+      "start": 54.75,
+      "end": 58.63,
+      "text": "For the community to see so that's it"
+    },
+    {
+      "start": 58.63,
+      "end": 61.23,
+      "text": "That's all I want and this is for the weekly zoom huddles"
+    },
+    {
+      "start": 61.23,
+      "end": 64.35,
+      "text": "Of course, you could also do this for writing content"
+    },
+    {
+      "start": 64.35,
+      "end": 68.83,
+      "text": "You could do this for keyword research any time where you have the same prompt using over and over again"
+    },
+    {
+      "start": 68.83,
+      "end": 73.43,
+      "text": "I really like these personal projects and let me give you an example, right?"
+    },
+    {
+      "start": 73.43,
+      "end": 76.77,
+      "text": "So if I did set custom instructions, this is how strong so I could say"
+    },
+    {
+      "start": 77.39,
+      "end": 79.39,
+      "text": "respond in"
+    },
+    {
+      "start": 79.59,
+      "end": 81.71,
+      "text": "Three words all the time"
+    },
+    {
+      "start": 81.83,
+      "end": 86.19,
+      "text": "No matter what the prompt is"
+    },
+    {
+      "start": 86.83,
+      "end": 89.23,
+      "text": "Okay, so that's the custom instruction. I've given it and then"
+    },
+    {
+      "start": 90.47,
+      "end": 95.07,
+      "text": "Then I could how can I use you for a I SEO?"
+    },
+    {
+      "start": 98.52,
+      "end": 105.16,
+      "text": "Three words. Okay, so this is something that chat GPT would not be able to do. Okay, so I just want to give you that quick example"
+    },
+    {
+      "start": 106.4,
+      "end": 107.6,
+      "text": "So"
+    },
+    {
+      "start": 107.6,
+      "end": 112.08,
+      "text": "And what I want is custom instructions now the best way to develop these is going to be"
+    },
+    {
+      "start": 112.52,
+      "end": 118.08,
+      "text": "Not on Claude on a Google Doc or Microsoft Word or something like that because this is so small"
+    },
+    {
+      "start": 118.56,
+      "end": 121.4,
+      "text": "so I'm gonna go ahead and grab the prompt that I've already written and"
+    },
+    {
+      "start": 121.68,
+      "end": 127.16,
+      "text": "I'm going to put it in the format of it in the lesson here so you can edit this for your own"
+    },
+    {
+      "start": 127.76,
+      "end": 131.2,
+      "text": "so I'll paste it in and"
+    },
+    {
+      "start": 131.92,
+      "end": 135.48,
+      "text": "Save instructions and now I should be able to just grab"
+    },
+    {
+      "start": 137.16,
+      "end": 141.48,
+      "text": "The transcript from Vimeo and out load it directly"
+    },
+    {
+      "start": 142.16,
+      "end": 143.16,
+      "text": "Before I do that"
+    },
+    {
+      "start": 143.16,
+      "end": 147.2,
+      "text": "It's important that you can add content here and you can upload files"
+    },
+    {
+      "start": 147.2,
+      "end": 154.76,
+      "text": "You can add text and you can give Claude much more internal information that it will focus on and only use for this project"
+    },
+    {
+      "start": 154.8,
+      "end": 160.72,
+      "text": "so for example if you had a if you were doing a content generation project and you had a list of words that you"
+    },
+    {
+      "start": 160.72,
+      "end": 166.32,
+      "text": "Didn't want Claude to use you could simply add text and you could simply add the text and"
+    },
+    {
+      "start": 166.88,
+      "end": 168.28,
+      "text": "words"
+    },
+    {
+      "start": 168.64,
+      "end": 172.96,
+      "text": "To not use and then I would paste in all the words. I didn't want Claude to use"
+    },
+    {
+      "start": 173.44,
+      "end": 177.0,
+      "text": "And then it would obey that when it is in this project"
+    },
+    {
+      "start": 177.2,
+      "end": 181.52,
+      "text": "This is an incredible way to quickly automate a lot of the tasks with Claude"
+    },
+    {
+      "start": 182.04,
+      "end": 186.2,
+      "text": "Instead of keeping all the prompts somewhere else and copy pasting them in all the time"
+    },
+    {
+      "start": 186.44,
+      "end": 192.19,
+      "text": "All right, so here are the auto-generated captions from Vimeo and"
+    },
+    {
+      "start": 193.15,
+      "end": 198.27,
+      "text": "I'll just enter I don't even need any text because Claude is using the custom instructions. I gave it"
+    },
+    {
+      "start": 198.63,
+      "end": 205.01,
+      "text": "So just to remind you this is the format"
+    },
+    {
+      "start": 205.01,
+      "end": 211.33,
+      "text": "I asked it to take executive summary key takeaways main discussion points notable Q&A emerging trends tools and resources mentioned and"
+    },
+    {
+      "start": 212.01,
+      "end": 218.61,
+      "text": "Here is the output. We have executive summary key takeaways main discussion points. Let me move my face"
+    },
+    {
+      "start": 219.25,
+      "end": 226.65,
+      "text": "Notable Q&A's emerging trends and challenges tools and resources mentioned so very effective very cool"
+    },
+    {
+      "start": 226.65,
+      "end": 231.69,
+      "text": "And now when I summarize this transcript every week, I just have to drop the"
+    },
+    {
+      "start": 233.45,
+      "end": 235.45,
+      "text": "auto-generated Vimeo captions in and"
+    },
+    {
+      "start": 235.81,
+      "end": 243.05,
+      "text": "Hit enter and we'll automatically do it highly highly recommend that you create a quick Claude project for any"
+    },
+    {
+      "start": 243.33,
+      "end": 250.21,
+      "text": "Tasks like that and the big ones that I see are of course keyword research any sort of frequent data analysis that you're doing"
+    },
+    {
+      "start": 250.53,
+      "end": 257.03,
+      "text": "With Google search console data the undercover lead magnets that you're generating and of course content production"
+    }
+  ],
+  "transcript_text": "So I'm going to show you how to create a custom project with Claude that will make it much easier and faster For you to use Claude for a lot of the AI asks now in the past I haven't recommended using the GPT's the custom GPT's for chat GPT And that's because I found them not super effective chat GPT often would do things outside of the Specific directions in the GPT, but I found that Claude is much better at following these project instructions so we're going to go to Claude and we're going to go to projects and We're going to create a new project and I'm going to call this one summarize weekly zoom transcript for community I want to give you a transcript for a weekly zoom call and ask you to pull out the most important parts for For the community to see so that's it That's all I want and this is for the weekly zoom huddles Of course, you could also do this for writing content You could do this for keyword research any time where you have the same prompt using over and over again I really like these personal projects and let me give you an example, right? So if I did set custom instructions, this is how strong so I could say respond in Three words all the time No matter what the prompt is Okay, so that's the custom instruction. I've given it and then Then I could how can I use you for a I SEO? Three words. Okay, so this is something that chat GPT would not be able to do. Okay, so I just want to give you that quick example So And what I want is custom instructions now the best way to develop these is going to be Not on Claude on a Google Doc or Microsoft Word or something like that because this is so small so I'm gonna go ahead and grab the prompt that I've already written and I'm going to put it in the format of it in the lesson here so you can edit this for your own so I'll paste it in and Save instructions and now I should be able to just grab The transcript from Vimeo and out load it directly Before I do that It's important that you can add content here and you can upload files You can add text and you can give Claude much more internal information that it will focus on and only use for this project so for example if you had a if you were doing a content generation project and you had a list of words that you Didn't want Claude to use you could simply add text and you could simply add the text and words To not use and then I would paste in all the words. I didn't want Claude to use And then it would obey that when it is in this project This is an incredible way to quickly automate a lot of the tasks with Claude Instead of keeping all the prompts somewhere else and copy pasting them in all the time All right, so here are the auto-generated captions from Vimeo and I'll just enter I don't even need any text because Claude is using the custom instructions. I gave it So just to remind you this is the format I asked it to take executive summary key takeaways main discussion points notable Q&A emerging trends tools and resources mentioned and Here is the output. We have executive summary key takeaways main discussion points. Let me move my face Notable Q&A's emerging trends and challenges tools and resources mentioned so very effective very cool And now when I summarize this transcript every week, I just have to drop the auto-generated Vimeo captions in and Hit enter and we'll automatically do it highly highly recommend that you create a quick Claude project for any Tasks like that and the big ones that I see are of course keyword research any sort of frequent data analysis that you're doing With Google search console data the undercover lead magnets that you're generating and of course content production",
   "summary": "",
   "key_points": [],
   "tags": []

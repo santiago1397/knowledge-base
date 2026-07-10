@@ -7,8 +7,1074 @@
   "video_url": "https://www.loom.com/share/b4bc7145e71544688a3f24cb6802c100?hide_owner=true&hide_share=true&hide_title=true&hideEmbedTopBar=true",
   "video_file": "a894c4fe_gbp-landing-page-audit [b4bc7145e71544688a3f24cb6802c100].mp4",
   "content_md": "# GBP Landing Page Audit\n\n- Code: a894c4fe\n- Source: https://www.skool.com/ai-seo-mastery-pro/classroom/63a81f62?md=a894c4fe833145579a58123d792cdd75\n- Video: https://www.loom.com/share/b4bc7145e71544688a3f24cb6802c100?hide_owner=true&hide_share=true&hide_title=true&hideEmbedTopBar=true\n- Duration: 8m 30s\n\n## Description\n\n_(no description)_\n",
-  "transcript": [],
-  "transcript_text": "",
+  "transcript": [
+    {
+      "start": 0.0,
+      "end": 3.6,
+      "text": "Now we're going to do an audit for the GVP landing page."
+    },
+    {
+      "start": 3.6,
+      "end": 5.6,
+      "text": "A couple of things to note here,"
+    },
+    {
+      "start": 5.6,
+      "end": 9.0,
+      "text": "we don't like making huge changes to the GVP landing page."
+    },
+    {
+      "start": 9.0,
+      "end": 11.92,
+      "text": "So you'll notice that I don't have a specific prompt"
+    },
+    {
+      "start": 11.92,
+      "end": 14.2,
+      "text": "to rewrite a GVP landing page"
+    },
+    {
+      "start": 14.2,
+      "end": 16.28,
+      "text": "in the copywriting instructions."
+    },
+    {
+      "start": 16.28,
+      "end": 19.8,
+      "text": "The reason for that is because we don't rewrite"
+    },
+    {
+      "start": 19.8,
+      "end": 22.32,
+      "text": "GVP landing pages with one prompt, okay?"
+    },
+    {
+      "start": 22.32,
+      "end": 23.4,
+      "text": "That's not how we do it."
+    },
+    {
+      "start": 23.4,
+      "end": 25.56,
+      "text": "So let me go through the GVP landing page"
+    },
+    {
+      "start": 25.56,
+      "end": 27.2,
+      "text": "for right-way driving school"
+    },
+    {
+      "start": 27.2,
+      "end": 29.48,
+      "text": "and talk about what we actually do."
+    },
+    {
+      "start": 29.48,
+      "end": 32.52,
+      "text": "So I'm going to open up just a blank Word doc."
+    },
+    {
+      "start": 34.88,
+      "end": 36.08,
+      "text": "I guess you won't be able to see it"
+    },
+    {
+      "start": 36.08,
+      "end": 38.76,
+      "text": "because I'm recording this, but that's fine."
+    },
+    {
+      "start": 38.76,
+      "end": 42.68,
+      "text": "So I'll just do this new blank doc."
+    },
+    {
+      "start": 42.68,
+      "end": 45.76,
+      "text": "Okay, I will put this document in the links"
+    },
+    {
+      "start": 45.76,
+      "end": 48.48,
+      "text": "so then you can see what I came up with at the end."
+    },
+    {
+      "start": 48.48,
+      "end": 50.84,
+      "text": "So we're going to go through, we're going to go,"
+    },
+    {
+      "start": 50.84,
+      "end": 52.84,
+      "text": "and again, this is the same GVP review doc"
+    },
+    {
+      "start": 52.84,
+      "end": 53.68,
+      "text": "that we had before."
+    },
+    {
+      "start": 53.68,
+      "end": 56.44,
+      "text": "Now I'm just using it for the onsite GVP on top."
+    },
+    {
+      "start": 56.44,
+      "end": 58.44,
+      "text": "So name, address, phone number, exact match."
+    },
+    {
+      "start": 58.44,
+      "end": 60.36,
+      "text": "So we're going to come on to their website."
+    },
+    {
+      "start": 60.36,
+      "end": 63.44,
+      "text": "They have a phone number 9738129088."
+    },
+    {
+      "start": 63.44,
+      "end": 67.12,
+      "text": "Let's double check it against their 9738129088."
+    },
+    {
+      "start": 67.12,
+      "end": 68.88,
+      "text": "Perfect, okay, so that matches."
+    },
+    {
+      "start": 68.88,
+      "end": 71.6,
+      "text": "Now let's see if we can find the name,"
+    },
+    {
+      "start": 71.6,
+      "end": 73.68,
+      "text": "right-way driving school that matches."
+    },
+    {
+      "start": 73.68,
+      "end": 76.56,
+      "text": "Great, name, address, phone number."
+    },
+    {
+      "start": 76.56,
+      "end": 78.16,
+      "text": "So now I'm looking for their address."
+    },
+    {
+      "start": 78.16,
+      "end": 80.16,
+      "text": "I do not see their address."
+    },
+    {
+      "start": 80.16,
+      "end": 85.16,
+      "text": "So I'm going to make a note, add address to GVP landing page."
+    },
+    {
+      "start": 86.16,
+      "end": 90.21,
+      "text": "Okay, so we'll come back over here."
+    },
+    {
+      "start": 90.21,
+      "end": 91.69,
+      "text": "NAP appears in footer."
+    },
+    {
+      "start": 91.69,
+      "end": 92.89,
+      "text": "I didn't see that."
+    },
+    {
+      "start": 92.89,
+      "end": 94.41,
+      "text": "Yep, so we want that."
+    },
+    {
+      "start": 94.41,
+      "end": 97.45,
+      "text": "Add NAP in footer."
+    },
+    {
+      "start": 97.45,
+      "end": 99.01,
+      "text": "Great, making some progress."
+    },
+    {
+      "start": 99.01,
+      "end": 101.05,
+      "text": "Location page has local schema."
+    },
+    {
+      "start": 101.05,
+      "end": 101.89,
+      "text": "So let's double check."
+    },
+    {
+      "start": 101.89,
+      "end": 106.13,
+      "text": "So we can go to the structured data testing tool."
+    },
+    {
+      "start": 108.33,
+      "end": 110.61,
+      "text": "Schema market validator, we'll run a new test"
+    },
+    {
+      "start": 110.61,
+      "end": 113.85,
+      "text": "and we'll fetch the URL."
+    },
+    {
+      "start": 114.29,
+      "end": 119.29,
+      "text": "And no, so we are missing local business schema,"
+    },
+    {
+      "start": 119.29,
+      "end": 122.33,
+      "text": "website schema, organization schema."
+    },
+    {
+      "start": 122.33,
+      "end": 124.29,
+      "text": "Basically we're missing all the schemas."
+    },
+    {
+      "start": 124.29,
+      "end": 126.37,
+      "text": "Pretty common, this is pretty common so far."
+    },
+    {
+      "start": 126.37,
+      "end": 128.97,
+      "text": "Okay, location page has about content."
+    },
+    {
+      "start": 128.97,
+      "end": 130.45,
+      "text": "So we just want some information on here"
+    },
+    {
+      "start": 130.45,
+      "end": 132.37,
+      "text": "about the actual school."
+    },
+    {
+      "start": 132.37,
+      "end": 134.41,
+      "text": "Let's see, so we do have some."
+    },
+    {
+      "start": 134.41,
+      "end": 137.77,
+      "text": "So we'll be okay with that one."
+    },
+    {
+      "start": 137.77,
+      "end": 139.49,
+      "text": "It's almost the only content,"
+    },
+    {
+      "start": 139.49,
+      "end": 142.37,
+      "text": "but they do have this stuff here."
+    },
+    {
+      "start": 142.37,
+      "end": 144.49,
+      "text": "It's not great from a goal completion standpoint,"
+    },
+    {
+      "start": 144.49,
+      "end": 146.77,
+      "text": "but it does talk about their actual schools."
+    },
+    {
+      "start": 146.77,
+      "end": 148.17,
+      "text": "So we'll say that one's good."
+    },
+    {
+      "start": 148.17,
+      "end": 151.17,
+      "text": "And yep, GBP in bed, missing GBP in bed."
+    },
+    {
+      "start": 153.57,
+      "end": 155.13,
+      "text": "Location page has Google reviews."
+    },
+    {
+      "start": 155.13,
+      "end": 159.97,
+      "text": "Yep, missing testimonials, missing GBP review in bed."
+    },
+    {
+      "start": 159.97,
+      "end": 160.81,
+      "text": "There isn't one."
+    },
+    {
+      "start": 160.81,
+      "end": 163.65,
+      "text": "I always like to see a GBP review in bed."
+    },
+    {
+      "start": 163.65,
+      "end": 165.53,
+      "text": "That provides a lot of social proof."
+    },
+    {
+      "start": 165.53,
+      "end": 167.17,
+      "text": "Don't have one there, no problem."
+    },
+    {
+      "start": 167.17,
+      "end": 170.01,
+      "text": "Telephone links click to call."
+    },
+    {
+      "start": 170.89,
+      "end": 175.89,
+      "text": "Nope, telephone in nav bar not click to call."
+    },
+    {
+      "start": 176.41,
+      "end": 180.25,
+      "text": "Okay, so those are just the basic checks."
+    },
+    {
+      "start": 180.25,
+      "end": 183.25,
+      "text": "If I look at their title tag now,"
+    },
+    {
+      "start": 183.25,
+      "end": 185.45,
+      "text": "I can see right way driving school."
+    },
+    {
+      "start": 185.45,
+      "end": 186.97,
+      "text": "Driving school is a primary category."
+    },
+    {
+      "start": 186.97,
+      "end": 189.57,
+      "text": "So they technically mentioned the primary category,"
+    },
+    {
+      "start": 189.57,
+      "end": 191.81,
+      "text": "but title tag is missing city."
+    },
+    {
+      "start": 191.81,
+      "end": 193.45,
+      "text": "Title tag is missing city."
+    },
+    {
+      "start": 193.45,
+      "end": 195.77,
+      "text": "We always want to have primary category in city name."
+    },
+    {
+      "start": 195.77,
+      "end": 197.69,
+      "text": "And then the primary heading,"
+    },
+    {
+      "start": 197.69,
+      "end": 202.25,
+      "text": "primary heading is missing city and descriptive text."
+    },
+    {
+      "start": 203.25,
+      "end": 205.61,
+      "text": "So when we land on a website,"
+    },
+    {
+      "start": 205.61,
+      "end": 206.81,
+      "text": "that's all just the basics,"
+    },
+    {
+      "start": 206.81,
+      "end": 209.05,
+      "text": "just to make sure all that's done."
+    },
+    {
+      "start": 209.05,
+      "end": 211.21,
+      "text": "So now let's look at the actual content they have."
+    },
+    {
+      "start": 211.21,
+      "end": 213.33,
+      "text": "So the H1 is just right way driving school."
+    },
+    {
+      "start": 213.33,
+      "end": 214.23,
+      "text": "That's not great."
+    },
+    {
+      "start": 214.23,
+      "end": 215.69,
+      "text": "So we land on a website,"
+    },
+    {
+      "start": 215.69,
+      "end": 218.21,
+      "text": "new person is viewing this website for the very first time."
+    },
+    {
+      "start": 218.21,
+      "end": 221.25,
+      "text": "Our goal is to convince the user"
+    },
+    {
+      "start": 221.25,
+      "end": 223.41,
+      "text": "that this is the right place for them to be."
+    },
+    {
+      "start": 223.41,
+      "end": 225.17,
+      "text": "We don't want them to hit back."
+    },
+    {
+      "start": 225.17,
+      "end": 226.69,
+      "text": "That's going to be bad for rank position."
+    },
+    {
+      "start": 226.69,
+      "end": 228.41,
+      "text": "And obviously it's bad for conversion."
+    },
+    {
+      "start": 228.41,
+      "end": 231.01,
+      "text": "So a couple of things that we would do here,"
+    },
+    {
+      "start": 231.01,
+      "end": 232.89,
+      "text": "the hero image is a little too big."
+    },
+    {
+      "start": 232.89,
+      "end": 234.81,
+      "text": "So we want to make the hero image smaller"
+    },
+    {
+      "start": 236.77,
+      "end": 239.65,
+      "text": "because I want to see below the hero image."
+    },
+    {
+      "start": 239.65,
+      "end": 243.53,
+      "text": "So we can see below hero image on page load."
+    },
+    {
+      "start": 243.53,
+      "end": 245.95,
+      "text": "I want to see below the hero image on the page loads."
+    },
+    {
+      "start": 245.95,
+      "end": 249.09,
+      "text": "I don't want to see the full hero image like this."
+    },
+    {
+      "start": 249.09,
+      "end": 251.25,
+      "text": "I just want to see a little bit below it."
+    },
+    {
+      "start": 252.33,
+      "end": 254.81,
+      "text": "And the primary heading, right way driving school,"
+    },
+    {
+      "start": 254.81,
+      "end": 256.21,
+      "text": "this is missing an opportunity."
+    },
+    {
+      "start": 256.21,
+      "end": 258.85,
+      "text": "We really want to start talking to the searcher immediately."
+    },
+    {
+      "start": 258.85,
+      "end": 259.81,
+      "text": "Why should they convert?"
+    },
+    {
+      "start": 259.81,
+      "end": 261.49,
+      "text": "Why is this the right place for them?"
+    },
+    {
+      "start": 261.49,
+      "end": 264.25,
+      "text": "They just search for driving school or something like that."
+    },
+    {
+      "start": 264.25,
+      "end": 266.45,
+      "text": "What makes right way driving school unique?"
+    },
+    {
+      "start": 266.45,
+      "end": 268.65,
+      "text": "What sets them apart from the competition?"
+    },
+    {
+      "start": 268.65,
+      "end": 270.29,
+      "text": "Why should we convert?"
+    },
+    {
+      "start": 270.29,
+      "end": 272.53,
+      "text": "We don't really have much here."
+    },
+    {
+      "start": 272.53,
+      "end": 274.21,
+      "text": "We do have specializing in training,"
+    },
+    {
+      "start": 274.21,
+      "end": 275.57,
+      "text": "treat teen drivers."
+    },
+    {
+      "start": 275.57,
+      "end": 280.57,
+      "text": "That's fine, like this in and of itself isn't terrible."
+    },
+    {
+      "start": 281.29,
+      "end": 283.45,
+      "text": "And then we immediately switch into platitudes."
+    },
+    {
+      "start": 283.45,
+      "end": 285.21,
+      "text": "Primary focus is to provide our students"
+    },
+    {
+      "start": 285.21,
+      "end": 286.81,
+      "text": "with fundamental cognitive physical skills"
+    },
+    {
+      "start": 286.81,
+      "end": 288.85,
+      "text": "they need to operate a vehicle and responsible"
+    },
+    {
+      "start": 288.85,
+      "end": 289.69,
+      "text": "and safe manner."
+    },
+    {
+      "start": 289.69,
+      "end": 290.69,
+      "text": "Sure, that sounds fine,"
+    },
+    {
+      "start": 290.69,
+      "end": 293.21,
+      "text": "but I'm pretty sure every single driving school"
+    },
+    {
+      "start": 293.21,
+      "end": 296.05,
+      "text": "that specializes in teens would say something like this."
+    },
+    {
+      "start": 296.05,
+      "end": 298.25,
+      "text": "So this really needs to be something more interesting."
+    },
+    {
+      "start": 298.25,
+      "end": 302.17,
+      "text": "So I'm going to say improve goal completion above the fold."
+    },
+    {
+      "start": 303.77,
+      "end": 306.65,
+      "text": "We really want this to talk about why them,"
+    },
+    {
+      "start": 306.65,
+      "end": 308.21,
+      "text": "why right way driving school."
+    },
+    {
+      "start": 308.21,
+      "end": 309.37,
+      "text": "Do they have any guarantees?"
+    },
+    {
+      "start": 309.37,
+      "end": 311.01,
+      "text": "Do they have any promises?"
+    },
+    {
+      "start": 311.01,
+      "end": 312.57,
+      "text": "Do they have any long-term plans?"
+    },
+    {
+      "start": 312.57,
+      "end": 314.01,
+      "text": "What is their success rate?"
+    },
+    {
+      "start": 314.05,
+      "end": 315.17,
+      "text": "All of these types of things"
+    },
+    {
+      "start": 315.17,
+      "end": 317.25,
+      "text": "that would set them apart from their competitors."
+    },
+    {
+      "start": 317.25,
+      "end": 318.89,
+      "text": "Okay, and then we'll scroll down"
+    },
+    {
+      "start": 318.89,
+      "end": 320.49,
+      "text": "and I like this format."
+    },
+    {
+      "start": 321.65,
+      "end": 322.97,
+      "text": "Really what this is giving us"
+    },
+    {
+      "start": 322.97,
+      "end": 325.21,
+      "text": "is a series of different lessons."
+    },
+    {
+      "start": 325.21,
+      "end": 326.65,
+      "text": "So this isn't awful."
+    },
+    {
+      "start": 326.65,
+      "end": 328.73,
+      "text": "I don't mind having this here."
+    },
+    {
+      "start": 328.73,
+      "end": 330.61,
+      "text": "Then we immediately come into this letter"
+    },
+    {
+      "start": 330.61,
+      "end": 333.45,
+      "text": "which is just generic stuff about them."
+    },
+    {
+      "start": 333.45,
+      "end": 336.97,
+      "text": "So one quick thing that you'll almost always see"
+    },
+    {
+      "start": 336.97,
+      "end": 339.61,
+      "text": "over and over again, this is what local businesses do."
+    },
+    {
+      "start": 339.61,
+      "end": 341.13,
+      "text": "They write about themselves."
+    },
+    {
+      "start": 341.13,
+      "end": 342.13,
+      "text": "But the problem is,"
+    },
+    {
+      "start": 342.17,
+      "end": 344.21,
+      "text": "searchers don't care about the local business."
+    },
+    {
+      "start": 344.21,
+      "end": 346.61,
+      "text": "Searchers care about the searchers."
+    },
+    {
+      "start": 346.61,
+      "end": 348.29,
+      "text": "Searchers care about themselves."
+    },
+    {
+      "start": 348.29,
+      "end": 350.93,
+      "text": "So we have the local businesses who wrote about themselves"
+    },
+    {
+      "start": 350.93,
+      "end": 353.13,
+      "text": "and the searchers care about themselves."
+    },
+    {
+      "start": 353.13,
+      "end": 356.25,
+      "text": "So what we want to do is write this content"
+    },
+    {
+      "start": 356.25,
+      "end": 360.37,
+      "text": "to talk to the searcher, okay?"
+    },
+    {
+      "start": 360.37,
+      "end": 365.37,
+      "text": "Talk to the searcher above the fold, first paragraph."
+    },
+    {
+      "start": 366.13,
+      "end": 367.93,
+      "text": "And this, it really isn't doing it."
+    },
+    {
+      "start": 367.93,
+      "end": 369.73,
+      "text": "Right after we talked to the searcher"
+    },
+    {
+      "start": 369.73,
+      "end": 371.41,
+      "text": "about what makes this school unique,"
+    },
+    {
+      "start": 371.41,
+      "end": 373.61,
+      "text": "different, better than the others in the area."
+    },
+    {
+      "start": 373.61,
+      "end": 376.57,
+      "text": "We then want to have the review embeds immediately."
+    },
+    {
+      "start": 376.57,
+      "end": 378.73,
+      "text": "They have fabulous Google reviews,"
+    },
+    {
+      "start": 378.73,
+      "end": 381.69,
+      "text": "421, 4.9 average rating."
+    },
+    {
+      "start": 381.69,
+      "end": 385.05,
+      "text": "I want that to be right here,"
+    },
+    {
+      "start": 385.05,
+      "end": 386.77,
+      "text": "close to being above the fold,"
+    },
+    {
+      "start": 386.77,
+      "end": 389.69,
+      "text": "just again to create this goal completion atmosphere."
+    },
+    {
+      "start": 389.69,
+      "end": 391.89,
+      "text": "Let me show you guys an example of a website"
+    },
+    {
+      "start": 391.89,
+      "end": 394.25,
+      "text": "that does this extraordinarily well."
+    },
+    {
+      "start": 394.25,
+      "end": 395.69,
+      "text": "Personal injury lawyer Houston."
+    },
+    {
+      "start": 395.69,
+      "end": 398.61,
+      "text": "This is obviously a highly, highly competitive search"
+    },
+    {
+      "start": 398.61,
+      "end": 400.01,
+      "text": "and the number one ranked result,"
+    },
+    {
+      "start": 400.01,
+      "end": 402.25,
+      "text": "Zell and Associates here."
+    },
+    {
+      "start": 402.25,
+      "end": 403.41,
+      "text": "When we land on this page,"
+    },
+    {
+      "start": 403.41,
+      "end": 405.17,
+      "text": "they have a small hero image"
+    },
+    {
+      "start": 405.17,
+      "end": 406.53,
+      "text": "so that everything comes through."
+    },
+    {
+      "start": 406.53,
+      "end": 407.85,
+      "text": "Houston personal injury lawyers,"
+    },
+    {
+      "start": 407.85,
+      "end": 409.65,
+      "text": "great undefeated and billions won."
+    },
+    {
+      "start": 409.65,
+      "end": 411.45,
+      "text": "Boy, that's an interesting case."
+    },
+    {
+      "start": 411.45,
+      "end": 413.69,
+      "text": "Why hire us immediately?"
+    },
+    {
+      "start": 413.69,
+      "end": 416.21,
+      "text": "All these reasons why they're the best,"
+    },
+    {
+      "start": 416.21,
+      "end": 418.29,
+      "text": "more awards, more awards,"
+    },
+    {
+      "start": 418.29,
+      "end": 419.81,
+      "text": "and then straight into testimonials."
+    },
+    {
+      "start": 419.81,
+      "end": 422.81,
+      "text": "This is like a case study pun intended"
+    },
+    {
+      "start": 422.81,
+      "end": 424.73,
+      "text": "in how to do goal completion."
+    },
+    {
+      "start": 424.73,
+      "end": 426.93,
+      "text": "So, and obviously this works."
+    },
+    {
+      "start": 426.93,
+      "end": 430.49,
+      "text": "The ranked number one for one of the most valuable keywords"
+    },
+    {
+      "start": 430.49,
+      "end": 431.81,
+      "text": "you could possibly be targeting"
+    },
+    {
+      "start": 431.81,
+      "end": 435.09,
+      "text": "personal injury attorney in Houston."
+    },
+    {
+      "start": 435.09,
+      "end": 436.29,
+      "text": "So that's the type of stuff"
+    },
+    {
+      "start": 436.29,
+      "end": 438.17,
+      "text": "that we want to have above the fold."
+    },
+    {
+      "start": 438.17,
+      "end": 440.57,
+      "text": "On top of that, for right-way driving school,"
+    },
+    {
+      "start": 440.57,
+      "end": 442.21,
+      "text": "we don't have any additional information"
+    },
+    {
+      "start": 442.21,
+      "end": 445.17,
+      "text": "about secondary categories or key services."
+    },
+    {
+      "start": 445.17,
+      "end": 449.81,
+      "text": "So we're missing secondary category H2s,"
+    },
+    {
+      "start": 449.81,
+      "end": 453.25,
+      "text": "missing core service H2s."
+    },
+    {
+      "start": 453.25,
+      "end": 456.13,
+      "text": "Now, part of that, as you may remember from the GBP audit,"
+    },
+    {
+      "start": 456.37,
+      "end": 458.57,
+      "text": "is they don't have any secondary categories."
+    },
+    {
+      "start": 459.69,
+      "end": 461.09,
+      "text": "So what we're going to have to do"
+    },
+    {
+      "start": 461.09,
+      "end": 463.13,
+      "text": "is confirm what secondary categories"
+    },
+    {
+      "start": 463.13,
+      "end": 464.45,
+      "text": "make sense with the client."
+    },
+    {
+      "start": 464.45,
+      "end": 466.05,
+      "text": "And then once they confirm that,"
+    },
+    {
+      "start": 466.05,
+      "end": 467.93,
+      "text": "we can go ahead and produce that content"
+    },
+    {
+      "start": 467.93,
+      "end": 471.85,
+      "text": "to add the additional H2s and core services on here."
+    },
+    {
+      "start": 471.85,
+      "end": 474.53,
+      "text": "But we're not going to delete this, right?"
+    },
+    {
+      "start": 475.41,
+      "end": 478.09,
+      "text": "I ran a rank map, they're ranking pretty well."
+    },
+    {
+      "start": 478.09,
+      "end": 479.01,
+      "text": "There's room for improvement,"
+    },
+    {
+      "start": 479.01,
+      "end": 480.33,
+      "text": "but they're ranking pretty well."
+    },
+    {
+      "start": 480.33,
+      "end": 483.41,
+      "text": "So what I do want to do is I would just insert"
+    },
+    {
+      "start": 483.49,
+      "end": 486.61,
+      "text": "some of this H2s with a little paragraph"
+    },
+    {
+      "start": 486.61,
+      "end": 488.17,
+      "text": "about that secondary category."
+    },
+    {
+      "start": 488.17,
+      "end": 490.25,
+      "text": "I would insert it above this letter."
+    },
+    {
+      "start": 490.25,
+      "end": 492.01,
+      "text": "I wouldn't delete what they have here now"
+    },
+    {
+      "start": 492.01,
+      "end": 493.29,
+      "text": "because it's working."
+    },
+    {
+      "start": 493.29,
+      "end": 494.81,
+      "text": "We can just do a little bit better."
+    },
+    {
+      "start": 494.81,
+      "end": 497.41,
+      "text": "Okay, so that is the GBP landing page review."
+    },
+    {
+      "start": 497.41,
+      "end": 500.29,
+      "text": "I'll put what I came up with"
+    },
+    {
+      "start": 500.29,
+      "end": 503.05,
+      "text": "as a quick document below this."
+    },
+    {
+      "start": 503.05,
+      "end": 505.77,
+      "text": "And then we'll go ahead and proceed with this client"
+    },
+    {
+      "start": 505.77,
+      "end": 507.73,
+      "text": "so that maybe you'll be able to see"
+    },
+    {
+      "start": 507.73,
+      "end": 510.93,
+      "text": "the new version of this website if you visit their URL."
+    }
+  ],
+  "transcript_text": "Now we're going to do an audit for the GVP landing page. A couple of things to note here, we don't like making huge changes to the GVP landing page. So you'll notice that I don't have a specific prompt to rewrite a GVP landing page in the copywriting instructions. The reason for that is because we don't rewrite GVP landing pages with one prompt, okay? That's not how we do it. So let me go through the GVP landing page for right-way driving school and talk about what we actually do. So I'm going to open up just a blank Word doc. I guess you won't be able to see it because I'm recording this, but that's fine. So I'll just do this new blank doc. Okay, I will put this document in the links so then you can see what I came up with at the end. So we're going to go through, we're going to go, and again, this is the same GVP review doc that we had before. Now I'm just using it for the onsite GVP on top. So name, address, phone number, exact match. So we're going to come on to their website. They have a phone number 9738129088. Let's double check it against their 9738129088. Perfect, okay, so that matches. Now let's see if we can find the name, right-way driving school that matches. Great, name, address, phone number. So now I'm looking for their address. I do not see their address. So I'm going to make a note, add address to GVP landing page. Okay, so we'll come back over here. NAP appears in footer. I didn't see that. Yep, so we want that. Add NAP in footer. Great, making some progress. Location page has local schema. So let's double check. So we can go to the structured data testing tool. Schema market validator, we'll run a new test and we'll fetch the URL. And no, so we are missing local business schema, website schema, organization schema. Basically we're missing all the schemas. Pretty common, this is pretty common so far. Okay, location page has about content. So we just want some information on here about the actual school. Let's see, so we do have some. So we'll be okay with that one. It's almost the only content, but they do have this stuff here. It's not great from a goal completion standpoint, but it does talk about their actual schools. So we'll say that one's good. And yep, GBP in bed, missing GBP in bed. Location page has Google reviews. Yep, missing testimonials, missing GBP review in bed. There isn't one. I always like to see a GBP review in bed. That provides a lot of social proof. Don't have one there, no problem. Telephone links click to call. Nope, telephone in nav bar not click to call. Okay, so those are just the basic checks. If I look at their title tag now, I can see right way driving school. Driving school is a primary category. So they technically mentioned the primary category, but title tag is missing city. Title tag is missing city. We always want to have primary category in city name. And then the primary heading, primary heading is missing city and descriptive text. So when we land on a website, that's all just the basics, just to make sure all that's done. So now let's look at the actual content they have. So the H1 is just right way driving school. That's not great. So we land on a website, new person is viewing this website for the very first time. Our goal is to convince the user that this is the right place for them to be. We don't want them to hit back. That's going to be bad for rank position. And obviously it's bad for conversion. So a couple of things that we would do here, the hero image is a little too big. So we want to make the hero image smaller because I want to see below the hero image. So we can see below hero image on page load. I want to see below the hero image on the page loads. I don't want to see the full hero image like this. I just want to see a little bit below it. And the primary heading, right way driving school, this is missing an opportunity. We really want to start talking to the searcher immediately. Why should they convert? Why is this the right place for them? They just search for driving school or something like that. What makes right way driving school unique? What sets them apart from the competition? Why should we convert? We don't really have much here. We do have specializing in training, treat teen drivers. That's fine, like this in and of itself isn't terrible. And then we immediately switch into platitudes. Primary focus is to provide our students with fundamental cognitive physical skills they need to operate a vehicle and responsible and safe manner. Sure, that sounds fine, but I'm pretty sure every single driving school that specializes in teens would say something like this. So this really needs to be something more interesting. So I'm going to say improve goal completion above the fold. We really want this to talk about why them, why right way driving school. Do they have any guarantees? Do they have any promises? Do they have any long-term plans? What is their success rate? All of these types of things that would set them apart from their competitors. Okay, and then we'll scroll down and I like this format. Really what this is giving us is a series of different lessons. So this isn't awful. I don't mind having this here. Then we immediately come into this letter which is just generic stuff about them. So one quick thing that you'll almost always see over and over again, this is what local businesses do. They write about themselves. But the problem is, searchers don't care about the local business. Searchers care about the searchers. Searchers care about themselves. So we have the local businesses who wrote about themselves and the searchers care about themselves. So what we want to do is write this content to talk to the searcher, okay? Talk to the searcher above the fold, first paragraph. And this, it really isn't doing it. Right after we talked to the searcher about what makes this school unique, different, better than the others in the area. We then want to have the review embeds immediately. They have fabulous Google reviews, 421, 4.9 average rating. I want that to be right here, close to being above the fold, just again to create this goal completion atmosphere. Let me show you guys an example of a website that does this extraordinarily well. Personal injury lawyer Houston. This is obviously a highly, highly competitive search and the number one ranked result, Zell and Associates here. When we land on this page, they have a small hero image so that everything comes through. Houston personal injury lawyers, great undefeated and billions won. Boy, that's an interesting case. Why hire us immediately? All these reasons why they're the best, more awards, more awards, and then straight into testimonials. This is like a case study pun intended in how to do goal completion. So, and obviously this works. The ranked number one for one of the most valuable keywords you could possibly be targeting personal injury attorney in Houston. So that's the type of stuff that we want to have above the fold. On top of that, for right-way driving school, we don't have any additional information about secondary categories or key services. So we're missing secondary category H2s, missing core service H2s. Now, part of that, as you may remember from the GBP audit, is they don't have any secondary categories. So what we're going to have to do is confirm what secondary categories make sense with the client. And then once they confirm that, we can go ahead and produce that content to add the additional H2s and core services on here. But we're not going to delete this, right? I ran a rank map, they're ranking pretty well. There's room for improvement, but they're ranking pretty well. So what I do want to do is I would just insert some of this H2s with a little paragraph about that secondary category. I would insert it above this letter. I wouldn't delete what they have here now because it's working. We can just do a little bit better. Okay, so that is the GBP landing page review. I'll put what I came up with as a quick document below this. And then we'll go ahead and proceed with this client so that maybe you'll be able to see the new version of this website if you visit their URL.",
   "summary": "",
   "key_points": [],
   "tags": []

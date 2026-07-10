@@ -7,8 +7,249 @@
   "video_url": "https://www.loom.com/share/9a0fd4996b6d4eb89a7ffac47be3b63e?sid=fa153ba3-befa-4ed1-9d7c-2f5e5814ded7?hide_owner=true&hide_share=true&hide_title=true&hideEmbedTopBar=true",
   "video_file": "0780ac81_local-link-overview [9a0fd4996b6d4eb89a7ffac47be3b63e].mp4",
   "content_md": "# Local Link Overview\n\n- Code: 0780ac81\n- Source: https://www.skool.com/ai-seo-mastery-pro/classroom/63a81f62?md=0780ac81d4754c30ad75fa54dd284465\n- Video: https://www.loom.com/share/9a0fd4996b6d4eb89a7ffac47be3b63e?sid=fa153ba3-befa-4ed1-9d7c-2f5e5814ded7?hide_owner=true&hide_share=true&hide_title=true&hideEmbedTopBar=true\n- Duration: 4m 29s\n- Resources:\n  - [DoneForYou - PBN Links](https://icecreamtruck.shop/collections/our-services/products/pbn-links)\n  - [DoneForYou - Blog Outreach Links](https://icecreamtruck.shop/collections/our-services/products/blog-outreach-links)\n\n## Description\n\n_(no description)_\n",
-  "transcript": [],
-  "transcript_text": "",
+  "transcript": [
+    {
+      "start": 0.0,
+      "end": 4.16,
+      "text": "So let's talk about local links. So the way that I think about local links,"
+    },
+    {
+      "start": 4.16,
+      "end": 9.92,
+      "text": "I basically break them into two different types. The first type of local link is the one that we"
+    },
+    {
+      "start": 9.92,
+      "end": 15.04,
+      "text": "need many more of than the other type. This is really just a link so that Google doesn't think"
+    },
+    {
+      "start": 15.04,
+      "end": 21.76,
+      "text": "the content is slop, right? A lot of tools come out. If you want to produce 10,000 articles a day,"
+    },
+    {
+      "start": 21.76,
+      "end": 28.08,
+      "text": "you certainly can. There are WordPress plugins that connect straight into Open AI's API,"
+    },
+    {
+      "start": 28.08,
+      "end": 33.44,
+      "text": "and they can produce as much AI-generated content as you want. That worked for a while,"
+    },
+    {
+      "start": 33.44,
+      "end": 39.6,
+      "text": "and then the helpful content update came out, and then that largely stopped working."
+    },
+    {
+      "start": 40.4,
+      "end": 45.68,
+      "text": "So this type of link, it's really just to make sure that Google knows you're not"
+    },
+    {
+      "start": 45.68,
+      "end": 54.64,
+      "text": "generating a bunch of AI slop. That is going to be one link per URL that we produce or touch."
+    },
+    {
+      "start": 54.64,
+      "end": 58.48,
+      "text": "Now the second type of link is the one that will actually build trust with Google"
+    },
+    {
+      "start": 58.48,
+      "end": 64.96,
+      "text": "and with ChatGPT, okay? And these are like these hyper-local, very specific links that we're after."
+    },
+    {
+      "start": 66.32,
+      "end": 72.56,
+      "text": "So that first type, to get the content indexed. So we know the third-party links, very important"
+    },
+    {
+      "start": 72.56,
+      "end": 76.4,
+      "text": "to Google. That's why Google's a trillion-dollar company. They came up with this idea to use"
+    },
+    {
+      "start": 76.4,
+      "end": 81.84,
+      "text": "third-party links to decide if it's trustworthy. Google doesn't want AI slop to be everywhere."
+    },
+    {
+      "start": 81.84,
+      "end": 87.36,
+      "text": "It has its own AI slop generator at the top of search results, so it doesn't want everyone else."
+    },
+    {
+      "start": 87.36,
+      "end": 94.96,
+      "text": "It doesn't want AI-generated slop to rank. So basically, I mentioned this, each time we make"
+    },
+    {
+      "start": 94.96,
+      "end": 99.84,
+      "text": "significant changes to old content or publish new content, we're going to get a third-party link"
+    },
+    {
+      "start": 99.84,
+      "end": 104.72,
+      "text": "pointed to it. That's just a sign to Google, hey, this isn't AI-generated slop. That's it."
+    },
+    {
+      "start": 105.28,
+      "end": 110.8,
+      "text": "For those links, we mostly use PBM, okay? These links are not being used to rank. They're not"
+    },
+    {
+      "start": 110.8,
+      "end": 115.28,
+      "text": "necessarily being used to build trust. They're not being used to build authority. They're just"
+    },
+    {
+      "start": 115.28,
+      "end": 120.4,
+      "text": "being used so that Google knows it's not AI-generated slop, and it shouldn't be. It should be good"
+    },
+    {
+      "start": 120.4,
+      "end": 126.72,
+      "text": "quality content that you're producing, okay? They're just there to get the content indexed,"
+    },
+    {
+      "start": 126.72,
+      "end": 132.48,
+      "text": "to make sure Google trusts it and sees it as valuable, okay? That's all these PBM links are for."
+    },
+    {
+      "start": 132.48,
+      "end": 138.24,
+      "text": "That's why we use PBM. They're one of the most cost-effective sources for a link that will"
+    },
+    {
+      "start": 138.24,
+      "end": 145.09,
+      "text": "accomplish this goal. On top of that, there are some concerns with link diversity. We don't want"
+    },
+    {
+      "start": 145.09,
+      "end": 151.17,
+      "text": "nothing but PBMs pointing. So when an engagement starts, and then every three to four months,"
+    },
+    {
+      "start": 151.17,
+      "end": 155.01,
+      "text": "we'll do a press release, we'll do social media signals, and we'll do blog comments."
+    },
+    {
+      "start": 156.05,
+      "end": 161.09,
+      "text": "Those aren't, again, they're not necessarily to try to get anything ranked. They're just there to"
+    },
+    {
+      "start": 161.09,
+      "end": 168.05,
+      "text": "just build up more authority, build up more link diversity. Also, there's a blog outreach link we"
+    },
+    {
+      "start": 168.05,
+      "end": 175.41,
+      "text": "can do, a higher quality link, much more expensive. We'll typically do that maybe once every four or"
+    },
+    {
+      "start": 175.41,
+      "end": 181.01,
+      "text": "five months. Not something we do very often, but it is a good way to diversify from the PBM."
+    },
+    {
+      "start": 181.01,
+      "end": 185.33,
+      "text": "And a lot of this stuff also depends on how competitive the space is, right? If it's a"
+    },
+    {
+      "start": 185.33,
+      "end": 191.33,
+      "text": "plumber in Fort Wayne, Indiana, we probably won't do any of this. Okay, then we have the links that"
+    },
+    {
+      "start": 191.33,
+      "end": 197.17,
+      "text": "we're actually using to build trust and authority. I'm just going to move myself away here so that"
+    },
+    {
+      "start": 197.17,
+      "end": 204.45,
+      "text": "you can read this, but these hyper-local, powerful links, they exist to actually build trust, actually"
+    },
+    {
+      "start": 204.45,
+      "end": 212.45,
+      "text": "build rank with Google. They are almost never free, but they're so powerful. Generally, we only need"
+    },
+    {
+      "start": 212.45,
+      "end": 218.13,
+      "text": "two, three, four of these. If we're doing a plastic surgeon in Houston, we might need 20,"
+    },
+    {
+      "start": 218.13,
+      "end": 221.97,
+      "text": "but a plastic surgeon in Houston is also paying us enough that we can go and get 20."
+    },
+    {
+      "start": 221.97,
+      "end": 225.57,
+      "text": "There's some excellent examples here, the Chamber of Commerce Youth Sports League Sponsorship,"
+    },
+    {
+      "start": 225.57,
+      "end": 230.93,
+      "text": "Festival Sponsorship, Local Non-profits. It's a lot of sponsorship, right? If there's a local"
+    },
+    {
+      "start": 230.93,
+      "end": 235.65,
+      "text": "organization that needs money, if you give them money, just a few hundred dollars usually,"
+    },
+    {
+      "start": 235.65,
+      "end": 240.37,
+      "text": "they will almost always have a page where they thank you for giving them money and provide a"
+    },
+    {
+      "start": 240.37,
+      "end": 245.49,
+      "text": "link to your homepage. That link is what we're after. They're also going to send you, your client,"
+    },
+    {
+      "start": 245.49,
+      "end": 249.49,
+      "text": "they'll send your client like a plaque, you know, thank you for sponsoring the nine-year-old girl"
+    },
+    {
+      "start": 249.49,
+      "end": 253.65,
+      "text": "softball team. They can put it in their waiting room or whatever. Everyone likes it. It's win-win."
+    },
+    {
+      "start": 254.21,
+      "end": 258.45,
+      "text": "You get the link so that it works for SEO. This both helps to build trust and authority with"
+    },
+    {
+      "start": 258.45,
+      "end": 264.13,
+      "text": "Google and with ChatGPT. I have a prompt that will help you find a lot of these. That's going"
+    },
+    {
+      "start": 264.13,
+      "end": 269.57,
+      "text": "to be in a later lesson. Here we're just doing an overview of those link types."
+    }
+  ],
+  "transcript_text": "So let's talk about local links. So the way that I think about local links, I basically break them into two different types. The first type of local link is the one that we need many more of than the other type. This is really just a link so that Google doesn't think the content is slop, right? A lot of tools come out. If you want to produce 10,000 articles a day, you certainly can. There are WordPress plugins that connect straight into Open AI's API, and they can produce as much AI-generated content as you want. That worked for a while, and then the helpful content update came out, and then that largely stopped working. So this type of link, it's really just to make sure that Google knows you're not generating a bunch of AI slop. That is going to be one link per URL that we produce or touch. Now the second type of link is the one that will actually build trust with Google and with ChatGPT, okay? And these are like these hyper-local, very specific links that we're after. So that first type, to get the content indexed. So we know the third-party links, very important to Google. That's why Google's a trillion-dollar company. They came up with this idea to use third-party links to decide if it's trustworthy. Google doesn't want AI slop to be everywhere. It has its own AI slop generator at the top of search results, so it doesn't want everyone else. It doesn't want AI-generated slop to rank. So basically, I mentioned this, each time we make significant changes to old content or publish new content, we're going to get a third-party link pointed to it. That's just a sign to Google, hey, this isn't AI-generated slop. That's it. For those links, we mostly use PBM, okay? These links are not being used to rank. They're not necessarily being used to build trust. They're not being used to build authority. They're just being used so that Google knows it's not AI-generated slop, and it shouldn't be. It should be good quality content that you're producing, okay? They're just there to get the content indexed, to make sure Google trusts it and sees it as valuable, okay? That's all these PBM links are for. That's why we use PBM. They're one of the most cost-effective sources for a link that will accomplish this goal. On top of that, there are some concerns with link diversity. We don't want nothing but PBMs pointing. So when an engagement starts, and then every three to four months, we'll do a press release, we'll do social media signals, and we'll do blog comments. Those aren't, again, they're not necessarily to try to get anything ranked. They're just there to just build up more authority, build up more link diversity. Also, there's a blog outreach link we can do, a higher quality link, much more expensive. We'll typically do that maybe once every four or five months. Not something we do very often, but it is a good way to diversify from the PBM. And a lot of this stuff also depends on how competitive the space is, right? If it's a plumber in Fort Wayne, Indiana, we probably won't do any of this. Okay, then we have the links that we're actually using to build trust and authority. I'm just going to move myself away here so that you can read this, but these hyper-local, powerful links, they exist to actually build trust, actually build rank with Google. They are almost never free, but they're so powerful. Generally, we only need two, three, four of these. If we're doing a plastic surgeon in Houston, we might need 20, but a plastic surgeon in Houston is also paying us enough that we can go and get 20. There's some excellent examples here, the Chamber of Commerce Youth Sports League Sponsorship, Festival Sponsorship, Local Non-profits. It's a lot of sponsorship, right? If there's a local organization that needs money, if you give them money, just a few hundred dollars usually, they will almost always have a page where they thank you for giving them money and provide a link to your homepage. That link is what we're after. They're also going to send you, your client, they'll send your client like a plaque, you know, thank you for sponsoring the nine-year-old girl softball team. They can put it in their waiting room or whatever. Everyone likes it. It's win-win. You get the link so that it works for SEO. This both helps to build trust and authority with Google and with ChatGPT. I have a prompt that will help you find a lot of these. That's going to be in a later lesson. Here we're just doing an overview of those link types.",
   "summary": "",
   "key_points": [],
   "tags": []

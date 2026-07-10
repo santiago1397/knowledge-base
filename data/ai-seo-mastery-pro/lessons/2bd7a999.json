@@ -7,8 +7,229 @@
   "video_url": "https://player.vimeo.com/video/1040463320",
   "video_file": "2bd7a999_re-themeing-a-gbp-category [1040463320].mp4",
   "content_md": "# Re-Theme'ing a GBP Category\n\n- Code: 2bd7a999\n- Source: https://www.skool.com/ai-seo-mastery-pro/classroom/63a81f62?md=2bd7a9995606430eaa63c344c3edd9c4\n- Video: https://vimeo.com/1040463320?share=copy\n- Duration: 3m 42s\n\n## Description\n\n_(no description)_\n",
-  "transcript": [],
-  "transcript_text": "",
+  "transcript": [
+    {
+      "start": 0.08,
+      "end": 6.4,
+      "text": "So I want to talk about what happens if your target keyword is not an exact fit to a GBP category"
+    },
+    {
+      "start": 6.56,
+      "end": 9.88,
+      "text": "For most local businesses, it's going to be a pretty good fit, right?"
+    },
+    {
+      "start": 9.88,
+      "end": 13.16,
+      "text": "If you're a plumber, you're going to try to rank for a plumber Houston"
+    },
+    {
+      "start": 13.16,
+      "end": 17.68,
+      "text": "That's obviously a GBP category. If you're a roofer, you're going to try to rank for a roofer Houston"
+    },
+    {
+      "start": 17.68,
+      "end": 22.44,
+      "text": "Also a GBP category. So for a lot of these home services, ignore this section"
+    },
+    {
+      "start": 22.44,
+      "end": 27.6,
+      "text": "This is only if you're trying to rank for a keyword that is not a GBP category"
+    },
+    {
+      "start": 27.6,
+      "end": 30.16,
+      "text": "In this case, what we're going to do is something that we call"
+    },
+    {
+      "start": 30.6,
+      "end": 36.8,
+      "text": "Re-theming the GBP category and I've created this incredible PowerPoint slide to try to explain what I'm talking about"
+    },
+    {
+      "start": 37.32,
+      "end": 39.32,
+      "text": "So the example I'm going to use"
+    },
+    {
+      "start": 39.48,
+      "end": 44.64,
+      "text": "We're trying to rank for the keyword car accident lawyer Houston. Obviously a big money keyword"
+    },
+    {
+      "start": 44.68,
+      "end": 47.0,
+      "text": "But there's no Google business category"
+    },
+    {
+      "start": 47.12,
+      "end": 53.68,
+      "text": "There's no Google business profile category for car accident lawyer. The closest one we have is civil law attorney"
+    },
+    {
+      "start": 53.68,
+      "end": 59.8,
+      "text": "So that's the one we're going to choose as a secondary or potentially even primary category is civil law attorney"
+    },
+    {
+      "start": 60.12,
+      "end": 65.56,
+      "text": "Usually the primary category in this case is going to be a personal injury attorney. That is a GBP category"
+    },
+    {
+      "start": 65.56,
+      "end": 70.2,
+      "text": "So this is a secondary category. So what we're going to do is create a"
+    },
+    {
+      "start": 71.0,
+      "end": 79.44,
+      "text": "URL on the existing domain where the URL is an exact match to the secondary category a very common technique that we do for"
+    },
+    {
+      "start": 79.44,
+      "end": 84.52,
+      "text": "All of our GBP secondary categories is have URLs that are an exact match to that category"
+    },
+    {
+      "start": 84.96,
+      "end": 86.96,
+      "text": "So in this case domain"
+    },
+    {
+      "start": 87.16,
+      "end": 90.64,
+      "text": "Slash civil law attorney. Okay. Now the title tag"
+    },
+    {
+      "start": 90.84,
+      "end": 94.32,
+      "text": "We're going to use the target keyword, which is not a surprise"
+    },
+    {
+      "start": 94.32,
+      "end": 98.68,
+      "text": "We always use the target keywords as the title tag again usually for local services"
+    },
+    {
+      "start": 98.68,
+      "end": 101.64,
+      "text": "The target keyword is the GBP category in this case"
+    },
+    {
+      "start": 101.64,
+      "end": 107.04,
+      "text": "It's not so we're going to use the target keyword as the title tag car accident lawyer Houston"
+    },
+    {
+      "start": 107.04,
+      "end": 110.8,
+      "text": "Of course, the title tag is not just going to be car accident lawyer Houston"
+    },
+    {
+      "start": 110.8,
+      "end": 116.56,
+      "text": "We have AI prompts that will help you write better ones. Remember use numbers use brackets use parentheses"
+    },
+    {
+      "start": 116.56,
+      "end": 120.2,
+      "text": "All of these to improve the click-through rate, but car accident lawyer Houston"
+    },
+    {
+      "start": 120.2,
+      "end": 125.44,
+      "text": "We want to have as an exact match target keyword in the title tag now the h1 tag"
+    },
+    {
+      "start": 125.48,
+      "end": 129.6,
+      "text": "This is one of the only times you will ever hear me recommend this almost all the time"
+    },
+    {
+      "start": 129.6,
+      "end": 133.96,
+      "text": "The h1 tag should have the same target keyword as the title tag"
+    },
+    {
+      "start": 134.2,
+      "end": 136.8,
+      "text": "But when we're retheming a GBP category"
+    },
+    {
+      "start": 136.8,
+      "end": 144.04,
+      "text": "We need to make sure Google understands that we understand that we chose a GBP category for this page"
+    },
+    {
+      "start": 144.08,
+      "end": 150.36,
+      "text": "So in this case the h1 is going to be civil law attorney Houston an exact match to the secondary category"
+    },
+    {
+      "start": 150.88,
+      "end": 157.72,
+      "text": "Okay, then we'll go on with the article as normal. We'll have some h2s about car accidents with phrases"
+    },
+    {
+      "start": 157.72,
+      "end": 163.84,
+      "text": "We can have some h3s with some bulleted list of keyword qualifiers and modifiers all related to the target"
+    },
+    {
+      "start": 163.96,
+      "end": 169.32,
+      "text": "Of car accident lawyer Houston. Okay, we're not going to talk too much about civil law attorney anymore"
+    },
+    {
+      "start": 169.32,
+      "end": 173.24,
+      "text": "It's just going to be the URL and the h1. So in this way"
+    },
+    {
+      "start": 173.72,
+      "end": 176.16,
+      "text": "We can make sure that Google knows"
+    },
+    {
+      "start": 176.68,
+      "end": 185.56,
+      "text": "Right that our website is consistent with our Google business profile because we've chosen civil law attorney as a secondary category"
+    },
+    {
+      "start": 185.56,
+      "end": 190.6,
+      "text": "We have a URL about civil law attorney on our website. That's very important"
+    },
+    {
+      "start": 190.76,
+      "end": 196.36,
+      "text": "In addition, we've told Google that we don't actually want to rank for civil law attorney"
+    },
+    {
+      "start": 196.36,
+      "end": 202.72,
+      "text": "We want to rank for car accident lawyer now car accident lawyer is closely related to civil law attorney"
+    },
+    {
+      "start": 202.72,
+      "end": 209.64,
+      "text": "So this will allow us to rank locally because we've shown Google that we're consistent with the GBP categories"
+    },
+    {
+      "start": 210.28,
+      "end": 214.0,
+      "text": "But we will be able to rank locally for car accident lawyer"
+    },
+    {
+      "start": 214.0,
+      "end": 221.16,
+      "text": "So this is how you re-theme a GBP category if there isn't one that is an exact match to what you're trying to rank for"
+    }
+  ],
+  "transcript_text": "So I want to talk about what happens if your target keyword is not an exact fit to a GBP category For most local businesses, it's going to be a pretty good fit, right? If you're a plumber, you're going to try to rank for a plumber Houston That's obviously a GBP category. If you're a roofer, you're going to try to rank for a roofer Houston Also a GBP category. So for a lot of these home services, ignore this section This is only if you're trying to rank for a keyword that is not a GBP category In this case, what we're going to do is something that we call Re-theming the GBP category and I've created this incredible PowerPoint slide to try to explain what I'm talking about So the example I'm going to use We're trying to rank for the keyword car accident lawyer Houston. Obviously a big money keyword But there's no Google business category There's no Google business profile category for car accident lawyer. The closest one we have is civil law attorney So that's the one we're going to choose as a secondary or potentially even primary category is civil law attorney Usually the primary category in this case is going to be a personal injury attorney. That is a GBP category So this is a secondary category. So what we're going to do is create a URL on the existing domain where the URL is an exact match to the secondary category a very common technique that we do for All of our GBP secondary categories is have URLs that are an exact match to that category So in this case domain Slash civil law attorney. Okay. Now the title tag We're going to use the target keyword, which is not a surprise We always use the target keywords as the title tag again usually for local services The target keyword is the GBP category in this case It's not so we're going to use the target keyword as the title tag car accident lawyer Houston Of course, the title tag is not just going to be car accident lawyer Houston We have AI prompts that will help you write better ones. Remember use numbers use brackets use parentheses All of these to improve the click-through rate, but car accident lawyer Houston We want to have as an exact match target keyword in the title tag now the h1 tag This is one of the only times you will ever hear me recommend this almost all the time The h1 tag should have the same target keyword as the title tag But when we're retheming a GBP category We need to make sure Google understands that we understand that we chose a GBP category for this page So in this case the h1 is going to be civil law attorney Houston an exact match to the secondary category Okay, then we'll go on with the article as normal. We'll have some h2s about car accidents with phrases We can have some h3s with some bulleted list of keyword qualifiers and modifiers all related to the target Of car accident lawyer Houston. Okay, we're not going to talk too much about civil law attorney anymore It's just going to be the URL and the h1. So in this way We can make sure that Google knows Right that our website is consistent with our Google business profile because we've chosen civil law attorney as a secondary category We have a URL about civil law attorney on our website. That's very important In addition, we've told Google that we don't actually want to rank for civil law attorney We want to rank for car accident lawyer now car accident lawyer is closely related to civil law attorney So this will allow us to rank locally because we've shown Google that we're consistent with the GBP categories But we will be able to rank locally for car accident lawyer So this is how you re-theme a GBP category if there isn't one that is an exact match to what you're trying to rank for",
   "summary": "",
   "key_points": [],
   "tags": []

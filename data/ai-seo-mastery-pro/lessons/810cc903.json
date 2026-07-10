@@ -7,8 +7,179 @@
   "video_url": "https://www.loom.com/share/9efeeb44b8ee478ca1f123e7a11c1006?sid=c2105c04-2971-4f8b-ad77-2446269d0202?hide_owner=true&hide_share=true&hide_title=true&hideEmbedTopBar=true",
   "video_file": "810cc903_human-editing-of-ai-articles [9efeeb44b8ee478ca1f123e7a11c1006].mp4",
   "content_md": "# Human Editing of AI Articles\n\n- Code: 810cc903\n- Source: https://www.skool.com/ai-seo-mastery-pro/classroom/63a81f62?md=810cc903f61b4a07b63c1e7fbe9fd46c\n- Video: https://www.loom.com/share/9efeeb44b8ee478ca1f123e7a11c1006?sid=c2105c04-2971-4f8b-ad77-2446269d0202?hide_owner=true&hide_share=true&hide_title=true&hideEmbedTopBar=true\n- Duration: 3m 7s\n\n## Description\n\n_(no description)_\n",
-  "transcript": [],
-  "transcript_text": "",
+  "transcript": [
+    {
+      "start": 0.27,
+      "end": 6.51,
+      "text": "So I know it's highly, highly tempting to take content directly from AI and publish it to your website."
+    },
+    {
+      "start": 6.63,
+      "end": 10.65,
+      "text": "So the whole point of this is to ask you to not do that."
+    },
+    {
+      "start": 11.43,
+      "end": 17.37,
+      "text": "There are two reasons that you really need a human editing step in your"
+    },
+    {
+      "start": 18.33,
+      "end": 24.39,
+      "text": "content. Okay, number one is to prevent hallucination. If you don't know hallucination is a polite word"
+    },
+    {
+      "start": 24.51,
+      "end": 28.95,
+      "text": "that basically means the AI just makes things up, right? AI can't"
+    },
+    {
+      "start": 29.11,
+      "end": 34.03,
+      "text": "fact-check, it just makes things up and states it very confidently and very wrong."
+    },
+    {
+      "start": 34.19,
+      "end": 40.39,
+      "text": "So you'll want to fact-check a lot of the stated information to make sure it actually is correct. And number two,"
+    },
+    {
+      "start": 40.83,
+      "end": 48.15,
+      "text": "AI, right now at least, it struggles with adding human uniqueness, perspective, experience, advice, opinion."
+    },
+    {
+      "start": 48.71,
+      "end": 52.71,
+      "text": "The new version ChatGPT40 for Omni is getting better at that,"
+    },
+    {
+      "start": 53.27,
+      "end": 56.91,
+      "text": "but it still struggles compared to a human writer because, you know,"
+    },
+    {
+      "start": 56.91,
+      "end": 60.43,
+      "text": "it doesn't actually have any human experiences. So"
+    },
+    {
+      "start": 61.27,
+      "end": 64.43,
+      "text": "fact-checking is the goal to prevent hallucination."
+    },
+    {
+      "start": 65.27,
+      "end": 73.03,
+      "text": "Really, you know, anytime you see a fact inserted into the content, just quickly double-check that. Google search, look for a trusted source"
+    },
+    {
+      "start": 73.03,
+      "end": 78.91,
+      "text": "that's going to give you, hopefully, verify that information or edit it so that it is correct."
+    },
+    {
+      "start": 78.91,
+      "end": 85.67,
+      "text": "And for human editing, when we get to the prompts that we use, you'll see that what we do is we ask ChatGPT"
+    },
+    {
+      "start": 85.79,
+      "end": 92.79,
+      "text": "to add human experiences, human stories, and metaphors, and all of this to try to mimic a human writing, a human writer."
+    },
+    {
+      "start": 93.55,
+      "end": 95.55,
+      "text": "Often, those experiences"
+    },
+    {
+      "start": 96.59,
+      "end": 99.83,
+      "text": "they're obviously all made up and they're often not very good."
+    },
+    {
+      "start": 100.47,
+      "end": 107.75,
+      "text": "So the real goal of human editing is to take those sections where ChatGPT has inserted, you know,"
+    },
+    {
+      "start": 107.75,
+      "end": 110.27,
+      "text": "mediocre human experience stories and"
+    },
+    {
+      "start": 110.87,
+      "end": 116.11,
+      "text": "improve them by using your own or your editor's actual human experience"
+    },
+    {
+      "start": 116.63,
+      "end": 121.03,
+      "text": "to talk about, you know, what it's like to be human and add that perspective."
+    },
+    {
+      "start": 121.19,
+      "end": 124.07,
+      "text": "So my advice is to not skip it."
+    },
+    {
+      "start": 124.07,
+      "end": 129.63,
+      "text": "We know that Google doesn't care if your content is AI or not. Google cares if it is helpful,"
+    },
+    {
+      "start": 129.87,
+      "end": 136.75,
+      "text": "if the if its searchers are engaging with your content and interacting with it. But in my experience doing this,"
+    },
+    {
+      "start": 137.71,
+      "end": 143.31,
+      "text": "peer AI content, even from the newest ChatGPT 4.0, is just not good enough"
+    },
+    {
+      "start": 143.63,
+      "end": 150.91,
+      "text": "to create the level of user engagement that you need if you want to rank under the first page and stop there."
+    },
+    {
+      "start": 151.51,
+      "end": 158.07,
+      "text": "Plus, human editing is typically relatively inexpensive. So we can publish an article for, you know,"
+    },
+    {
+      "start": 158.91,
+      "end": 161.07,
+      "text": "$10 in total amount of cost."
+    },
+    {
+      "start": 161.27,
+      "end": 168.19,
+      "text": "That's the time of my editor to have ChatGPT generate the article and the time of my editor to actually do the human editing."
+    },
+    {
+      "start": 168.19,
+      "end": 170.23,
+      "text": "So it doesn't take a huge amount of time."
+    },
+    {
+      "start": 170.23,
+      "end": 176.27,
+      "text": "And I think it's a really important step to make sure that any ranking you get, any traffic you get,"
+    },
+    {
+      "start": 176.55,
+      "end": 182.07,
+      "text": "are not going to be temporary, especially as ChatGPT as AI content gets better and better and better."
+    },
+    {
+      "start": 182.07,
+      "end": 187.47,
+      "text": "In my mind, this becomes more and more important to separate your content from what your competition is doing."
+    }
+  ],
+  "transcript_text": "So I know it's highly, highly tempting to take content directly from AI and publish it to your website. So the whole point of this is to ask you to not do that. There are two reasons that you really need a human editing step in your content. Okay, number one is to prevent hallucination. If you don't know hallucination is a polite word that basically means the AI just makes things up, right? AI can't fact-check, it just makes things up and states it very confidently and very wrong. So you'll want to fact-check a lot of the stated information to make sure it actually is correct. And number two, AI, right now at least, it struggles with adding human uniqueness, perspective, experience, advice, opinion. The new version ChatGPT40 for Omni is getting better at that, but it still struggles compared to a human writer because, you know, it doesn't actually have any human experiences. So fact-checking is the goal to prevent hallucination. Really, you know, anytime you see a fact inserted into the content, just quickly double-check that. Google search, look for a trusted source that's going to give you, hopefully, verify that information or edit it so that it is correct. And for human editing, when we get to the prompts that we use, you'll see that what we do is we ask ChatGPT to add human experiences, human stories, and metaphors, and all of this to try to mimic a human writing, a human writer. Often, those experiences they're obviously all made up and they're often not very good. So the real goal of human editing is to take those sections where ChatGPT has inserted, you know, mediocre human experience stories and improve them by using your own or your editor's actual human experience to talk about, you know, what it's like to be human and add that perspective. So my advice is to not skip it. We know that Google doesn't care if your content is AI or not. Google cares if it is helpful, if the if its searchers are engaging with your content and interacting with it. But in my experience doing this, peer AI content, even from the newest ChatGPT 4.0, is just not good enough to create the level of user engagement that you need if you want to rank under the first page and stop there. Plus, human editing is typically relatively inexpensive. So we can publish an article for, you know, $10 in total amount of cost. That's the time of my editor to have ChatGPT generate the article and the time of my editor to actually do the human editing. So it doesn't take a huge amount of time. And I think it's a really important step to make sure that any ranking you get, any traffic you get, are not going to be temporary, especially as ChatGPT as AI content gets better and better and better. In my mind, this becomes more and more important to separate your content from what your competition is doing.",
   "summary": "",
   "key_points": [],
   "tags": []

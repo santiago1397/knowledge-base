@@ -7,8 +7,99 @@
   "video_url": "https://www.loom.com/share/dd47514ec64444d9ba05c8c8a61b5d71?sid=d01aca22-b116-419d-85c6-24da3af1572f?hide_owner=true&hide_share=true&hide_title=true&hideEmbedTopBar=true",
   "video_file": "8874f8c8_when-to-use-a-sitemap [dd47514ec64444d9ba05c8c8a61b5d71].mp4",
   "content_md": "# When to Use a Sitemap\n\n- Code: 8874f8c8\n- Source: https://www.skool.com/ai-seo-mastery-pro/classroom/63a81f62?md=8874f8c85ddf465a9dfe0a99600c2d54\n- Video: https://www.loom.com/share/dd47514ec64444d9ba05c8c8a61b5d71?sid=d01aca22-b116-419d-85c6-24da3af1572f?hide_owner=true&hide_share=true&hide_title=true&hideEmbedTopBar=true\n- Duration: 1m 31s\n\n## Description\n\n_(no description)_\n",
-  "transcript": [],
-  "transcript_text": "",
+  "transcript": [
+    {
+      "start": 0.11,
+      "end": 7.23,
+      "text": "So let's talk about a sitemap for most domains most websites. I think what's a sitemap is a complete waste of time and"
+    },
+    {
+      "start": 7.67,
+      "end": 9.67,
+      "text": "I have a lot of"
+    },
+    {
+      "start": 10.19,
+      "end": 12.19,
+      "text": "Evidence to support this conclusion"
+    },
+    {
+      "start": 13.11,
+      "end": 19.39,
+      "text": "With a sitemap basically a sitemap is designed to help Google find the URLs that you want Google to index"
+    },
+    {
+      "start": 19.71,
+      "end": 24.35,
+      "text": "But Google is already very good at finding URLs if Google can't find your URLs"
+    },
+    {
+      "start": 24.59,
+      "end": 29.87,
+      "text": "Then something else is wrong very rarely will a sitemap fix your problem"
+    },
+    {
+      "start": 29.99,
+      "end": 36.51,
+      "text": "Okay, you need to make sure your website has proper structure proper internal links proper external links that the content is"
+    },
+    {
+      "start": 37.15,
+      "end": 42.87,
+      "text": "Quality that Google wants to index it if you're not getting indexed very very rarely"
+    },
+    {
+      "start": 42.87,
+      "end": 46.75,
+      "text": "Unless you have a massive website will a sitemap fix your problem"
+    },
+    {
+      "start": 46.75,
+      "end": 49.95,
+      "text": "I have tried this so many times, you know, maybe a site"
+    },
+    {
+      "start": 49.95,
+      "end": 54.91,
+      "text": "We weren't getting indexed like I wanted it to so I went through the effort of creating a sitemap"
+    },
+    {
+      "start": 55.19,
+      "end": 60.27,
+      "text": "Going into the search console telling Google where the sitemap was and it would not help indexing at all"
+    },
+    {
+      "start": 60.39,
+      "end": 66.51,
+      "text": "Okay, so unless you have a big a big website like two three four hundred"
+    },
+    {
+      "start": 66.79,
+      "end": 72.99,
+      "text": "URLs or bigger this sitemap really isn't going to fix your problems if you're having problems getting indexed"
+    },
+    {
+      "start": 73.27,
+      "end": 77.99,
+      "text": "Something else is wrong. Go ahead and reach out. We can chat we can figure out what else is wrong"
+    },
+    {
+      "start": 78.23,
+      "end": 80.03,
+      "text": "but"
+    },
+    {
+      "start": 80.03,
+      "end": 84.83,
+      "text": "99% of the time if you're having trouble getting indexed a sitemap won't help you and if you're not"
+    },
+    {
+      "start": 84.91,
+      "end": 90.99,
+      "text": "Having trouble getting indexed then a sitemap certainly won't help you. So usually don't worry about it"
+    }
+  ],
+  "transcript_text": "So let's talk about a sitemap for most domains most websites. I think what's a sitemap is a complete waste of time and I have a lot of Evidence to support this conclusion With a sitemap basically a sitemap is designed to help Google find the URLs that you want Google to index But Google is already very good at finding URLs if Google can't find your URLs Then something else is wrong very rarely will a sitemap fix your problem Okay, you need to make sure your website has proper structure proper internal links proper external links that the content is Quality that Google wants to index it if you're not getting indexed very very rarely Unless you have a massive website will a sitemap fix your problem I have tried this so many times, you know, maybe a site We weren't getting indexed like I wanted it to so I went through the effort of creating a sitemap Going into the search console telling Google where the sitemap was and it would not help indexing at all Okay, so unless you have a big a big website like two three four hundred URLs or bigger this sitemap really isn't going to fix your problems if you're having problems getting indexed Something else is wrong. Go ahead and reach out. We can chat we can figure out what else is wrong but 99% of the time if you're having trouble getting indexed a sitemap won't help you and if you're not Having trouble getting indexed then a sitemap certainly won't help you. So usually don't worry about it",
   "summary": "",
   "key_points": [],
   "tags": []

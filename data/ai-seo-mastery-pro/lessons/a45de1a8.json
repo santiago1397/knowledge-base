@@ -1,0 +1,96 @@
+{
+  "course": "ai-seo-mastery-pro",
+  "code": "a45de1a8",
+  "title": "Generate Topical Relevance",
+  "duration": "1m25s",
+  "source_url": "https://www.skool.com/ai-seo-mastery-pro/classroom/63a81f62?md=a45de1a80fc34c518d419a68e50a8881",
+  "video_url": "https://www.loom.com/share/0c8711b672de45eba9e02f6c730ac92d?sid=74d24924-fd07-4311-9a41-2c3e2d0b1462?hide_owner=true&hide_share=true&hide_title=true&hideEmbedTopBar=true",
+  "video_file": "a45de1a8_generate-topical-relevance [0c8711b672de45eba9e02f6c730ac92d].mp4",
+  "content_md": "# Generate Topical Relevance\n\n- Code: a45de1a8\n- Source: https://www.skool.com/ai-seo-mastery-pro/classroom/63a81f62?md=a45de1a80fc34c518d419a68e50a8881\n- Video: https://www.loom.com/share/0c8711b672de45eba9e02f6c730ac92d?sid=74d24924-fd07-4311-9a41-2c3e2d0b1462?hide_owner=true&hide_share=true&hide_title=true&hideEmbedTopBar=true\n- Duration: 1m 25s\n- Resources:\n  - [Topical Relevance Prompt](None)\n\n## Description\n\n_(no description)_\n",
+  "transcript": [
+    {
+      "start": 0.24,
+      "end": 7.6,
+      "text": "All right, so let's talk about topical relevance in my opinion. This is more important than keyword research in the modern Google algorithm"
+    },
+    {
+      "start": 7.6,
+      "end": 10.4,
+      "text": "That's not to say keyword research isn't important at all"
+    },
+    {
+      "start": 10.56,
+      "end": 18.58,
+      "text": "But this topical relevance is really how we're going to convince Google's algorithm that your website or your client's website is the"
+    },
+    {
+      "start": 18.96,
+      "end": 20.08,
+      "text": "comprehensive"
+    },
+    {
+      "start": 20.08,
+      "end": 29.16,
+      "text": "Authority on the topic you are interested in ranking for so I have the prompt and I'm going to do graphic design"
+    },
+    {
+      "start": 29.44,
+      "end": 35.64,
+      "text": "You have access to it. It's right in the module. So if I give chat, oh here, let me let me let me come back real quick"
+    },
+    {
+      "start": 36.24,
+      "end": 44.2,
+      "text": "Sorry about that. I just realized I had the wrong GPT selected"
+    },
+    {
+      "start": 44.2,
+      "end": 48.82,
+      "text": "You want to make sure you have the correct one selected for oh for Omni is the newest best one"
+    },
+    {
+      "start": 48.82,
+      "end": 52.68,
+      "text": "So that's what I'm going to use if there's a newer better one out when you're watching this use that one"
+    },
+    {
+      "start": 53.24,
+      "end": 59.08,
+      "text": "So here is what they have given me 25 topics related to graphic design. I was very specific in the prompt"
+    },
+    {
+      "start": 59.08,
+      "end": 62.08,
+      "text": "I wanted to make sure chat GPT new"
+    },
+    {
+      "start": 63.08,
+      "end": 65.08,
+      "text": "How important it was"
+    },
+    {
+      "start": 65.16,
+      "end": 70.88,
+      "text": "That these be semantically relevant according to Google's algorithm. So that's right here"
+    },
+    {
+      "start": 70.88,
+      "end": 74.44,
+      "text": "I don't want them to be what chat GPT considers semantically relevant"
+    },
+    {
+      "start": 74.44,
+      "end": 80.76,
+      "text": "I want them to be what Google's algorithm considers them semantically relevant. So here we go. We have these new 25"
+    },
+    {
+      "start": 81.64,
+      "end": 85.12,
+      "text": "Topics, okay, so that's it for this step"
+    }
+  ],
+  "transcript_text": "All right, so let's talk about topical relevance in my opinion. This is more important than keyword research in the modern Google algorithm That's not to say keyword research isn't important at all But this topical relevance is really how we're going to convince Google's algorithm that your website or your client's website is the comprehensive Authority on the topic you are interested in ranking for so I have the prompt and I'm going to do graphic design You have access to it. It's right in the module. So if I give chat, oh here, let me let me let me come back real quick Sorry about that. I just realized I had the wrong GPT selected You want to make sure you have the correct one selected for oh for Omni is the newest best one So that's what I'm going to use if there's a newer better one out when you're watching this use that one So here is what they have given me 25 topics related to graphic design. I was very specific in the prompt I wanted to make sure chat GPT new How important it was That these be semantically relevant according to Google's algorithm. So that's right here I don't want them to be what chat GPT considers semantically relevant I want them to be what Google's algorithm considers them semantically relevant. So here we go. We have these new 25 Topics, okay, so that's it for this step",
+  "summary": "",
+  "key_points": [],
+  "tags": []
+}

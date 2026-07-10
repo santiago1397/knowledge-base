@@ -7,8 +7,319 @@
   "video_url": "https://player.vimeo.com/video/1094175058",
   "video_file": "f630a6f9_non-local-seo-engagement-plan [1094175058].mp4",
   "content_md": "# Non-Local SEO Engagement Plan\n\n- Code: f630a6f9\n- Source: https://www.skool.com/ai-seo-mastery-pro/classroom/63a81f62?md=f630a6f9bafc458ca0345583dea24531\n- Video: https://vimeo.com/1094175058?share=copy\n- Duration: 5m 16s\n\n## Description\n\n_(no description)_\n",
-  "transcript": [],
-  "transcript_text": "",
+  "transcript": [
+    {
+      "start": 0.24,
+      "end": 6.32,
+      "text": "So this is a question that I get all the time. How do we manage ongoing SEO engagements with existing clients?"
+    },
+    {
+      "start": 6.32,
+      "end": 9.52,
+      "text": "So let me break it down. This is gonna be pretty quick. There's only a handful of slides"
+    },
+    {
+      "start": 9.52,
+      "end": 12.4,
+      "text": "What we do is pretty simple for ongoing SEO engagements"
+    },
+    {
+      "start": 12.64,
+      "end": 14.92,
+      "text": "So the first month of a brand new client"
+    },
+    {
+      "start": 14.92,
+      "end": 19.6,
+      "text": "We're gonna do a content audit to find the low-hanging fruit that we can hopefully rank fairly quickly"
+    },
+    {
+      "start": 20.16,
+      "end": 26.92,
+      "text": "Then in month two we do it again and we basically just keep doing that except we don't redo the content audit"
+    },
+    {
+      "start": 26.92,
+      "end": 30.24,
+      "text": "We just choose a different target the content audit we did on month one"
+    },
+    {
+      "start": 30.68,
+      "end": 35.56,
+      "text": "Hopefully we'll have a handful of targets and depending on the scope of work the size of the engagement"
+    },
+    {
+      "start": 35.56,
+      "end": 41.84,
+      "text": "We might not be able to get through all of those in the first month. So we just in second month choosing another one third month"
+    },
+    {
+      "start": 41.84,
+      "end": 43.84,
+      "text": "choose another one and"
+    },
+    {
+      "start": 44.12,
+      "end": 48.92,
+      "text": "Every three four five six months. We repeat the content audit to find new targets"
+    },
+    {
+      "start": 49.72,
+      "end": 54.0,
+      "text": "And what we'll see is as the site ranks higher does better"
+    },
+    {
+      "start": 54.08,
+      "end": 61.52,
+      "text": "We'll see rank improvements across the entire domain. So repeating the content audit finds more opportunities and identifies if the work that we did"
+    },
+    {
+      "start": 61.6,
+      "end": 66.4,
+      "text": "the prior months has successfully pushed things onto the first page and"
+    },
+    {
+      "start": 66.92,
+      "end": 71.0,
+      "text": "Always keeps us with plenty more work to do for that given client"
+    },
+    {
+      "start": 71.0,
+      "end": 79.08,
+      "text": "that's valuable and driving results and that is basically what we do for SEO very simple just producing content or"
+    },
+    {
+      "start": 80.12,
+      "end": 83.4,
+      "text": "Producing supporting content links to that supporting content"
+    },
+    {
+      "start": 83.4,
+      "end": 86.6,
+      "text": "We do a content audit every three to six months"
+    },
+    {
+      "start": 87.4,
+      "end": 94.12,
+      "text": "To find new targets as we keep publishing content that Google lights that content makes the site more and more authoritative"
+    },
+    {
+      "start": 94.8,
+      "end": 101.0,
+      "text": "More and more comprehensive remember never publish a piece of content without sourcing an external link to it"
+    },
+    {
+      "start": 101.84,
+      "end": 104.64,
+      "text": "The external link shows Google that content is good"
+    },
+    {
+      "start": 104.64,
+      "end": 110.12,
+      "text": "If you skip that step Google won't know the content is any good and it won't have any effect at all"
+    },
+    {
+      "start": 110.12,
+      "end": 117.36,
+      "text": "You need to publish external links to the content that you're writing all the time and yeah, no fancy tricks"
+    },
+    {
+      "start": 118.8,
+      "end": 123.52,
+      "text": "Just publish good supporting content using the chat GPT methods"
+    },
+    {
+      "start": 124.6,
+      "end": 130.4,
+      "text": "Get your internal linking correct and then get your external linking move on to the next target"
+    },
+    {
+      "start": 130.84,
+      "end": 139.0,
+      "text": "Okay, so path forward non-local SEO just a very broad overview. Here's what we do on a regular basis, right?"
+    },
+    {
+      "start": 139.2,
+      "end": 142.76,
+      "text": "We're going to do a topical relevance map sometimes you do keyword research"
+    },
+    {
+      "start": 142.76,
+      "end": 151.28,
+      "text": "Sometimes we don't do keyword research, but we always do a topical relevance map topical relevance is incredibly incredibly important in Google's modern algorithm"
+    },
+    {
+      "start": 151.88,
+      "end": 155.88,
+      "text": "The reason I say that I'm showing you this example cakes by MK comm"
+    },
+    {
+      "start": 155.92,
+      "end": 161.56,
+      "text": "They are a masterful case study in generating topical relevance for cakes"
+    },
+    {
+      "start": 161.56,
+      "end": 167.0,
+      "text": "You can see a very very low domain rating domain rating of 16. That's quite low and they're getting"
+    },
+    {
+      "start": 167.88,
+      "end": 174.52,
+      "text": "200,000 traffic from 41,000 keywords and if we look at their keywords, we can see they're all about cake"
+    },
+    {
+      "start": 174.56,
+      "end": 183.2,
+      "text": "Right, so they did a topical relevance map for cake and then they basically wrote every single article that they could about cakes a"
+    },
+    {
+      "start": 183.88,
+      "end": 188.4,
+      "text": "Quick way. I love this site colon search. Let me pull this down so you can see what I'm doing"
+    },
+    {
+      "start": 189.08,
+      "end": 190.36,
+      "text": "and"
+    },
+    {
+      "start": 190.36,
+      "end": 193.16,
+      "text": "We used to show right here now. I got a kind of click"
+    },
+    {
+      "start": 193.88,
+      "end": 198.4,
+      "text": "And there are two hundred and twelve results, so they wrote two hundred and twelve articles about cakes"
+    },
+    {
+      "start": 199.48,
+      "end": 200.72,
+      "text": "domain rating of"
+    },
+    {
+      "start": 200.72,
+      "end": 202.72,
+      "text": "16 or something 16 and"
+    },
+    {
+      "start": 203.76,
+      "end": 209.44,
+      "text": "200,000 visitors a month you can see how much it's exploded. So this is why we focus on topical relevance"
+    },
+    {
+      "start": 209.44,
+      "end": 216.64,
+      "text": "So we want to Google to see that our client's website our client is the leader in this space"
+    },
+    {
+      "start": 216.64,
+      "end": 220.04,
+      "text": "They have a lot of expertise a lot of authority on"
+    },
+    {
+      "start": 220.8,
+      "end": 224.16,
+      "text": "Whatever the topic is so we're going to create this topical relevance map"
+    },
+    {
+      "start": 224.16,
+      "end": 229.4,
+      "text": "There's lessons on how to do that. You're going to get hundreds of content ideas. You're going to generate all of the content"
+    },
+    {
+      "start": 230.28,
+      "end": 232.28,
+      "text": "Again using the chat GPT"
+    },
+    {
+      "start": 232.56,
+      "end": 237.52,
+      "text": "Content generation section here. You're going to point links every article you publish should have a link"
+    },
+    {
+      "start": 237.52,
+      "end": 241.92,
+      "text": "Otherwise Google doesn't know it's any good and then repeat you can generate more"
+    },
+    {
+      "start": 243.0,
+      "end": 249.0,
+      "text": "Topical relevance ideas with similar prompts if you've written all the hundreds of articles you can add"
+    },
+    {
+      "start": 249.6,
+      "end": 254.76,
+      "text": "Content that is sort of in the same space but set up a different niche silo"
+    },
+    {
+      "start": 254.96,
+      "end": 258.36,
+      "text": "But essentially for non-local SEO, it's really just about"
+    },
+    {
+      "start": 258.88,
+      "end": 264.6,
+      "text": "Generating a bunch of topically relevant content as I've said many times before I'll repeat it here"
+    },
+    {
+      "start": 264.64,
+      "end": 268.44,
+      "text": "Do not take AI content and directly copy paste it to your website"
+    },
+    {
+      "start": 268.44,
+      "end": 275.6,
+      "text": "We've seen that generally will not work very well a human editor is very important to do this and also keep in mind"
+    },
+    {
+      "start": 275.6,
+      "end": 277.6,
+      "text": "Let me pull it up real quick"
+    },
+    {
+      "start": 277.88,
+      "end": 284.32,
+      "text": "When we're looking at this if I look at the organic keywords and I can come and take a look at the organic keyword data"
+    },
+    {
+      "start": 285.84,
+      "end": 288.16,
+      "text": "One of the things that we want to focus on is"
+    },
+    {
+      "start": 289.28,
+      "end": 291.48,
+      "text": "This SERP overview down at the bottom"
+    },
+    {
+      "start": 292.0,
+      "end": 296.64,
+      "text": "And again like if we're doing topical relevance, we just want the content regardless"
+    },
+    {
+      "start": 298.36,
+      "end": 302.76,
+      "text": "But we might look at the domain ratings and I mean a lot of these are quite high"
+    },
+    {
+      "start": 303.08,
+      "end": 306.68,
+      "text": "Cakes by MK is the only one that's low again"
+    },
+    {
+      "start": 306.68,
+      "end": 314.48,
+      "text": "Like just so much content so much about cakes. They've really established topical relevance with Google's algorithm"
+    },
+    {
+      "start": 314.48,
+      "end": 316.48,
+      "text": "So that's what we want to do"
+    }
+  ],
+  "transcript_text": "So this is a question that I get all the time. How do we manage ongoing SEO engagements with existing clients? So let me break it down. This is gonna be pretty quick. There's only a handful of slides What we do is pretty simple for ongoing SEO engagements So the first month of a brand new client We're gonna do a content audit to find the low-hanging fruit that we can hopefully rank fairly quickly Then in month two we do it again and we basically just keep doing that except we don't redo the content audit We just choose a different target the content audit we did on month one Hopefully we'll have a handful of targets and depending on the scope of work the size of the engagement We might not be able to get through all of those in the first month. So we just in second month choosing another one third month choose another one and Every three four five six months. We repeat the content audit to find new targets And what we'll see is as the site ranks higher does better We'll see rank improvements across the entire domain. So repeating the content audit finds more opportunities and identifies if the work that we did the prior months has successfully pushed things onto the first page and Always keeps us with plenty more work to do for that given client that's valuable and driving results and that is basically what we do for SEO very simple just producing content or Producing supporting content links to that supporting content We do a content audit every three to six months To find new targets as we keep publishing content that Google lights that content makes the site more and more authoritative More and more comprehensive remember never publish a piece of content without sourcing an external link to it The external link shows Google that content is good If you skip that step Google won't know the content is any good and it won't have any effect at all You need to publish external links to the content that you're writing all the time and yeah, no fancy tricks Just publish good supporting content using the chat GPT methods Get your internal linking correct and then get your external linking move on to the next target Okay, so path forward non-local SEO just a very broad overview. Here's what we do on a regular basis, right? We're going to do a topical relevance map sometimes you do keyword research Sometimes we don't do keyword research, but we always do a topical relevance map topical relevance is incredibly incredibly important in Google's modern algorithm The reason I say that I'm showing you this example cakes by MK comm They are a masterful case study in generating topical relevance for cakes You can see a very very low domain rating domain rating of 16. That's quite low and they're getting 200,000 traffic from 41,000 keywords and if we look at their keywords, we can see they're all about cake Right, so they did a topical relevance map for cake and then they basically wrote every single article that they could about cakes a Quick way. I love this site colon search. Let me pull this down so you can see what I'm doing and We used to show right here now. I got a kind of click And there are two hundred and twelve results, so they wrote two hundred and twelve articles about cakes domain rating of 16 or something 16 and 200,000 visitors a month you can see how much it's exploded. So this is why we focus on topical relevance So we want to Google to see that our client's website our client is the leader in this space They have a lot of expertise a lot of authority on Whatever the topic is so we're going to create this topical relevance map There's lessons on how to do that. You're going to get hundreds of content ideas. You're going to generate all of the content Again using the chat GPT Content generation section here. You're going to point links every article you publish should have a link Otherwise Google doesn't know it's any good and then repeat you can generate more Topical relevance ideas with similar prompts if you've written all the hundreds of articles you can add Content that is sort of in the same space but set up a different niche silo But essentially for non-local SEO, it's really just about Generating a bunch of topically relevant content as I've said many times before I'll repeat it here Do not take AI content and directly copy paste it to your website We've seen that generally will not work very well a human editor is very important to do this and also keep in mind Let me pull it up real quick When we're looking at this if I look at the organic keywords and I can come and take a look at the organic keyword data One of the things that we want to focus on is This SERP overview down at the bottom And again like if we're doing topical relevance, we just want the content regardless But we might look at the domain ratings and I mean a lot of these are quite high Cakes by MK is the only one that's low again Like just so much content so much about cakes. They've really established topical relevance with Google's algorithm So that's what we want to do",
   "summary": "",
   "key_points": [],
   "tags": []

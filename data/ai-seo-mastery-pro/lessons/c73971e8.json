@@ -7,8 +7,174 @@
   "video_url": "https://www.loom.com/share/32e064265e9144b88df3a4c1e13f5d3e?sid=d3917478-5a11-4359-bb4f-9a5a3526cd76?hide_owner=true&hide_share=true&hide_title=true&hideEmbedTopBar=true",
   "video_file": "c73971e8_external-anchor-text-guidelines [32e064265e9144b88df3a4c1e13f5d3e].mp4",
   "content_md": "# External Anchor Text Guidelines\n\n- Code: c73971e8\n- Source: https://www.skool.com/ai-seo-mastery-pro/classroom/63a81f62?md=c73971e882f449a4b36db3917e99a29f\n- Video: https://www.loom.com/share/32e064265e9144b88df3a4c1e13f5d3e?sid=d3917478-5a11-4359-bb4f-9a5a3526cd76?hide_owner=true&hide_share=true&hide_title=true&hideEmbedTopBar=true\n- Duration: 2m 59s\n\n## Description\n\n_(no description)_\n",
-  "transcript": [],
-  "transcript_text": "",
+  "transcript": [
+    {
+      "start": 0.37,
+      "end": 6.93,
+      "text": "So external anchor text the overall message here is going to be pretty similar to what we said for internal anchor text"
+    },
+    {
+      "start": 6.93,
+      "end": 10.37,
+      "text": "We want it to look natural. We don't want it to look like a"
+    },
+    {
+      "start": 11.33,
+      "end": 19.71,
+      "text": "Professional SEO has sourced all of this anchor text. So general guidelines. We really do not want to repeat anchor text"
+    },
+    {
+      "start": 19.79,
+      "end": 25.43,
+      "text": "Okay, very long anchor text that is repeated over and over again is a sign of spam"
+    },
+    {
+      "start": 26.21,
+      "end": 34.99,
+      "text": "Just try to avoid repeating anchor text the exception to that is exact match and in that only if you have a lot of links coming in"
+    },
+    {
+      "start": 35.71,
+      "end": 39.55,
+      "text": "So you might repeat exact match once or twice"
+    },
+    {
+      "start": 39.83,
+      "end": 45.37,
+      "text": "But again, that's only if you have like 20 30 40 links coming into a site then you might repeat the exact match"
+    },
+    {
+      "start": 46.67,
+      "end": 50.05,
+      "text": "Keywords if you when you're using keywords you want to incorporate them naturally"
+    },
+    {
+      "start": 50.05,
+      "end": 54.39,
+      "text": "They have to fit in with the flow of the content on the page that has the link"
+    },
+    {
+      "start": 54.39,
+      "end": 56.39,
+      "text": "We know that Google"
+    },
+    {
+      "start": 56.55,
+      "end": 62.19,
+      "text": "Reads the content around the link to decide what the link is about and not just the anchor text itself"
+    },
+    {
+      "start": 62.43,
+      "end": 70.01,
+      "text": "So make sure that your link is in the section of content that is talking about the destination page if possible"
+    },
+    {
+      "start": 71.23,
+      "end": 78.47,
+      "text": "Similarly match the destination URL don't have the anchor text talk about something that isn't related to the URL"
+    },
+    {
+      "start": 78.47,
+      "end": 82.51,
+      "text": "It's linking to you will want to use some generic anchor text"
+    },
+    {
+      "start": 82.63,
+      "end": 88.95,
+      "text": "Click here read more that is much more common for external anchor text than for internal"
+    },
+    {
+      "start": 88.95,
+      "end": 95.71,
+      "text": "I remember for internal we said not to use generic anchor text. That's not true for external. We want to use generic"
+    },
+    {
+      "start": 96.23,
+      "end": 99.27,
+      "text": "We want the anchor text in the body"
+    },
+    {
+      "start": 99.35,
+      "end": 103.51,
+      "text": "We don't want to put it in the footer or the sidebar or heading tag"
+    },
+    {
+      "start": 103.51,
+      "end": 105.95,
+      "text": "We just in the body of the text is the best place for them"
+    },
+    {
+      "start": 105.95,
+      "end": 110.79,
+      "text": "And also we want to use some branding and some just naked URLs"
+    },
+    {
+      "start": 110.79,
+      "end": 118.83,
+      "text": "I know we said not to do that for internal but for external. We definitely want to so the guidance for how much of each to use"
+    },
+    {
+      "start": 119.43,
+      "end": 124.51,
+      "text": "30% of the link should be branded and 20% or so should be generic click here or similar"
+    },
+    {
+      "start": 124.59,
+      "end": 131.61,
+      "text": "So that's about half of the external anchor text would not be keyword rich and not include any keywords on it at all"
+    },
+    {
+      "start": 132.19,
+      "end": 134.19,
+      "text": "a 30% of it"
+    },
+    {
+      "start": 134.39,
+      "end": 139.63,
+      "text": "Keyword rich partial match. So there you're going to add like extra words or something like that"
+    },
+    {
+      "start": 140.19,
+      "end": 141.35,
+      "text": "so"
+    },
+    {
+      "start": 141.35,
+      "end": 143.51,
+      "text": "So that you have keyword rich"
+    },
+    {
+      "start": 143.51,
+      "end": 148.63,
+      "text": "But it is not the exact match keyword you're trying to rank and here you have 5% exact match again"
+    },
+    {
+      "start": 148.63,
+      "end": 153.35,
+      "text": "You might have two or three that repeat that exact match anchor text"
+    },
+    {
+      "start": 153.59,
+      "end": 160.59,
+      "text": "If you have a bunch of links coming in and then the 15% for natural variations. So this wouldn't include the keyword"
+    },
+    {
+      "start": 161.31,
+      "end": 166.35,
+      "text": "But it would include a natural variation of that keyword like lawyer attorney type of"
+    },
+    {
+      "start": 167.27,
+      "end": 174.35,
+      "text": "Variation so keep these rules in mind as you do your external anchor text these percentages are guidelines"
+    },
+    {
+      "start": 174.59,
+      "end": 179.19,
+      "text": "Really the focus is to make sure that it is a natural looking link profile"
+    }
+  ],
+  "transcript_text": "So external anchor text the overall message here is going to be pretty similar to what we said for internal anchor text We want it to look natural. We don't want it to look like a Professional SEO has sourced all of this anchor text. So general guidelines. We really do not want to repeat anchor text Okay, very long anchor text that is repeated over and over again is a sign of spam Just try to avoid repeating anchor text the exception to that is exact match and in that only if you have a lot of links coming in So you might repeat exact match once or twice But again, that's only if you have like 20 30 40 links coming into a site then you might repeat the exact match Keywords if you when you're using keywords you want to incorporate them naturally They have to fit in with the flow of the content on the page that has the link We know that Google Reads the content around the link to decide what the link is about and not just the anchor text itself So make sure that your link is in the section of content that is talking about the destination page if possible Similarly match the destination URL don't have the anchor text talk about something that isn't related to the URL It's linking to you will want to use some generic anchor text Click here read more that is much more common for external anchor text than for internal I remember for internal we said not to use generic anchor text. That's not true for external. We want to use generic We want the anchor text in the body We don't want to put it in the footer or the sidebar or heading tag We just in the body of the text is the best place for them And also we want to use some branding and some just naked URLs I know we said not to do that for internal but for external. We definitely want to so the guidance for how much of each to use 30% of the link should be branded and 20% or so should be generic click here or similar So that's about half of the external anchor text would not be keyword rich and not include any keywords on it at all a 30% of it Keyword rich partial match. So there you're going to add like extra words or something like that so So that you have keyword rich But it is not the exact match keyword you're trying to rank and here you have 5% exact match again You might have two or three that repeat that exact match anchor text If you have a bunch of links coming in and then the 15% for natural variations. So this wouldn't include the keyword But it would include a natural variation of that keyword like lawyer attorney type of Variation so keep these rules in mind as you do your external anchor text these percentages are guidelines Really the focus is to make sure that it is a natural looking link profile",
   "summary": "",
   "key_points": [],
   "tags": []

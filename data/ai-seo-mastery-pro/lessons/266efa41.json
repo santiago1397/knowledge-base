@@ -1,0 +1,306 @@
+{
+  "course": "ai-seo-mastery-pro",
+  "code": "266efa41",
+  "title": "Creating a Content Planner",
+  "duration": "4m37s",
+  "source_url": "https://www.skool.com/ai-seo-mastery-pro/classroom/63a81f62?md=266efa416d54488da65903ec609d84ca",
+  "video_url": "https://www.loom.com/share/56f639021e0743ccb015625c825f170c?sid=cb9ee20e-d35f-4444-800d-43847ecadfca?hide_owner=true&hide_share=true&hide_title=true&hideEmbedTopBar=true",
+  "video_file": "266efa41_creating-a-content-planner [56f639021e0743ccb015625c825f170c].mp4",
+  "content_md": "# Creating a Content Planner\n\n- Code: 266efa41\n- Source: https://www.skool.com/ai-seo-mastery-pro/classroom/63a81f62?md=266efa416d54488da65903ec609d84ca\n- Video: https://www.loom.com/share/56f639021e0743ccb015625c825f170c?sid=cb9ee20e-d35f-4444-800d-43847ecadfca?hide_owner=true&hide_share=true&hide_title=true&hideEmbedTopBar=true\n- Duration: 4m 37s\n- Resources:\n  - [[DoneForYou] Content Planners](https://icecreamtruck.shop/collections/our-services/products/dfy-content-planner)\n  - [Example Content Planner](None)\n\n## Description\n\n_(no description)_\n",
+  "transcript": [
+    {
+      "start": 0.85,
+      "end": 6.57,
+      "text": "All right, so our process to have chat gpt right content for us is multi-stepped"
+    },
+    {
+      "start": 6.61,
+      "end": 10.65,
+      "text": "So the first thing we're going to do is generate something like this content planner now"
+    },
+    {
+      "start": 10.65,
+      "end": 14.81,
+      "text": "I will be clear this content planner in this format is rather"
+    },
+    {
+      "start": 15.81,
+      "end": 19.85,
+      "text": "Formal right so this would be something that we generate for a client"
+    },
+    {
+      "start": 19.85,
+      "end": 24.09,
+      "text": "We would not generate a document like this if we're using chat gpt"
+    },
+    {
+      "start": 24.09,
+      "end": 29.29,
+      "text": "But we are going to use a lot of the same information and we're just going to copy it somewhere"
+    },
+    {
+      "start": 29.85,
+      "end": 35.91,
+      "text": "A word doc something like that if we're using even if we're just using chat gpt ourselves"
+    },
+    {
+      "start": 36.05,
+      "end": 38.65,
+      "text": "So we're going to go ahead and type in the target search into Google"
+    },
+    {
+      "start": 39.37,
+      "end": 42.85,
+      "text": "That's how we start doing this because remember Google is an open book test"
+    },
+    {
+      "start": 43.01,
+      "end": 46.89,
+      "text": "So then we're going to open up the first few"
+    },
+    {
+      "start": 49.01,
+      "end": 51.01,
+      "text": "Pages that are actually ranking"
+    },
+    {
+      "start": 51.49,
+      "end": 56.45,
+      "text": "Because we want to mimic our content based on what's actually working. Okay?"
+    },
+    {
+      "start": 56.97,
+      "end": 59.21,
+      "text": "So these are the first few pages"
+    },
+    {
+      "start": 60.97,
+      "end": 62.97,
+      "text": "We're going to do a quick"
+    },
+    {
+      "start": 63.09,
+      "end": 66.69,
+      "text": "Word count on these pages. We can do that with page optimizer pro"
+    },
+    {
+      "start": 66.89,
+      "end": 70.65,
+      "text": "We can do it with other word count tools"
+    },
+    {
+      "start": 70.81,
+      "end": 76.65,
+      "text": "But we're basically just going to get the word count of these pages. That's already ranking so we can see"
+    },
+    {
+      "start": 77.17,
+      "end": 81.45,
+      "text": "We did that already at 1600 words now the overall content topic"
+    },
+    {
+      "start": 82.53,
+      "end": 84.53,
+      "text": "that we're going to base on"
+    },
+    {
+      "start": 84.81,
+      "end": 91.01,
+      "text": "What the topics are for the content that's already ranking so we can see it's talking about outdoor"
+    },
+    {
+      "start": 91.57,
+      "end": 94.37,
+      "text": "Oasis backyard of your of your dreams"
+    },
+    {
+      "start": 95.05,
+      "end": 99.25,
+      "text": "So that's where we came up with the motorized pergola functional luxury at the touch of a button"
+    },
+    {
+      "start": 99.73,
+      "end": 103.69,
+      "text": "Because motorized pergola is obviously a very luxury product. Okay?"
+    },
+    {
+      "start": 104.33,
+      "end": 106.49,
+      "text": "So recommend a title tag this"
+    },
+    {
+      "start": 107.17,
+      "end": 112.41,
+      "text": "Will we can actually blank we'll have chat gpt do that and that made a description same thing"
+    },
+    {
+      "start": 112.41,
+      "end": 114.41,
+      "text": "We'll do chat. We'll have chat gpt do that"
+    },
+    {
+      "start": 114.89,
+      "end": 120.37,
+      "text": "So these competitive h2h3h4 tags basically what we're going to do is"
+    },
+    {
+      "start": 121.09,
+      "end": 127.45,
+      "text": "Copy the h2 tags for our competition. So we're gonna copy that one. We're gonna copy that one"
+    },
+    {
+      "start": 128.17,
+      "end": 131.29,
+      "text": "We're gonna copy this one. We're gonna copy this one"
+    },
+    {
+      "start": 132.21,
+      "end": 135.37,
+      "text": "Go to this other one. I don't want notifications from you"
+    },
+    {
+      "start": 136.05,
+      "end": 138.05,
+      "text": "We're gonna copy that"
+    },
+    {
+      "start": 138.77,
+      "end": 141.39,
+      "text": "We're gonna copy this one. We're gonna copy this"
+    },
+    {
+      "start": 142.85,
+      "end": 150.81,
+      "text": "So functional luxury we're gonna copy that one. So here we're just getting an idea for what are the h2 h3 h4 tags"
+    },
+    {
+      "start": 150.97,
+      "end": 155.37,
+      "text": "That Google is currently rewarding. Okay, and then people also ask for that"
+    },
+    {
+      "start": 155.97,
+      "end": 157.61,
+      "text": "We're gonna come"
+    },
+    {
+      "start": 157.61,
+      "end": 163.65,
+      "text": "Back here, and we're going to see if we can find the people also ask section and sometimes it's not shown and"
+    },
+    {
+      "start": 172.26,
+      "end": 177.64,
+      "text": "When that happens, we're just gonna add FAQ and there's the people also also ask section"
+    },
+    {
+      "start": 177.92,
+      "end": 182.4,
+      "text": "So that's what we're looking for. We really want this people also ask section the reason you probably know"
+    },
+    {
+      "start": 183.16,
+      "end": 189.36,
+      "text": "These are questions that Google sees as highly highly relevant to this particular search query"
+    },
+    {
+      "start": 189.36,
+      "end": 193.96,
+      "text": "So we definitely want to grab it and clicking it open and closing it expands the section"
+    },
+    {
+      "start": 193.96,
+      "end": 201.12,
+      "text": "So I'm just gonna grab all of these we're gonna copy it and we're gonna paste it into this people also ask section"
+    },
+    {
+      "start": 201.12,
+      "end": 206.28,
+      "text": "Boom. All right, cool. Now search is related to that's gonna be at the bottom"
+    },
+    {
+      "start": 207.88,
+      "end": 210.58,
+      "text": "So we can copy some of those related searches"
+    },
+    {
+      "start": 211.48,
+      "end": 215.96,
+      "text": "Stop bouncing around there you go. So if we can copy some of these related searches"
+    },
+    {
+      "start": 216.72,
+      "end": 222.92,
+      "text": "Google image subtopics. This is another one that it's kind of weird, but it still works if we hit images in here"
+    },
+    {
+      "start": 222.92,
+      "end": 224.92,
+      "text": "We'll move the FAQ"
+    },
+    {
+      "start": 226.0,
+      "end": 229.92,
+      "text": "Images here are what we're looking for. These are the Google image subtopics"
+    },
+    {
+      "start": 230.56,
+      "end": 236.8,
+      "text": "Which again Google sees is highly relevant to this particular search query. Okay now keyword variations"
+    },
+    {
+      "start": 236.92,
+      "end": 240.48,
+      "text": "LSI keywords for those we're going to use page optimizer pro"
+    },
+    {
+      "start": 240.48,
+      "end": 241.88,
+      "text": "I'm not gonna show you that here"
+    },
+    {
+      "start": 241.88,
+      "end": 246.12,
+      "text": "I'm gonna show you that in the page optimizer pro video. So don't worry about these for now"
+    },
+    {
+      "start": 246.12,
+      "end": 249.44,
+      "text": "We don't actually need these to get chat GPT to write a quality article"
+    },
+    {
+      "start": 249.44,
+      "end": 253.12,
+      "text": "We'll add these in later after chat GPT has already written them"
+    },
+    {
+      "start": 253.48,
+      "end": 260.52,
+      "text": "Okay, and the authority outbound links the references the bio box internal links again all of that is more information for the client"
+    },
+    {
+      "start": 260.76,
+      "end": 262.76,
+      "text": "So that information"
+    },
+    {
+      "start": 262.8,
+      "end": 264.92,
+      "text": "What we collected target length?"
+    },
+    {
+      "start": 265.36,
+      "end": 273.72,
+      "text": "H2 tags people also ask section related searches and Google image subtopics as well as the overall content topic is"
+    },
+    {
+      "start": 274.0,
+      "end": 277.68,
+      "text": "What we need in order to get writing for chat GPT"
+    }
+  ],
+  "transcript_text": "All right, so our process to have chat gpt right content for us is multi-stepped So the first thing we're going to do is generate something like this content planner now I will be clear this content planner in this format is rather Formal right so this would be something that we generate for a client We would not generate a document like this if we're using chat gpt But we are going to use a lot of the same information and we're just going to copy it somewhere A word doc something like that if we're using even if we're just using chat gpt ourselves So we're going to go ahead and type in the target search into Google That's how we start doing this because remember Google is an open book test So then we're going to open up the first few Pages that are actually ranking Because we want to mimic our content based on what's actually working. Okay? So these are the first few pages We're going to do a quick Word count on these pages. We can do that with page optimizer pro We can do it with other word count tools But we're basically just going to get the word count of these pages. That's already ranking so we can see We did that already at 1600 words now the overall content topic that we're going to base on What the topics are for the content that's already ranking so we can see it's talking about outdoor Oasis backyard of your of your dreams So that's where we came up with the motorized pergola functional luxury at the touch of a button Because motorized pergola is obviously a very luxury product. Okay? So recommend a title tag this Will we can actually blank we'll have chat gpt do that and that made a description same thing We'll do chat. We'll have chat gpt do that So these competitive h2h3h4 tags basically what we're going to do is Copy the h2 tags for our competition. So we're gonna copy that one. We're gonna copy that one We're gonna copy this one. We're gonna copy this one Go to this other one. I don't want notifications from you We're gonna copy that We're gonna copy this one. We're gonna copy this So functional luxury we're gonna copy that one. So here we're just getting an idea for what are the h2 h3 h4 tags That Google is currently rewarding. Okay, and then people also ask for that We're gonna come Back here, and we're going to see if we can find the people also ask section and sometimes it's not shown and When that happens, we're just gonna add FAQ and there's the people also also ask section So that's what we're looking for. We really want this people also ask section the reason you probably know These are questions that Google sees as highly highly relevant to this particular search query So we definitely want to grab it and clicking it open and closing it expands the section So I'm just gonna grab all of these we're gonna copy it and we're gonna paste it into this people also ask section Boom. All right, cool. Now search is related to that's gonna be at the bottom So we can copy some of those related searches Stop bouncing around there you go. So if we can copy some of these related searches Google image subtopics. This is another one that it's kind of weird, but it still works if we hit images in here We'll move the FAQ Images here are what we're looking for. These are the Google image subtopics Which again Google sees is highly relevant to this particular search query. Okay now keyword variations LSI keywords for those we're going to use page optimizer pro I'm not gonna show you that here I'm gonna show you that in the page optimizer pro video. So don't worry about these for now We don't actually need these to get chat GPT to write a quality article We'll add these in later after chat GPT has already written them Okay, and the authority outbound links the references the bio box internal links again all of that is more information for the client So that information What we collected target length? H2 tags people also ask section related searches and Google image subtopics as well as the overall content topic is What we need in order to get writing for chat GPT",
+  "summary": "",
+  "key_points": [],
+  "tags": []
+}

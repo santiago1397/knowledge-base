@@ -7,8 +7,134 @@
   "video_url": "https://www.loom.com/share/126ad5f8692b4e2e8f2af14443759d9a?live_rewind=1&hide_share=true&hide_title=true&hideEmbedTopBar=true",
   "video_file": "39eaa610_lovable-html-needed-to-get-ranked [126ad5f8692b4e2e8f2af14443759d9a].mp4",
   "content_md": "# Lovable HTML: NEEDED to Get Ranked\n\n- Code: 39eaa610\n- Source: https://www.skool.com/ai-seo-mastery-pro/classroom/63a81f62?md=39eaa6106330457baf0b09cad69835a1\n- Video: https://www.loom.com/share/126ad5f8692b4e2e8f2af14443759d9a?live_rewind=1&hide_share=true&hide_title=true&hideEmbedTopBar=true\n- Duration: 2m 14s\n\n## Description\n\n_(no description)_\n",
-  "transcript": [],
-  "transcript_text": "",
+  "transcript": [
+    {
+      "start": 0.0,
+      "end": 4.4,
+      "text": "need to use level blades to mel. There's a way that you can do this manually. It involves using a"
+    },
+    {
+      "start": 4.4,
+      "end": 10.8,
+      "text": "pre-rendering service with Cloudflare. I am not a technical web developer. So if I were trying to"
+    },
+    {
+      "start": 10.8,
+      "end": 15.2,
+      "text": "do that, I would basically be using Claude to help guide me every step of the way to set that up."
+    },
+    {
+      "start": 15.2,
+      "end": 21.84,
+      "text": "So I'm not going to guide you in terms of how to set that up manually. If you are not familiar"
+    },
+    {
+      "start": 21.84,
+      "end": 26.24,
+      "text": "with website development, the technical aspects of how to do it, Cloudflare through a pre-rendering"
+    },
+    {
+      "start": 26.24,
+      "end": 30.64,
+      "text": "service, I would suggest maybe finding someone on Upwork or post on the group and see if somebody"
+    },
+    {
+      "start": 30.64,
+      "end": 35.6,
+      "text": "else can help you. Or you can do what we simply do, which is this level blades to mel. It basically"
+    },
+    {
+      "start": 35.6,
+      "end": 42.96,
+      "text": "sets it up for you. It's a one click setup, very, very easy to use. And it is fairly inexpensive."
+    },
+    {
+      "start": 44.32,
+      "end": 49.44,
+      "text": "Yeah, if I come to pricing, yeah, so it's $20 a month for three websites. That's, you know,"
+    },
+    {
+      "start": 49.44,
+      "end": 58.96,
+      "text": "$6.30 per website per month. So in my mind, it's not worth the effort to have someone else set"
+    },
+    {
+      "start": 58.96,
+      "end": 63.6,
+      "text": "this up for me if there's a tool that will do it at this price point. But you might make that"
+    },
+    {
+      "start": 63.6,
+      "end": 67.92,
+      "text": "determination differently, or you might decide to do it yourself. Cloudflare is free. A lot of"
+    },
+    {
+      "start": 67.92,
+      "end": 73.92,
+      "text": "pre-rendering services are free. That's how this can be so inexpensive, because they're basically"
+    },
+    {
+      "start": 74.0,
+      "end": 80.8,
+      "text": "setting up a free thing for you and then taking a long term monthly payment. So I'm not going to"
+    },
+    {
+      "start": 80.8,
+      "end": 86.08,
+      "text": "drop an affiliate link. I'm not affiliating for lovable HTML. This is really just the quickest"
+    },
+    {
+      "start": 86.08,
+      "end": 91.04,
+      "text": "possible way to get a lovable website so that Google can index it. If you just have it built,"
+    },
+    {
+      "start": 91.04,
+      "end": 96.56,
+      "text": "like this one, and even if I went into lovable, I could very easily put a custom domain in here,"
+    },
+    {
+      "start": 96.56,
+      "end": 100.24,
+      "text": "and then send it to the client and say, boom, here's your website, isn't it pretty? And they"
+    },
+    {
+      "start": 100.24,
+      "end": 104.56,
+      "text": "basically say, oh, my gosh, it's so pretty. I love it. But the challenge is, of course,"
+    },
+    {
+      "start": 104.56,
+      "end": 110.48,
+      "text": "Google can't render this website. AI can't render this website. If you take this domain and you"
+    },
+    {
+      "start": 110.48,
+      "end": 116.08,
+      "text": "give it to Cloud or chat GPT and say, hey, go crawl this website, tell me what you see,"
+    },
+    {
+      "start": 116.08,
+      "end": 120.64,
+      "text": "it will say that it can't crawl the website. It's just because of the way that lovable"
+    },
+    {
+      "start": 120.64,
+      "end": 127.52,
+      "text": "builds its websites. So anyway, lovable HTML fixes that. So if you're building these websites to"
+    },
+    {
+      "start": 127.52,
+      "end": 133.2,
+      "text": "actually get them to rank, you need to put something in place so that Google and the AI tools can"
+    },
+    {
+      "start": 133.2,
+      "end": 134.08,
+      "text": "actually see it."
+    }
+  ],
+  "transcript_text": "need to use level blades to mel. There's a way that you can do this manually. It involves using a pre-rendering service with Cloudflare. I am not a technical web developer. So if I were trying to do that, I would basically be using Claude to help guide me every step of the way to set that up. So I'm not going to guide you in terms of how to set that up manually. If you are not familiar with website development, the technical aspects of how to do it, Cloudflare through a pre-rendering service, I would suggest maybe finding someone on Upwork or post on the group and see if somebody else can help you. Or you can do what we simply do, which is this level blades to mel. It basically sets it up for you. It's a one click setup, very, very easy to use. And it is fairly inexpensive. Yeah, if I come to pricing, yeah, so it's $20 a month for three websites. That's, you know, $6.30 per website per month. So in my mind, it's not worth the effort to have someone else set this up for me if there's a tool that will do it at this price point. But you might make that determination differently, or you might decide to do it yourself. Cloudflare is free. A lot of pre-rendering services are free. That's how this can be so inexpensive, because they're basically setting up a free thing for you and then taking a long term monthly payment. So I'm not going to drop an affiliate link. I'm not affiliating for lovable HTML. This is really just the quickest possible way to get a lovable website so that Google can index it. If you just have it built, like this one, and even if I went into lovable, I could very easily put a custom domain in here, and then send it to the client and say, boom, here's your website, isn't it pretty? And they basically say, oh, my gosh, it's so pretty. I love it. But the challenge is, of course, Google can't render this website. AI can't render this website. If you take this domain and you give it to Cloud or chat GPT and say, hey, go crawl this website, tell me what you see, it will say that it can't crawl the website. It's just because of the way that lovable builds its websites. So anyway, lovable HTML fixes that. So if you're building these websites to actually get them to rank, you need to put something in place so that Google and the AI tools can actually see it.",
   "summary": "",
   "key_points": [],
   "tags": []

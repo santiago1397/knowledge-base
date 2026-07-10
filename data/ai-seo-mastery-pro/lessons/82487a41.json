@@ -7,8 +7,239 @@
   "video_url": "https://www.loom.com/share/071dd9b80f524bbfbee6224fe95309a0?hide_owner=true&hide_share=true&hide_title=true&hideEmbedTopBar=true",
   "video_file": "82487a41_ai-content-prioritization-geographic-relevance [071dd9b80f524bbfbee6224fe95309a0].mp4",
   "content_md": "# AI Content Prioritization - Geographic Relevance\n\n- Code: 82487a41\n- Source: https://www.skool.com/ai-seo-mastery-pro/classroom/63a81f62?md=82487a41afb1469786ee7940c70e9558\n- Video: https://www.loom.com/share/071dd9b80f524bbfbee6224fe95309a0?hide_owner=true&hide_share=true&hide_title=true&hideEmbedTopBar=true\n- Duration: 2m 5s\n- Resources:\n  - [Leadsnap](https://app.leadsnap.com/register-caleb-ulku)\n\n## Description\n\n_(no description)_\n",
-  "transcript": [],
-  "transcript_text": "",
+  "transcript": [
+    {
+      "start": 2.32,
+      "end": 3.96,
+      "text": "All right, so let's talk about how"
+    },
+    {
+      "start": 3.96,
+      "end": 7.48,
+      "text": "to prioritize geographical content production."
+    },
+    {
+      "start": 7.48,
+      "end": 11.44,
+      "text": "If your rank map looks like this,"
+    },
+    {
+      "start": 11.44,
+      "end": 14.28,
+      "text": "then you don't need geographical content production."
+    },
+    {
+      "start": 14.28,
+      "end": 16.4,
+      "text": "What you need is just to finish up the Core 30"
+    },
+    {
+      "start": 16.4,
+      "end": 19.64,
+      "text": "and then topical relevance if it continues to look like that."
+    },
+    {
+      "start": 19.64,
+      "end": 24.48,
+      "text": "So instead, I ran this example of a business"
+    },
+    {
+      "start": 24.48,
+      "end": 28.88,
+      "text": "that's doing pretty well, but we want to prioritize content"
+    },
+    {
+      "start": 28.88,
+      "end": 30.56,
+      "text": "to turn even more of these green."
+    },
+    {
+      "start": 30.56,
+      "end": 32.12,
+      "text": "So when we're prioritizing content,"
+    },
+    {
+      "start": 32.12,
+      "end": 33.92,
+      "text": "we're looking for fours and fives,"
+    },
+    {
+      "start": 33.92,
+      "end": 35.84,
+      "text": "and we're going to write geographical content"
+    },
+    {
+      "start": 35.84,
+      "end": 37.8,
+      "text": "about those fours and fives."
+    },
+    {
+      "start": 37.8,
+      "end": 40.56,
+      "text": "But you can see there are quite a few fours and fives here."
+    },
+    {
+      "start": 40.56,
+      "end": 42.36,
+      "text": "So which ones do we want to prioritize?"
+    },
+    {
+      "start": 42.36,
+      "end": 44.12,
+      "text": "So that's what this prompt is going to help with."
+    },
+    {
+      "start": 44.12,
+      "end": 45.64,
+      "text": "So we're going to hit Share, and then we're"
+    },
+    {
+      "start": 45.64,
+      "end": 47.28,
+      "text": "going to export that CSV."
+    },
+    {
+      "start": 47.28,
+      "end": 48.64,
+      "text": "I'm going to come over to Claude,"
+    },
+    {
+      "start": 48.64,
+      "end": 50.72,
+      "text": "and you can see I've copied the exact prompt that's"
+    },
+    {
+      "start": 50.72,
+      "end": 52.64,
+      "text": "just below this video."
+    },
+    {
+      "start": 52.64,
+      "end": 60.8,
+      "text": "And we'll come over here, and we'll give it the heat map,"
+    },
+    {
+      "start": 60.8,
+      "end": 62.44,
+      "text": "and then I'm going to change the model"
+    },
+    {
+      "start": 62.44,
+      "end": 63.56,
+      "text": "to make sure we're using Opus."
+    },
+    {
+      "start": 63.56,
+      "end": 66.12,
+      "text": "Opus is the better model for doing data analysis."
+    },
+    {
+      "start": 66.12,
+      "end": 70.78,
+      "text": "And then we'll go ahead and run it."
+    },
+    {
+      "start": 70.78,
+      "end": 73.82,
+      "text": "All right, that took a little bit of time, a minute or two,"
+    },
+    {
+      "start": 73.82,
+      "end": 75.42,
+      "text": "but it is finished now."
+    },
+    {
+      "start": 75.42,
+      "end": 78.14,
+      "text": "And what this AI, what the prompt does"
+    },
+    {
+      "start": 78.14,
+      "end": 80.66,
+      "text": "is it gets the AI to analyze the rank map based"
+    },
+    {
+      "start": 80.66,
+      "end": 84.9,
+      "text": "on the longitude and latitude and sorts them"
+    },
+    {
+      "start": 84.9,
+      "end": 86.5,
+      "text": "in terms of how hard they are to rank"
+    },
+    {
+      "start": 86.5,
+      "end": 88.18,
+      "text": "and what the traffic potential is."
+    },
+    {
+      "start": 88.18,
+      "end": 90.14,
+      "text": "So it's basically giving a high priority"
+    },
+    {
+      "start": 90.14,
+      "end": 91.7,
+      "text": "to the West Central Fort Wayne."
+    },
+    {
+      "start": 91.7,
+      "end": 94.66,
+      "text": "It gives you why it's giving that one."
+    },
+    {
+      "start": 94.66,
+      "end": 96.74,
+      "text": "It's giving some target keywords."
+    },
+    {
+      "start": 96.74,
+      "end": 98.58,
+      "text": "It's doing this based on demographics,"
+    },
+    {
+      "start": 98.62,
+      "end": 102.06,
+      "text": "based on population density, based on all the information"
+    },
+    {
+      "start": 102.06,
+      "end": 104.98,
+      "text": "that would make this really hard to do manually."
+    },
+    {
+      "start": 104.98,
+      "end": 108.3,
+      "text": "So essentially, and if we scroll all the way down,"
+    },
+    {
+      "start": 108.3,
+      "end": 111.94,
+      "text": "it's giving those neighborhoods the topic content"
+    },
+    {
+      "start": 111.94,
+      "end": 113.26,
+      "text": "recommendations."
+    },
+    {
+      "start": 113.26,
+      "end": 117.18,
+      "text": "This is a good prompt to just very quickly get"
+    },
+    {
+      "start": 117.18,
+      "end": 120.1,
+      "text": "an idea of what type of content focused"
+    },
+    {
+      "start": 120.1,
+      "end": 123.98,
+      "text": "on which geographical locations we should be focused on."
+    }
+  ],
+  "transcript_text": "All right, so let's talk about how to prioritize geographical content production. If your rank map looks like this, then you don't need geographical content production. What you need is just to finish up the Core 30 and then topical relevance if it continues to look like that. So instead, I ran this example of a business that's doing pretty well, but we want to prioritize content to turn even more of these green. So when we're prioritizing content, we're looking for fours and fives, and we're going to write geographical content about those fours and fives. But you can see there are quite a few fours and fives here. So which ones do we want to prioritize? So that's what this prompt is going to help with. So we're going to hit Share, and then we're going to export that CSV. I'm going to come over to Claude, and you can see I've copied the exact prompt that's just below this video. And we'll come over here, and we'll give it the heat map, and then I'm going to change the model to make sure we're using Opus. Opus is the better model for doing data analysis. And then we'll go ahead and run it. All right, that took a little bit of time, a minute or two, but it is finished now. And what this AI, what the prompt does is it gets the AI to analyze the rank map based on the longitude and latitude and sorts them in terms of how hard they are to rank and what the traffic potential is. So it's basically giving a high priority to the West Central Fort Wayne. It gives you why it's giving that one. It's giving some target keywords. It's doing this based on demographics, based on population density, based on all the information that would make this really hard to do manually. So essentially, and if we scroll all the way down, it's giving those neighborhoods the topic content recommendations. This is a good prompt to just very quickly get an idea of what type of content focused on which geographical locations we should be focused on.",
   "summary": "",
   "key_points": [],
   "tags": []

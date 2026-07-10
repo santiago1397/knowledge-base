@@ -7,8 +7,234 @@
   "video_url": "https://www.loom.com/share/956410d4871340cfac844114caffa925?sid=32592a70-a97d-44f5-bb09-83fb06773567?hide_owner=true&hide_share=true&hide_title=true&hideEmbedTopBar=true",
   "video_file": "aa2c22d4_how-to-check-business-visibility [956410d4871340cfac844114caffa925].mp4",
   "content_md": "# How to Check Business Visibility\n\n- Code: aa2c22d4\n- Source: https://www.skool.com/ai-seo-mastery-pro/classroom/63a81f62?md=aa2c22d45409482ba15791905f62af24\n- Video: https://www.loom.com/share/956410d4871340cfac844114caffa925?sid=32592a70-a97d-44f5-bb09-83fb06773567?hide_owner=true&hide_share=true&hide_title=true&hideEmbedTopBar=true\n- Duration: 1m 57s\n\n## Description\n\n_(no description)_\n",
-  "transcript": [],
-  "transcript_text": "",
+  "transcript": [
+    {
+      "start": 0.0,
+      "end": 2.72,
+      "text": "So here we're going to talk about how to check your business"
+    },
+    {
+      "start": 2.72,
+      "end": 4.76,
+      "text": "visibility with ChatGPT."
+    },
+    {
+      "start": 4.76,
+      "end": 9.0,
+      "text": "The problem is, as most of you know,"
+    },
+    {
+      "start": 9.0,
+      "end": 12.12,
+      "text": "Google's ranking results are customized to the user."
+    },
+    {
+      "start": 12.12,
+      "end": 16.88,
+      "text": "So if you constantly visit this website for a plumber near you"
+    },
+    {
+      "start": 16.88,
+      "end": 18.64,
+      "text": "and then you search for plumber near me,"
+    },
+    {
+      "start": 18.64,
+      "end": 20.92,
+      "text": "that website will almost certainly be shown to you,"
+    },
+    {
+      "start": 20.92,
+      "end": 24.36,
+      "text": "even if it's not ranked in the top three for most users."
+    },
+    {
+      "start": 24.36,
+      "end": 27.28,
+      "text": "That's why we always check Google ranking with a third party"
+    },
+    {
+      "start": 27.28,
+      "end": 30.28,
+      "text": "tool or by searching in incognito mode."
+    },
+    {
+      "start": 30.28,
+      "end": 32.92,
+      "text": "We want to see what Google is recommending to someone who"
+    },
+    {
+      "start": 32.92,
+      "end": 37.36,
+      "text": "isn't us rather than what Google will show us."
+    },
+    {
+      "start": 37.36,
+      "end": 39.44,
+      "text": "For ChatGPT, it's similar."
+    },
+    {
+      "start": 39.44,
+      "end": 42.16,
+      "text": "ChatGPT is very customized to you."
+    },
+    {
+      "start": 42.16,
+      "end": 45.04,
+      "text": "It knows who you are if you've been talking to it frequently."
+    },
+    {
+      "start": 45.04,
+      "end": 46.12,
+      "text": "It knows what you do."
+    },
+    {
+      "start": 46.12,
+      "end": 48.16,
+      "text": "So if you are a plumber in Fort Wayne, Indiana,"
+    },
+    {
+      "start": 48.16,
+      "end": 50.32,
+      "text": "and then you just tell ChatGPT, hey,"
+    },
+    {
+      "start": 50.32,
+      "end": 52.48,
+      "text": "recommend a plumber in Fort Wayne, Indiana,"
+    },
+    {
+      "start": 52.48,
+      "end": 53.84,
+      "text": "it's going to recommend you."
+    },
+    {
+      "start": 53.84,
+      "end": 56.32,
+      "text": "But that's not what it's going to recommend to everyone else."
+    },
+    {
+      "start": 56.32,
+      "end": 58.64,
+      "text": "And this puts us in this dangerous situation"
+    },
+    {
+      "start": 58.64,
+      "end": 62.2,
+      "text": "where we don't actually know what ChatGPT is saying about us"
+    },
+    {
+      "start": 62.2,
+      "end": 64.2,
+      "text": "to other people who aren't us."
+    },
+    {
+      "start": 64.2,
+      "end": 66.72,
+      "text": "So the prompt that's below this video,"
+    },
+    {
+      "start": 66.72,
+      "end": 69.4,
+      "text": "the goal of that is really to strip away user context"
+    },
+    {
+      "start": 69.4,
+      "end": 72.08,
+      "text": "and personalization and force ChatGPT"
+    },
+    {
+      "start": 72.08,
+      "end": 74.76,
+      "text": "to rely on external sources and treat you"
+    },
+    {
+      "start": 74.76,
+      "end": 77.64,
+      "text": "as if you were just some person that doesn't know anything"
+    },
+    {
+      "start": 77.64,
+      "end": 78.36,
+      "text": "about."
+    },
+    {
+      "start": 78.36,
+      "end": 81.24,
+      "text": "Now, what you want to look for if you run this prompt is,"
+    },
+    {
+      "start": 81.24,
+      "end": 83.68,
+      "text": "first, of course, is your business mentioned."
+    },
+    {
+      "start": 83.68,
+      "end": 86.56,
+      "text": "And then, if it is, what sources are cited?"
+    },
+    {
+      "start": 86.56,
+      "end": 90.32,
+      "text": "What sources is ChatGPT using, citing for your business?"
+    },
+    {
+      "start": 90.32,
+      "end": 93.56,
+      "text": "And then third, what words is ChatGPT pulling"
+    },
+    {
+      "start": 93.56,
+      "end": 95.16,
+      "text": "when it is recommending your business?"
+    },
+    {
+      "start": 95.16,
+      "end": 96.4,
+      "text": "It will source all of this."
+    },
+    {
+      "start": 96.4,
+      "end": 100.0,
+      "text": "You can see it clearly if you're mentioned."
+    },
+    {
+      "start": 100.0,
+      "end": 102.36,
+      "text": "And if you aren't mentioned, go ahead."
+    },
+    {
+      "start": 102.36,
+      "end": 104.84,
+      "text": "Use this bonus prompt to try to figure out why."
+    },
+    {
+      "start": 104.84,
+      "end": 107.32,
+      "text": "Who else is reputable that you didn't recommend"
+    },
+    {
+      "start": 107.32,
+      "end": 109.12,
+      "text": "and why didn't you recommend them?"
+    },
+    {
+      "start": 109.12,
+      "end": 112.08,
+      "text": "That can give you an idea of how to start building this."
+    },
+    {
+      "start": 112.12,
+      "end": 115.08,
+      "text": "But we're going to cover in the next few lessons exactly what"
+    },
+    {
+      "start": 115.08,
+      "end": 118.76,
+      "text": "you need to do to get ChatGPT to recommend your business."
+    }
+  ],
+  "transcript_text": "So here we're going to talk about how to check your business visibility with ChatGPT. The problem is, as most of you know, Google's ranking results are customized to the user. So if you constantly visit this website for a plumber near you and then you search for plumber near me, that website will almost certainly be shown to you, even if it's not ranked in the top three for most users. That's why we always check Google ranking with a third party tool or by searching in incognito mode. We want to see what Google is recommending to someone who isn't us rather than what Google will show us. For ChatGPT, it's similar. ChatGPT is very customized to you. It knows who you are if you've been talking to it frequently. It knows what you do. So if you are a plumber in Fort Wayne, Indiana, and then you just tell ChatGPT, hey, recommend a plumber in Fort Wayne, Indiana, it's going to recommend you. But that's not what it's going to recommend to everyone else. And this puts us in this dangerous situation where we don't actually know what ChatGPT is saying about us to other people who aren't us. So the prompt that's below this video, the goal of that is really to strip away user context and personalization and force ChatGPT to rely on external sources and treat you as if you were just some person that doesn't know anything about. Now, what you want to look for if you run this prompt is, first, of course, is your business mentioned. And then, if it is, what sources are cited? What sources is ChatGPT using, citing for your business? And then third, what words is ChatGPT pulling when it is recommending your business? It will source all of this. You can see it clearly if you're mentioned. And if you aren't mentioned, go ahead. Use this bonus prompt to try to figure out why. Who else is reputable that you didn't recommend and why didn't you recommend them? That can give you an idea of how to start building this. But we're going to cover in the next few lessons exactly what you need to do to get ChatGPT to recommend your business.",
   "summary": "",
   "key_points": [],
   "tags": []

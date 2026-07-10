@@ -7,8 +7,174 @@
   "video_url": "https://www.loom.com/share/7596d5c786c846e7adb9b87273f4a78c?hide_owner=true&hide_share=true&hide_title=true&hideEmbedTopBar=true",
   "video_file": "bc01ae80_creating-the-content-brief [7596d5c786c846e7adb9b87273f4a78c].mp4",
   "content_md": "# Creating the Content Brief\n\n- Code: bc01ae80\n- Source: https://www.skool.com/ai-seo-mastery-pro/classroom/63a81f62?md=bc01ae8001b444d9acfb9f1307a06b3f\n- Video: https://www.loom.com/share/7596d5c786c846e7adb9b87273f4a78c?hide_owner=true&hide_share=true&hide_title=true&hideEmbedTopBar=true\n- Duration: 2m 49s\n\n## Description\n\n_(no description)_\n",
-  "transcript": [],
-  "transcript_text": "",
+  "transcript": [
+    {
+      "start": 0.0,
+      "end": 6.48,
+      "text": "Okay, so here is what the content brief looks like. This is what we give the copywriters so they know exactly what they're going to write"
+    },
+    {
+      "start": 6.56,
+      "end": 11.04,
+      "text": "So when we give it to them the copywriter manager is going to put the URL in here"
+    },
+    {
+      "start": 11.04,
+      "end": 19.16,
+      "text": "If it's a new page and most of them are new pages, then we're going to pre-fill in what we want the final live URL to be"
+    },
+    {
+      "start": 20.32,
+      "end": 24.48,
+      "text": "Generally, the URL structure is not super important. Don't spend a huge amount of time on this"
+    },
+    {
+      "start": 24.64,
+      "end": 27.88,
+      "text": "Usually we're going to try to minimize the number of folders keep it flash"
+    },
+    {
+      "start": 28.24,
+      "end": 33.12,
+      "text": "Keep the structure flat use dashes instead of folders and we want the target keyword in the URL"
+    },
+    {
+      "start": 33.28,
+      "end": 35.28,
+      "text": "Then we have the target keyword"
+    },
+    {
+      "start": 35.32,
+      "end": 41.4,
+      "text": "What target keyword is the content being written for made a title made a description are going to be left blank the content writer"
+    },
+    {
+      "start": 41.4,
+      "end": 47.0,
+      "text": "Will fill that in and zero GPT score will also we left blank the copywriter will fill that in now"
+    },
+    {
+      "start": 47.0,
+      "end": 53.6,
+      "text": "We have a blank content brief for every single client what that lets us do is put the client GVP information in here"
+    },
+    {
+      "start": 53.6,
+      "end": 57.92,
+      "text": "So we have their business name primary category address phone number and a link to the GVP"
+    },
+    {
+      "start": 58.16,
+      "end": 62.64,
+      "text": "This is helpful both for the content writers and for future steps of this process"
+    },
+    {
+      "start": 62.96,
+      "end": 68.96,
+      "text": "So I would highly encourage you to do this. This basically means that we have a blank content brief for every single client"
+    },
+    {
+      "start": 69.2,
+      "end": 75.76,
+      "text": "I know it doesn't seem like a lot to copy paste information for each client into this copy brief into the content brief"
+    },
+    {
+      "start": 76.64,
+      "end": 83.52,
+      "text": "But if it takes one or two minutes and you're producing 100 articles a month, that's two hours of time"
+    },
+    {
+      "start": 83.84,
+      "end": 90.8,
+      "text": "Okay, so we just have a blank sheet for every single client where we have this information filled in there are two here"
+    },
+    {
+      "start": 91.04,
+      "end": 94.88,
+      "text": "This particular client was multi location. So for a multi location client"
+    },
+    {
+      "start": 94.88,
+      "end": 98.0,
+      "text": "We're just going to put every one of their GVPs information in here"
+    },
+    {
+      "start": 98.0,
+      "end": 102.4,
+      "text": "So we can copy this delete it if it delete one of these if it's not multi location"
+    },
+    {
+      "start": 102.96,
+      "end": 107.12,
+      "text": "But I don't want a blank content brief for every single location"
+    },
+    {
+      "start": 107.12,
+      "end": 111.28,
+      "text": "I just want one for every single client in terms of which location this content is for"
+    },
+    {
+      "start": 111.52,
+      "end": 114.0,
+      "text": "That will be made very clear based on the target keyword"
+    },
+    {
+      "start": 114.48,
+      "end": 120.08,
+      "text": "Remember the target keyword will almost always have the city name in it. So which GVP we're writing for will be very clear"
+    },
+    {
+      "start": 120.16,
+      "end": 124.48,
+      "text": "Based on that. Okay, and then the content brief itself. We're going to repeat what client again"
+    },
+    {
+      "start": 124.48,
+      "end": 129.12,
+      "text": "This is prefilled for the blank ones. Then we're going to put the page type is a"
+    },
+    {
+      "start": 129.68,
+      "end": 134.48,
+      "text": "neighborhood content supporting content a category content service content, whatever it happens to be"
+    },
+    {
+      "start": 134.96,
+      "end": 140.88,
+      "text": "Then we have the due date. That's assigned when the copywriter is assigned to the task any specific notes"
+    },
+    {
+      "start": 141.12,
+      "end": 144.32,
+      "text": "And then we're going to add the internal links that we want the content to"
+    },
+    {
+      "start": 145.04,
+      "end": 148.24,
+      "text": "Have this will also be done by the copywriter manager"
+    },
+    {
+      "start": 148.88,
+      "end": 152.4,
+      "text": "When this is filled out before it's given to the copywriter"
+    },
+    {
+      "start": 152.8,
+      "end": 158.32,
+      "text": "Then the copywriter will go through the copywriting process and paste the finalized content in here"
+    },
+    {
+      "start": 159.04,
+      "end": 163.2,
+      "text": "And they'll update made a title made a description and zero gpt score"
+    },
+    {
+      "start": 163.84,
+      "end": 168.8,
+      "text": "Everything else will already be filled in for the copywriter to have the necessary information they need"
+    }
+  ],
+  "transcript_text": "Okay, so here is what the content brief looks like. This is what we give the copywriters so they know exactly what they're going to write So when we give it to them the copywriter manager is going to put the URL in here If it's a new page and most of them are new pages, then we're going to pre-fill in what we want the final live URL to be Generally, the URL structure is not super important. Don't spend a huge amount of time on this Usually we're going to try to minimize the number of folders keep it flash Keep the structure flat use dashes instead of folders and we want the target keyword in the URL Then we have the target keyword What target keyword is the content being written for made a title made a description are going to be left blank the content writer Will fill that in and zero GPT score will also we left blank the copywriter will fill that in now We have a blank content brief for every single client what that lets us do is put the client GVP information in here So we have their business name primary category address phone number and a link to the GVP This is helpful both for the content writers and for future steps of this process So I would highly encourage you to do this. This basically means that we have a blank content brief for every single client I know it doesn't seem like a lot to copy paste information for each client into this copy brief into the content brief But if it takes one or two minutes and you're producing 100 articles a month, that's two hours of time Okay, so we just have a blank sheet for every single client where we have this information filled in there are two here This particular client was multi location. So for a multi location client We're just going to put every one of their GVPs information in here So we can copy this delete it if it delete one of these if it's not multi location But I don't want a blank content brief for every single location I just want one for every single client in terms of which location this content is for That will be made very clear based on the target keyword Remember the target keyword will almost always have the city name in it. So which GVP we're writing for will be very clear Based on that. Okay, and then the content brief itself. We're going to repeat what client again This is prefilled for the blank ones. Then we're going to put the page type is a neighborhood content supporting content a category content service content, whatever it happens to be Then we have the due date. That's assigned when the copywriter is assigned to the task any specific notes And then we're going to add the internal links that we want the content to Have this will also be done by the copywriter manager When this is filled out before it's given to the copywriter Then the copywriter will go through the copywriting process and paste the finalized content in here And they'll update made a title made a description and zero gpt score Everything else will already be filled in for the copywriter to have the necessary information they need",
   "summary": "",
   "key_points": [],
   "tags": []

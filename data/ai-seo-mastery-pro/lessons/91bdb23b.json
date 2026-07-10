@@ -7,8 +7,184 @@
   "video_url": "https://www.loom.com/share/feaa320b6ac9433199025d7998d5ebe7?sid=dad23a9d-5071-43d0-bf89-8fa9fe1c599e?hide_owner=true&hide_share=true&hide_title=true&hideEmbedTopBar=true",
   "video_file": "91bdb23b_client-access-we-request [feaa320b6ac9433199025d7998d5ebe7].mp4",
   "content_md": "# Client Access We Request\n\n- Code: 91bdb23b\n- Source: https://www.skool.com/ai-seo-mastery-pro/classroom/63a81f62?md=91bdb23b642b4c658e06a339ef16ea1e\n- Video: https://www.loom.com/share/feaa320b6ac9433199025d7998d5ebe7?sid=dad23a9d-5071-43d0-bf89-8fa9fe1c599e?hide_owner=true&hide_share=true&hide_title=true&hideEmbedTopBar=true\n- Duration: 1m 37s\n- Resources:\n  - [Loom - Record Your Video for Free](https://www.loom.com/)\n\n## Description\n\n_(no description)_\n",
-  "transcript": [],
-  "transcript_text": "",
+  "transcript": [
+    {
+      "start": 0.0,
+      "end": 3.12,
+      "text": "So we need access to three key things to get started."
+    },
+    {
+      "start": 3.12,
+      "end": 5.64,
+      "text": "The first one is going to be a Google Business Profile."
+    },
+    {
+      "start": 5.64,
+      "end": 9.24,
+      "text": "So with the account that owns the Google Business Profile"
+    },
+    {
+      "start": 9.24,
+      "end": 10.44,
+      "text": "with the Google account,"
+    },
+    {
+      "start": 10.44,
+      "end": 12.96,
+      "text": "you're just gonna come onto this section here"
+    },
+    {
+      "start": 12.96,
+      "end": 16.48,
+      "text": "and we're gonna click here and hit Business Profile Settings."
+    },
+    {
+      "start": 16.48,
+      "end": 19.36,
+      "text": "And then we're going to go to People and Access"
+    },
+    {
+      "start": 19.36,
+      "end": 21.92,
+      "text": "and you're going to hit Add."
+    },
+    {
+      "start": 21.92,
+      "end": 24.16,
+      "text": "And you're going to add as a manager,"
+    },
+    {
+      "start": 24.16,
+      "end": 29.16,
+      "text": "the email address is alcooologisticsinc at Gmail.org."
+    },
+    {
+      "start": 30.84,
+      "end": 32.84,
+      "text": "And you'll hit Invite, I'll get the email"
+    },
+    {
+      "start": 32.84,
+      "end": 35.06,
+      "text": "and we'll be able to respond."
+    },
+    {
+      "start": 35.06,
+      "end": 38.4,
+      "text": "Next, we need access to your WordPress site."
+    },
+    {
+      "start": 38.4,
+      "end": 40.94,
+      "text": "If you don't have the site on WordPress,"
+    },
+    {
+      "start": 40.94,
+      "end": 44.72,
+      "text": "let me know whatever website platform you're built on"
+    },
+    {
+      "start": 44.72,
+      "end": 47.48,
+      "text": "and we can help you figure out how to grant access."
+    },
+    {
+      "start": 47.48,
+      "end": 49.0,
+      "text": "But most are on WordPress."
+    },
+    {
+      "start": 49.0,
+      "end": 50.4,
+      "text": "So the way to do it on WordPress"
+    },
+    {
+      "start": 50.4,
+      "end": 53.3,
+      "text": "is we're gonna come into Users and hit Add User."
+    },
+    {
+      "start": 54.56,
+      "end": 56.72,
+      "text": "And here we're gonna do a username"
+    },
+    {
+      "start": 56.72,
+      "end": 60.04,
+      "text": "so we can do alcooologistics, email."
+    },
+    {
+      "start": 60.04,
+      "end": 63.08,
+      "text": "We're gonna do the same email, alcooologistics.email.com."
+    },
+    {
+      "start": 63.08,
+      "end": 65.44,
+      "text": "These are not required so you can leave them blank."
+    },
+    {
+      "start": 65.44,
+      "end": 66.8,
+      "text": "Password is fine."
+    },
+    {
+      "start": 66.8,
+      "end": 71.6,
+      "text": "And then as a role, we're just going to choose Editor."
+    },
+    {
+      "start": 71.6,
+      "end": 73.0,
+      "text": "And then you'll hit Add User."
+    },
+    {
+      "start": 73.0,
+      "end": 75.56,
+      "text": "I'll again get the email confirmation for that."
+    },
+    {
+      "start": 77.28,
+      "end": 81.28,
+      "text": "The third and final is going to the Google Search Console."
+    },
+    {
+      "start": 81.28,
+      "end": 83.66,
+      "text": "So here you're going to log into the Google Search Console."
+    },
+    {
+      "start": 83.66,
+      "end": 85.64,
+      "text": "You'll come down and hit Settings."
+    },
+    {
+      "start": 85.68,
+      "end": 88.28,
+      "text": "And then under Users and Permissions here,"
+    },
+    {
+      "start": 88.28,
+      "end": 89.68,
+      "text": "and then you'll hit Add User."
+    },
+    {
+      "start": 89.68,
+      "end": 93.4,
+      "text": "As before, we'll use the alcooologistics.email.com"
+    },
+    {
+      "start": 93.4,
+      "end": 95.16,
+      "text": "and permission is full."
+    },
+    {
+      "start": 95.16,
+      "end": 97.16,
+      "text": "And then you'll hit Add and that's it."
+    }
+  ],
+  "transcript_text": "So we need access to three key things to get started. The first one is going to be a Google Business Profile. So with the account that owns the Google Business Profile with the Google account, you're just gonna come onto this section here and we're gonna click here and hit Business Profile Settings. And then we're going to go to People and Access and you're going to hit Add. And you're going to add as a manager, the email address is alcooologisticsinc at Gmail.org. And you'll hit Invite, I'll get the email and we'll be able to respond. Next, we need access to your WordPress site. If you don't have the site on WordPress, let me know whatever website platform you're built on and we can help you figure out how to grant access. But most are on WordPress. So the way to do it on WordPress is we're gonna come into Users and hit Add User. And here we're gonna do a username so we can do alcooologistics, email. We're gonna do the same email, alcooologistics.email.com. These are not required so you can leave them blank. Password is fine. And then as a role, we're just going to choose Editor. And then you'll hit Add User. I'll again get the email confirmation for that. The third and final is going to the Google Search Console. So here you're going to log into the Google Search Console. You'll come down and hit Settings. And then under Users and Permissions here, and then you'll hit Add User. As before, we'll use the alcooologistics.email.com and permission is full. And then you'll hit Add and that's it.",
   "summary": "",
   "key_points": [],
   "tags": []

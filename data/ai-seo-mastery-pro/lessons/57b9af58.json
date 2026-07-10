@@ -7,8 +7,209 @@
   "video_url": "https://vimeo.com/1065620201/6c413e6316?share=copy&fl=sv&fe=ci",
   "video_file": "57b9af58_core-30-content-audit [1065620201].mp4",
   "content_md": "# Core 30 Content Audit\n\n- Code: 57b9af58\n- Source: https://www.skool.com/ai-seo-mastery-pro/classroom/63a81f62?md=57b9af58a1624ee9b4b331ea31092dbd\n- Video: https://vimeo.com/1065620201/6c413e6316?share=copy&fl=sv&fe=ci\n- Duration: 3m 51s\n- Resources:\n  - [Screaming Frog SEO Spider](https://www.screamingfrog.co.uk/seo-spider/)\n  - [Done-For-You SEO Services](https://icecreamtruck.shop/collections/our-services)\n\n## Description\n\n_(no description)_\n",
-  "transcript": [],
-  "transcript_text": "",
+  "transcript": [
+    {
+      "start": 0.0,
+      "end": 4.48,
+      "text": "So what I'm going to do here is show you how to use a prompt that will allow you to analyze a"
+    },
+    {
+      "start": 4.48,
+      "end": 11.2,
+      "text": "website's existing content and develop a content plan so that website matches the local structure"
+    },
+    {
+      "start": 11.2,
+      "end": 15.6,
+      "text": "that we're trying to do. So if you just got a new client, they have a bunch of URLs on their site,"
+    },
+    {
+      "start": 15.6,
+      "end": 19.04,
+      "text": "you don't know what they're missing, you don't know what content needs to be produced,"
+    },
+    {
+      "start": 19.6,
+      "end": 24.88,
+      "text": "this is the prompt for you. So I'm going to do this for ckisplumbing.com. So the first step is"
+    },
+    {
+      "start": 24.88,
+      "end": 29.04,
+      "text": "we're just going to grab the homepage content and put it on a Word doc, which I've already done,"
+    },
+    {
+      "start": 29.04,
+      "end": 33.52,
+      "text": "but literally Ctrl A, Ctrl C, and then paste it into Word doc and you should have it."
+    },
+    {
+      "start": 34.16,
+      "end": 38.16,
+      "text": "Then I'm going to grab the prompt, which is on this lesson, and just paste it into here."
+    },
+    {
+      "start": 39.76,
+      "end": 45.52,
+      "text": "And the big thing that we need to do is put in the secondary services or secondary categories here"
+    },
+    {
+      "start": 45.52,
+      "end": 53.04,
+      "text": "and then the services. So this is their GPP, I can click services and just grab all of them."
+    },
+    {
+      "start": 53.6,
+      "end": 58.56,
+      "text": "Give that to chatGPT. Now the next thing that we need to do is actually run"
+    },
+    {
+      "start": 58.56,
+      "end": 63.92,
+      "text": "Screaming Frog. So open up Screaming Frog, it's free if you have fewer than 500 URLs."
+    },
+    {
+      "start": 64.56,
+      "end": 68.64,
+      "text": "Put the main domain in here and hit start. You can see it's already crawled 100,"
+    },
+    {
+      "start": 68.64,
+      "end": 72.8,
+      "text": "I did that off camera. And now once it's finished, you'll be on this internal tab."
+    },
+    {
+      "start": 72.8,
+      "end": 78.88,
+      "text": "The first thing you'll do is hit export. You want the internal all.csv. And the next one that you"
+    },
+    {
+      "start": 78.88,
+      "end": 85.28,
+      "text": "need is links and you can again hit export and you'll get the links all.csv. So once you have"
+    },
+    {
+      "start": 85.28,
+      "end": 92.56,
+      "text": "those three files and you put the services in here, we're now going to give the homepage content"
+    },
+    {
+      "start": 92.56,
+      "end": 99.04,
+      "text": "to chatGPT. We're going to give the links to chatGPT and the internal all. Now you'll notice"
+    },
+    {
+      "start": 99.04,
+      "end": 104.96,
+      "text": "that I am using the chatGPT01 model here. That's because this is a reasoning model and we're asking"
+    },
+    {
+      "start": 105.04,
+      "end": 111.28,
+      "text": "it to do an analysis question. In my experience, chatGPT01 does a better job than Claude at these"
+    },
+    {
+      "start": 111.28,
+      "end": 116.96,
+      "text": "analysis type questions. But if you're not paying for chatGPT, feel free to use Claude here. It will"
+    },
+    {
+      "start": 116.96,
+      "end": 122.16,
+      "text": "be able to handle this analysis just fine. Now in almost every time I've done this, the first thing"
+    },
+    {
+      "start": 122.16,
+      "end": 128.96,
+      "text": "that happens is chatGPT says that I can't find the CSV data and just gives theoretical answers to"
+    },
+    {
+      "start": 128.96,
+      "end": 133.44,
+      "text": "what I'm looking for. I'll go ahead and pause the recording until it finishes. And we can see that"
+    },
+    {
+      "start": 133.44,
+      "end": 141.2,
+      "text": "it's basically saying it can't read the CSVs. I don't know why that happens, but what we'll do is"
+    },
+    {
+      "start": 141.2,
+      "end": 152.0,
+      "text": "just tell it I gave you the CSV files necessary. Please use them in the analysis. I can give them"
+    },
+    {
+      "start": 152.0,
+      "end": 158.8,
+      "text": "to you again if necessary. So we'll just have it double check and it's going to have to use Python"
+    },
+    {
+      "start": 158.8,
+      "end": 164.24,
+      "text": "or something to parse the CSV data for some reason. So we'll just let it do that. And again,"
+    },
+    {
+      "start": 164.24,
+      "end": 171.36,
+      "text": "I'll pause the recording. All right. And here is the output. So it is telling us we don't have a"
+    },
+    {
+      "start": 171.36,
+      "end": 176.64,
+      "text": "drainage service category page. We don't have a gas service category page. We don't have a heating"
+    },
+    {
+      "start": 176.64,
+      "end": 182.96,
+      "text": "contractor service page or category page. Then, of course, the home page doesn't link to the pages"
+    },
+    {
+      "start": 182.96,
+      "end": 186.56,
+      "text": "that don't exist. The home page also doesn't mention these. So now we know we need to create"
+    },
+    {
+      "start": 186.56,
+      "end": 190.16,
+      "text": "those three category pages and we need to edit the home page to be consistent with them."
+    },
+    {
+      "start": 191.04,
+      "end": 198.8,
+      "text": "Now we can look at the services. And again, it is going through everything and telling me"
+    },
+    {
+      "start": 198.8,
+      "end": 203.76,
+      "text": "which ones are missing, which ones we have, and which ones we don't. So we have gaps,"
+    },
+    {
+      "start": 203.76,
+      "end": 209.36,
+      "text": "missing GVP, the home page gaps, services, category, and next steps. So this gives me a"
+    },
+    {
+      "start": 209.36,
+      "end": 215.68,
+      "text": "pretty clear idea of what this website is missing and what we need to create for this website in"
+    },
+    {
+      "start": 215.68,
+      "end": 223.28,
+      "text": "order for the site structure to match what we're after. Okay. So go ahead and use this on generally,"
+    },
+    {
+      "start": 223.28,
+      "end": 228.0,
+      "text": "I'm going to use this on someone who is a client or almost a client. This is a level of analysis"
+    },
+    {
+      "start": 228.0,
+      "end": 231.6,
+      "text": "we typically don't do for prospects."
+    }
+  ],
+  "transcript_text": "So what I'm going to do here is show you how to use a prompt that will allow you to analyze a website's existing content and develop a content plan so that website matches the local structure that we're trying to do. So if you just got a new client, they have a bunch of URLs on their site, you don't know what they're missing, you don't know what content needs to be produced, this is the prompt for you. So I'm going to do this for ckisplumbing.com. So the first step is we're just going to grab the homepage content and put it on a Word doc, which I've already done, but literally Ctrl A, Ctrl C, and then paste it into Word doc and you should have it. Then I'm going to grab the prompt, which is on this lesson, and just paste it into here. And the big thing that we need to do is put in the secondary services or secondary categories here and then the services. So this is their GPP, I can click services and just grab all of them. Give that to chatGPT. Now the next thing that we need to do is actually run Screaming Frog. So open up Screaming Frog, it's free if you have fewer than 500 URLs. Put the main domain in here and hit start. You can see it's already crawled 100, I did that off camera. And now once it's finished, you'll be on this internal tab. The first thing you'll do is hit export. You want the internal all.csv. And the next one that you need is links and you can again hit export and you'll get the links all.csv. So once you have those three files and you put the services in here, we're now going to give the homepage content to chatGPT. We're going to give the links to chatGPT and the internal all. Now you'll notice that I am using the chatGPT01 model here. That's because this is a reasoning model and we're asking it to do an analysis question. In my experience, chatGPT01 does a better job than Claude at these analysis type questions. But if you're not paying for chatGPT, feel free to use Claude here. It will be able to handle this analysis just fine. Now in almost every time I've done this, the first thing that happens is chatGPT says that I can't find the CSV data and just gives theoretical answers to what I'm looking for. I'll go ahead and pause the recording until it finishes. And we can see that it's basically saying it can't read the CSVs. I don't know why that happens, but what we'll do is just tell it I gave you the CSV files necessary. Please use them in the analysis. I can give them to you again if necessary. So we'll just have it double check and it's going to have to use Python or something to parse the CSV data for some reason. So we'll just let it do that. And again, I'll pause the recording. All right. And here is the output. So it is telling us we don't have a drainage service category page. We don't have a gas service category page. We don't have a heating contractor service page or category page. Then, of course, the home page doesn't link to the pages that don't exist. The home page also doesn't mention these. So now we know we need to create those three category pages and we need to edit the home page to be consistent with them. Now we can look at the services. And again, it is going through everything and telling me which ones are missing, which ones we have, and which ones we don't. So we have gaps, missing GVP, the home page gaps, services, category, and next steps. So this gives me a pretty clear idea of what this website is missing and what we need to create for this website in order for the site structure to match what we're after. Okay. So go ahead and use this on generally, I'm going to use this on someone who is a client or almost a client. This is a level of analysis we typically don't do for prospects.",
   "summary": "",
   "key_points": [],
   "tags": []

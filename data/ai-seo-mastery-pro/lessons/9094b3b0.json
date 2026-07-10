@@ -7,8 +7,324 @@
   "video_url": "https://www.loom.com/share/fd58f3f6cb55443880f9842c7776b922?sid=40f1793e-c416-4590-a89a-093312d09cb2?hide_owner=true&hide_share=true&hide_title=true&hideEmbedTopBar=true",
   "video_file": "9094b3b0_local-business-schema [fd58f3f6cb55443880f9842c7776b922].mp4",
   "content_md": "# Local Business Schema\n\n- Code: 9094b3b0\n- Source: https://www.skool.com/ai-seo-mastery-pro/classroom/63a81f62?md=9094b3b0a1844b718737c41a830bd2ff\n- Video: https://www.loom.com/share/fd58f3f6cb55443880f9842c7776b922?sid=40f1793e-c416-4590-a89a-093312d09cb2?hide_owner=true&hide_share=true&hide_title=true&hideEmbedTopBar=true\n- Duration: 2m 58s\n- Resources:\n  - [Schema Markup Testing Tool](https://validator.schema.org/)\n\n## Description\n\n_(no description)_\n",
-  "transcript": [],
-  "transcript_text": "",
+  "transcript": [
+    {
+      "start": 0.0,
+      "end": 4.92,
+      "text": "So, your local business website needs local business schema."
+    },
+    {
+      "start": 4.92,
+      "end": 10.04,
+      "text": "This is a markup language that tells Google that you are a local business and it gives"
+    },
+    {
+      "start": 10.04,
+      "end": 11.92,
+      "text": "it all the relevant information."
+    },
+    {
+      "start": 11.92,
+      "end": 14.08,
+      "text": "I have ChatGPT write it for me."
+    },
+    {
+      "start": 14.08,
+      "end": 15.92,
+      "text": "It's very quick, very easy."
+    },
+    {
+      "start": 15.92,
+      "end": 16.92,
+      "text": "I'll give you this prompt."
+    },
+    {
+      "start": 16.92,
+      "end": 18.32,
+      "text": "It's a pretty simple prompt."
+    },
+    {
+      "start": 18.32,
+      "end": 23.8,
+      "text": "But basically, you ask ChatGPT what it needs to write schema."
+    },
+    {
+      "start": 23.8,
+      "end": 28.92,
+      "text": "It gives you everything it needs and then it'll write it for you as soon as you give"
+    },
+    {
+      "start": 28.92,
+      "end": 29.92,
+      "text": "this information."
+    },
+    {
+      "start": 29.96,
+      "end": 33.48,
+      "text": "You just give ChatGPT this information and say, please write local business schema for"
+    },
+    {
+      "start": 33.48,
+      "end": 35.0,
+      "text": "me and it will do it."
+    },
+    {
+      "start": 35.0,
+      "end": 39.68,
+      "text": "Then you'll check it at the Google structured data testing tool just to make sure ChatGPT"
+    },
+    {
+      "start": 39.68,
+      "end": 41.16,
+      "text": "didn't make any mistakes."
+    },
+    {
+      "start": 41.16,
+      "end": 44.6,
+      "text": "ChatGPT can make mistakes as we've talked about."
+    },
+    {
+      "start": 44.6,
+      "end": 48.28,
+      "text": "So this schema, it goes on the GVP landing page."
+    },
+    {
+      "start": 48.28,
+      "end": 51.84,
+      "text": "That means the landing page that your GVP links to."
+    },
+    {
+      "start": 51.84,
+      "end": 55.24,
+      "text": "It doesn't go on every single URL on your domain."
+    },
+    {
+      "start": 55.24,
+      "end": 56.24,
+      "text": "Just the landing page."
+    },
+    {
+      "start": 56.24,
+      "end": 57.24,
+      "text": "That's it."
+    },
+    {
+      "start": 57.24,
+      "end": 58.24,
+      "text": "Just that one URL."
+    },
+    {
+      "start": 58.24,
+      "end": 63.0,
+      "text": "If you have a multi-location business, then that schema should go on the landing page"
+    },
+    {
+      "start": 63.0,
+      "end": 65.0,
+      "text": "for that location."
+    },
+    {
+      "start": 65.0,
+      "end": 69.48,
+      "text": "Each location needs its own landing page and the schema for that landing page needs to"
+    },
+    {
+      "start": 69.48,
+      "end": 70.96,
+      "text": "match the GVP."
+    },
+    {
+      "start": 70.96,
+      "end": 74.16,
+      "text": "So business name needs to match whatever the name is on the GVP."
+    },
+    {
+      "start": 74.16,
+      "end": 75.16,
+      "text": "Exactly."
+    },
+    {
+      "start": 75.16,
+      "end": 77.68,
+      "text": "Business type should be your primary category."
+    },
+    {
+      "start": 77.68,
+      "end": 80.36,
+      "text": "The description should be the GVP description."
+    },
+    {
+      "start": 80.36,
+      "end": 81.36,
+      "text": "Address should match."
+    },
+    {
+      "start": 81.36,
+      "end": 82.36,
+      "text": "Phone number should match."
+    },
+    {
+      "start": 82.36,
+      "end": 83.36,
+      "text": "Email address should match."
+    },
+    {
+      "start": 83.36,
+      "end": 84.36,
+      "text": "Website URL should match."
+    },
+    {
+      "start": 84.36,
+      "end": 87.28,
+      "text": "The latitude and longitude coordinates, that's super easy to get."
+    },
+    {
+      "start": 87.28,
+      "end": 92.48,
+      "text": "If you go to Google Maps and you go anywhere in Google Maps and you right click, you will"
+    },
+    {
+      "start": 92.48,
+      "end": 95.36,
+      "text": "get the coordinates of that location."
+    },
+    {
+      "start": 95.36,
+      "end": 97.08,
+      "text": "So super easy to find."
+    },
+    {
+      "start": 97.08,
+      "end": 100.52,
+      "text": "Opening hours, again, match what you have on the GVP."
+    },
+    {
+      "start": 100.52,
+      "end": 103.12,
+      "text": "Service area, match what you have on the GVP."
+    },
+    {
+      "start": 103.12,
+      "end": 106.68,
+      "text": "Social media profiles, match what you have on the GVP."
+    },
+    {
+      "start": 106.68,
+      "end": 108.48,
+      "text": "Are we getting tired of hearing that?"
+    },
+    {
+      "start": 108.48,
+      "end": 112.12,
+      "text": "URL of the business logo, for that, you're just going to go to the business website,"
+    },
+    {
+      "start": 112.12,
+      "end": 118.48,
+      "text": "right click on the image and hit, let me go to a quick business."
+    },
+    {
+      "start": 118.48,
+      "end": 122.24,
+      "text": "Let's see, plumber, long beach, sure."
+    },
+    {
+      "start": 122.24,
+      "end": 125.44,
+      "text": "And we'll go to the, they don't even have a website."
+    },
+    {
+      "start": 125.44,
+      "end": 126.44,
+      "text": "That's funny."
+    },
+    {
+      "start": 126.44,
+      "end": 127.44,
+      "text": "So this is a low competition."
+    },
+    {
+      "start": 127.44,
+      "end": 128.44,
+      "text": "Okay, so here we go."
+    },
+    {
+      "start": 128.44,
+      "end": 132.92,
+      "text": "So we're going to right click on there and we want copy image address that will give"
+    },
+    {
+      "start": 132.92,
+      "end": 138.72,
+      "text": "us the image address we're looking for, for the logo, URLs of other images."
+    },
+    {
+      "start": 138.72,
+      "end": 139.72,
+      "text": "We can do the same thing."
+    },
+    {
+      "start": 139.72,
+      "end": 145.88,
+      "text": "We can go through and find any images we want, or if we looked at like a GVP or something"
+    },
+    {
+      "start": 145.88,
+      "end": 148.92,
+      "text": "like that, we can grab images from the GVP."
+    },
+    {
+      "start": 148.92,
+      "end": 151.52,
+      "text": "We don't have to, but we can."
+    },
+    {
+      "start": 151.52,
+      "end": 156.8,
+      "text": "I won't show you that, but you can, it's not hard, just right click and grab it."
+    },
+    {
+      "start": 156.8,
+      "end": 157.88,
+      "text": "Payment methods, no problem."
+    },
+    {
+      "start": 157.88,
+      "end": 161.28,
+      "text": "So basically price range, so this is just dollar signs."
+    },
+    {
+      "start": 161.28,
+      "end": 163.2,
+      "text": "You'll get a warning if you don't do it."
+    },
+    {
+      "start": 163.2,
+      "end": 167.56,
+      "text": "So generally I do like two dollar signs or three dollar signs, that's fine."
+    },
+    {
+      "start": 167.56,
+      "end": 168.8,
+      "text": "So there you have it."
+    },
+    {
+      "start": 168.88,
+      "end": 172.84,
+      "text": "Get all of this information together, make sure everything matches the GVP and give it"
+    },
+    {
+      "start": 172.84,
+      "end": 178.64,
+      "text": "to chatGPT and ask chatGPT to write it for you, then test in the Google structured testing"
+    },
+    {
+      "start": 178.64,
+      "end": 178.92,
+      "text": "tool."
+    }
+  ],
+  "transcript_text": "So, your local business website needs local business schema. This is a markup language that tells Google that you are a local business and it gives it all the relevant information. I have ChatGPT write it for me. It's very quick, very easy. I'll give you this prompt. It's a pretty simple prompt. But basically, you ask ChatGPT what it needs to write schema. It gives you everything it needs and then it'll write it for you as soon as you give this information. You just give ChatGPT this information and say, please write local business schema for me and it will do it. Then you'll check it at the Google structured data testing tool just to make sure ChatGPT didn't make any mistakes. ChatGPT can make mistakes as we've talked about. So this schema, it goes on the GVP landing page. That means the landing page that your GVP links to. It doesn't go on every single URL on your domain. Just the landing page. That's it. Just that one URL. If you have a multi-location business, then that schema should go on the landing page for that location. Each location needs its own landing page and the schema for that landing page needs to match the GVP. So business name needs to match whatever the name is on the GVP. Exactly. Business type should be your primary category. The description should be the GVP description. Address should match. Phone number should match. Email address should match. Website URL should match. The latitude and longitude coordinates, that's super easy to get. If you go to Google Maps and you go anywhere in Google Maps and you right click, you will get the coordinates of that location. So super easy to find. Opening hours, again, match what you have on the GVP. Service area, match what you have on the GVP. Social media profiles, match what you have on the GVP. Are we getting tired of hearing that? URL of the business logo, for that, you're just going to go to the business website, right click on the image and hit, let me go to a quick business. Let's see, plumber, long beach, sure. And we'll go to the, they don't even have a website. That's funny. So this is a low competition. Okay, so here we go. So we're going to right click on there and we want copy image address that will give us the image address we're looking for, for the logo, URLs of other images. We can do the same thing. We can go through and find any images we want, or if we looked at like a GVP or something like that, we can grab images from the GVP. We don't have to, but we can. I won't show you that, but you can, it's not hard, just right click and grab it. Payment methods, no problem. So basically price range, so this is just dollar signs. You'll get a warning if you don't do it. So generally I do like two dollar signs or three dollar signs, that's fine. So there you have it. Get all of this information together, make sure everything matches the GVP and give it to chatGPT and ask chatGPT to write it for you, then test in the Google structured testing tool.",
   "summary": "",
   "key_points": [],
   "tags": []

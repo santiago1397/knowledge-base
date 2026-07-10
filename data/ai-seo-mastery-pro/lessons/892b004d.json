@@ -7,8 +7,174 @@
   "video_url": "https://www.loom.com/share/251a92f6c1f644c5aeb153847be62972?sid=c03c4ce5-421c-4011-966c-0edaa4fcc20c?hide_owner=true&hide_share=true&hide_title=true&hideEmbedTopBar=true",
   "video_file": "892b004d_internal-anchor-text-guidelines [251a92f6c1f644c5aeb153847be62972].mp4",
   "content_md": "# Internal Anchor Text Guidelines\n\n- Code: 892b004d\n- Source: https://www.skool.com/ai-seo-mastery-pro/classroom/63a81f62?md=892b004d3b5d46448803e50528ca0536\n- Video: https://www.loom.com/share/251a92f6c1f644c5aeb153847be62972?sid=c03c4ce5-421c-4011-966c-0edaa4fcc20c?hide_owner=true&hide_share=true&hide_title=true&hideEmbedTopBar=true\n- Duration: 2m 28s\n\n## Description\n\n_(no description)_\n",
-  "transcript": [],
-  "transcript_text": "",
+  "transcript": [
+    {
+      "start": 0.18,
+      "end": 2.82,
+      "text": "So let's talk about internal anchor text"
+    },
+    {
+      "start": 2.82,
+      "end": 9.42,
+      "text": "So this is when you have links on your website from one URL one page of your website to a different URL"
+    },
+    {
+      "start": 9.62,
+      "end": 14.18,
+      "text": "What anchor text should you use so we just have some general guidelines number one?"
+    },
+    {
+      "start": 14.18,
+      "end": 18.26,
+      "text": "We don't we do not want to repeat any anchor text every time we use anchor text"
+    },
+    {
+      "start": 18.26,
+      "end": 22.74,
+      "text": "That should be unique do not repeat anything number two. We want to incorporate keywords"
+    },
+    {
+      "start": 22.74,
+      "end": 26.66,
+      "text": "But we want to do it naturally. We don't want it to look like we're keyword stuffing number three"
+    },
+    {
+      "start": 26.66,
+      "end": 32.86,
+      "text": "We want the anchor text to be descriptive of the URL we're linking to of the destination URL"
+    },
+    {
+      "start": 32.86,
+      "end": 36.34,
+      "text": "We don't want to describe the URL. They're on we want to describe the URL"
+    },
+    {
+      "start": 36.34,
+      "end": 39.58,
+      "text": "They'd be going to if they clicked on the link, okay number four"
+    },
+    {
+      "start": 39.58,
+      "end": 44.02,
+      "text": "We want to use descriptive text and number five. They should be in the body text"
+    },
+    {
+      "start": 44.02,
+      "end": 45.78,
+      "text": "They should not be in headings"
+    },
+    {
+      "start": 45.78,
+      "end": 49.82,
+      "text": "They shouldn't be in the footer if we can avoid it or in the nav bar or in the side"
+    },
+    {
+      "start": 49.94,
+      "end": 54.62,
+      "text": "They should be in the body text in the last general guideline is to avoid branding"
+    },
+    {
+      "start": 54.62,
+      "end": 58.06,
+      "text": "You should not in general be using your brand in your internal links"
+    },
+    {
+      "start": 58.22,
+      "end": 62.14,
+      "text": "so let me go through some examples of good anchor text and"
+    },
+    {
+      "start": 62.78,
+      "end": 65.1,
+      "text": "We're keeping with our same"
+    },
+    {
+      "start": 65.9,
+      "end": 72.38,
+      "text": "motorized pergola keyword that we're going to give some examples with so learn more about choosing the right materials for pergolas"
+    },
+    {
+      "start": 72.46,
+      "end": 74.46,
+      "text": "That's a good one very descriptive"
+    },
+    {
+      "start": 74.7,
+      "end": 80.3,
+      "text": "It's using the keyword pergola, but it's not keyword stuffing pergola material options again"
+    },
+    {
+      "start": 80.58,
+      "end": 83.26,
+      "text": "That's a good example benefits of motorized pergolas"
+    },
+    {
+      "start": 83.66,
+      "end": 90.26,
+      "text": "The person who clicks on that link and Google more importantly knows exactly what they're going to find when they go there"
+    },
+    {
+      "start": 90.26,
+      "end": 93.7,
+      "text": "Okay, and the last one here installation tips for motorized pergolas"
+    },
+    {
+      "start": 93.7,
+      "end": 99.86,
+      "text": "Clearly we would want that to go to a URL with detailed installation tips. Okay, let's talk about some bad examples"
+    },
+    {
+      "start": 99.86,
+      "end": 102.86,
+      "text": "Okay, click here. That's too generic. We don't want to use anything like that"
+    },
+    {
+      "start": 103.66,
+      "end": 107.94,
+      "text": "We also don't use anything too long right here's a detailed guide on the various material options"
+    },
+    {
+      "start": 107.94,
+      "end": 111.14,
+      "text": "You can choose for building a pergola is way too long. We want to be concise"
+    },
+    {
+      "start": 111.78,
+      "end": 116.3,
+      "text": "Okay, and then we like if motorized pergola was the target keyword"
+    },
+    {
+      "start": 116.3,
+      "end": 121.3,
+      "text": "We do not want to create 15 links that all use motorized pergolas and point back to it, right?"
+    },
+    {
+      "start": 121.3,
+      "end": 128.46,
+      "text": "That's over optimization that will hurt your ranking like we said in general guidelines only use it once and then clearly the fourth bad example"
+    },
+    {
+      "start": 129.14,
+      "end": 136.06,
+      "text": "installation tips for motorized pergolas is a terrible anchor text if the link is going to a URL about general home improvement"
+    },
+    {
+      "start": 136.22,
+      "end": 139.94,
+      "text": "Okay, so hopefully this helps you with internal anchor text. Don't overthink it"
+    },
+    {
+      "start": 139.94,
+      "end": 143.34,
+      "text": "Don't worry about it too much. Just don't just keep it natural"
+    },
+    {
+      "start": 143.34,
+      "end": 148.5,
+      "text": "Okay, that's the best advice that I can give is just give keep the internal anchor text natural"
+    }
+  ],
+  "transcript_text": "So let's talk about internal anchor text So this is when you have links on your website from one URL one page of your website to a different URL What anchor text should you use so we just have some general guidelines number one? We don't we do not want to repeat any anchor text every time we use anchor text That should be unique do not repeat anything number two. We want to incorporate keywords But we want to do it naturally. We don't want it to look like we're keyword stuffing number three We want the anchor text to be descriptive of the URL we're linking to of the destination URL We don't want to describe the URL. They're on we want to describe the URL They'd be going to if they clicked on the link, okay number four We want to use descriptive text and number five. They should be in the body text They should not be in headings They shouldn't be in the footer if we can avoid it or in the nav bar or in the side They should be in the body text in the last general guideline is to avoid branding You should not in general be using your brand in your internal links so let me go through some examples of good anchor text and We're keeping with our same motorized pergola keyword that we're going to give some examples with so learn more about choosing the right materials for pergolas That's a good one very descriptive It's using the keyword pergola, but it's not keyword stuffing pergola material options again That's a good example benefits of motorized pergolas The person who clicks on that link and Google more importantly knows exactly what they're going to find when they go there Okay, and the last one here installation tips for motorized pergolas Clearly we would want that to go to a URL with detailed installation tips. Okay, let's talk about some bad examples Okay, click here. That's too generic. We don't want to use anything like that We also don't use anything too long right here's a detailed guide on the various material options You can choose for building a pergola is way too long. We want to be concise Okay, and then we like if motorized pergola was the target keyword We do not want to create 15 links that all use motorized pergolas and point back to it, right? That's over optimization that will hurt your ranking like we said in general guidelines only use it once and then clearly the fourth bad example installation tips for motorized pergolas is a terrible anchor text if the link is going to a URL about general home improvement Okay, so hopefully this helps you with internal anchor text. Don't overthink it Don't worry about it too much. Just don't just keep it natural Okay, that's the best advice that I can give is just give keep the internal anchor text natural",
   "summary": "",
   "key_points": [],
   "tags": []

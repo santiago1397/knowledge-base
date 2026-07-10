@@ -7,8 +7,184 @@
   "video_url": "https://www.loom.com/share/0b85061007d64ba8bb0b6e49e5d6d492?sid=35de5cd9-f237-4736-ad70-c14834d143c6?hide_owner=true&hide_share=true&hide_title=true&hideEmbedTopBar=true",
   "video_file": "bebd9d05_searching-for-link-opportunities [0b85061007d64ba8bb0b6e49e5d6d492].mp4",
   "content_md": "# Searching for Link Opportunities\n\n- Code: bebd9d05\n- Source: https://www.skool.com/ai-seo-mastery-pro/classroom/63a81f62?md=bebd9d05586e4daebdb0b82996c1e51e\n- Video: https://www.loom.com/share/0b85061007d64ba8bb0b6e49e5d6d492?sid=35de5cd9-f237-4736-ad70-c14834d143c6?hide_owner=true&hide_share=true&hide_title=true&hideEmbedTopBar=true\n- Duration: 3m 13s\n- Resources:\n  - [Ahrefs [Paid Tool]](https://ahrefs.com/)\n\n## Description\n\n_(no description)_\n",
-  "transcript": [],
-  "transcript_text": "",
+  "transcript": [
+    {
+      "start": 0.08,
+      "end": 7.96,
+      "text": "So an excellent way to find backlink opportunities is to look at who your organic count in predators is getting links from so"
+    },
+    {
+      "start": 7.96,
+      "end": 15.36,
+      "text": "We're going to go to a hrefs put in a website, and then we're going to look for their organic competitors"
+    },
+    {
+      "start": 15.36,
+      "end": 22.16,
+      "text": "That's right under here. So we're just gonna go ahead and grab the domain and then I'm gonna go over to"
+    },
+    {
+      "start": 24.0,
+      "end": 26.08,
+      "text": "Referring domains because that's what I want to see"
+    },
+    {
+      "start": 26.88,
+      "end": 31.12,
+      "text": "And you can grab multiple ones, but I'm just gonna show this one. I'm gonna export this"
+    },
+    {
+      "start": 31.92,
+      "end": 36.16,
+      "text": "Oh, it's about all of them, and I will export in that format"
+    },
+    {
+      "start": 36.8,
+      "end": 42.97,
+      "text": "All right, so perfect now. It's done. So let me head on over to chat gpt"
+    },
+    {
+      "start": 43.97,
+      "end": 48.77,
+      "text": "Real quick before we head over to chat gpt. I do want to"
+    },
+    {
+      "start": 49.53,
+      "end": 50.73,
+      "text": "grab"
+    },
+    {
+      "start": 50.73,
+      "end": 52.41,
+      "text": "my own"
+    },
+    {
+      "start": 52.41,
+      "end": 55.8,
+      "text": "Referring domains"
+    },
+    {
+      "start": 55.84,
+      "end": 60.4,
+      "text": "Perfect, so now I have my competitors and I have mine and if you want to grab multiple competitors you can"
+    },
+    {
+      "start": 60.76,
+      "end": 66.56,
+      "text": "So here's the prompt that we're going to use and we're just going to give it those two files and let it run its analysis"
+    },
+    {
+      "start": 68.28,
+      "end": 72.4,
+      "text": "All right, so it has pulled the list that they have links to"
+    },
+    {
+      "start": 73.48,
+      "end": 75.48,
+      "text": "Links from and we do not"
+    },
+    {
+      "start": 75.52,
+      "end": 76.8,
+      "text": "Yes"
+    },
+    {
+      "start": 76.8,
+      "end": 93.38,
+      "text": "So it's asking if we want to know how to get links from those domains and of course the answer is yes"
+    },
+    {
+      "start": 93.38,
+      "end": 94.38,
+      "text": "We do"
+    },
+    {
+      "start": 94.38,
+      "end": 112.54,
+      "text": "So it's going to generate this and we can take this and ask it for more details about"
+    },
+    {
+      "start": 113.3,
+      "end": 115.42,
+      "text": "any one of these particular action plans"
+    },
+    {
+      "start": 117.06,
+      "end": 119.02,
+      "text": "So like all music is interesting, right?"
+    },
+    {
+      "start": 119.02,
+      "end": 124.46,
+      "text": "Just write reviews of piano centric albums and link back and link back to relevant tutorials on your site"
+    },
+    {
+      "start": 124.46,
+      "end": 128.66,
+      "text": "So, you know pretty pretty reasonable how we do that like Rolling Stone is a huge one"
+    },
+    {
+      "start": 128.66,
+      "end": 131.74,
+      "text": "So we have to pitch the guest articles. That's gonna obviously be a little bit more difficult"
+    },
+    {
+      "start": 132.06,
+      "end": 136.3,
+      "text": "Rotten tomatoes right articles analyzing piano music. So, you know, it's pretty clear"
+    },
+    {
+      "start": 136.3,
+      "end": 142.98,
+      "text": "That is the and here you go write guides on successful online music courses and add a link back"
+    },
+    {
+      "start": 142.98,
+      "end": 144.98,
+      "text": "So it's pretty clear that the"
+    },
+    {
+      "start": 146.66,
+      "end": 150.46,
+      "text": "The people doing SEO for this domain, I can't remember the domain is"
+    },
+    {
+      "start": 150.82,
+      "end": 158.34,
+      "text": "But they've done quite a bit in terms of getting quality links like this and these action plans like for example, if I really liked"
+    },
+    {
+      "start": 159.7,
+      "end": 164.14,
+      "text": "Think if it so I can say please be more specific about"
+    },
+    {
+      "start": 165.06,
+      "end": 166.9,
+      "text": "Think if it com"
+    },
+    {
+      "start": 166.9,
+      "end": 168.46,
+      "text": "number 15"
+    },
+    {
+      "start": 168.46,
+      "end": 181.28,
+      "text": "So here's here's what we would do if we wanted to reach out to think if it com"
+    },
+    {
+      "start": 181.28,
+      "end": 186.72,
+      "text": "So this is how we use the the AI to identify links that we're missing and"
+    },
+    {
+      "start": 188.32,
+      "end": 192.68,
+      "text": "Identify links that we could potentially source to our website"
+    }
+  ],
+  "transcript_text": "So an excellent way to find backlink opportunities is to look at who your organic count in predators is getting links from so We're going to go to a hrefs put in a website, and then we're going to look for their organic competitors That's right under here. So we're just gonna go ahead and grab the domain and then I'm gonna go over to Referring domains because that's what I want to see And you can grab multiple ones, but I'm just gonna show this one. I'm gonna export this Oh, it's about all of them, and I will export in that format All right, so perfect now. It's done. So let me head on over to chat gpt Real quick before we head over to chat gpt. I do want to grab my own Referring domains Perfect, so now I have my competitors and I have mine and if you want to grab multiple competitors you can So here's the prompt that we're going to use and we're just going to give it those two files and let it run its analysis All right, so it has pulled the list that they have links to Links from and we do not Yes So it's asking if we want to know how to get links from those domains and of course the answer is yes We do So it's going to generate this and we can take this and ask it for more details about any one of these particular action plans So like all music is interesting, right? Just write reviews of piano centric albums and link back and link back to relevant tutorials on your site So, you know pretty pretty reasonable how we do that like Rolling Stone is a huge one So we have to pitch the guest articles. That's gonna obviously be a little bit more difficult Rotten tomatoes right articles analyzing piano music. So, you know, it's pretty clear That is the and here you go write guides on successful online music courses and add a link back So it's pretty clear that the The people doing SEO for this domain, I can't remember the domain is But they've done quite a bit in terms of getting quality links like this and these action plans like for example, if I really liked Think if it so I can say please be more specific about Think if it com number 15 So here's here's what we would do if we wanted to reach out to think if it com So this is how we use the the AI to identify links that we're missing and Identify links that we could potentially source to our website",
   "summary": "",
   "key_points": [],
   "tags": []

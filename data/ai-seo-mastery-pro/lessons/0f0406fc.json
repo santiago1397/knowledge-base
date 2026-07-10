@@ -7,8 +7,434 @@
   "video_url": "https://www.loom.com/share/c4c1bd9b313d45949ab31746b4296f48?hide_owner=true&hide_share=true&hide_title=true&hideEmbedTopBar=true",
   "video_file": "0f0406fc_calebs-internal-teams-copywriting-system [c4c1bd9b313d45949ab31746b4296f48].mp4",
   "content_md": "# Caleb's Internal Team's Copywriting System\n\n- Code: 0f0406fc\n- Source: https://www.skool.com/ai-seo-mastery-pro/classroom/63a81f62?md=0f0406fc4a0d46b197263cce3896ee9e\n- Video: https://www.loom.com/share/c4c1bd9b313d45949ab31746b4296f48?hide_owner=true&hide_share=true&hide_title=true&hideEmbedTopBar=true\n- Duration: 6m 44s\n- Resources:\n  - [Caleb's Copywriter Instructions](None)\n\n## Description\n\n_(no description)_\n",
-  "transcript": [],
-  "transcript_text": "",
+  "transcript": [
+    {
+      "start": 0.82,
+      "end": 6.82,
+      "text": "Okay, so this is the actual training sheet that I have given my internal copywriter team."
+    },
+    {
+      "start": 6.82,
+      "end": 12.82,
+      "text": "So I'm just going to do a quick walkthrough and explain what we have going on here and why it's set up the way it is."
+    },
+    {
+      "start": 12.82,
+      "end": 20.82,
+      "text": "Okay, so we basically have all the steps, a short description, some prompts, video, the loom videos of me doing it, and then any notes."
+    },
+    {
+      "start": 20.82,
+      "end": 23.82,
+      "text": "So we're going to start by the way Claude works."
+    },
+    {
+      "start": 23.82,
+      "end": 29.82,
+      "text": "We have a team account and I didn't want to create a specific email account for every single new copywriter."
+    },
+    {
+      "start": 29.82,
+      "end": 33.82,
+      "text": "So there's a shared email account, Copywriter at Alkaliugistics.com."
+    },
+    {
+      "start": 33.82,
+      "end": 36.82,
+      "text": "Alkaliugistics.com is my agency's domain name."
+    },
+    {
+      "start": 36.82,
+      "end": 40.82,
+      "text": "For a team account on Claude, they all need to be on the same domain."
+    },
+    {
+      "start": 40.82,
+      "end": 43.82,
+      "text": "So that's why we have the Alkaliugistics.com."
+    },
+    {
+      "start": 43.82,
+      "end": 48.82,
+      "text": "The way logging into Claude works is you don't have a username and password."
+    },
+    {
+      "start": 48.82,
+      "end": 54.82,
+      "text": "You ask to log in, you provide your email address, then Claude emails you a link, you click on the link and you're logged in."
+    },
+    {
+      "start": 54.82,
+      "end": 56.82,
+      "text": "So that's what we have going on here."
+    },
+    {
+      "start": 56.82,
+      "end": 64.82,
+      "text": "A new copywriter would basically log into the Copywriter email account, request the magic link from Claude, click on that link,"
+    },
+    {
+      "start": 64.82,
+      "end": 73.82,
+      "text": "and then there are BAM put into the Claude copywriter at Alkaliugistics projects and workspace."
+    },
+    {
+      "start": 73.82,
+      "end": 81.82,
+      "text": "Now the content brief, I'll cover that in a different lesson, but that basically tells the copywriter exactly what they need to write,"
+    },
+    {
+      "start": 81.82,
+      "end": 86.82,
+      "text": "what that type of content is, who the client is, client JVP information, things like that."
+    },
+    {
+      "start": 86.82,
+      "end": 92.82,
+      "text": "So the content brief will describe the type of content they're going to write,"
+    },
+    {
+      "start": 92.82,
+      "end": 98.82,
+      "text": "whether it be supporting content, neighborhood content, category content, service content."
+    },
+    {
+      "start": 98.82,
+      "end": 103.82,
+      "text": "So the first thing that they're going to do is write an outline,"
+    },
+    {
+      "start": 103.82,
+      "end": 106.82,
+      "text": "and that outline will be based on the type of content."
+    },
+    {
+      "start": 106.82,
+      "end": 110.82,
+      "text": "So I have an outline for each one of the content types."
+    },
+    {
+      "start": 110.82,
+      "end": 118.82,
+      "text": "So there's a supporting content outline project, a category page outline project, a service page outline project, and a neighborhood page outline project."
+    },
+    {
+      "start": 118.82,
+      "end": 123.82,
+      "text": "So they're going to go and open up the project that corresponds to that type of content."
+    },
+    {
+      "start": 123.82,
+      "end": 126.82,
+      "text": "Then they're going to pull together the necessary inputs."
+    },
+    {
+      "start": 126.82,
+      "end": 136.82,
+      "text": "So I have listed here, maybe this should go over in the notes, I have listed here what the necessary input is for each one of the content types."
+    },
+    {
+      "start": 136.82,
+      "end": 140.82,
+      "text": "So they're just going to go and pull that information, right?"
+    },
+    {
+      "start": 140.82,
+      "end": 144.82,
+      "text": "So if it's supporting content, they need the target keyword, that's going to be in the content brief."
+    },
+    {
+      "start": 144.82,
+      "end": 148.82,
+      "text": "They need the target keyword for the page it's supporting, that will be in the content brief,"
+    },
+    {
+      "start": 148.82,
+      "end": 153.82,
+      "text": "and then they need the people also ask questions in competitor H2H3s that they'll grab"
+    },
+    {
+      "start": 153.82,
+      "end": 160.82,
+      "text": "by simply putting the target keyword into Google search and then grabbing the PAA questions and competitor H2H3s."
+    },
+    {
+      "start": 161.82,
+      "end": 168.82,
+      "text": "So once they have that necessary information, they're going to just give that information to the cloud project and cloud will generate an outline."
+    },
+    {
+      "start": 168.82,
+      "end": 171.82,
+      "text": "They'll review the outline, decide if they like it or not."
+    },
+    {
+      "start": 171.82,
+      "end": 177.82,
+      "text": "And if they do, then they're going to copy that outline and then give it to the cloud project for actually writing it."
+    },
+    {
+      "start": 177.82,
+      "end": 181.82,
+      "text": "So let me show you the prompts to hopefully this makes a little more sense."
+    },
+    {
+      "start": 181.82,
+      "end": 183.82,
+      "text": "So we have the supporting content outline."
+    },
+    {
+      "start": 183.82,
+      "end": 185.82,
+      "text": "So this generates an outline for supporting content."
+    },
+    {
+      "start": 185.82,
+      "end": 188.82,
+      "text": "This generates an outline for category pages."
+    },
+    {
+      "start": 188.82,
+      "end": 190.82,
+      "text": "This generates an outline for service pages."
+    },
+    {
+      "start": 190.82,
+      "end": 192.82,
+      "text": "This generates an outline for neighborhood pages."
+    },
+    {
+      "start": 192.82,
+      "end": 196.82,
+      "text": "Then over on the far right, this is the prompt that actually writes the content."
+    },
+    {
+      "start": 196.82,
+      "end": 202.82,
+      "text": "If I expand this a little bit, we can see that there's FAQ section."
+    },
+    {
+      "start": 202.82,
+      "end": 206.82,
+      "text": "And below this is where we're going to put information for that client."
+    },
+    {
+      "start": 206.82,
+      "end": 211.82,
+      "text": "We're going to put the about us content, the clients about us information."
+    },
+    {
+      "start": 211.82,
+      "end": 216.82,
+      "text": "We're going to put their GBP information, things like that, so that cloud will write for that client."
+    },
+    {
+      "start": 216.82,
+      "end": 219.82,
+      "text": "That's why we have it divided like that."
+    },
+    {
+      "start": 219.82,
+      "end": 222.82,
+      "text": "I didn't want 50 different projects."
+    },
+    {
+      "start": 222.82,
+      "end": 228.82,
+      "text": "So the outlines are kept generic, not specific to a client and the actual writing is specific to a client."
+    },
+    {
+      "start": 228.82,
+      "end": 234.82,
+      "text": "So every client has its own project for writing and every content type has its own project for generating the outline."
+    },
+    {
+      "start": 234.82,
+      "end": 240.82,
+      "text": "So once cloud writes the content, it goes section by section."
+    },
+    {
+      "start": 240.82,
+      "end": 247.82,
+      "text": "The copywriter will go through, make edits, make changes, re-prompt it so it sounds better so that they get something they want."
+    },
+    {
+      "start": 247.82,
+      "end": 252.82,
+      "text": "Then the first thing we're going to do is prompt cloud to fact check itself."
+    },
+    {
+      "start": 252.82,
+      "end": 257.82,
+      "text": "Just a very simple short prompt here, fact check yourself and provide citations."
+    },
+    {
+      "start": 257.82,
+      "end": 260.82,
+      "text": "Then we ask cloud to fact check itself again."
+    },
+    {
+      "start": 260.82,
+      "end": 272.82,
+      "text": "As of yet, I have not seen cloud with this double check fail to find additional facts that it didn't find in the first round."
+    },
+    {
+      "start": 272.82,
+      "end": 276.82,
+      "text": "So again, we're just doing this to minimize the probability of hallucinations."
+    },
+    {
+      "start": 276.82,
+      "end": 278.82,
+      "text": "But you must check the citations."
+    },
+    {
+      "start": 278.82,
+      "end": 286.82,
+      "text": "What we have found and it's kind of this horrible spiraling pattern is cloud will often provide a citation"
+    },
+    {
+      "start": 286.82,
+      "end": 290.82,
+      "text": "and the citation is AI generated content."
+    },
+    {
+      "start": 290.82,
+      "end": 296.82,
+      "text": "So it's coming up with facts based on other AI's hallucinations, which obviously is problematic."
+    },
+    {
+      "start": 296.82,
+      "end": 300.82,
+      "text": "This is why I say it's helpful to have a subject matter expert review the content,"
+    },
+    {
+      "start": 300.82,
+      "end": 303.82,
+      "text": "but we obviously can't do that for local services, businesses."
+    },
+    {
+      "start": 303.82,
+      "end": 307.82,
+      "text": "Just try to make sure, check the citations, make sure they're accurate."
+    },
+    {
+      "start": 307.82,
+      "end": 308.82,
+      "text": "Okay."
+    },
+    {
+      "start": 308.82,
+      "end": 312.82,
+      "text": "And again, now we're going to read, review, re-prompt as necessary to get content that we like."
+    },
+    {
+      "start": 312.82,
+      "end": 316.82,
+      "text": "Once we get that, we're going to ask cloud to add the internal links."
+    },
+    {
+      "start": 316.82,
+      "end": 322.82,
+      "text": "Those internal links are going to be in the content brief, which I'll show you what the content brief looks like in a later lesson."
+    },
+    {
+      "start": 322.82,
+      "end": 325.82,
+      "text": "Then we're going to find a high authority external link."
+    },
+    {
+      "start": 325.82,
+      "end": 328.82,
+      "text": "So we have this list of authority domains."
+    },
+    {
+      "start": 328.82,
+      "end": 332.82,
+      "text": "So it's really just a site colon domain search with the target keyword."
+    },
+    {
+      "start": 332.82,
+      "end": 337.82,
+      "text": "And then whatever article sounds great, we're going to ask cloud to insert that."
+    },
+    {
+      "start": 337.82,
+      "end": 344.82,
+      "text": "And we're going to specifically ask cloud to crawl the link to confirm that it makes sense where it's going to be inserted."
+    },
+    {
+      "start": 344.82,
+      "end": 346.82,
+      "text": "Then we're going to zerogpt.com."
+    },
+    {
+      "start": 346.82,
+      "end": 352.82,
+      "text": "I know that these AI checkers don't mean anything, but we still do it."
+    },
+    {
+      "start": 352.82,
+      "end": 354.82,
+      "text": "Clients like to see it."
+    },
+    {
+      "start": 354.82,
+      "end": 357.82,
+      "text": "80% or 60% is the absolute maximum."
+    },
+    {
+      "start": 357.82,
+      "end": 361.82,
+      "text": "Most of the content we publish or give to clients is 40% or below."
+    },
+    {
+      "start": 361.82,
+      "end": 365.82,
+      "text": "When these external links are in there, we typically get fairly low scores."
+    },
+    {
+      "start": 365.82,
+      "end": 373.82,
+      "text": "But if the score ends up being higher, then there are a few options that we can reprompt cloud to have it rewrite the content for a lower score."
+    },
+    {
+      "start": 373.82,
+      "end": 379.82,
+      "text": "It doesn't work if you ask cloud to rewrite it to pass an AI test checker."
+    },
+    {
+      "start": 379.82,
+      "end": 381.82,
+      "text": "You have to prompt with one of these things."
+    },
+    {
+      "start": 381.82,
+      "end": 388.82,
+      "text": "Usually the fifth grade reading level does a great job and it comes back 30%, 20% or even less."
+    },
+    {
+      "start": 388.82,
+      "end": 394.82,
+      "text": "And once we're happy with the content, we put it back in the content brief and we double check,"
+    },
+    {
+      "start": 394.82,
+      "end": 396.82,
+      "text": "make sure everything is in there and correct."
+    },
+    {
+      "start": 396.82,
+      "end": 401.82,
+      "text": "And then we'll email that over to Terry, who is our content manager."
+    },
+    {
+      "start": 401.82,
+      "end": 404.82,
+      "text": "So that's how this process works for the copywriters."
+    }
+  ],
+  "transcript_text": "Okay, so this is the actual training sheet that I have given my internal copywriter team. So I'm just going to do a quick walkthrough and explain what we have going on here and why it's set up the way it is. Okay, so we basically have all the steps, a short description, some prompts, video, the loom videos of me doing it, and then any notes. So we're going to start by the way Claude works. We have a team account and I didn't want to create a specific email account for every single new copywriter. So there's a shared email account, Copywriter at Alkaliugistics.com. Alkaliugistics.com is my agency's domain name. For a team account on Claude, they all need to be on the same domain. So that's why we have the Alkaliugistics.com. The way logging into Claude works is you don't have a username and password. You ask to log in, you provide your email address, then Claude emails you a link, you click on the link and you're logged in. So that's what we have going on here. A new copywriter would basically log into the Copywriter email account, request the magic link from Claude, click on that link, and then there are BAM put into the Claude copywriter at Alkaliugistics projects and workspace. Now the content brief, I'll cover that in a different lesson, but that basically tells the copywriter exactly what they need to write, what that type of content is, who the client is, client JVP information, things like that. So the content brief will describe the type of content they're going to write, whether it be supporting content, neighborhood content, category content, service content. So the first thing that they're going to do is write an outline, and that outline will be based on the type of content. So I have an outline for each one of the content types. So there's a supporting content outline project, a category page outline project, a service page outline project, and a neighborhood page outline project. So they're going to go and open up the project that corresponds to that type of content. Then they're going to pull together the necessary inputs. So I have listed here, maybe this should go over in the notes, I have listed here what the necessary input is for each one of the content types. So they're just going to go and pull that information, right? So if it's supporting content, they need the target keyword, that's going to be in the content brief. They need the target keyword for the page it's supporting, that will be in the content brief, and then they need the people also ask questions in competitor H2H3s that they'll grab by simply putting the target keyword into Google search and then grabbing the PAA questions and competitor H2H3s. So once they have that necessary information, they're going to just give that information to the cloud project and cloud will generate an outline. They'll review the outline, decide if they like it or not. And if they do, then they're going to copy that outline and then give it to the cloud project for actually writing it. So let me show you the prompts to hopefully this makes a little more sense. So we have the supporting content outline. So this generates an outline for supporting content. This generates an outline for category pages. This generates an outline for service pages. This generates an outline for neighborhood pages. Then over on the far right, this is the prompt that actually writes the content. If I expand this a little bit, we can see that there's FAQ section. And below this is where we're going to put information for that client. We're going to put the about us content, the clients about us information. We're going to put their GBP information, things like that, so that cloud will write for that client. That's why we have it divided like that. I didn't want 50 different projects. So the outlines are kept generic, not specific to a client and the actual writing is specific to a client. So every client has its own project for writing and every content type has its own project for generating the outline. So once cloud writes the content, it goes section by section. The copywriter will go through, make edits, make changes, re-prompt it so it sounds better so that they get something they want. Then the first thing we're going to do is prompt cloud to fact check itself. Just a very simple short prompt here, fact check yourself and provide citations. Then we ask cloud to fact check itself again. As of yet, I have not seen cloud with this double check fail to find additional facts that it didn't find in the first round. So again, we're just doing this to minimize the probability of hallucinations. But you must check the citations. What we have found and it's kind of this horrible spiraling pattern is cloud will often provide a citation and the citation is AI generated content. So it's coming up with facts based on other AI's hallucinations, which obviously is problematic. This is why I say it's helpful to have a subject matter expert review the content, but we obviously can't do that for local services, businesses. Just try to make sure, check the citations, make sure they're accurate. Okay. And again, now we're going to read, review, re-prompt as necessary to get content that we like. Once we get that, we're going to ask cloud to add the internal links. Those internal links are going to be in the content brief, which I'll show you what the content brief looks like in a later lesson. Then we're going to find a high authority external link. So we have this list of authority domains. So it's really just a site colon domain search with the target keyword. And then whatever article sounds great, we're going to ask cloud to insert that. And we're going to specifically ask cloud to crawl the link to confirm that it makes sense where it's going to be inserted. Then we're going to zerogpt.com. I know that these AI checkers don't mean anything, but we still do it. Clients like to see it. 80% or 60% is the absolute maximum. Most of the content we publish or give to clients is 40% or below. When these external links are in there, we typically get fairly low scores. But if the score ends up being higher, then there are a few options that we can reprompt cloud to have it rewrite the content for a lower score. It doesn't work if you ask cloud to rewrite it to pass an AI test checker. You have to prompt with one of these things. Usually the fifth grade reading level does a great job and it comes back 30%, 20% or even less. And once we're happy with the content, we put it back in the content brief and we double check, make sure everything is in there and correct. And then we'll email that over to Terry, who is our content manager. So that's how this process works for the copywriters.",
   "summary": "",
   "key_points": [],
   "tags": []

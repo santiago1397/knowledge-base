@@ -7,8 +7,394 @@
   "video_url": "https://www.loom.com/share/8aacd7e1ef8b4c5d9bdd45e7f52673fa?hide_owner=true&hide_share=true&hide_title=true&hideEmbedTopBar=true",
   "video_file": "4d5790fa_determining-local-rank-map-size [8aacd7e1ef8b4c5d9bdd45e7f52673fa].mp4",
   "content_md": "# Determining Local Rank Map Size\n\n- Code: 4d5790fa\n- Source: https://www.skool.com/ai-seo-mastery-pro/classroom/63a81f62?md=4d5790fa04a3435e858fe008467ab921\n- Video: https://www.loom.com/share/8aacd7e1ef8b4c5d9bdd45e7f52673fa?hide_owner=true&hide_share=true&hide_title=true&hideEmbedTopBar=true\n- Duration: 4m 14s\n\n## Description\n\n_(no description)_\n",
-  "transcript": [],
-  "transcript_text": "",
+  "transcript": [
+    {
+      "start": 0.0,
+      "end": 4.64,
+      "text": "Let's talk about maps, sizing the heat maps, when to run it, sizes,"
+    },
+    {
+      "start": 4.64,
+      "end": 5.56,
+      "text": "all of things like that."
+    },
+    {
+      "start": 5.56,
+      "end": 7.76,
+      "text": "So this is just an example I'm going to walk through."
+    },
+    {
+      "start": 8.24,
+      "end": 12.72,
+      "text": "So this is the number one player and you can see the construction"
+    },
+    {
+      "start": 12.72,
+      "end": 13.98,
+      "text": "company in Washington DC."
+    },
+    {
+      "start": 13.98,
+      "end": 17.04,
+      "text": "So it has the city name in it and this is the result."
+    },
+    {
+      "start": 17.28,
+      "end": 20.68,
+      "text": "So now this is too good, right?"
+    },
+    {
+      "start": 20.7,
+      "end": 25.3,
+      "text": "Top 3%, which I can scroll over here and see, I'll click twice to"
+    },
+    {
+      "start": 25.3,
+      "end": 27.54,
+      "text": "sort by that top 3% is a hundred percent."
+    },
+    {
+      "start": 27.82,
+      "end": 30.44,
+      "text": "So that tells me that this rank map is too small."
+    },
+    {
+      "start": 30.66,
+      "end": 33.7,
+      "text": "I probably want to rerun this as a larger rank map, but the"
+    },
+    {
+      "start": 33.7,
+      "end": 39.3,
+      "text": "challenge is if I look at this map, it already includes all of Washington DC."
+    },
+    {
+      "start": 39.7,
+      "end": 40.02,
+      "text": "Right?"
+    },
+    {
+      "start": 40.38,
+      "end": 45.18,
+      "text": "So if I'm looking out like here in Pymot Hills, Virginia, or Tysons,"
+    },
+    {
+      "start": 45.18,
+      "end": 48.6,
+      "text": "Virginia, no one in Tysons, Virginia is going to be searching for"
+    },
+    {
+      "start": 48.6,
+      "end": 51.5,
+      "text": "construction company, Washington DC, right?"
+    },
+    {
+      "start": 51.5,
+      "end": 53.44,
+      "text": "Or in Bethesda or anything like that."
+    },
+    {
+      "start": 53.62,
+      "end": 57.5,
+      "text": "So I don't want to make this map bigger and keep the city name in there."
+    },
+    {
+      "start": 57.7,
+      "end": 60.86,
+      "text": "That wouldn't make any sense because people all the way out here won't"
+    },
+    {
+      "start": 60.86,
+      "end": 61.94,
+      "text": "be searching with the city name."
+    },
+    {
+      "start": 62.58,
+      "end": 62.94,
+      "text": "Okay."
+    },
+    {
+      "start": 63.1,
+      "end": 68.46,
+      "text": "If this were a really tight one and I could expand the size of it and"
+    },
+    {
+      "start": 68.46,
+      "end": 73.22,
+      "text": "still not fully encompass the city, I could go ahead and make it larger."
+    },
+    {
+      "start": 73.34,
+      "end": 77.74,
+      "text": "But in this case, I can't, uh, you know, we can see the border drawn right on"
+    },
+    {
+      "start": 77.74,
+      "end": 78.3,
+      "text": "there, right?"
+    },
+    {
+      "start": 78.3,
+      "end": 79.06,
+      "text": "Here's the border."
+    },
+    {
+      "start": 79.06,
+      "end": 81.02,
+      "text": "It goes like this, like this, like this."
+    },
+    {
+      "start": 81.38,
+      "end": 85.1,
+      "text": "So in this case, I don't want to make it larger because it doesn't make any sense."
+    },
+    {
+      "start": 85.1,
+      "end": 91.1,
+      "text": "So what I would do in this case is rerun this map for not having the city name."
+    },
+    {
+      "start": 91.1,
+      "end": 94.02,
+      "text": "I'd either run for this one, I would run construction company."
+    },
+    {
+      "start": 94.3,
+      "end": 94.7,
+      "text": "Okay."
+    },
+    {
+      "start": 95.26,
+      "end": 96.18,
+      "text": "So that's the first lesson."
+    },
+    {
+      "start": 96.18,
+      "end": 100.78,
+      "text": "If I see a 100% top three as the number one player, I know that either my"
+    },
+    {
+      "start": 100.78,
+      "end": 104.02,
+      "text": "map is too big or I need to run without the city name."
+    },
+    {
+      "start": 104.7,
+      "end": 110.02,
+      "text": "Which one of those it is depends on, is there more of that city outside the border?"
+    },
+    {
+      "start": 110.02,
+      "end": 113.98,
+      "text": "Or if I make it bigger, am I just going ridiculous that no one, you know,"
+    },
+    {
+      "start": 114.22,
+      "end": 119.18,
+      "text": "20 miles outside of DC, like way out in Bethesda is going to be searching for"
+    },
+    {
+      "start": 119.18,
+      "end": 121.54,
+      "text": "a construction company, Washington DC."
+    },
+    {
+      "start": 121.86,
+      "end": 123.02,
+      "text": "So that's the first check."
+    },
+    {
+      "start": 123.06,
+      "end": 123.46,
+      "text": "Okay."
+    },
+    {
+      "start": 124.14,
+      "end": 127.42,
+      "text": "Now what I'm going to do, I'm not going to run a whole bunch of rank maps."
+    },
+    {
+      "start": 127.42,
+      "end": 128.98,
+      "text": "So this is obviously the number one rank map."
+    },
+    {
+      "start": 128.98,
+      "end": 132.86,
+      "text": "Now let's come down here and let's say this guy here, let's say this was the"
+    },
+    {
+      "start": 132.86,
+      "end": 134.42,
+      "text": "number one player, right?"
+    },
+    {
+      "start": 134.9,
+      "end": 140.58,
+      "text": "So if I had run the rank map and this was the number one player at 32% top three,"
+    },
+    {
+      "start": 140.62,
+      "end": 143.74,
+      "text": "then I know this is probably too large."
+    },
+    {
+      "start": 144.02,
+      "end": 144.38,
+      "text": "Okay."
+    },
+    {
+      "start": 144.5,
+      "end": 150.1,
+      "text": "If the number one player is at 32%, then it's too large and I need to rerun it."
+    },
+    {
+      "start": 150.34,
+      "end": 152.22,
+      "text": "And I either need to tighten it."
+    },
+    {
+      "start": 152.86,
+      "end": 157.42,
+      "text": "So I need a lower distance between the points, or if I've run without the city"
+    },
+    {
+      "start": 157.42,
+      "end": 159.18,
+      "text": "name, I could add the city name to it."
+    },
+    {
+      "start": 159.22,
+      "end": 162.42,
+      "text": "Either one of those will effectively make this map smaller."
+    },
+    {
+      "start": 162.78,
+      "end": 163.7,
+      "text": "It's important to note."
+    },
+    {
+      "start": 163.7,
+      "end": 167.9,
+      "text": "If you run it with the city name versus without your rank map will always look"
+    },
+    {
+      "start": 167.9,
+      "end": 170.82,
+      "text": "better when you run it with the city name where they're located in."
+    },
+    {
+      "start": 171.02,
+      "end": 173.66,
+      "text": "So whether to do it with the city name or without, you know, it's a"
+    },
+    {
+      "start": 173.66,
+      "end": 177.14,
+      "text": "conversation, you and the client, what you're trying to accomplish, what you're"
+    },
+    {
+      "start": 177.14,
+      "end": 177.74,
+      "text": "trying to do."
+    },
+    {
+      "start": 178.06,
+      "end": 182.5,
+      "text": "But if I had, this is the first rank map, I know that this is too large, right?"
+    },
+    {
+      "start": 182.54,
+      "end": 185.62,
+      "text": "Like the number one player should have a better looking rank map than this."
+    },
+    {
+      "start": 185.66,
+      "end": 188.9,
+      "text": "And we can look, and obviously if it was this, you know, same thing, cause it's"
+    },
+    {
+      "start": 188.9,
+      "end": 190.14,
+      "text": "getting worse and worse and worse."
+    },
+    {
+      "start": 190.18,
+      "end": 190.5,
+      "text": "Okay."
+    },
+    {
+      "start": 191.14,
+      "end": 194.22,
+      "text": "So that is how we decide rank map sizes."
+    },
+    {
+      "start": 194.5,
+      "end": 200.74,
+      "text": "If I had run it and this was the top player, then I might be okay keeping it as"
+    },
+    {
+      "start": 201.18,
+      "end": 205.62,
+      "text": "it's, but you know, you do see a lot of twos and threes on the outskirts."
+    },
+    {
+      "start": 205.86,
+      "end": 209.7,
+      "text": "The only reason this isn't a hundred percent is because there's a lot of, you"
+    },
+    {
+      "start": 209.7,
+      "end": 213.74,
+      "text": "know, right in the Northwest and DC, there's a lot of fives and sixes."
+    },
+    {
+      "start": 213.94,
+      "end": 218.22,
+      "text": "So even this one, I would probably say is indicative that this rank map is too"
+    },
+    {
+      "start": 218.22,
+      "end": 222.58,
+      "text": "small, or I need to rerun it without Washington DC in the name."
+    },
+    {
+      "start": 222.62,
+      "end": 226.26,
+      "text": "This example, if this were the number one player, I'd be pretty happy with this."
+    },
+    {
+      "start": 226.26,
+      "end": 230.26,
+      "text": "We can see as we get right into the heart of Washington DC, we drop out of the top"
+    },
+    {
+      "start": 230.26,
+      "end": 230.66,
+      "text": "three."
+    },
+    {
+      "start": 230.74,
+      "end": 235.3,
+      "text": "So if this were my top, top player, then I would be okay with this and I would"
+    },
+    {
+      "start": 235.3,
+      "end": 235.74,
+      "text": "move on."
+    },
+    {
+      "start": 236.02,
+      "end": 236.26,
+      "text": "Okay."
+    },
+    {
+      "start": 236.26,
+      "end": 237.18,
+      "text": "Hopefully that's helpful."
+    }
+  ],
+  "transcript_text": "Let's talk about maps, sizing the heat maps, when to run it, sizes, all of things like that. So this is just an example I'm going to walk through. So this is the number one player and you can see the construction company in Washington DC. So it has the city name in it and this is the result. So now this is too good, right? Top 3%, which I can scroll over here and see, I'll click twice to sort by that top 3% is a hundred percent. So that tells me that this rank map is too small. I probably want to rerun this as a larger rank map, but the challenge is if I look at this map, it already includes all of Washington DC. Right? So if I'm looking out like here in Pymot Hills, Virginia, or Tysons, Virginia, no one in Tysons, Virginia is going to be searching for construction company, Washington DC, right? Or in Bethesda or anything like that. So I don't want to make this map bigger and keep the city name in there. That wouldn't make any sense because people all the way out here won't be searching with the city name. Okay. If this were a really tight one and I could expand the size of it and still not fully encompass the city, I could go ahead and make it larger. But in this case, I can't, uh, you know, we can see the border drawn right on there, right? Here's the border. It goes like this, like this, like this. So in this case, I don't want to make it larger because it doesn't make any sense. So what I would do in this case is rerun this map for not having the city name. I'd either run for this one, I would run construction company. Okay. So that's the first lesson. If I see a 100% top three as the number one player, I know that either my map is too big or I need to run without the city name. Which one of those it is depends on, is there more of that city outside the border? Or if I make it bigger, am I just going ridiculous that no one, you know, 20 miles outside of DC, like way out in Bethesda is going to be searching for a construction company, Washington DC. So that's the first check. Okay. Now what I'm going to do, I'm not going to run a whole bunch of rank maps. So this is obviously the number one rank map. Now let's come down here and let's say this guy here, let's say this was the number one player, right? So if I had run the rank map and this was the number one player at 32% top three, then I know this is probably too large. Okay. If the number one player is at 32%, then it's too large and I need to rerun it. And I either need to tighten it. So I need a lower distance between the points, or if I've run without the city name, I could add the city name to it. Either one of those will effectively make this map smaller. It's important to note. If you run it with the city name versus without your rank map will always look better when you run it with the city name where they're located in. So whether to do it with the city name or without, you know, it's a conversation, you and the client, what you're trying to accomplish, what you're trying to do. But if I had, this is the first rank map, I know that this is too large, right? Like the number one player should have a better looking rank map than this. And we can look, and obviously if it was this, you know, same thing, cause it's getting worse and worse and worse. Okay. So that is how we decide rank map sizes. If I had run it and this was the top player, then I might be okay keeping it as it's, but you know, you do see a lot of twos and threes on the outskirts. The only reason this isn't a hundred percent is because there's a lot of, you know, right in the Northwest and DC, there's a lot of fives and sixes. So even this one, I would probably say is indicative that this rank map is too small, or I need to rerun it without Washington DC in the name. This example, if this were the number one player, I'd be pretty happy with this. We can see as we get right into the heart of Washington DC, we drop out of the top three. So if this were my top, top player, then I would be okay with this and I would move on. Okay. Hopefully that's helpful.",
   "summary": "",
   "key_points": [],
   "tags": []

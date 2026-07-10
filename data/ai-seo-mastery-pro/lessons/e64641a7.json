@@ -7,8 +7,634 @@
   "video_url": "https://www.loom.com/share/6657820a871c4ac0844b0fd7e16c14f8?sid=16237967-f17c-4c63-b97f-ed71cc6cbc6d?hide_owner=true&hide_share=true&hide_title=true&hideEmbedTopBar=true",
   "video_file": "e64641a7_how-to-structure-the-core-30 [6657820a871c4ac0844b0fd7e16c14f8].mp4",
   "content_md": "# How to Structure the Core 30\n\n- Code: e64641a7\n- Source: https://www.skool.com/ai-seo-mastery-pro/classroom/63a81f62?md=e64641a74ba146208b675d47f569c09b\n- Video: https://www.loom.com/share/6657820a871c4ac0844b0fd7e16c14f8?sid=16237967-f17c-4c63-b97f-ed71cc6cbc6d?hide_owner=true&hide_share=true&hide_title=true&hideEmbedTopBar=true\n- Duration: 5m 22s\n- Resources:\n  - [Core 30 Website Structure](None)\n  - [Done-For-You SEO Services](https://icecreamtruck.shop/collections/our-services)\n\n## Description\n\n_(no description)_\n",
-  "transcript": [],
-  "transcript_text": "",
+  "transcript": [
+    {
+      "start": 0.3,
+      "end": 5.54,
+      "text": "OK, so this is how we structure core 30 local website."
+    },
+    {
+      "start": 5.54,
+      "end": 9.78,
+      "text": "So I'll start with the home page or GVP landing page."
+    },
+    {
+      "start": 9.78,
+      "end": 12.54,
+      "text": "If it's a single location company,"
+    },
+    {
+      "start": 12.54,
+      "end": 15.06,
+      "text": "meaning there's one GVP, one location,"
+    },
+    {
+      "start": 15.06,
+      "end": 18.74,
+      "text": "the home page will almost always be the GVP landing page."
+    },
+    {
+      "start": 18.74,
+      "end": 20.86,
+      "text": "If it's multi-location, then there"
+    },
+    {
+      "start": 20.86,
+      "end": 22.62,
+      "text": "would be separate landing pages for each."
+    },
+    {
+      "start": 22.62,
+      "end": 26.42,
+      "text": "So usually home page, sometimes GVP landing page."
+    },
+    {
+      "start": 26.42,
+      "end": 29.42,
+      "text": "Now the target keyword for the GVP landing page"
+    },
+    {
+      "start": 29.42,
+      "end": 32.46,
+      "text": "is going to be the GVP primary category city name,"
+    },
+    {
+      "start": 32.46,
+      "end": 33.82,
+      "text": "Plummer Houston, right?"
+    },
+    {
+      "start": 33.82,
+      "end": 37.86,
+      "text": "Plummer Chicago, Plummer Fort Wayne, Indiana, OK?"
+    },
+    {
+      "start": 37.86,
+      "end": 39.78,
+      "text": "Now that's your target keyword."
+    },
+    {
+      "start": 39.78,
+      "end": 42.26,
+      "text": "So you're going to optimize around that keyword."
+    },
+    {
+      "start": 42.26,
+      "end": 45.26,
+      "text": "You're going to use the exact match keyword like that"
+    },
+    {
+      "start": 45.26,
+      "end": 47.3,
+      "text": "in the title tag and in the H1."
+    },
+    {
+      "start": 47.3,
+      "end": 50.42,
+      "text": "Now your title tag in H1 will include exact match"
+    },
+    {
+      "start": 50.42,
+      "end": 52.9,
+      "text": "phrase for that target keyword."
+    },
+    {
+      "start": 52.9,
+      "end": 56.14,
+      "text": "So your title in H1 will include Plummer Chicago, Plummer"
+    },
+    {
+      "start": 56.14,
+      "end": 58.9,
+      "text": "Houston, but you can have more words in there, right?"
+    },
+    {
+      "start": 58.9,
+      "end": 61.94,
+      "text": "Find out why we're the best Plummer in Chicago, 2025"
+    },
+    {
+      "start": 61.94,
+      "end": 63.34,
+      "text": "or whatever, right?"
+    },
+    {
+      "start": 63.34,
+      "end": 66.78,
+      "text": "OK, now the Core 30 I have in blue here."
+    },
+    {
+      "start": 66.78,
+      "end": 69.3,
+      "text": "These are all of our secondary category pages"
+    },
+    {
+      "start": 69.3,
+      "end": 70.66,
+      "text": "and our service pages."
+    },
+    {
+      "start": 70.66,
+      "end": 73.7,
+      "text": "Now the GVP doesn't actually call them secondary categories."
+    },
+    {
+      "start": 73.7,
+      "end": 75.42,
+      "text": "You just add up to 10."
+    },
+    {
+      "start": 75.42,
+      "end": 79.22,
+      "text": "So for this example, we have three secondary categories,"
+    },
+    {
+      "start": 79.22,
+      "end": 83.34,
+      "text": "so four categories total, and we have 11 services."
+    },
+    {
+      "start": 83.34,
+      "end": 85.14,
+      "text": "You should have more than 11 services,"
+    },
+    {
+      "start": 85.14,
+      "end": 87.26,
+      "text": "but this is just showing what to do."
+    },
+    {
+      "start": 87.26,
+      "end": 91.38,
+      "text": "So we have one URL for each GVP category."
+    },
+    {
+      "start": 91.38,
+      "end": 94.66,
+      "text": "So on the home page, we're going to have subheadings"
+    },
+    {
+      "start": 94.66,
+      "end": 99.14,
+      "text": "for each GVP category, 5,200 words about that category,"
+    },
+    {
+      "start": 99.14,
+      "end": 101.1,
+      "text": "and in that 50 to 100 word block,"
+    },
+    {
+      "start": 101.1,
+      "end": 104.26,
+      "text": "we're going to link to the URL that we have dedicated"
+    },
+    {
+      "start": 104.26,
+      "end": 105.18,
+      "text": "to that category."
+    },
+    {
+      "start": 105.18,
+      "end": 107.34,
+      "text": "We'll do that here, here, and here."
+    },
+    {
+      "start": 107.34,
+      "end": 111.82,
+      "text": "Now, sometimes there are super important critical services"
+    },
+    {
+      "start": 111.82,
+      "end": 114.82,
+      "text": "that the client really, really wants to rank for."
+    },
+    {
+      "start": 114.86,
+      "end": 117.74,
+      "text": "We usually don't do more than two or three of these"
+    },
+    {
+      "start": 117.74,
+      "end": 119.74,
+      "text": "that we'll actually link to from the home page."
+    },
+    {
+      "start": 119.74,
+      "end": 122.82,
+      "text": "So for a plumber, this might be water heater replacement,"
+    },
+    {
+      "start": 122.82,
+      "end": 126.42,
+      "text": "and it might be main drain line replacement."
+    },
+    {
+      "start": 126.42,
+      "end": 129.18,
+      "text": "Both of those are very high profit margin jobs"
+    },
+    {
+      "start": 129.18,
+      "end": 131.3,
+      "text": "that plumbers really, really want."
+    },
+    {
+      "start": 131.3,
+      "end": 133.46,
+      "text": "So we might track those, especially"
+    },
+    {
+      "start": 133.46,
+      "end": 137.5,
+      "text": "for our local rank tracking, and we'll link to those services"
+    },
+    {
+      "start": 137.5,
+      "end": 139.06,
+      "text": "directly from our home page."
+    },
+    {
+      "start": 139.06,
+      "end": 141.7,
+      "text": "Same structure, where we're going"
+    },
+    {
+      "start": 141.74,
+      "end": 145.74,
+      "text": "to have the GVP service, city name"
+    },
+    {
+      "start": 145.74,
+      "end": 147.46,
+      "text": "is going to be the target keyword."
+    },
+    {
+      "start": 147.46,
+      "end": 149.66,
+      "text": "We'll have a subheading that includes that,"
+    },
+    {
+      "start": 149.66,
+      "end": 151.58,
+      "text": "block of text below that subheading"
+    },
+    {
+      "start": 151.58,
+      "end": 155.06,
+      "text": "that links to this long form article about it."
+    },
+    {
+      "start": 155.06,
+      "end": 156.94,
+      "text": "Okay, all of these blue boxes,"
+    },
+    {
+      "start": 156.94,
+      "end": 159.9,
+      "text": "the target keyword is going to be GVP secondary category"
+    },
+    {
+      "start": 159.9,
+      "end": 162.86,
+      "text": "or GVP service with the city name, right?"
+    },
+    {
+      "start": 162.86,
+      "end": 165.22,
+      "text": "Water heater replacement, Houston."
+    },
+    {
+      "start": 165.22,
+      "end": 168.38,
+      "text": "Emergency plumber, Houston, whatever it happens to be."
+    },
+    {
+      "start": 168.38,
+      "end": 170.14,
+      "text": "Then we have a locations page,"
+    },
+    {
+      "start": 170.14,
+      "end": 172.78,
+      "text": "just as a default normal locations page."
+    },
+    {
+      "start": 172.78,
+      "end": 174.54,
+      "text": "Earlier I talked about the three phases"
+    },
+    {
+      "start": 174.54,
+      "end": 175.9,
+      "text": "of an SEO engagement."
+    },
+    {
+      "start": 175.9,
+      "end": 177.74,
+      "text": "If you need more topical relevance,"
+    },
+    {
+      "start": 177.74,
+      "end": 179.62,
+      "text": "if you finish the core 30"
+    },
+    {
+      "start": 179.62,
+      "end": 182.3,
+      "text": "and your rank map doesn't look very good yet,"
+    },
+    {
+      "start": 182.3,
+      "end": 183.86,
+      "text": "then you need more topical relevance."
+    },
+    {
+      "start": 183.86,
+      "end": 186.22,
+      "text": "That is what is in green here."
+    },
+    {
+      "start": 186.22,
+      "end": 188.78,
+      "text": "Now these are providing topical relevance"
+    },
+    {
+      "start": 188.78,
+      "end": 190.82,
+      "text": "for GVP service three."
+    },
+    {
+      "start": 190.82,
+      "end": 192.62,
+      "text": "If they were providing topical relevance"
+    },
+    {
+      "start": 192.62,
+      "end": 194.5,
+      "text": "for the primary category,"
+    },
+    {
+      "start": 194.5,
+      "end": 196.78,
+      "text": "they'd be linking up to the home page, okay?"
+    },
+    {
+      "start": 196.78,
+      "end": 199.5,
+      "text": "These are just here to make it easier to link to."
+    },
+    {
+      "start": 199.5,
+      "end": 201.74,
+      "text": "So these supporting articles are going to be based"
+    },
+    {
+      "start": 201.74,
+      "end": 204.38,
+      "text": "on the people also ask questions with city name."
+    },
+    {
+      "start": 204.38,
+      "end": 206.7,
+      "text": "So if one of the people also ask questions"
+    },
+    {
+      "start": 206.7,
+      "end": 208.66,
+      "text": "is how much money does a plumber make,"
+    },
+    {
+      "start": 208.66,
+      "end": 211.02,
+      "text": "then you're going to say how much plumber,"
+    },
+    {
+      "start": 211.02,
+      "end": 213.94,
+      "text": "how much money does a plumber make in Houston, okay?"
+    },
+    {
+      "start": 213.94,
+      "end": 215.94,
+      "text": "We're always gonna add the city name here."
+    },
+    {
+      "start": 215.94,
+      "end": 218.1,
+      "text": "And if you are searching for plumber Houston,"
+    },
+    {
+      "start": 218.1,
+      "end": 220.06,
+      "text": "you don't see a people also ask section,"
+    },
+    {
+      "start": 220.06,
+      "end": 222.14,
+      "text": "take out the word Houston, add the word what,"
+    },
+    {
+      "start": 222.14,
+      "end": 225.26,
+      "text": "add the word how, then the people also ask should come up."
+    },
+    {
+      "start": 225.26,
+      "end": 226.98,
+      "text": "If your rank map looks pretty good,"
+    },
+    {
+      "start": 226.98,
+      "end": 228.9,
+      "text": "you're moving past topical relevance"
+    },
+    {
+      "start": 228.9,
+      "end": 230.54,
+      "text": "into building phase three,"
+    },
+    {
+      "start": 230.54,
+      "end": 232.58,
+      "text": "into building geographical relevance."
+    },
+    {
+      "start": 232.58,
+      "end": 234.58,
+      "text": "Now you need to start building location pages,"
+    },
+    {
+      "start": 234.58,
+      "end": 237.62,
+      "text": "which I have shown here in magenta."
+    },
+    {
+      "start": 237.62,
+      "end": 239.58,
+      "text": "Sure, we'll go with magenta."
+    },
+    {
+      "start": 239.58,
+      "end": 243.54,
+      "text": "So for these, we're going to have the GVP primary category"
+    },
+    {
+      "start": 243.54,
+      "end": 245.66,
+      "text": "or whatever keyword we're tracking"
+    },
+    {
+      "start": 245.66,
+      "end": 247.58,
+      "text": "and the geographic landmark."
+    },
+    {
+      "start": 247.58,
+      "end": 250.82,
+      "text": "So this might be plumber River Oaks,"
+    },
+    {
+      "start": 250.82,
+      "end": 252.78,
+      "text": "River Oaks being a neighborhood in Houston."
+    },
+    {
+      "start": 252.78,
+      "end": 256.58,
+      "text": "This might be plumber I-10 and 6-10 interchange,"
+    },
+    {
+      "start": 256.58,
+      "end": 259.26,
+      "text": "that being a major interchange in the city of Houston."
+    },
+    {
+      "start": 259.26,
+      "end": 263.42,
+      "text": "Whatever geographic landmark you're trying to turn green,"
+    },
+    {
+      "start": 263.42,
+      "end": 265.18,
+      "text": "that's going to be your target keyword."
+    },
+    {
+      "start": 265.18,
+      "end": 268.5,
+      "text": "Instead of Houston, it's gonna be the geographic landmark."
+    },
+    {
+      "start": 268.5,
+      "end": 271.14,
+      "text": "Hopefully this makes sense for how we structure"
+    },
+    {
+      "start": 271.14,
+      "end": 273.34,
+      "text": "this local site for the core 30,"
+    },
+    {
+      "start": 273.34,
+      "end": 275.26,
+      "text": "for the additional topical relevance,"
+    },
+    {
+      "start": 275.26,
+      "end": 277.3,
+      "text": "for the additional geographic relevance."
+    },
+    {
+      "start": 277.3,
+      "end": 279.82,
+      "text": "If you have a multi-location site,"
+    },
+    {
+      "start": 279.82,
+      "end": 284.14,
+      "text": "then this GVP landing page, you'll have multiple ones."
+    },
+    {
+      "start": 284.14,
+      "end": 286.26,
+      "text": "Everything else that exists below here,"
+    },
+    {
+      "start": 286.26,
+      "end": 288.86,
+      "text": "you're going to build out exactly like this structure."
+    },
+    {
+      "start": 288.86,
+      "end": 291.54,
+      "text": "So yes, if you have three GVPs,"
+    },
+    {
+      "start": 291.54,
+      "end": 294.7,
+      "text": "your core 30 suddenly becomes a core 90."
+    },
+    {
+      "start": 294.7,
+      "end": 298.82,
+      "text": "You're going to build specific pages for every category,"
+    },
+    {
+      "start": 298.82,
+      "end": 302.14,
+      "text": "every service on each of the three GVPs."
+    },
+    {
+      "start": 302.14,
+      "end": 303.82,
+      "text": "Now, for multi-location site,"
+    },
+    {
+      "start": 303.82,
+      "end": 306.24,
+      "text": "it's even more important than normal"
+    },
+    {
+      "start": 306.24,
+      "end": 309.26,
+      "text": "to make sure you're watching your local rank map."
+    },
+    {
+      "start": 309.26,
+      "end": 310.54,
+      "text": "There's a really good chance"
+    },
+    {
+      "start": 310.54,
+      "end": 312.34,
+      "text": "that you're not gonna finish the core 30"
+    },
+    {
+      "start": 312.34,
+      "end": 313.82,
+      "text": "for your third location"
+    },
+    {
+      "start": 313.9,
+      "end": 316.58,
+      "text": "before your topical relevance looks really good,"
+    },
+    {
+      "start": 316.58,
+      "end": 317.86,
+      "text": "and you just need to start trying"
+    },
+    {
+      "start": 317.86,
+      "end": 319.6,
+      "text": "to build geographic relevance"
+    },
+    {
+      "start": 319.6,
+      "end": 321.66,
+      "text": "for your second, for your third location."
+    }
+  ],
+  "transcript_text": "OK, so this is how we structure core 30 local website. So I'll start with the home page or GVP landing page. If it's a single location company, meaning there's one GVP, one location, the home page will almost always be the GVP landing page. If it's multi-location, then there would be separate landing pages for each. So usually home page, sometimes GVP landing page. Now the target keyword for the GVP landing page is going to be the GVP primary category city name, Plummer Houston, right? Plummer Chicago, Plummer Fort Wayne, Indiana, OK? Now that's your target keyword. So you're going to optimize around that keyword. You're going to use the exact match keyword like that in the title tag and in the H1. Now your title tag in H1 will include exact match phrase for that target keyword. So your title in H1 will include Plummer Chicago, Plummer Houston, but you can have more words in there, right? Find out why we're the best Plummer in Chicago, 2025 or whatever, right? OK, now the Core 30 I have in blue here. These are all of our secondary category pages and our service pages. Now the GVP doesn't actually call them secondary categories. You just add up to 10. So for this example, we have three secondary categories, so four categories total, and we have 11 services. You should have more than 11 services, but this is just showing what to do. So we have one URL for each GVP category. So on the home page, we're going to have subheadings for each GVP category, 5,200 words about that category, and in that 50 to 100 word block, we're going to link to the URL that we have dedicated to that category. We'll do that here, here, and here. Now, sometimes there are super important critical services that the client really, really wants to rank for. We usually don't do more than two or three of these that we'll actually link to from the home page. So for a plumber, this might be water heater replacement, and it might be main drain line replacement. Both of those are very high profit margin jobs that plumbers really, really want. So we might track those, especially for our local rank tracking, and we'll link to those services directly from our home page. Same structure, where we're going to have the GVP service, city name is going to be the target keyword. We'll have a subheading that includes that, block of text below that subheading that links to this long form article about it. Okay, all of these blue boxes, the target keyword is going to be GVP secondary category or GVP service with the city name, right? Water heater replacement, Houston. Emergency plumber, Houston, whatever it happens to be. Then we have a locations page, just as a default normal locations page. Earlier I talked about the three phases of an SEO engagement. If you need more topical relevance, if you finish the core 30 and your rank map doesn't look very good yet, then you need more topical relevance. That is what is in green here. Now these are providing topical relevance for GVP service three. If they were providing topical relevance for the primary category, they'd be linking up to the home page, okay? These are just here to make it easier to link to. So these supporting articles are going to be based on the people also ask questions with city name. So if one of the people also ask questions is how much money does a plumber make, then you're going to say how much plumber, how much money does a plumber make in Houston, okay? We're always gonna add the city name here. And if you are searching for plumber Houston, you don't see a people also ask section, take out the word Houston, add the word what, add the word how, then the people also ask should come up. If your rank map looks pretty good, you're moving past topical relevance into building phase three, into building geographical relevance. Now you need to start building location pages, which I have shown here in magenta. Sure, we'll go with magenta. So for these, we're going to have the GVP primary category or whatever keyword we're tracking and the geographic landmark. So this might be plumber River Oaks, River Oaks being a neighborhood in Houston. This might be plumber I-10 and 6-10 interchange, that being a major interchange in the city of Houston. Whatever geographic landmark you're trying to turn green, that's going to be your target keyword. Instead of Houston, it's gonna be the geographic landmark. Hopefully this makes sense for how we structure this local site for the core 30, for the additional topical relevance, for the additional geographic relevance. If you have a multi-location site, then this GVP landing page, you'll have multiple ones. Everything else that exists below here, you're going to build out exactly like this structure. So yes, if you have three GVPs, your core 30 suddenly becomes a core 90. You're going to build specific pages for every category, every service on each of the three GVPs. Now, for multi-location site, it's even more important than normal to make sure you're watching your local rank map. There's a really good chance that you're not gonna finish the core 30 for your third location before your topical relevance looks really good, and you just need to start trying to build geographic relevance for your second, for your third location.",
   "summary": "",
   "key_points": [],
   "tags": []

@@ -1,0 +1,531 @@
+{
+  "course": "ai-seo-mastery-pro",
+  "code": "eba6e0ed",
+  "title": "AI-Rewriting Pages",
+  "duration": "8m26s",
+  "source_url": "https://www.skool.com/ai-seo-mastery-pro/classroom/63a81f62?md=eba6e0edcc8845a5abdee0a6a63691f7",
+  "video_url": "https://www.loom.com/share/a04cc33bc4644f02894622d5e8001772?sid=893a2870-1476-4ea7-a9c0-859cb36a00c2?hide_owner=true&hide_share=true&hide_title=true&hideEmbedTopBar=true",
+  "video_file": "eba6e0ed_ai-rewriting-pages [a04cc33bc4644f02894622d5e8001772].mp4",
+  "content_md": "# AI-Rewriting Pages\n\n- Code: eba6e0ed\n- Source: https://www.skool.com/ai-seo-mastery-pro/classroom/63a81f62?md=eba6e0edcc8845a5abdee0a6a63691f7\n- Video: https://www.loom.com/share/a04cc33bc4644f02894622d5e8001772?sid=893a2870-1476-4ea7-a9c0-859cb36a00c2?hide_owner=true&hide_share=true&hide_title=true&hideEmbedTopBar=true\n- Duration: 8m 26s\n- Resources:\n  - [Page Analysis Rewrite Prompts](None)\n  - [Homepage Rewrite Prompt](None)\n  - [Keywords Prompts](None)\n\n## Description\n\n_(no description)_\n",
+  "transcript": [
+    {
+      "start": 0.24,
+      "end": 5.56,
+      "text": "All right, so here I'm going to go through how do you search console and chat to PT to rewrite existing content?"
+    },
+    {
+      "start": 5.56,
+      "end": 9.64,
+      "text": "So I'm here in where does a document modify? There you go"
+    },
+    {
+      "start": 9.64,
+      "end": 13.8,
+      "text": "I'm here in search console at one of our client websites and"
+    },
+    {
+      "start": 14.52,
+      "end": 16.52,
+      "text": "I'm just gonna come down to performance"
+    },
+    {
+      "start": 17.12,
+      "end": 25.02,
+      "text": "And I'm gonna go into pages. So I want to find a page that is performing"
+    },
+    {
+      "start": 25.02,
+      "end": 29.3,
+      "text": "But we can do better and I haven't looked at these before"
+    },
+    {
+      "start": 30.02,
+      "end": 32.98,
+      "text": "So I'm probably just gonna choose one maybe"
+    },
+    {
+      "start": 35.1,
+      "end": 37.66,
+      "text": "Maybe this one, okay, so we'll grab that one"
+    },
+    {
+      "start": 38.7,
+      "end": 44.08,
+      "text": "That'll this will bring me to the page and now if I click on it here that'll add it to a filter"
+    },
+    {
+      "start": 44.58,
+      "end": 53.18,
+      "text": "so you can see that page is now filtered up here and if I go to queries search console is going to show me only the"
+    },
+    {
+      "start": 53.18,
+      "end": 57.94,
+      "text": "queries for this particular URL and then just to check I'll hit rank position and"
+    },
+    {
+      "start": 58.14,
+      "end": 60.14,
+      "text": "and"
+    },
+    {
+      "start": 60.58,
+      "end": 62.58,
+      "text": "There's there's quite a bit on the first page"
+    },
+    {
+      "start": 62.98,
+      "end": 67.34,
+      "text": "Let's expand this I just want to make sure it makes sense to target this URL"
+    },
+    {
+      "start": 67.34,
+      "end": 70.98,
+      "text": "If you have a bunch of stuff on the first page and then a bunch of stuff on the 10th page"
+    },
+    {
+      "start": 71.02,
+      "end": 73.02,
+      "text": "We probably want to find a different URL"
+    },
+    {
+      "start": 73.58,
+      "end": 75.58,
+      "text": "but here's some"
+    },
+    {
+      "start": 76.54,
+      "end": 82.38,
+      "text": "Second page stuff and these are pretty clearly buying keywords. This is an e-com store"
+    },
+    {
+      "start": 82.5,
+      "end": 86.58,
+      "text": "So ranking for buying keywords is quite good. We have some more down here"
+    },
+    {
+      "start": 86.58,
+      "end": 91.06,
+      "text": "So we're gonna go ahead and go with this one. So what we do I'm going to export"
+    },
+    {
+      "start": 92.98,
+      "end": 94.98,
+      "text": "With a CSV and"
+    },
+    {
+      "start": 96.18,
+      "end": 99.58,
+      "text": "Then we'll go in that that will tell us let me go and open it real quick"
+    },
+    {
+      "start": 100.26,
+      "end": 102.18,
+      "text": "Can I just click here?"
+    },
+    {
+      "start": 102.18,
+      "end": 104.9,
+      "text": "Yeah, there it is and then I want the queries file"
+    },
+    {
+      "start": 108.65,
+      "end": 115.97,
+      "text": "Okay, so what this tells me is the top queries number of clicks impression CTR and position for this particular URL"
+    },
+    {
+      "start": 115.97,
+      "end": 117.97,
+      "text": "So perfect. That's what I want. I'm gonna close that"
+    },
+    {
+      "start": 118.93,
+      "end": 120.93,
+      "text": "And then I'm going to take the queries"
+    },
+    {
+      "start": 120.93,
+      "end": 129.95,
+      "text": "I'll put it on the desktop. All right, close that and then I'm gonna come over to chat gpt and"
+    },
+    {
+      "start": 130.71,
+      "end": 132.71,
+      "text": "I'm going to give it a"
+    },
+    {
+      "start": 133.31,
+      "end": 137.35,
+      "text": "Prompt and you don't have to write this down. I have in the file resources"
+    },
+    {
+      "start": 137.91,
+      "end": 143.51,
+      "text": "The this prompt so you can just use the exact same prompt. We're gonna give it that CSV file and"
+    },
+    {
+      "start": 144.31,
+      "end": 147.99,
+      "text": "Get out of here and then I am going to copy all of the content. Oh"
+    },
+    {
+      "start": 148.99,
+      "end": 155.71,
+      "text": "It's pretty short awesome. Okay, and I'm gonna give it the content"
+    },
+    {
+      "start": 157.43,
+      "end": 163.71,
+      "text": "So now chat gpt is going to analyze the CSV file. It's gonna take a look at the content and it's going to"
+    },
+    {
+      "start": 165.31,
+      "end": 168.59,
+      "text": "Rewrite the existing content, which is basically what we're asking it to do"
+    },
+    {
+      "start": 169.27,
+      "end": 172.75,
+      "text": "We know that if they're in the position 11 position 12"
+    },
+    {
+      "start": 173.07,
+      "end": 180.47,
+      "text": "For a query and they don't have that exact match keyword in the content by simply adding that exact match keyword"
+    },
+    {
+      "start": 180.55,
+      "end": 184.03,
+      "text": "We can typically improve the rank position by a couple of spots"
+    },
+    {
+      "start": 184.03,
+      "end": 188.23,
+      "text": "And remember a couple of spots is huge if you're in position 10 11 12"
+    },
+    {
+      "start": 188.31,
+      "end": 192.69,
+      "text": "That's enough to get it to the first page. So that's all we're doing at this first pass is"
+    },
+    {
+      "start": 192.79,
+      "end": 199.95,
+      "text": "Rewriting the content to add exact match to keywords that they're close to the first page on but not quite there"
+    },
+    {
+      "start": 200.59,
+      "end": 205.79,
+      "text": "Okay, so so that's the output that we got there now what we want to do is"
+    },
+    {
+      "start": 206.79,
+      "end": 210.79,
+      "text": "Ask it for what the best target keyword is. Okay, so"
+    },
+    {
+      "start": 211.95,
+      "end": 213.95,
+      "text": "Let me grab that prompt"
+    },
+    {
+      "start": 214.11,
+      "end": 221.94,
+      "text": "So here's that second prompt and here we're just asking chat gpt. Hey, what keyword do you think is the most important one that?"
+    },
+    {
+      "start": 221.94,
+      "end": 223.94,
+      "text": "It's currently ranked for"
+    },
+    {
+      "start": 225.5,
+      "end": 230.24,
+      "text": "Wire crate versus a plastic wire crate versus plastic kennel perfect, okay"
+    },
+    {
+      "start": 230.24,
+      "end": 236.56,
+      "text": "So I'm gonna copy that and I mean again, you could double check this you could run an ahrefs keyword and analysis tool"
+    },
+    {
+      "start": 236.56,
+      "end": 239.96,
+      "text": "But we're just gonna go with what it told us and we're gonna put that into Google search"
+    },
+    {
+      "start": 239.96,
+      "end": 243.36,
+      "text": "And what we're looking for is this this people also ask section"
+    },
+    {
+      "start": 243.36,
+      "end": 247.72,
+      "text": "Okay, and then if we click and open and click and open"
+    },
+    {
+      "start": 248.56,
+      "end": 254.32,
+      "text": "We end up just getting more and more and more people also ask questions and that's what we really want here"
+    },
+    {
+      "start": 254.32,
+      "end": 259.04,
+      "text": "We just want a lot of people also ask questions, you know again without chat gpt's help"
+    },
+    {
+      "start": 259.04,
+      "end": 264.88,
+      "text": "This would take a lot of time to do this analysis, but luckily with chat gpt. We don't need to worry about it"
+    },
+    {
+      "start": 264.88,
+      "end": 267.6,
+      "text": "So here I'm gonna grab my prompt number three"
+    },
+    {
+      "start": 268.16,
+      "end": 274.46,
+      "text": "paste that in there and then I'm gonna come over to my people also ask"
+    },
+    {
+      "start": 275.02,
+      "end": 278.48,
+      "text": "Just grab all of them because again, it doesn't matter right?"
+    },
+    {
+      "start": 278.48,
+      "end": 283.2,
+      "text": "We can grab all of them chat gpt can handle very long prompts and then just give chat gpt"
+    },
+    {
+      "start": 283.2,
+      "end": 287.92,
+      "text": "All of the people also could ask questions along with that prompt and that prompt is basically hey"
+    },
+    {
+      "start": 287.92,
+      "end": 292.92,
+      "text": "We want to establish more topical authority more topical relevance for this particular keyword"
+    },
+    {
+      "start": 293.52,
+      "end": 295.72,
+      "text": "so let's go ahead and"
+    },
+    {
+      "start": 296.6,
+      "end": 302.6,
+      "text": "Start thinking about generating an FAQ section that we can add to the existing content and here"
+    },
+    {
+      "start": 302.6,
+      "end": 305.76,
+      "text": "We're going to ask chat gpt to first separate"
+    },
+    {
+      "start": 306.16,
+      "end": 310.16,
+      "text": "Which questions are directly answered and which ones are not directly answered remember?"
+    },
+    {
+      "start": 310.16,
+      "end": 315.04,
+      "text": "We covered before that chat gpt AI in general has a tendency to hallucinate"
+    },
+    {
+      "start": 315.24,
+      "end": 317.68,
+      "text": "So we want to focus on"
+    },
+    {
+      "start": 319.8,
+      "end": 325.48,
+      "text": "We want to ask chat gpt to answer questions using only the content. We've already provided"
+    },
+    {
+      "start": 326.52,
+      "end": 332.96,
+      "text": "That will minimize the probability of hallucinating. So that's what this prompt does. It's basically"
+    },
+    {
+      "start": 333.72,
+      "end": 335.72,
+      "text": "you know"
+    },
+    {
+      "start": 336.12,
+      "end": 338.04,
+      "text": "Focuses on the questions that are directly answered"
+    },
+    {
+      "start": 338.16,
+      "end": 343.48,
+      "text": "So we're going then chat gpt is going to write an FAQ section based on the"
+    },
+    {
+      "start": 343.68,
+      "end": 347.36,
+      "text": "Questions that are directly answered in the content. So we still want to double-check this"
+    },
+    {
+      "start": 347.36,
+      "end": 350.92,
+      "text": "We still want to make sure that it's not hallucinating. It's not making things up"
+    },
+    {
+      "start": 350.96,
+      "end": 354.6,
+      "text": "But it's a lot less likely that we're gonna have problematic hallucinations"
+    },
+    {
+      "start": 354.6,
+      "end": 361.44,
+      "text": "We're gonna being so clear to chat gpt to only use the content that we already have on that page. Okay, and"
+    },
+    {
+      "start": 362.4,
+      "end": 364.24,
+      "text": "We'll let this finish"
+    },
+    {
+      "start": 364.24,
+      "end": 368.96,
+      "text": "I'm gonna go in pause"
+    },
+    {
+      "start": 369.88,
+      "end": 372.32,
+      "text": "Now that we're not finished next prompt"
+    },
+    {
+      "start": 372.32,
+      "end": 378.2,
+      "text": "We're now going to ask it to answer the rest of the FAQ section or the FAQ questions"
+    },
+    {
+      "start": 378.28,
+      "end": 382.28,
+      "text": "But now chat gpt has to grab content from the rest of the internet"
+    },
+    {
+      "start": 382.28,
+      "end": 387.4,
+      "text": "So we want to you know, obviously even the prior ones we want to double-check and fact-check them"
+    },
+    {
+      "start": 387.4,
+      "end": 393.2,
+      "text": "But these are like really really critical to fact-check here. We don't want chat gpt to just make something up"
+    },
+    {
+      "start": 394.28,
+      "end": 396.84,
+      "text": "But let me go ahead and pause this until it finishes loading"
+    },
+    {
+      "start": 397.84,
+      "end": 405.0,
+      "text": "So remember if we look at the actual content on the page, it's pretty short and what we've done here is"
+    },
+    {
+      "start": 406.08,
+      "end": 411.32,
+      "text": "All of this content we can add and all of this content we can add basically copy paste"
+    },
+    {
+      "start": 411.44,
+      "end": 415.36,
+      "text": "You know clearly again read it make sure it's not adding any hallucinations"
+    },
+    {
+      "start": 415.36,
+      "end": 421.92,
+      "text": "But boom we probably doubled the content volume on that page plus did a lot to establish"
+    },
+    {
+      "start": 421.96,
+      "end": 424.48,
+      "text": "topical authority topical relevance with Google's"
+    },
+    {
+      "start": 425.08,
+      "end": 428.44,
+      "text": "With Google's algorithm and the last prompt prompt number six"
+    },
+    {
+      "start": 428.88,
+      "end": 433.8,
+      "text": "What we're asking it for here is we're going to write some supporting content articles potentially"
+    },
+    {
+      "start": 433.8,
+      "end": 438.36,
+      "text": "and if we do write supporting content articles the best supporting content articles to write are"
+    },
+    {
+      "start": 439.24,
+      "end": 446.2,
+      "text": "Basically long-form answers for those FAQ questions. So here. We're just asking chat gpt. Hey, which FAQ questions?"
+    },
+    {
+      "start": 446.88,
+      "end": 451.06,
+      "text": "Make sense to expand into its own"
+    },
+    {
+      "start": 451.76,
+      "end": 458.08,
+      "text": "Article and then we can use internal linking to establish it as a supporting article for the target page"
+    },
+    {
+      "start": 458.08,
+      "end": 466.51,
+      "text": "This wire crate versus plastic kettle and you can see so I asked it to give me a target keyword"
+    },
+    {
+      "start": 466.51,
+      "end": 470.03,
+      "text": "Which it is I asked it to give me a title tag to maximize click-through rate"
+    },
+    {
+      "start": 470.03,
+      "end": 474.43,
+      "text": "And then it's even giving me some headings for the article. So this is going to be super helpful"
+    },
+    {
+      "start": 474.43,
+      "end": 479.99,
+      "text": "It's going to make writing this article much easier because we already have almost an outline for it"
+    },
+    {
+      "start": 480.23,
+      "end": 483.43,
+      "text": "Obviously, we would use chat gpt to write this article. We're not going to write it by hand"
+    },
+    {
+      "start": 483.43,
+      "end": 489.83,
+      "text": "But these outlines are very helpful in giving chat gpt article writing prompts"
+    },
+    {
+      "start": 489.99,
+      "end": 495.39,
+      "text": "So there we have it that is what we do if we have a piece of content that is ranking"
+    },
+    {
+      "start": 495.39,
+      "end": 499.95,
+      "text": "Okay, and we just want to give it a little bit of a push to get more traffic"
+    },
+    {
+      "start": 499.95,
+      "end": 505.95,
+      "text": "This is very commonly something we do in the first few days weeks of a new client engagement"
+    }
+  ],
+  "transcript_text": "All right, so here I'm going to go through how do you search console and chat to PT to rewrite existing content? So I'm here in where does a document modify? There you go I'm here in search console at one of our client websites and I'm just gonna come down to performance And I'm gonna go into pages. So I want to find a page that is performing But we can do better and I haven't looked at these before So I'm probably just gonna choose one maybe Maybe this one, okay, so we'll grab that one That'll this will bring me to the page and now if I click on it here that'll add it to a filter so you can see that page is now filtered up here and if I go to queries search console is going to show me only the queries for this particular URL and then just to check I'll hit rank position and and There's there's quite a bit on the first page Let's expand this I just want to make sure it makes sense to target this URL If you have a bunch of stuff on the first page and then a bunch of stuff on the 10th page We probably want to find a different URL but here's some Second page stuff and these are pretty clearly buying keywords. This is an e-com store So ranking for buying keywords is quite good. We have some more down here So we're gonna go ahead and go with this one. So what we do I'm going to export With a CSV and Then we'll go in that that will tell us let me go and open it real quick Can I just click here? Yeah, there it is and then I want the queries file Okay, so what this tells me is the top queries number of clicks impression CTR and position for this particular URL So perfect. That's what I want. I'm gonna close that And then I'm going to take the queries I'll put it on the desktop. All right, close that and then I'm gonna come over to chat gpt and I'm going to give it a Prompt and you don't have to write this down. I have in the file resources The this prompt so you can just use the exact same prompt. We're gonna give it that CSV file and Get out of here and then I am going to copy all of the content. Oh It's pretty short awesome. Okay, and I'm gonna give it the content So now chat gpt is going to analyze the CSV file. It's gonna take a look at the content and it's going to Rewrite the existing content, which is basically what we're asking it to do We know that if they're in the position 11 position 12 For a query and they don't have that exact match keyword in the content by simply adding that exact match keyword We can typically improve the rank position by a couple of spots And remember a couple of spots is huge if you're in position 10 11 12 That's enough to get it to the first page. So that's all we're doing at this first pass is Rewriting the content to add exact match to keywords that they're close to the first page on but not quite there Okay, so so that's the output that we got there now what we want to do is Ask it for what the best target keyword is. Okay, so Let me grab that prompt So here's that second prompt and here we're just asking chat gpt. Hey, what keyword do you think is the most important one that? It's currently ranked for Wire crate versus a plastic wire crate versus plastic kennel perfect, okay So I'm gonna copy that and I mean again, you could double check this you could run an ahrefs keyword and analysis tool But we're just gonna go with what it told us and we're gonna put that into Google search And what we're looking for is this this people also ask section Okay, and then if we click and open and click and open We end up just getting more and more and more people also ask questions and that's what we really want here We just want a lot of people also ask questions, you know again without chat gpt's help This would take a lot of time to do this analysis, but luckily with chat gpt. We don't need to worry about it So here I'm gonna grab my prompt number three paste that in there and then I'm gonna come over to my people also ask Just grab all of them because again, it doesn't matter right? We can grab all of them chat gpt can handle very long prompts and then just give chat gpt All of the people also could ask questions along with that prompt and that prompt is basically hey We want to establish more topical authority more topical relevance for this particular keyword so let's go ahead and Start thinking about generating an FAQ section that we can add to the existing content and here We're going to ask chat gpt to first separate Which questions are directly answered and which ones are not directly answered remember? We covered before that chat gpt AI in general has a tendency to hallucinate So we want to focus on We want to ask chat gpt to answer questions using only the content. We've already provided That will minimize the probability of hallucinating. So that's what this prompt does. It's basically you know Focuses on the questions that are directly answered So we're going then chat gpt is going to write an FAQ section based on the Questions that are directly answered in the content. So we still want to double-check this We still want to make sure that it's not hallucinating. It's not making things up But it's a lot less likely that we're gonna have problematic hallucinations We're gonna being so clear to chat gpt to only use the content that we already have on that page. Okay, and We'll let this finish I'm gonna go in pause Now that we're not finished next prompt We're now going to ask it to answer the rest of the FAQ section or the FAQ questions But now chat gpt has to grab content from the rest of the internet So we want to you know, obviously even the prior ones we want to double-check and fact-check them But these are like really really critical to fact-check here. We don't want chat gpt to just make something up But let me go ahead and pause this until it finishes loading So remember if we look at the actual content on the page, it's pretty short and what we've done here is All of this content we can add and all of this content we can add basically copy paste You know clearly again read it make sure it's not adding any hallucinations But boom we probably doubled the content volume on that page plus did a lot to establish topical authority topical relevance with Google's With Google's algorithm and the last prompt prompt number six What we're asking it for here is we're going to write some supporting content articles potentially and if we do write supporting content articles the best supporting content articles to write are Basically long-form answers for those FAQ questions. So here. We're just asking chat gpt. Hey, which FAQ questions? Make sense to expand into its own Article and then we can use internal linking to establish it as a supporting article for the target page This wire crate versus plastic kettle and you can see so I asked it to give me a target keyword Which it is I asked it to give me a title tag to maximize click-through rate And then it's even giving me some headings for the article. So this is going to be super helpful It's going to make writing this article much easier because we already have almost an outline for it Obviously, we would use chat gpt to write this article. We're not going to write it by hand But these outlines are very helpful in giving chat gpt article writing prompts So there we have it that is what we do if we have a piece of content that is ranking Okay, and we just want to give it a little bit of a push to get more traffic This is very commonly something we do in the first few days weeks of a new client engagement",
+  "summary": "",
+  "key_points": [],
+  "tags": []
+}

@@ -7,8 +7,819 @@
   "video_url": "https://www.loom.com/share/479b9d01e9234fb4ba7fb71d34ddd12c?live_rewind=1&hide_share=true&hide_title=true&hideEmbedTopBar=true",
   "video_file": "8027ed18_overview [479b9d01e9234fb4ba7fb71d34ddd12c].mp4",
   "content_md": "# Overview\n\n- Code: 8027ed18\n- Source: https://www.skool.com/ai-seo-mastery-pro/classroom/63a81f62?md=8027ed1871ed49f08392555e53edb6fa\n- Video: https://www.loom.com/share/479b9d01e9234fb4ba7fb71d34ddd12c?live_rewind=1&hide_share=true&hide_title=true&hideEmbedTopBar=true\n- Duration: 7m 7s\n\n## Description\n\n_(no description)_\n",
-  "transcript": [],
-  "transcript_text": "",
+  "transcript": [
+    {
+      "start": 0.0,
+      "end": 3.36,
+      "text": "Hey, so this is the Core 30 sample website."
+    },
+    {
+      "start": 3.36,
+      "end": 7.68,
+      "text": "This is just for a made up company, Plummer in Gary, Indiana."
+    },
+    {
+      "start": 7.68,
+      "end": 9.84,
+      "text": "So a couple of things to point out here."
+    },
+    {
+      "start": 9.84,
+      "end": 11.92,
+      "text": "Obviously, we have the title tag, which"
+    },
+    {
+      "start": 11.92,
+      "end": 13.92,
+      "text": "mentions the primary category city name,"
+    },
+    {
+      "start": 13.92,
+      "end": 18.8,
+      "text": "and then some reasons that a visitor might want to call them."
+    },
+    {
+      "start": 18.8,
+      "end": 20.52,
+      "text": "Not super critical for the title tag,"
+    },
+    {
+      "start": 20.52,
+      "end": 22.56,
+      "text": "because remember, we're ranking the GBP,"
+    },
+    {
+      "start": 22.56,
+      "end": 25.2,
+      "text": "and the title tag is only visible to users"
+    },
+    {
+      "start": 25.2,
+      "end": 27.32,
+      "text": "when they see the result organically."
+    },
+    {
+      "start": 27.32,
+      "end": 30.56,
+      "text": "But we're definitely having the primary category city name"
+    },
+    {
+      "start": 30.56,
+      "end": 31.92,
+      "text": "very, very important."
+    },
+    {
+      "start": 31.92,
+      "end": 35.68,
+      "text": "The H1 tag is important both for Google and for the users."
+    },
+    {
+      "start": 35.68,
+      "end": 38.16,
+      "text": "We want to use, again, primary category city name,"
+    },
+    {
+      "start": 38.16,
+      "end": 40.2,
+      "text": "and then a very clear, compelling reason"
+    },
+    {
+      "start": 40.2,
+      "end": 42.52,
+      "text": "why the user should call."
+    },
+    {
+      "start": 42.52,
+      "end": 45.24,
+      "text": "After that, we focus on goal completion."
+    },
+    {
+      "start": 45.24,
+      "end": 48.76,
+      "text": "You guys know when I say goal completion, what I mean"
+    },
+    {
+      "start": 48.76,
+      "end": 51.96,
+      "text": "is talking to the user, talking to someone who just"
+    },
+    {
+      "start": 51.96,
+      "end": 54.84,
+      "text": "landed on this website, telling them why they should convert,"
+    },
+    {
+      "start": 54.84,
+      "end": 55.72,
+      "text": "why they should call."
+    },
+    {
+      "start": 55.72,
+      "end": 58.4,
+      "text": "That helps them rank on Google, and obviously,"
+    },
+    {
+      "start": 58.4,
+      "end": 60.76,
+      "text": "helps your business owner get more calls."
+    },
+    {
+      "start": 60.76,
+      "end": 64.24,
+      "text": "So that's where we're going to focus straight away."
+    },
+    {
+      "start": 64.24,
+      "end": 66.36,
+      "text": "And this top paragraph, same thing."
+    },
+    {
+      "start": 66.36,
+      "end": 69.08,
+      "text": "Again, why they should call, why they should call."
+    },
+    {
+      "start": 69.08,
+      "end": 72.2,
+      "text": "Then we have why Gary homeowners call us first."
+    },
+    {
+      "start": 72.2,
+      "end": 75.56,
+      "text": "You'll see a theme here, straight into embedded Google"
+    },
+    {
+      "start": 75.56,
+      "end": 77.16,
+      "text": "Business Profile Reviews."
+    },
+    {
+      "start": 77.16,
+      "end": 79.96,
+      "text": "After that, we have our H2 tag, Drainage Service."
+    },
+    {
+      "start": 79.96,
+      "end": 83.24,
+      "text": "This links over to the Drainage Service secondary category"
+    },
+    {
+      "start": 83.24,
+      "end": 84.92,
+      "text": "page, bathroom remodeler."
+    },
+    {
+      "start": 84.92,
+      "end": 87.12,
+      "text": "This links to the bathroom remodeler page."
+    },
+    {
+      "start": 87.12,
+      "end": 88.32,
+      "text": "Water heater replacement."
+    },
+    {
+      "start": 88.32,
+      "end": 90.92,
+      "text": "This links to a water heater replacement hub."
+    },
+    {
+      "start": 90.92,
+      "end": 92.64,
+      "text": "So water heater replacement is obviously"
+    },
+    {
+      "start": 92.64,
+      "end": 94.76,
+      "text": "a service under Plumber."
+    },
+    {
+      "start": 94.76,
+      "end": 97.16,
+      "text": "But it's one of the services that Plumbers care about most."
+    },
+    {
+      "start": 97.16,
+      "end": 99.6,
+      "text": "So we're going to link to that from the home page."
+    },
+    {
+      "start": 99.6,
+      "end": 101.0,
+      "text": "And main drain line replacement."
+    },
+    {
+      "start": 101.0,
+      "end": 101.56,
+      "text": "Same thing."
+    },
+    {
+      "start": 101.56,
+      "end": 103.92,
+      "text": "This is a service Plumbers care about the most."
+    },
+    {
+      "start": 103.92,
+      "end": 107.8,
+      "text": "So we're going to link to that service page from the home page."
+    },
+    {
+      "start": 107.8,
+      "end": 110.64,
+      "text": "And if we click on Learn More About Water Heaters,"
+    },
+    {
+      "start": 110.64,
+      "end": 114.16,
+      "text": "we can see we have a variety of other water heater service"
+    },
+    {
+      "start": 114.16,
+      "end": 114.8,
+      "text": "pages."
+    },
+    {
+      "start": 114.84,
+      "end": 117.96,
+      "text": "So this water heater page almost serves as a category page"
+    },
+    {
+      "start": 117.96,
+      "end": 119.84,
+      "text": "for water heater replacement."
+    },
+    {
+      "start": 119.84,
+      "end": 123.12,
+      "text": "I know water heater replacement isn't a primary or secondary"
+    },
+    {
+      "start": 123.12,
+      "end": 124.24,
+      "text": "category."
+    },
+    {
+      "start": 124.24,
+      "end": 127.44,
+      "text": "You can't type anything you want into Google categories."
+    },
+    {
+      "start": 127.44,
+      "end": 129.72,
+      "text": "So the water heater replacement is a service."
+    },
+    {
+      "start": 129.72,
+      "end": 131.48,
+      "text": "But this serves as a service hub."
+    },
+    {
+      "start": 131.48,
+      "end": 133.8,
+      "text": "It's one of the keywords that we track for Plumbers"
+    },
+    {
+      "start": 133.8,
+      "end": 136.08,
+      "text": "that we really, really want to rank for."
+    },
+    {
+      "start": 136.08,
+      "end": 138.6,
+      "text": "So that's how the H2 structure works here."
+    },
+    {
+      "start": 138.6,
+      "end": 140.72,
+      "text": "If I look at the bathroom remodeler,"
+    },
+    {
+      "start": 140.72,
+      "end": 142.92,
+      "text": "then I can see, again, all of the services"
+    },
+    {
+      "start": 142.92,
+      "end": 145.76,
+      "text": "that we're linking to under the bathroom remodeler page,"
+    },
+    {
+      "start": 145.76,
+      "end": 147.96,
+      "text": "we can see it there also."
+    },
+    {
+      "start": 147.96,
+      "end": 151.28,
+      "text": "If I keep coming down, this is where the GVP Map Embed would"
+    },
+    {
+      "start": 151.28,
+      "end": 151.6,
+      "text": "be."
+    },
+    {
+      "start": 151.6,
+      "end": 154.84,
+      "text": "Obviously, this is an example site, so we don't have that."
+    },
+    {
+      "start": 154.84,
+      "end": 156.48,
+      "text": "We do have the Locations page, which"
+    },
+    {
+      "start": 156.48,
+      "end": 158.72,
+      "text": "will show you in a second, and then the services, which"
+    },
+    {
+      "start": 158.72,
+      "end": 159.76,
+      "text": "we link to here."
+    },
+    {
+      "start": 159.76,
+      "end": 163.2,
+      "text": "It's just basically the prioritized list of services."
+    },
+    {
+      "start": 163.2,
+      "end": 166.68,
+      "text": "Secondary category services, secondary category services,"
+    },
+    {
+      "start": 166.68,
+      "end": 169.8,
+      "text": "core service we really care about, hub services, core service"
+    },
+    {
+      "start": 169.8,
+      "end": 171.52,
+      "text": "we really care about, hub services."
+    },
+    {
+      "start": 171.56,
+      "end": 173.72,
+      "text": "And then these are additional services"
+    },
+    {
+      "start": 173.72,
+      "end": 176.32,
+      "text": "under the primary category that we aren't linking to"
+    },
+    {
+      "start": 176.32,
+      "end": 177.44,
+      "text": "from the home page."
+    },
+    {
+      "start": 177.44,
+      "end": 179.44,
+      "text": "So this basically serves as a hub page"
+    },
+    {
+      "start": 179.44,
+      "end": 181.36,
+      "text": "to link to all of our services."
+    },
+    {
+      "start": 181.36,
+      "end": 184.4,
+      "text": "If I go to the Locations page, these, again,"
+    },
+    {
+      "start": 184.4,
+      "end": 186.6,
+      "text": "the way that we would do these, follow the directions"
+    },
+    {
+      "start": 186.6,
+      "end": 188.92,
+      "text": "in the Building Geographical Relevance section,"
+    },
+    {
+      "start": 188.92,
+      "end": 190.8,
+      "text": "we'd look at the local rank map, look"
+    },
+    {
+      "start": 190.8,
+      "end": 192.92,
+      "text": "at where we have fours, five, sixes,"
+    },
+    {
+      "start": 192.92,
+      "end": 196.52,
+      "text": "and build content targeting the category your service are"
+    },
+    {
+      "start": 196.52,
+      "end": 199.64,
+      "text": "trying to rank higher for, along with that landmark"
+    },
+    {
+      "start": 199.64,
+      "end": 200.92,
+      "text": "and the city name."
+    },
+    {
+      "start": 200.96,
+      "end": 204.32,
+      "text": "So we have just some examples here that we might have."
+    },
+    {
+      "start": 204.32,
+      "end": 207.48,
+      "text": "Now, obviously, all of these links are just click to call."
+    },
+    {
+      "start": 207.48,
+      "end": 211.08,
+      "text": "But we could very easily build out geographic-based content."
+    },
+    {
+      "start": 211.08,
+      "end": 213.28,
+      "text": "We would follow the exact same methodology"
+    },
+    {
+      "start": 213.28,
+      "end": 216.32,
+      "text": "that we use for Building Geographic content,"
+    },
+    {
+      "start": 216.32,
+      "end": 219.4,
+      "text": "for geographical relevance elsewhere in the material."
+    },
+    {
+      "start": 219.4,
+      "end": 224.36,
+      "text": "This is just an example Locations page, Locations Hub page."
+    },
+    {
+      "start": 224.36,
+      "end": 228.08,
+      "text": "And then on the footer, you can see phone number, address,"
+    },
+    {
+      "start": 228.08,
+      "end": 230.52,
+      "text": "email address, logo."
+    },
+    {
+      "start": 230.52,
+      "end": 233.36,
+      "text": "We repeat the navbar links, but it's kept very simple."
+    },
+    {
+      "start": 233.36,
+      "end": 235.4,
+      "text": "We have privacy policy terms of service,"
+    },
+    {
+      "start": 235.4,
+      "end": 236.4,
+      "text": "very minimum links."
+    },
+    {
+      "start": 236.4,
+      "end": 240.48,
+      "text": "Obviously, it's 2026 now, so we can update that."
+    },
+    {
+      "start": 240.48,
+      "end": 242.6,
+      "text": "But yeah, this looks like a very simple website,"
+    },
+    {
+      "start": 242.6,
+      "end": 247.8,
+      "text": "but this is actually a website that has 60 pages of content"
+    },
+    {
+      "start": 247.8,
+      "end": 249.24,
+      "text": "on it, totally."
+    },
+    {
+      "start": 249.24,
+      "end": 251.92,
+      "text": "And this is what we would build for a Core 30 website."
+    },
+    {
+      "start": 251.92,
+      "end": 254.8,
+      "text": "This is our Core 30 example."
+    },
+    {
+      "start": 254.8,
+      "end": 256.0,
+      "text": "So let me give you an idea."
+    },
+    {
+      "start": 256.0,
+      "end": 261.28,
+      "text": "If I come into the pro group, these prompts"
+    },
+    {
+      "start": 261.28,
+      "end": 263.56,
+      "text": "are how I built this example site."
+    },
+    {
+      "start": 263.56,
+      "end": 266.56,
+      "text": "I built it myself with this series of prompts."
+    },
+    {
+      "start": 266.56,
+      "end": 269.12,
+      "text": "So it's really just go to lovable."
+    },
+    {
+      "start": 269.12,
+      "end": 270.72,
+      "text": "The first prompt, you don't need lovable."
+    },
+    {
+      "start": 270.72,
+      "end": 272.52,
+      "text": "This first prompt is the planning prompt,"
+    },
+    {
+      "start": 272.52,
+      "end": 275.32,
+      "text": "where we build out the structure, what this looks like,"
+    },
+    {
+      "start": 275.32,
+      "end": 277.44,
+      "text": "how we want to figure this out."
+    },
+    {
+      "start": 277.44,
+      "end": 279.84,
+      "text": "Then we're going to use that planning prompt"
+    },
+    {
+      "start": 279.84,
+      "end": 282.16,
+      "text": "in all the future prompts."
+    },
+    {
+      "start": 282.16,
+      "end": 285.2,
+      "text": "That's just to make sure that lovable, that clod,"
+    },
+    {
+      "start": 285.2,
+      "end": 286.44,
+      "text": "we know what we're going to do."
+    },
+    {
+      "start": 286.44,
+      "end": 288.88,
+      "text": "Then we build out the first prompt"
+    },
+    {
+      "start": 288.88,
+      "end": 290.44,
+      "text": "is the overall skeleton, where it'll"
+    },
+    {
+      "start": 290.44,
+      "end": 293.6,
+      "text": "build out most of the actual pages of the website."
+    },
+    {
+      "start": 293.6,
+      "end": 296.12,
+      "text": "Obviously, you can change anything you want, color scheme,"
+    },
+    {
+      "start": 296.12,
+      "end": 299.8,
+      "text": "branding, design, update this to make sense to you."
+    },
+    {
+      "start": 299.8,
+      "end": 301.24,
+      "text": "Then for the second prompt, we're"
+    },
+    {
+      "start": 301.24,
+      "end": 304.28,
+      "text": "going to create the content for the GVP landing page."
+    },
+    {
+      "start": 304.28,
+      "end": 306.72,
+      "text": "GVP landing page content is incredibly important."
+    },
+    {
+      "start": 306.72,
+      "end": 310.56,
+      "text": "Lovable is not great at writing content, at least as of yet."
+    },
+    {
+      "start": 310.56,
+      "end": 313.52,
+      "text": "So for very important pages, and you"
+    },
+    {
+      "start": 313.52,
+      "end": 315.48,
+      "text": "can do this for all of the pages if you'd like,"
+    },
+    {
+      "start": 315.48,
+      "end": 318.84,
+      "text": "we actually pre-write the content using the methodology"
+    },
+    {
+      "start": 318.84,
+      "end": 321.32,
+      "text": "that we use at my agency for writing content."
+    },
+    {
+      "start": 321.32,
+      "end": 323.88,
+      "text": "And then we will give clod that content."
+    },
+    {
+      "start": 323.88,
+      "end": 325.44,
+      "text": "So you can see prompt three, we're"
+    },
+    {
+      "start": 325.44,
+      "end": 328.88,
+      "text": "giving clod the GVP landing page content we just wrote."
+    },
+    {
+      "start": 328.88,
+      "end": 332.12,
+      "text": "I'm sorry, we're giving lovable the GVP landing page content"
+    },
+    {
+      "start": 332.12,
+      "end": 334.64,
+      "text": "we just wrote, and then asking it to build the page"
+    },
+    {
+      "start": 334.64,
+      "end": 336.0,
+      "text": "with that content."
+    },
+    {
+      "start": 336.0,
+      "end": 338.92,
+      "text": "So you could do the same thing, secondary categories,"
+    },
+    {
+      "start": 338.92,
+      "end": 340.08,
+      "text": "core services."
+    },
+    {
+      "start": 340.12,
+      "end": 343.68,
+      "text": "If you wanted to use the Caleb's internal team"
+    },
+    {
+      "start": 343.68,
+      "end": 346.64,
+      "text": "copywriting procedures that we have here"
+    },
+    {
+      "start": 346.64,
+      "end": 349.72,
+      "text": "and write the highest quality content possible,"
+    },
+    {
+      "start": 349.72,
+      "end": 352.48,
+      "text": "then use that content for the category page build-out,"
+    },
+    {
+      "start": 352.48,
+      "end": 355.96,
+      "text": "for the core service build-out, for the service page build-out,"
+    },
+    {
+      "start": 355.96,
+      "end": 357.96,
+      "text": "and then you could keep going and using it for the about"
+    },
+    {
+      "start": 357.96,
+      "end": 359.56,
+      "text": "and contact me page build-out."
+    },
+    {
+      "start": 359.56,
+      "end": 361.96,
+      "text": "So you can use as much or as little"
+    },
+    {
+      "start": 361.96,
+      "end": 365.72,
+      "text": "of the in-depth quality content writing methods"
+    },
+    {
+      "start": 365.72,
+      "end": 368.08,
+      "text": "that we have elsewhere in the course."
+    },
+    {
+      "start": 368.08,
+      "end": 371.36,
+      "text": "I just use that for the GVP landing page for this example,"
+    },
+    {
+      "start": 371.36,
+      "end": 373.04,
+      "text": "because it's just an example site."
+    },
+    {
+      "start": 373.04,
+      "end": 375.48,
+      "text": "So the quality of the content wasn't super important."
+    },
+    {
+      "start": 375.48,
+      "end": 377.92,
+      "text": "For clients, if it's a brand new client"
+    },
+    {
+      "start": 377.92,
+      "end": 381.32,
+      "text": "and we're using lovable, then we will"
+    },
+    {
+      "start": 381.32,
+      "end": 385.4,
+      "text": "use our content writing process for all of the content."
+    },
+    {
+      "start": 385.4,
+      "end": 389.04,
+      "text": "We're not going to let lovable write slop and then publish it"
+    },
+    {
+      "start": 389.04,
+      "end": 390.76,
+      "text": "and hope that it ranks."
+    },
+    {
+      "start": 390.76,
+      "end": 392.36,
+      "text": "So hopefully this overview makes sense."
+    },
+    {
+      "start": 392.36,
+      "end": 396.0,
+      "text": "I am going to add one more lesson in here"
+    },
+    {
+      "start": 396.04,
+      "end": 397.92,
+      "text": "that talks about lovable HTML."
+    },
+    {
+      "start": 397.92,
+      "end": 400.36,
+      "text": "Currently, there's an issue with lovable websites"
+    },
+    {
+      "start": 400.36,
+      "end": 403.2,
+      "text": "where Google can't actually see the content."
+    },
+    {
+      "start": 403.2,
+      "end": 404.72,
+      "text": "Obviously, this is a problem if you're"
+    },
+    {
+      "start": 404.72,
+      "end": 406.32,
+      "text": "wanting to get it to actually rank."
+    },
+    {
+      "start": 406.32,
+      "end": 409.4,
+      "text": "So I will show lovable HTML and how"
+    },
+    {
+      "start": 409.4,
+      "end": 413.36,
+      "text": "that works to actually allow your websites to rank."
+    }
+  ],
+  "transcript_text": "Hey, so this is the Core 30 sample website. This is just for a made up company, Plummer in Gary, Indiana. So a couple of things to point out here. Obviously, we have the title tag, which mentions the primary category city name, and then some reasons that a visitor might want to call them. Not super critical for the title tag, because remember, we're ranking the GBP, and the title tag is only visible to users when they see the result organically. But we're definitely having the primary category city name very, very important. The H1 tag is important both for Google and for the users. We want to use, again, primary category city name, and then a very clear, compelling reason why the user should call. After that, we focus on goal completion. You guys know when I say goal completion, what I mean is talking to the user, talking to someone who just landed on this website, telling them why they should convert, why they should call. That helps them rank on Google, and obviously, helps your business owner get more calls. So that's where we're going to focus straight away. And this top paragraph, same thing. Again, why they should call, why they should call. Then we have why Gary homeowners call us first. You'll see a theme here, straight into embedded Google Business Profile Reviews. After that, we have our H2 tag, Drainage Service. This links over to the Drainage Service secondary category page, bathroom remodeler. This links to the bathroom remodeler page. Water heater replacement. This links to a water heater replacement hub. So water heater replacement is obviously a service under Plumber. But it's one of the services that Plumbers care about most. So we're going to link to that from the home page. And main drain line replacement. Same thing. This is a service Plumbers care about the most. So we're going to link to that service page from the home page. And if we click on Learn More About Water Heaters, we can see we have a variety of other water heater service pages. So this water heater page almost serves as a category page for water heater replacement. I know water heater replacement isn't a primary or secondary category. You can't type anything you want into Google categories. So the water heater replacement is a service. But this serves as a service hub. It's one of the keywords that we track for Plumbers that we really, really want to rank for. So that's how the H2 structure works here. If I look at the bathroom remodeler, then I can see, again, all of the services that we're linking to under the bathroom remodeler page, we can see it there also. If I keep coming down, this is where the GVP Map Embed would be. Obviously, this is an example site, so we don't have that. We do have the Locations page, which will show you in a second, and then the services, which we link to here. It's just basically the prioritized list of services. Secondary category services, secondary category services, core service we really care about, hub services, core service we really care about, hub services. And then these are additional services under the primary category that we aren't linking to from the home page. So this basically serves as a hub page to link to all of our services. If I go to the Locations page, these, again, the way that we would do these, follow the directions in the Building Geographical Relevance section, we'd look at the local rank map, look at where we have fours, five, sixes, and build content targeting the category your service are trying to rank higher for, along with that landmark and the city name. So we have just some examples here that we might have. Now, obviously, all of these links are just click to call. But we could very easily build out geographic-based content. We would follow the exact same methodology that we use for Building Geographic content, for geographical relevance elsewhere in the material. This is just an example Locations page, Locations Hub page. And then on the footer, you can see phone number, address, email address, logo. We repeat the navbar links, but it's kept very simple. We have privacy policy terms of service, very minimum links. Obviously, it's 2026 now, so we can update that. But yeah, this looks like a very simple website, but this is actually a website that has 60 pages of content on it, totally. And this is what we would build for a Core 30 website. This is our Core 30 example. So let me give you an idea. If I come into the pro group, these prompts are how I built this example site. I built it myself with this series of prompts. So it's really just go to lovable. The first prompt, you don't need lovable. This first prompt is the planning prompt, where we build out the structure, what this looks like, how we want to figure this out. Then we're going to use that planning prompt in all the future prompts. That's just to make sure that lovable, that clod, we know what we're going to do. Then we build out the first prompt is the overall skeleton, where it'll build out most of the actual pages of the website. Obviously, you can change anything you want, color scheme, branding, design, update this to make sense to you. Then for the second prompt, we're going to create the content for the GVP landing page. GVP landing page content is incredibly important. Lovable is not great at writing content, at least as of yet. So for very important pages, and you can do this for all of the pages if you'd like, we actually pre-write the content using the methodology that we use at my agency for writing content. And then we will give clod that content. So you can see prompt three, we're giving clod the GVP landing page content we just wrote. I'm sorry, we're giving lovable the GVP landing page content we just wrote, and then asking it to build the page with that content. So you could do the same thing, secondary categories, core services. If you wanted to use the Caleb's internal team copywriting procedures that we have here and write the highest quality content possible, then use that content for the category page build-out, for the core service build-out, for the service page build-out, and then you could keep going and using it for the about and contact me page build-out. So you can use as much or as little of the in-depth quality content writing methods that we have elsewhere in the course. I just use that for the GVP landing page for this example, because it's just an example site. So the quality of the content wasn't super important. For clients, if it's a brand new client and we're using lovable, then we will use our content writing process for all of the content. We're not going to let lovable write slop and then publish it and hope that it ranks. So hopefully this overview makes sense. I am going to add one more lesson in here that talks about lovable HTML. Currently, there's an issue with lovable websites where Google can't actually see the content. Obviously, this is a problem if you're wanting to get it to actually rank. So I will show lovable HTML and how that works to actually allow your websites to rank.",
   "summary": "",
   "key_points": [],
   "tags": []

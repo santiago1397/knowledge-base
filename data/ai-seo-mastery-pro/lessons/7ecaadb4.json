@@ -7,8 +7,269 @@
   "video_url": "https://www.loom.com/share/208d837657674b898b3d71431e820dcb?sid=9f3c118e-53b5-4ab5-b42f-e23a5239662f?hide_owner=true&hide_share=true&hide_title=true&hideEmbedTopBar=true",
   "video_file": "7ecaadb4_tool-scope-based-pricing [208d837657674b898b3d71431e820dcb].mp4",
   "content_md": "# [Tool] Scope Based Pricing\n\n- Code: 7ecaadb4\n- Source: https://www.skool.com/ai-seo-mastery-pro/classroom/63a81f62?md=7ecaadb4be6a4ab19a54f38a0ee616a1\n- Video: https://www.loom.com/share/208d837657674b898b3d71431e820dcb?sid=9f3c118e-53b5-4ab5-b42f-e23a5239662f?hide_owner=true&hide_share=true&hide_title=true&hideEmbedTopBar=true\n- Duration: 3m 35s\n- Resources:\n  - [Done-For-You SEO Services](https://icecreamtruck.shop/collections/our-services)\n  - [Pricing By Scope of Work (Excel)](None)\n\n## Description\n\n_(no description)_\n",
-  "transcript": [],
-  "transcript_text": "",
+  "transcript": [
+    {
+      "start": 0.02,
+      "end": 6.14,
+      "text": "Alright, so let me walk through the current sheet that we use to calculate the pricing"
+    },
+    {
+      "start": 6.14,
+      "end": 8.2,
+      "text": "we use based on scope of work."
+    },
+    {
+      "start": 8.2,
+      "end": 11.18,
+      "text": "So we're going to start up here at team pay rates."
+    },
+    {
+      "start": 11.18,
+      "end": 17.36,
+      "text": "So this is my team, and you can put whatever pay rates make sense there for your team."
+    },
+    {
+      "start": 17.36,
+      "end": 18.68,
+      "text": "If it's all you, that's fine."
+    },
+    {
+      "start": 18.68,
+      "end": 24.78,
+      "text": "If it's not all you, whatever you're paying people, whatever you would like to pay yourself."
+    },
+    {
+      "start": 24.78,
+      "end": 30.0,
+      "text": "So this is the different pay for all of the different roles that we have to make this work."
+    },
+    {
+      "start": 30.2,
+      "end": 34.2,
+      "text": "Then I break down what it costs to produce each individual article."
+    },
+    {
+      "start": 34.2,
+      "end": 38.88,
+      "text": "We have the SEO expert who's going to determine the target keywords."
+    },
+    {
+      "start": 38.88,
+      "end": 41.88,
+      "text": "We have the copywriter manager who's going to set up the content brief."
+    },
+    {
+      "start": 41.88,
+      "end": 43.88,
+      "text": "Then the copywriter writes the content."
+    },
+    {
+      "start": 43.88,
+      "end": 45.58,
+      "text": "Copywriter manager reviews."
+    },
+    {
+      "start": 45.58,
+      "end": 48.88,
+      "text": "Schema image guy generates schema and images."
+    },
+    {
+      "start": 48.88,
+      "end": 50.88,
+      "text": "The copywriter manager reviews that."
+    },
+    {
+      "start": 50.88,
+      "end": 55.44,
+      "text": "The developer posts it, and then the copywriter manager finally reviews what was posted."
+    },
+    {
+      "start": 55.52,
+      "end": 60.12,
+      "text": "This assumes no follow-ups, no additional comments."
+    },
+    {
+      "start": 60.12,
+      "end": 66.36,
+      "text": "And in this total cost, you can see I've also included the cost of a medium quality link."
+    },
+    {
+      "start": 66.36,
+      "end": 71.12,
+      "text": "So every article we publish has a link, so that's what this final cost per article is."
+    },
+    {
+      "start": 71.12,
+      "end": 76.08,
+      "text": "By the way, I should mention everything in green are numbers that you can change to reflect your team."
+    },
+    {
+      "start": 76.08,
+      "end": 80.56,
+      "text": "So if your SEO expert can do this in 30 seconds, feel free to make that update."
+    },
+    {
+      "start": 80.56,
+      "end": 84.56,
+      "text": "If your link cost is $5, make that update."
+    },
+    {
+      "start": 85.56,
+      "end": 94.56,
+      "text": "Then when we come down here, these are basically all of the month one costs that we have for a brand new client."
+    },
+    {
+      "start": 94.56,
+      "end": 98.56,
+      "text": "We have this separated out because we need to account for this for a new client."
+    },
+    {
+      "start": 98.56,
+      "end": 100.56,
+      "text": "So we set up the cloud projects."
+    },
+    {
+      "start": 100.56,
+      "end": 102.56,
+      "text": "I'm assuming that's a half hour."
+    },
+    {
+      "start": 102.56,
+      "end": 104.56,
+      "text": "We do a GBP audit."
+    },
+    {
+      "start": 104.56,
+      "end": 106.56,
+      "text": "We implement changes from the GBP audit."
+    },
+    {
+      "start": 106.56,
+      "end": 108.56,
+      "text": "We do a landing page audit."
+    },
+    {
+      "start": 108.56,
+      "end": 110.56,
+      "text": "And then we implement changes from the landing page audit."
+    },
+    {
+      "start": 110.56,
+      "end": 114.56,
+      "text": "This is very similar to the per article, but we don't source a link to it."
+    },
+    {
+      "start": 114.56,
+      "end": 116.56,
+      "text": "And there are a couple of additional steps."
+    },
+    {
+      "start": 116.56,
+      "end": 120.56,
+      "text": "The SEO expert reviews this because of how important the GBP landing page is."
+    },
+    {
+      "start": 120.56,
+      "end": 127.56,
+      "text": "Okay, so then month one, brand new client, we have all of the costs that it takes to set everything up."
+    },
+    {
+      "start": 127.56,
+      "end": 129.56,
+      "text": "So we have the total amount of cost."
+    },
+    {
+      "start": 129.56,
+      "end": 136.56,
+      "text": "And then because I don't like charging setup fees, I hate charging setup fees, we charge the same flat rate every month."
+    },
+    {
+      "start": 136.56,
+      "end": 145.56,
+      "text": "What we do to account for month one is we reduce the number of articles a new client gets to account for these startup costs."
+    },
+    {
+      "start": 145.56,
+      "end": 147.56,
+      "text": "So a new article is $82."
+    },
+    {
+      "start": 147.56,
+      "end": 150.56,
+      "text": "It's $226 estimate to do this."
+    },
+    {
+      "start": 150.56,
+      "end": 152.56,
+      "text": "So that is three articles."
+    },
+    {
+      "start": 152.56,
+      "end": 157.56,
+      "text": "And I have rounded up so that we don't accidentally lose money."
+    },
+    {
+      "start": 157.56,
+      "end": 161.56,
+      "text": "So then coming down here, you'll enter whatever gross margin you like."
+    },
+    {
+      "start": 161.56,
+      "end": 167.56,
+      "text": "I like to run a fairly high one, 50 to 70%, depending on how large the scope of work is."
+    },
+    {
+      "start": 167.56,
+      "end": 174.56,
+      "text": "Remember, there's no client success manager costs, no meeting costs, monthly reporting costs, anything like that."
+    },
+    {
+      "start": 174.56,
+      "end": 176.56,
+      "text": "This is just the bare bones SEO fulfillment."
+    },
+    {
+      "start": 176.56,
+      "end": 183.56,
+      "text": "It also assumes that there's no revisions, no client feedback that needs to be adjusted, things like that."
+    },
+    {
+      "start": 183.56,
+      "end": 185.56,
+      "text": "So that's why we have a relatively high gross margin."
+    },
+    {
+      "start": 185.56,
+      "end": 189.56,
+      "text": "Then you have the number of articles that you're going to write every month for that client."
+    },
+    {
+      "start": 189.56,
+      "end": 193.56,
+      "text": "I do call out here how many that would be in the first month."
+    },
+    {
+      "start": 193.56,
+      "end": 200.56,
+      "text": "Remember, it's three fewer than your cost to generate eight articles with a link to each one is this."
+    },
+    {
+      "start": 200.56,
+      "end": 205.56,
+      "text": "And then with that desired gross margin, that is what the quoted price is."
+    },
+    {
+      "start": 205.56,
+      "end": 211.56,
+      "text": "Feel free, download this, make a copy of it, adjust it to work for your team, the workflow that you use."
+    },
+    {
+      "start": 211.56,
+      "end": 214.56,
+      "text": "This is just the workflow that we use at my agency."
+    }
+  ],
+  "transcript_text": "Alright, so let me walk through the current sheet that we use to calculate the pricing we use based on scope of work. So we're going to start up here at team pay rates. So this is my team, and you can put whatever pay rates make sense there for your team. If it's all you, that's fine. If it's not all you, whatever you're paying people, whatever you would like to pay yourself. So this is the different pay for all of the different roles that we have to make this work. Then I break down what it costs to produce each individual article. We have the SEO expert who's going to determine the target keywords. We have the copywriter manager who's going to set up the content brief. Then the copywriter writes the content. Copywriter manager reviews. Schema image guy generates schema and images. The copywriter manager reviews that. The developer posts it, and then the copywriter manager finally reviews what was posted. This assumes no follow-ups, no additional comments. And in this total cost, you can see I've also included the cost of a medium quality link. So every article we publish has a link, so that's what this final cost per article is. By the way, I should mention everything in green are numbers that you can change to reflect your team. So if your SEO expert can do this in 30 seconds, feel free to make that update. If your link cost is $5, make that update. Then when we come down here, these are basically all of the month one costs that we have for a brand new client. We have this separated out because we need to account for this for a new client. So we set up the cloud projects. I'm assuming that's a half hour. We do a GBP audit. We implement changes from the GBP audit. We do a landing page audit. And then we implement changes from the landing page audit. This is very similar to the per article, but we don't source a link to it. And there are a couple of additional steps. The SEO expert reviews this because of how important the GBP landing page is. Okay, so then month one, brand new client, we have all of the costs that it takes to set everything up. So we have the total amount of cost. And then because I don't like charging setup fees, I hate charging setup fees, we charge the same flat rate every month. What we do to account for month one is we reduce the number of articles a new client gets to account for these startup costs. So a new article is $82. It's $226 estimate to do this. So that is three articles. And I have rounded up so that we don't accidentally lose money. So then coming down here, you'll enter whatever gross margin you like. I like to run a fairly high one, 50 to 70%, depending on how large the scope of work is. Remember, there's no client success manager costs, no meeting costs, monthly reporting costs, anything like that. This is just the bare bones SEO fulfillment. It also assumes that there's no revisions, no client feedback that needs to be adjusted, things like that. So that's why we have a relatively high gross margin. Then you have the number of articles that you're going to write every month for that client. I do call out here how many that would be in the first month. Remember, it's three fewer than your cost to generate eight articles with a link to each one is this. And then with that desired gross margin, that is what the quoted price is. Feel free, download this, make a copy of it, adjust it to work for your team, the workflow that you use. This is just the workflow that we use at my agency.",
   "summary": "",
   "key_points": [],
   "tags": []

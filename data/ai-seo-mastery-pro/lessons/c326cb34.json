@@ -7,8 +7,84 @@
   "video_url": "https://www.loom.com/share/e9b9a15e703e48f5b0e153e42464741d?sid=6dac4c35-111f-49de-9d0f-8c3a33c8cbff?hide_owner=true&hide_share=true&hide_title=true&hideEmbedTopBar=true",
   "video_file": "c326cb34_gbp-categories [e9b9a15e703e48f5b0e153e42464741d].mp4",
   "content_md": "# GBP Categories\n\n- Code: c326cb34\n- Source: https://www.skool.com/ai-seo-mastery-pro/classroom/63a81f62?md=c326cb348dbb41b5a1c946596b9e1f88\n- Video: https://www.loom.com/share/e9b9a15e703e48f5b0e153e42464741d?sid=6dac4c35-111f-49de-9d0f-8c3a33c8cbff?hide_owner=true&hide_share=true&hide_title=true&hideEmbedTopBar=true\n- Duration: 1m 13s\n\n## Description\n\n_(no description)_\n",
-  "transcript": [],
-  "transcript_text": "",
+  "transcript": [
+    {
+      "start": 0.11,
+      "end": 5.03,
+      "text": "When we get a new local business client the most common thing we see is that they have exactly one"
+    },
+    {
+      "start": 5.27,
+      "end": 9.83,
+      "text": "GBP category they went for the primary category and then they stopped so we don't want to do that"
+    },
+    {
+      "start": 9.83,
+      "end": 12.11,
+      "text": "We want to make sure that we give"
+    },
+    {
+      "start": 12.87,
+      "end": 17.03,
+      "text": "Multiple different categories. It's gonna be easier to rank for broad statements"
+    },
+    {
+      "start": 17.03,
+      "end": 22.03,
+      "text": "But Google's has like a thousand different categories that we could choose"
+    },
+    {
+      "start": 22.03,
+      "end": 28.75,
+      "text": "We don't want to go through all those and decide if they're accurate enough. So instead we're going to do this"
+    },
+    {
+      "start": 28.75,
+      "end": 30.75,
+      "text": "so"
+    },
+    {
+      "start": 30.79,
+      "end": 35.27,
+      "text": "What did I say HVAC service installation company in Houston a"
+    },
+    {
+      "start": 36.63,
+      "end": 42.35,
+      "text": "Local so I'm gonna put that in here and then I'm going to grab all the services and"
+    },
+    {
+      "start": 43.91,
+      "end": 51.03,
+      "text": "Paste it in and then give that prompt over to chat GPT to ask it which categories should I use?"
+    },
+    {
+      "start": 51.19,
+      "end": 58.15,
+      "text": "So now it is giving me now we can't use all of these right, but it's giving me a much shorter list"
+    },
+    {
+      "start": 59.63,
+      "end": 61.43,
+      "text": "of"
+    },
+    {
+      "start": 61.43,
+      "end": 65.51,
+      "text": "GBP categories we can start at the top and sort of come down and see which of these make sense"
+    },
+    {
+      "start": 65.51,
+      "end": 71.49,
+      "text": "Are they services that our client actually provides? So choose, you know, we want five in total four"
+    },
+    {
+      "start": 71.79,
+      "end": 73.79,
+      "text": "secondary plus your primary category"
+    }
+  ],
+  "transcript_text": "When we get a new local business client the most common thing we see is that they have exactly one GBP category they went for the primary category and then they stopped so we don't want to do that We want to make sure that we give Multiple different categories. It's gonna be easier to rank for broad statements But Google's has like a thousand different categories that we could choose We don't want to go through all those and decide if they're accurate enough. So instead we're going to do this so What did I say HVAC service installation company in Houston a Local so I'm gonna put that in here and then I'm going to grab all the services and Paste it in and then give that prompt over to chat GPT to ask it which categories should I use? So now it is giving me now we can't use all of these right, but it's giving me a much shorter list of GBP categories we can start at the top and sort of come down and see which of these make sense Are they services that our client actually provides? So choose, you know, we want five in total four secondary plus your primary category",
   "summary": "",
   "key_points": [],
   "tags": []

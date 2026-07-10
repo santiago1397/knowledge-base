@@ -7,8 +7,234 @@
   "video_url": "https://www.loom.com/share/3f63b9fba93c4e52a931ae1ade94a675?sid=cc1d2572-b706-46e4-bfaa-677f9ac426c0?hide_owner=true&hide_share=true&hide_title=true&hideEmbedTopBar=true",
   "video_file": "70d3900d_we-suggest-this-ai-claude [3f63b9fba93c4e52a931ae1ade94a675].mp4",
   "content_md": "# We Suggest This AI: Claude\n\n- Code: 70d3900d\n- Source: https://www.skool.com/ai-seo-mastery-pro/classroom/63a81f62?md=70d3900db37b4cbaa646841f9877afc2\n- Video: https://www.loom.com/share/3f63b9fba93c4e52a931ae1ade94a675?sid=cc1d2572-b706-46e4-bfaa-677f9ac426c0?hide_owner=true&hide_share=true&hide_title=true&hideEmbedTopBar=true\n- Duration: 2m 8s\n- Resources:\n  - [claude.ai](https://claude.ai/new)\n  - [chatgpt.com](https://chatgpt.com/)\n\n## Description\n\n_(no description)_\n",
-  "transcript": [],
-  "transcript_text": "",
+  "transcript": [
+    {
+      "start": 0.66,
+      "end": 3.86,
+      "text": "The AI that we recommend for most of the work"
+    },
+    {
+      "start": 3.86,
+      "end": 7.06,
+      "text": "that we're talking about is going to be Claude."
+    },
+    {
+      "start": 7.06,
+      "end": 8.82,
+      "text": "It's done by Anthropic."
+    },
+    {
+      "start": 8.82,
+      "end": 10.74,
+      "text": "And there are two models for Claude."
+    },
+    {
+      "start": 10.74,
+      "end": 14.06,
+      "text": "We currently, at least, there's the Sonnet4."
+    },
+    {
+      "start": 14.06,
+      "end": 18.5,
+      "text": "The Sonnet4 is the model that is best used for writing content."
+    },
+    {
+      "start": 18.5,
+      "end": 19.78,
+      "text": "And we have Opus4."
+    },
+    {
+      "start": 19.78,
+      "end": 24.38,
+      "text": "Opus4 is the model best used for doing data analysis."
+    },
+    {
+      "start": 24.38,
+      "end": 29.38,
+      "text": "Like when we ask it to do a local site technical audit,"
+    },
+    {
+      "start": 29.38,
+      "end": 30.46,
+      "text": "we would use Opus."
+    },
+    {
+      "start": 30.46,
+      "end": 33.34,
+      "text": "If we're asking for content writing, we'll use Sonnet."
+    },
+    {
+      "start": 33.34,
+      "end": 36.9,
+      "text": "Now, ChatGPT, of course, can still work."
+    },
+    {
+      "start": 36.9,
+      "end": 41.1,
+      "text": "If you want to use ChatGPT, O3 is similar to the Opus"
+    },
+    {
+      "start": 41.1,
+      "end": 45.38,
+      "text": "in terms of its ability to do the auditing."
+    },
+    {
+      "start": 45.38,
+      "end": 48.86,
+      "text": "4.5 is supposed to be good for writing,"
+    },
+    {
+      "start": 48.86,
+      "end": 53.14,
+      "text": "but the caveat there is that Sonnet4 from Claude"
+    },
+    {
+      "start": 53.14,
+      "end": 56.1,
+      "text": "is better at writing than 4.5."
+    },
+    {
+      "start": 56.1,
+      "end": 59.26,
+      "text": "And the 4.0 is just the basic ChatGPT."
+    },
+    {
+      "start": 59.26,
+      "end": 61.86,
+      "text": "Now, I currently have subscriptions to both Claude"
+    },
+    {
+      "start": 61.86,
+      "end": 63.22,
+      "text": "and ChatGPT."
+    },
+    {
+      "start": 63.22,
+      "end": 65.94,
+      "text": "The reason for that is ChatGPT does a couple of things"
+    },
+    {
+      "start": 65.94,
+      "end": 67.3,
+      "text": "that Claude won't do."
+    },
+    {
+      "start": 67.3,
+      "end": 69.34,
+      "text": "Number one, ChatGPT will generate images."
+    },
+    {
+      "start": 69.34,
+      "end": 71.02,
+      "text": "Claude can't do that yet."
+    },
+    {
+      "start": 71.02,
+      "end": 75.54,
+      "text": "Number two, we do a lot of work in terms of getting ChatGPT"
+    },
+    {
+      "start": 75.54,
+      "end": 77.3,
+      "text": "to recommend local businesses."
+    },
+    {
+      "start": 77.3,
+      "end": 79.66,
+      "text": "Claude won't recommend local businesses."
+    },
+    {
+      "start": 79.66,
+      "end": 82.14,
+      "text": "If you ask it to, it will just flat out refuse"
+    },
+    {
+      "start": 82.14,
+      "end": 84.14,
+      "text": "and tell you how to evaluate local businesses."
+    },
+    {
+      "start": 84.14,
+      "end": 86.54,
+      "text": "So that's an advantage of ChatGPT that it will actually"
+    },
+    {
+      "start": 86.54,
+      "end": 88.54,
+      "text": "recommend actual businesses."
+    },
+    {
+      "start": 88.54,
+      "end": 91.38,
+      "text": "And the third thing that ChatGPT is really good for,"
+    },
+    {
+      "start": 91.38,
+      "end": 93.7,
+      "text": "it has its voice functionality."
+    },
+    {
+      "start": 93.7,
+      "end": 96.7,
+      "text": "Now, I like the voice functionality for ChatGPT a lot."
+    },
+    {
+      "start": 96.7,
+      "end": 99.42,
+      "text": "I can put my headphones on, open up the voice chat,"
+    },
+    {
+      "start": 99.42,
+      "end": 103.26,
+      "text": "and talk to ChatGPT in a business brainstorming session,"
+    },
+    {
+      "start": 103.26,
+      "end": 106.3,
+      "text": "then have it give me a bunch of notes about what we talked"
+    },
+    {
+      "start": 106.3,
+      "end": 108.46,
+      "text": "about, and a direction path forward."
+    },
+    {
+      "start": 108.46,
+      "end": 110.86,
+      "text": "Claude also doesn't have that chat feature."
+    },
+    {
+      "start": 110.86,
+      "end": 113.5,
+      "text": "So I have subscriptions to both."
+    },
+    {
+      "start": 113.5,
+      "end": 116.9,
+      "text": "In general, Claude is the one that I use much, much more often."
+    },
+    {
+      "start": 116.9,
+      "end": 119.54,
+      "text": "But ChatGPT's use cases are enough"
+    },
+    {
+      "start": 119.54,
+      "end": 121.86,
+      "text": "that it's worth $20 a month for me."
+    },
+    {
+      "start": 121.86,
+      "end": 124.82,
+      "text": "Claude, we have the pro membership, I think."
+    },
+    {
+      "start": 124.82,
+      "end": 128.98,
+      "text": "It's $100 a month because we kept hitting usage limits."
+    }
+  ],
+  "transcript_text": "The AI that we recommend for most of the work that we're talking about is going to be Claude. It's done by Anthropic. And there are two models for Claude. We currently, at least, there's the Sonnet4. The Sonnet4 is the model that is best used for writing content. And we have Opus4. Opus4 is the model best used for doing data analysis. Like when we ask it to do a local site technical audit, we would use Opus. If we're asking for content writing, we'll use Sonnet. Now, ChatGPT, of course, can still work. If you want to use ChatGPT, O3 is similar to the Opus in terms of its ability to do the auditing. 4.5 is supposed to be good for writing, but the caveat there is that Sonnet4 from Claude is better at writing than 4.5. And the 4.0 is just the basic ChatGPT. Now, I currently have subscriptions to both Claude and ChatGPT. The reason for that is ChatGPT does a couple of things that Claude won't do. Number one, ChatGPT will generate images. Claude can't do that yet. Number two, we do a lot of work in terms of getting ChatGPT to recommend local businesses. Claude won't recommend local businesses. If you ask it to, it will just flat out refuse and tell you how to evaluate local businesses. So that's an advantage of ChatGPT that it will actually recommend actual businesses. And the third thing that ChatGPT is really good for, it has its voice functionality. Now, I like the voice functionality for ChatGPT a lot. I can put my headphones on, open up the voice chat, and talk to ChatGPT in a business brainstorming session, then have it give me a bunch of notes about what we talked about, and a direction path forward. Claude also doesn't have that chat feature. So I have subscriptions to both. In general, Claude is the one that I use much, much more often. But ChatGPT's use cases are enough that it's worth $20 a month for me. Claude, we have the pro membership, I think. It's $100 a month because we kept hitting usage limits.",
   "summary": "",
   "key_points": [],
   "tags": []

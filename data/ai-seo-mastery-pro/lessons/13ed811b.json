@@ -7,8 +7,389 @@
   "video_url": "https://www.loom.com/share/f3b5e2b6a05e4c04bbfb36691a014ab1?sid=32592a70-a97d-44f5-bb09-83fb06773567?hide_owner=true&hide_share=true&hide_title=true&hideEmbedTopBar=true",
   "video_file": "13ed811b_introduction-to-backlinking [f3b5e2b6a05e4c04bbfb36691a014ab1].mp4",
   "content_md": "# Introduction to Backlinking\n\n- Code: 13ed811b\n- Source: https://www.skool.com/ai-seo-mastery-pro/classroom/63a81f62?md=13ed811bf5d844d99912d8bc2c9b7988\n- Video: https://www.loom.com/share/f3b5e2b6a05e4c04bbfb36691a014ab1?sid=32592a70-a97d-44f5-bb09-83fb06773567?hide_owner=true&hide_share=true&hide_title=true&hideEmbedTopBar=true\n- Duration: 6m 8s\n\n## Description\n\n_(no description)_\n",
-  "transcript": [],
-  "transcript_text": "",
+  "transcript": [
+    {
+      "start": 0.18,
+      "end": 5.5,
+      "text": "So I mentioned this in passing a couple of times, but let's dive in to make sure on the same page for what a backlink is"
+    },
+    {
+      "start": 5.66,
+      "end": 12.74,
+      "text": "So alphabet, which is Google's parent company. They are now a trillion dollar company because of backlinks"
+    },
+    {
+      "start": 12.74,
+      "end": 15.26,
+      "text": "So the founders Sergey Brin and Larry Page"
+    },
+    {
+      "start": 15.46,
+      "end": 19.9,
+      "text": "They laid out the importance of backlinks in their Stanford PhD dissertation"
+    },
+    {
+      "start": 20.1,
+      "end": 23.74,
+      "text": "This dissertation actually lays out the foundation of Google search algorithm"
+    },
+    {
+      "start": 23.74,
+      "end": 27.94,
+      "text": "You can go read it online if you're super bored and need help falling to sleep or something"
+    },
+    {
+      "start": 27.94,
+      "end": 31.46,
+      "text": "But what backlinks do why they're so important why they"
+    },
+    {
+      "start": 32.18,
+      "end": 34.18,
+      "text": "revolutionize this space is"
+    },
+    {
+      "start": 34.18,
+      "end": 39.58,
+      "text": "They solved the fundamental problem that every search engine struggled with before Google"
+    },
+    {
+      "start": 39.94,
+      "end": 43.78,
+      "text": "That is how do we determine if a website is trustworthy?"
+    },
+    {
+      "start": 43.78,
+      "end": 49.9,
+      "text": "How do we decide if a website is trustworthy enough to send my users to that website?"
+    },
+    {
+      "start": 50.02,
+      "end": 55.22,
+      "text": "Right. Yeah, who did this by manually reviewing websites and giving us a curated list?"
+    },
+    {
+      "start": 55.22,
+      "end": 57.54,
+      "text": "Alta Vista just basically didn't do this"
+    },
+    {
+      "start": 57.54,
+      "end": 62.82,
+      "text": "They did a terrible job of it and Google did it by using backlinks as a signal of trust"
+    },
+    {
+      "start": 65.57,
+      "end": 73.57,
+      "text": "Now the way that this rank position works. It's basically if you're significantly below the first page then Google can't use"
+    },
+    {
+      "start": 74.45,
+      "end": 75.73,
+      "text": "User engagement metrics"
+    },
+    {
+      "start": 75.73,
+      "end": 78.57,
+      "text": "So your rank position is largely going to be based on backlinks"
+    },
+    {
+      "start": 78.57,
+      "end": 83.93,
+      "text": "It's going to be based on on-page content and then there's sort of a multiplying factor of your overall site authority"
+    },
+    {
+      "start": 83.93,
+      "end": 89.13,
+      "text": "Now if you are on the first page in other words if enough people are interacting with your content"
+    },
+    {
+      "start": 89.37,
+      "end": 96.01,
+      "text": "Google will instead use user experience now interacting with your content means on Chrome on Android on any of the platforms"
+    },
+    {
+      "start": 96.01,
+      "end": 100.29,
+      "text": "Like Google owns Google did not build Chrome and Android out of the goodness of their hearts"
+    },
+    {
+      "start": 100.29,
+      "end": 105.25,
+      "text": "They built them to feed more data into its algorithm to better determine"
+    },
+    {
+      "start": 105.73,
+      "end": 110.49,
+      "text": "trustworthiness and goal completion one big example of this they often talk about is"
+    },
+    {
+      "start": 110.85,
+      "end": 119.25,
+      "text": "Mist call rates for a local business if somebody tries to call your business and you don't answer that is a bad user experience"
+    },
+    {
+      "start": 119.73,
+      "end": 123.49,
+      "text": "Google is tracking that that's one of the reasons that they've released Android"
+    },
+    {
+      "start": 123.49,
+      "end": 129.61,
+      "text": "So they could see how people are interacting with local businesses and improve their local search algorithm"
+    },
+    {
+      "start": 129.61,
+      "end": 134.81,
+      "text": "So in other words answer the phone. It's good for ranking. Also, you can't get leads if you don't answer the phone"
+    },
+    {
+      "start": 135.01,
+      "end": 139.29,
+      "text": "This is a study that was done. It's was done a little while ago, but it's still"
+    },
+    {
+      "start": 140.21,
+      "end": 144.97,
+      "text": "Demonstrates the power of backlinks. So here we have the total number of referring domains coming in"
+    },
+    {
+      "start": 145.53,
+      "end": 150.37,
+      "text": "Against the Google position so we can see that it's a pretty strong correlation"
+    },
+    {
+      "start": 150.61,
+      "end": 158.01,
+      "text": "As the Google position drops, so does the number of referring domains just demonstrating again that backlinks are very powerful for ranking"
+    },
+    {
+      "start": 158.17,
+      "end": 163.81,
+      "text": "Google says they aren't Google is lying backlinks are very powerful for ranking. In fact"
+    },
+    {
+      "start": 164.81,
+      "end": 170.01,
+      "text": "We know that backlinks strength represents around 50% of rank position"
+    },
+    {
+      "start": 170.33,
+      "end": 173.49,
+      "text": "That is based on a correlation of a h refs backlink data"
+    },
+    {
+      "start": 173.53,
+      "end": 180.93,
+      "text": "They're the best third-party tool for tracking backlinks and if you correlate their backlink data with Google rank position the correlations about 50%"
+    },
+    {
+      "start": 182.01,
+      "end": 186.89,
+      "text": "So we don't know maybe a h refs miss some backlinks and the correlations actually higher"
+    },
+    {
+      "start": 187.17,
+      "end": 192.69,
+      "text": "But regardless backlinks are hugely important to rank. That's also true of GBPs, right?"
+    },
+    {
+      "start": 193.01,
+      "end": 195.77,
+      "text": "Now the number of referring domains is the important factor"
+    },
+    {
+      "start": 196.25,
+      "end": 199.45,
+      "text": "Multiple links from the same domain eventually loses its importance"
+    },
+    {
+      "start": 199.45,
+      "end": 203.93,
+      "text": "So right don't sponsor the same softball team every single year"
+    },
+    {
+      "start": 203.93,
+      "end": 211.53,
+      "text": "You're going to want to find different teams with different organizations different websites to provide that referring domain to diversity"
+    },
+    {
+      "start": 211.69,
+      "end": 215.73,
+      "text": "Purely from an SEO perspective if there are other reasons to support the same team over and over again"
+    },
+    {
+      "start": 216.17,
+      "end": 218.17,
+      "text": "Then go for it, of course"
+    },
+    {
+      "start": 218.17,
+      "end": 221.77,
+      "text": "And the quality is better than the quantity. This is why we basically say"
+    },
+    {
+      "start": 222.01,
+      "end": 227.89,
+      "text": "We usually only need a handful of these high trust-building backlinks these super powerful local ones"
+    },
+    {
+      "start": 227.89,
+      "end": 232.73,
+      "text": "And when we look at the backlinks that are purely designed to get content indexed and crawled"
+    },
+    {
+      "start": 232.77,
+      "end": 236.09,
+      "text": "We really just need one, right? So we don't need to go crazy"
+    },
+    {
+      "start": 236.73,
+      "end": 242.17,
+      "text": "You'll often hear me talk about a PBN the reason for this when we're building relevance, right?"
+    },
+    {
+      "start": 242.17,
+      "end": 246.81,
+      "text": "And building relevance means writing content when we're writing this content to build relevance"
+    },
+    {
+      "start": 246.81,
+      "end": 250.37,
+      "text": "We will generally seek out one link per article"
+    },
+    {
+      "start": 250.73,
+      "end": 252.09,
+      "text": "Okay, we don't need to go crazy"
+    },
+    {
+      "start": 252.09,
+      "end": 256.81,
+      "text": "We don't need more than that and I'm typically looking for the least expensive link that I can find"
+    },
+    {
+      "start": 257.21,
+      "end": 262.57,
+      "text": "That's a high enough quality to get Google to crawl it to index it to trust that it isn't just slop"
+    },
+    {
+      "start": 262.69,
+      "end": 265.85,
+      "text": "So the that typically means that we're using PBMs"
+    },
+    {
+      "start": 265.85,
+      "end": 268.09,
+      "text": "It stands for private blog network"
+    },
+    {
+      "start": 268.37,
+      "end": 275.33,
+      "text": "Basically, it's a network of sites that you own and control but you've hidden the fact from Google that you own and control these"
+    },
+    {
+      "start": 275.33,
+      "end": 279.19,
+      "text": "So Google still thinks they're independent, right now"
+    },
+    {
+      "start": 279.91,
+      "end": 284.63,
+      "text": "From 2017, this is obviously very outdated. So my guess is this number is even higher"
+    },
+    {
+      "start": 285.35,
+      "end": 290.95,
+      "text": "All the websites on the internet 80% of the websites on the internet basically exist to get"
+    },
+    {
+      "start": 291.27,
+      "end": 295.27,
+      "text": "Link authority to the 20% that are generating traffic, okay?"
+    },
+    {
+      "start": 295.27,
+      "end": 302.15,
+      "text": "So, you know PBN this fascination the requirement for backlinks to drive rank position has"
+    },
+    {
+      "start": 302.59,
+      "end": 308.43,
+      "text": "Exploded in such a way that now most of the content on the internet only exists to rank other content"
+    },
+    {
+      "start": 308.47,
+      "end": 310.47,
+      "text": "Okay, I"
+    },
+    {
+      "start": 310.47,
+      "end": 313.99,
+      "text": "Wouldn't recommend that you try to build your own PBN it can be done"
+    },
+    {
+      "start": 313.99,
+      "end": 316.47,
+      "text": "And we will have a lesson on how to do that"
+    },
+    {
+      "start": 316.47,
+      "end": 318.47,
+      "text": "but the challenge is if"
+    },
+    {
+      "start": 318.51,
+      "end": 323.67,
+      "text": "If you don't hide the footprint correctly then your entire network is going to get d-indexed"
+    },
+    {
+      "start": 323.67,
+      "end": 330.79,
+      "text": "This won't hurt the rank position of the sites that I was pointing to I have not seen it happen where a"
+    },
+    {
+      "start": 331.51,
+      "end": 335.67,
+      "text": "PBN was discovered and it actually hurt the site I was linked to this is a common misconception"
+    },
+    {
+      "start": 335.79,
+      "end": 342.19,
+      "text": "I hear this all the time what happens instead if you're using a PBN to get into a higher rank position"
+    },
+    {
+      "start": 342.23,
+      "end": 349.19,
+      "text": "Then that PBN got indexed you'll likely lose rank position back to where you were if you hadn't got any of the PBN links"
+    },
+    {
+      "start": 349.19,
+      "end": 354.83,
+      "text": "So it basically erases the PBN building authority getting individual pages"
+    },
+    {
+      "start": 355.31,
+      "end": 357.75,
+      "text": "indexed getting individual pages trusted"
+    },
+    {
+      "start": 358.23,
+      "end": 361.19,
+      "text": "And that all goes away. It doesn't hurt you"
+    },
+    {
+      "start": 361.79,
+      "end": 365.35,
+      "text": "But it brings you back to where you would be if you hadn't used any PBNs"
+    },
+    {
+      "start": 365.35,
+      "end": 368.71,
+      "text": "Hopefully this explanation of back links has been helpful"
+    }
+  ],
+  "transcript_text": "So I mentioned this in passing a couple of times, but let's dive in to make sure on the same page for what a backlink is So alphabet, which is Google's parent company. They are now a trillion dollar company because of backlinks So the founders Sergey Brin and Larry Page They laid out the importance of backlinks in their Stanford PhD dissertation This dissertation actually lays out the foundation of Google search algorithm You can go read it online if you're super bored and need help falling to sleep or something But what backlinks do why they're so important why they revolutionize this space is They solved the fundamental problem that every search engine struggled with before Google That is how do we determine if a website is trustworthy? How do we decide if a website is trustworthy enough to send my users to that website? Right. Yeah, who did this by manually reviewing websites and giving us a curated list? Alta Vista just basically didn't do this They did a terrible job of it and Google did it by using backlinks as a signal of trust Now the way that this rank position works. It's basically if you're significantly below the first page then Google can't use User engagement metrics So your rank position is largely going to be based on backlinks It's going to be based on on-page content and then there's sort of a multiplying factor of your overall site authority Now if you are on the first page in other words if enough people are interacting with your content Google will instead use user experience now interacting with your content means on Chrome on Android on any of the platforms Like Google owns Google did not build Chrome and Android out of the goodness of their hearts They built them to feed more data into its algorithm to better determine trustworthiness and goal completion one big example of this they often talk about is Mist call rates for a local business if somebody tries to call your business and you don't answer that is a bad user experience Google is tracking that that's one of the reasons that they've released Android So they could see how people are interacting with local businesses and improve their local search algorithm So in other words answer the phone. It's good for ranking. Also, you can't get leads if you don't answer the phone This is a study that was done. It's was done a little while ago, but it's still Demonstrates the power of backlinks. So here we have the total number of referring domains coming in Against the Google position so we can see that it's a pretty strong correlation As the Google position drops, so does the number of referring domains just demonstrating again that backlinks are very powerful for ranking Google says they aren't Google is lying backlinks are very powerful for ranking. In fact We know that backlinks strength represents around 50% of rank position That is based on a correlation of a h refs backlink data They're the best third-party tool for tracking backlinks and if you correlate their backlink data with Google rank position the correlations about 50% So we don't know maybe a h refs miss some backlinks and the correlations actually higher But regardless backlinks are hugely important to rank. That's also true of GBPs, right? Now the number of referring domains is the important factor Multiple links from the same domain eventually loses its importance So right don't sponsor the same softball team every single year You're going to want to find different teams with different organizations different websites to provide that referring domain to diversity Purely from an SEO perspective if there are other reasons to support the same team over and over again Then go for it, of course And the quality is better than the quantity. This is why we basically say We usually only need a handful of these high trust-building backlinks these super powerful local ones And when we look at the backlinks that are purely designed to get content indexed and crawled We really just need one, right? So we don't need to go crazy You'll often hear me talk about a PBN the reason for this when we're building relevance, right? And building relevance means writing content when we're writing this content to build relevance We will generally seek out one link per article Okay, we don't need to go crazy We don't need more than that and I'm typically looking for the least expensive link that I can find That's a high enough quality to get Google to crawl it to index it to trust that it isn't just slop So the that typically means that we're using PBMs It stands for private blog network Basically, it's a network of sites that you own and control but you've hidden the fact from Google that you own and control these So Google still thinks they're independent, right now From 2017, this is obviously very outdated. So my guess is this number is even higher All the websites on the internet 80% of the websites on the internet basically exist to get Link authority to the 20% that are generating traffic, okay? So, you know PBN this fascination the requirement for backlinks to drive rank position has Exploded in such a way that now most of the content on the internet only exists to rank other content Okay, I Wouldn't recommend that you try to build your own PBN it can be done And we will have a lesson on how to do that but the challenge is if If you don't hide the footprint correctly then your entire network is going to get d-indexed This won't hurt the rank position of the sites that I was pointing to I have not seen it happen where a PBN was discovered and it actually hurt the site I was linked to this is a common misconception I hear this all the time what happens instead if you're using a PBN to get into a higher rank position Then that PBN got indexed you'll likely lose rank position back to where you were if you hadn't got any of the PBN links So it basically erases the PBN building authority getting individual pages indexed getting individual pages trusted And that all goes away. It doesn't hurt you But it brings you back to where you would be if you hadn't used any PBNs Hopefully this explanation of back links has been helpful",
   "summary": "",
   "key_points": [],
   "tags": []

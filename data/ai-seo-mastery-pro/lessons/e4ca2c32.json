@@ -7,8 +7,359 @@
   "video_url": "https://www.loom.com/share/47352499858448418d2eee5ee3a431f5?hide_owner=true&hide_share=true&hide_title=true&hideEmbedTopBar=true",
   "video_file": "e4ca2c32_example-site-for-core-30 [47352499858448418d2eee5ee3a431f5].mp4",
   "content_md": "# Example Site for Core 30\n\n- Code: e4ca2c32\n- Source: https://www.skool.com/ai-seo-mastery-pro/classroom/63a81f62?md=e4ca2c32591f44e8b2c2361c09b12e9b\n- Video: https://www.loom.com/share/47352499858448418d2eee5ee3a431f5?hide_owner=true&hide_share=true&hide_title=true&hideEmbedTopBar=true\n- Duration: 6m 22s\n\n## Description\n\n_(no description)_\n",
-  "transcript": [],
-  "transcript_text": "",
+  "transcript": [
+    {
+      "start": 0.18,
+      "end": 6.26,
+      "text": "is the example site. This example site is for a plumber in Gary, Indiana. Based on the web address,"
+    },
+    {
+      "start": 6.26,
+      "end": 12.42,
+      "text": "you can probably tell that we built this example site with lovable. So a few things I want to point"
+    },
+    {
+      "start": 12.42,
+      "end": 19.46,
+      "text": "out. We have obviously the title tag, which has the city name and the primary category. The h1 tag"
+    },
+    {
+      "start": 19.46,
+      "end": 24.5,
+      "text": "also has the city name and primary category. But then we also start focusing on goal completion"
+    },
+    {
+      "start": 25.46,
+      "end": 31.06,
+      "text": "since every user will see the h1. Beyond that, the immediate content that we have here above the"
+    },
+    {
+      "start": 31.06,
+      "end": 36.5,
+      "text": "fold is all focused on goal completion. Why is someone in Gary, Indiana looking for a plumber"
+    },
+    {
+      "start": 36.5,
+      "end": 41.14,
+      "text": "and what can we tell them about this plumbing business to convince them to make the call?"
+    },
+    {
+      "start": 41.14,
+      "end": 45.22,
+      "text": "Notice that we don't talk about how many years we've been in business. We don't talk about anything"
+    },
+    {
+      "start": 45.22,
+      "end": 50.02,
+      "text": "about how we're licensed and insured. We don't talk about anything like that. That's very obvious."
+    },
+    {
+      "start": 50.02,
+      "end": 55.38,
+      "text": "It's all about the user, what they need, why they're looking for this, and how we can help them"
+    },
+    {
+      "start": 55.38,
+      "end": 60.9,
+      "text": "with that need. So scrolling just beyond that, well, actually, before we go down, obviously,"
+    },
+    {
+      "start": 60.9,
+      "end": 65.86,
+      "text": "we have a click to call here. This is also a click to call. Clearly, you'd replace this with a company"
+    },
+    {
+      "start": 65.86,
+      "end": 72.9,
+      "text": "name and your logo. The nav bar, very, very simple home services about us contact. That's all we have."
+    },
+    {
+      "start": 73.54,
+      "end": 78.66,
+      "text": "Schedule service for here, it goes to contact. If you have a different form or something like that,"
+    },
+    {
+      "start": 78.66,
+      "end": 82.26,
+      "text": "obviously, you can send them there instead. Yet another click to call button. Yet another"
+    },
+    {
+      "start": 82.26,
+      "end": 86.98,
+      "text": "click to call. We want to make it super clear how they can click to call. Okay, then right below"
+    },
+    {
+      "start": 86.98,
+      "end": 91.14,
+      "text": "this, we have why Gary homeowners call us first. Again, remember, we're focusing on goal"
+    },
+    {
+      "start": 91.14,
+      "end": 96.66,
+      "text": "completion, what we can do for them. Then immediately below that, what Gary customers say. So here's"
+    },
+    {
+      "start": 96.66,
+      "end": 102.18,
+      "text": "where we embed the GBP reviews. Social proof is massively, massively important for this."
+    },
+    {
+      "start": 102.18,
+      "end": 107.06,
+      "text": "If we had awards, if we had mentions, if we had sponsored the local softball team,"
+    },
+    {
+      "start": 107.06,
+      "end": 112.1,
+      "text": "we would put those logos somewhere in here to show we're an upstanding member of the community."
+    },
+    {
+      "start": 112.66,
+      "end": 116.74,
+      "text": "We care about the community, things like that. Okay, then right after this, we're going straight"
+    },
+    {
+      "start": 116.74,
+      "end": 123.38,
+      "text": "into H2s for the primary H2s for the secondary categories. So you have drainage service,"
+    },
+    {
+      "start": 123.38,
+      "end": 127.22,
+      "text": "link to more information about drainage service, bathroom remodeler, link to more information"
+    },
+    {
+      "start": 127.22,
+      "end": 131.62,
+      "text": "about bathroom modelers. Those are the two secondary categories here. Then we have the"
+    },
+    {
+      "start": 131.62,
+      "end": 136.26,
+      "text": "core services we care a lot about, water heat replacement, link to a page about that,"
+    },
+    {
+      "start": 136.34,
+      "end": 141.3,
+      "text": "main drain line replacement, link to a page about that. Then we have the link to all services."
+    },
+    {
+      "start": 141.3,
+      "end": 144.9,
+      "text": "This is the same URL that the navbar links to. I'll show you that in a second."
+    },
+    {
+      "start": 144.9,
+      "end": 148.34,
+      "text": "Then we have a link to all the locations pages. This is where we would go to build"
+    },
+    {
+      "start": 148.34,
+      "end": 152.82,
+      "text": "geographical relevance. Below that, we have an embed for the Google business profile."
+    },
+    {
+      "start": 154.02,
+      "end": 159.3,
+      "text": "A last final call to action. And then we have the footer. The footer includes, again, logo,"
+    },
+    {
+      "start": 159.3,
+      "end": 165.38,
+      "text": "company name, phone number, address, email address, social profiles, repeats these links,"
+    },
+    {
+      "start": 165.38,
+      "end": 171.62,
+      "text": "privacy policy terms of service. Super simple. Super simple. Okay. So let me show you for,"
+    },
+    {
+      "start": 171.62,
+      "end": 176.02,
+      "text": "so this is a service, obviously, not a secondary category, but it's a service we care a lot about."
+    },
+    {
+      "start": 176.02,
+      "end": 180.74,
+      "text": "So I click on that link and I get brought to this sort of hub page about water heat replacement."
+    },
+    {
+      "start": 180.74,
+      "end": 185.14,
+      "text": "And you can see I have a bunch of sub services under the water heat replacement service."
+    },
+    {
+      "start": 185.14,
+      "end": 189.62,
+      "text": "That's because these are building up topical relevance for water heat replacement."
+    },
+    {
+      "start": 189.62,
+      "end": 193.86,
+      "text": "Okay. So if I come back under main drain line replacement, you can see the same thing."
+    },
+    {
+      "start": 193.94,
+      "end": 197.46,
+      "text": "These are services that we really, really care about. So we're going to build sub services"
+    },
+    {
+      "start": 197.46,
+      "end": 204.58,
+      "text": "underneath them. We could also build a FAQ section down here if we wanted to. That would be fine"
+    },
+    {
+      "start": 204.58,
+      "end": 209.38,
+      "text": "also would have no issues if you wanted an FAQ to get those service pages in."
+    },
+    {
+      "start": 210.1,
+      "end": 214.1,
+      "text": "So bathroom remodeler. This is our secondary category. And then here you can see we have"
+    },
+    {
+      "start": 214.1,
+      "end": 218.26,
+      "text": "links to all of our services that live under that and drainage service again."
+    },
+    {
+      "start": 219.14,
+      "end": 222.82,
+      "text": "Here we have links to all of the drainage service underneath that we have them here too."
+    },
+    {
+      "start": 222.82,
+      "end": 229.38,
+      "text": "Now, if we go to the actual services page, which is linked to here, here and on the footer here,"
+    },
+    {
+      "start": 229.38,
+      "end": 235.06,
+      "text": "I'll go to the same place. What we see is secondary category, all the services under"
+    },
+    {
+      "start": 235.06,
+      "end": 239.86,
+      "text": "that secondary category, secondary category, all the services under that secondary category,"
+    },
+    {
+      "start": 239.86,
+      "end": 246.34,
+      "text": "core service, the sub services under the core service, another core service, sub services"
+    },
+    {
+      "start": 246.34,
+      "end": 251.86,
+      "text": "there. And now we have the primary category with all the services that we didn't want to link to"
+    },
+    {
+      "start": 251.86,
+      "end": 257.3,
+      "text": "from the home page. So these are all of the services underneath the primary category."
+    },
+    {
+      "start": 257.3,
+      "end": 262.58,
+      "text": "So this website, it looks pretty small. It looks pretty simple. It's actually close to 60 pages"
+    },
+    {
+      "start": 262.58,
+      "end": 270.42,
+      "text": "in 60 total pages. Oh, and let me show you the locations page. So if I hit view all locations,"
+    },
+    {
+      "start": 271.22,
+      "end": 276.9,
+      "text": "Northwest Indiana, fine, whatever. So this page isn't designed to rank. All it's designed to do is"
+    },
+    {
+      "start": 276.9,
+      "end": 283.62,
+      "text": "provide a hub for all of the geographic location pages to sit. So if we wanted to rank Plummer"
+    },
+    {
+      "start": 283.62,
+      "end": 288.82,
+      "text": "Market Park, and if you go to the how to build geographical relevance section, you'll see"
+    },
+    {
+      "start": 288.82,
+      "end": 296.66,
+      "text": "how we decide which one of these we do. It's going to be based on which locations on the local rank"
+    },
+    {
+      "start": 296.66,
+      "end": 301.78,
+      "text": "map are four, five and six and have reasonable demographics. Then we're going to zoom into the"
+    },
+    {
+      "start": 301.78,
+      "end": 309.54,
+      "text": "Google Maps and find a geographical landmark near that four, five or six and write content about"
+    },
+    {
+      "start": 309.54,
+      "end": 314.58,
+      "text": "it. This content doesn't exist. It's all just call for service. But you know, we would build this"
+    },
+    {
+      "start": 314.58,
+      "end": 320.18,
+      "text": "content out if we needed the geographical relevance. So the articles, so if we had one from Arquette"
+    },
+    {
+      "start": 320.18,
+      "end": 326.26,
+      "text": "Park, this article would link to the primary category or core service page we're trying to"
+    },
+    {
+      "start": 326.26,
+      "end": 331.14,
+      "text": "support. So if we're trying to rank plumbing, we would link back to the homepage from this page."
+    },
+    {
+      "start": 331.14,
+      "end": 335.06,
+      "text": "If we're trying to rank water heat replacement, we would link to the water heat replacement page"
+    },
+    {
+      "start": 335.06,
+      "end": 341.7,
+      "text": "from this page. But we can't link out from the GBP landing page to all of these because there'd"
+    },
+    {
+      "start": 341.7,
+      "end": 348.98,
+      "text": "be way too many. So anyway, hopefully that makes sense. Any questions, any issues, post it in the"
+    },
+    {
+      "start": 348.98,
+      "end": 359.22,
+      "text": "group and we'll get them answered. This page also has schema. And yeah, so let me know any issues"
+    },
+    {
+      "start": 359.22,
+      "end": 365.14,
+      "text": "you find with this. We can adjust it, make any corrections. These are all obviously AI generated"
+    },
+    {
+      "start": 365.14,
+      "end": 371.38,
+      "text": "images. The content on the GBP landing page was written with our process for copywriters. The"
+    },
+    {
+      "start": 371.38,
+      "end": 376.58,
+      "text": "rest of the content was just written by lovable, which is not great. So that not what I would"
+    },
+    {
+      "start": 376.58,
+      "end": 382.18,
+      "text": "recommend doing. But that's what we did for this example site. So enjoy."
+    }
+  ],
+  "transcript_text": "is the example site. This example site is for a plumber in Gary, Indiana. Based on the web address, you can probably tell that we built this example site with lovable. So a few things I want to point out. We have obviously the title tag, which has the city name and the primary category. The h1 tag also has the city name and primary category. But then we also start focusing on goal completion since every user will see the h1. Beyond that, the immediate content that we have here above the fold is all focused on goal completion. Why is someone in Gary, Indiana looking for a plumber and what can we tell them about this plumbing business to convince them to make the call? Notice that we don't talk about how many years we've been in business. We don't talk about anything about how we're licensed and insured. We don't talk about anything like that. That's very obvious. It's all about the user, what they need, why they're looking for this, and how we can help them with that need. So scrolling just beyond that, well, actually, before we go down, obviously, we have a click to call here. This is also a click to call. Clearly, you'd replace this with a company name and your logo. The nav bar, very, very simple home services about us contact. That's all we have. Schedule service for here, it goes to contact. If you have a different form or something like that, obviously, you can send them there instead. Yet another click to call button. Yet another click to call. We want to make it super clear how they can click to call. Okay, then right below this, we have why Gary homeowners call us first. Again, remember, we're focusing on goal completion, what we can do for them. Then immediately below that, what Gary customers say. So here's where we embed the GBP reviews. Social proof is massively, massively important for this. If we had awards, if we had mentions, if we had sponsored the local softball team, we would put those logos somewhere in here to show we're an upstanding member of the community. We care about the community, things like that. Okay, then right after this, we're going straight into H2s for the primary H2s for the secondary categories. So you have drainage service, link to more information about drainage service, bathroom remodeler, link to more information about bathroom modelers. Those are the two secondary categories here. Then we have the core services we care a lot about, water heat replacement, link to a page about that, main drain line replacement, link to a page about that. Then we have the link to all services. This is the same URL that the navbar links to. I'll show you that in a second. Then we have a link to all the locations pages. This is where we would go to build geographical relevance. Below that, we have an embed for the Google business profile. A last final call to action. And then we have the footer. The footer includes, again, logo, company name, phone number, address, email address, social profiles, repeats these links, privacy policy terms of service. Super simple. Super simple. Okay. So let me show you for, so this is a service, obviously, not a secondary category, but it's a service we care a lot about. So I click on that link and I get brought to this sort of hub page about water heat replacement. And you can see I have a bunch of sub services under the water heat replacement service. That's because these are building up topical relevance for water heat replacement. Okay. So if I come back under main drain line replacement, you can see the same thing. These are services that we really, really care about. So we're going to build sub services underneath them. We could also build a FAQ section down here if we wanted to. That would be fine also would have no issues if you wanted an FAQ to get those service pages in. So bathroom remodeler. This is our secondary category. And then here you can see we have links to all of our services that live under that and drainage service again. Here we have links to all of the drainage service underneath that we have them here too. Now, if we go to the actual services page, which is linked to here, here and on the footer here, I'll go to the same place. What we see is secondary category, all the services under that secondary category, secondary category, all the services under that secondary category, core service, the sub services under the core service, another core service, sub services there. And now we have the primary category with all the services that we didn't want to link to from the home page. So these are all of the services underneath the primary category. So this website, it looks pretty small. It looks pretty simple. It's actually close to 60 pages in 60 total pages. Oh, and let me show you the locations page. So if I hit view all locations, Northwest Indiana, fine, whatever. So this page isn't designed to rank. All it's designed to do is provide a hub for all of the geographic location pages to sit. So if we wanted to rank Plummer Market Park, and if you go to the how to build geographical relevance section, you'll see how we decide which one of these we do. It's going to be based on which locations on the local rank map are four, five and six and have reasonable demographics. Then we're going to zoom into the Google Maps and find a geographical landmark near that four, five or six and write content about it. This content doesn't exist. It's all just call for service. But you know, we would build this content out if we needed the geographical relevance. So the articles, so if we had one from Arquette Park, this article would link to the primary category or core service page we're trying to support. So if we're trying to rank plumbing, we would link back to the homepage from this page. If we're trying to rank water heat replacement, we would link to the water heat replacement page from this page. But we can't link out from the GBP landing page to all of these because there'd be way too many. So anyway, hopefully that makes sense. Any questions, any issues, post it in the group and we'll get them answered. This page also has schema. And yeah, so let me know any issues you find with this. We can adjust it, make any corrections. These are all obviously AI generated images. The content on the GBP landing page was written with our process for copywriters. The rest of the content was just written by lovable, which is not great. So that not what I would recommend doing. But that's what we did for this example site. So enjoy.",
   "summary": "",
   "key_points": [],
   "tags": []

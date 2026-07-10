@@ -7,8 +7,119 @@
   "video_url": "https://www.loom.com/share/d0ae0555b3174bdfa194bc9e3f521a5f?sid=a7ec91fe-ee02-4aad-99d7-5d863162376a?hide_owner=true&hide_share=true&hide_title=true&hideEmbedTopBar=true",
   "video_file": "d213b414_hiding-content-from-users [d0ae0555b3174bdfa194bc9e3f521a5f].mp4",
   "content_md": "# Hiding Content from Users\n\n- Code: d213b414\n- Source: https://www.skool.com/ai-seo-mastery-pro/classroom/63a81f62?md=d213b41413144cec8ef63e201c471348\n- Video: https://www.loom.com/share/d0ae0555b3174bdfa194bc9e3f521a5f?sid=a7ec91fe-ee02-4aad-99d7-5d863162376a?hide_owner=true&hide_share=true&hide_title=true&hideEmbedTopBar=true\n- Duration: 1m 48s\n\n## Description\n\n_(no description)_\n",
-  "transcript": [],
-  "transcript_text": "",
+  "transcript": [
+    {
+      "start": 0.18,
+      "end": 5.06,
+      "text": "So hiding content what I mean by this is putting your content in accordions or"
+    },
+    {
+      "start": 5.7,
+      "end": 7.78,
+      "text": "Moussavers or collapsible blocks"
+    },
+    {
+      "start": 8.3,
+      "end": 13.22,
+      "text": "Usually this is something that the web designer or the client wants because they want the website to look better"
+    },
+    {
+      "start": 13.58,
+      "end": 17.66,
+      "text": "But really you should not be wasting your time hiding content. Just keep it all visible"
+    },
+    {
+      "start": 17.94,
+      "end": 20.74,
+      "text": "Don't do any of those accordions or mouseovers or anything like that"
+    },
+    {
+      "start": 20.86,
+      "end": 28.74,
+      "text": "Okay, Google the way Google crawl works is it's rendering websites in the most recent version of Chrome and when it's doing that"
+    },
+    {
+      "start": 28.78,
+      "end": 30.98,
+      "text": "It follows links, but it can't click"
+    },
+    {
+      "start": 31.02,
+      "end": 36.1,
+      "text": "So if your content is hidden behind something that requires Moussavers or clicks"
+    },
+    {
+      "start": 36.5,
+      "end": 42.38,
+      "text": "Google won't be able to see it now. I say that I say Google can't see it. That's sort of true"
+    },
+    {
+      "start": 42.42,
+      "end": 44.42,
+      "text": "We know that if you hide"
+    },
+    {
+      "start": 44.62,
+      "end": 51.18,
+      "text": "Something in an accordion and then you do an exact match like you search for exactly that content in quotes"
+    },
+    {
+      "start": 51.62,
+      "end": 55.86,
+      "text": "Google will display that result so it will show that result"
+    },
+    {
+      "start": 56.1,
+      "end": 61.06,
+      "text": "But if you have ten websites and everything is close to exactly the same as possible"
+    },
+    {
+      "start": 61.34,
+      "end": 68.38,
+      "text": "You hide the content on five of them and you don't hide the content on the other five and then you search for the exact match"
+    },
+    {
+      "start": 68.38,
+      "end": 73.14,
+      "text": "That's hidden the five that are not hidden will rank above the five that aren't okay"
+    },
+    {
+      "start": 73.14,
+      "end": 77.14,
+      "text": "So you're going to rank better and faster if you don't hide content"
+    },
+    {
+      "start": 77.98,
+      "end": 83.94,
+      "text": "Users are used to content that is not hidden because for SEO reasons"
+    },
+    {
+      "start": 84.42,
+      "end": 90.62,
+      "text": "Most websites that they interact with most websites that rank well on Google aren't hiding content"
+    },
+    {
+      "start": 90.62,
+      "end": 91.82,
+      "text": "So don't worry about it"
+    },
+    {
+      "start": 91.82,
+      "end": 97.7,
+      "text": "Don't hide content if your client really wants the content to be hidden what I've done before is said yeah, no problem"
+    },
+    {
+      "start": 97.98,
+      "end": 101.78,
+      "text": "Go ahead and have your web designer hide that if you really want it to be hidden"
+    },
+    {
+      "start": 101.98,
+      "end": 107.96,
+      "text": "But remember this is going to cost more money and or more time to rank"
+    }
+  ],
+  "transcript_text": "So hiding content what I mean by this is putting your content in accordions or Moussavers or collapsible blocks Usually this is something that the web designer or the client wants because they want the website to look better But really you should not be wasting your time hiding content. Just keep it all visible Don't do any of those accordions or mouseovers or anything like that Okay, Google the way Google crawl works is it's rendering websites in the most recent version of Chrome and when it's doing that It follows links, but it can't click So if your content is hidden behind something that requires Moussavers or clicks Google won't be able to see it now. I say that I say Google can't see it. That's sort of true We know that if you hide Something in an accordion and then you do an exact match like you search for exactly that content in quotes Google will display that result so it will show that result But if you have ten websites and everything is close to exactly the same as possible You hide the content on five of them and you don't hide the content on the other five and then you search for the exact match That's hidden the five that are not hidden will rank above the five that aren't okay So you're going to rank better and faster if you don't hide content Users are used to content that is not hidden because for SEO reasons Most websites that they interact with most websites that rank well on Google aren't hiding content So don't worry about it Don't hide content if your client really wants the content to be hidden what I've done before is said yeah, no problem Go ahead and have your web designer hide that if you really want it to be hidden But remember this is going to cost more money and or more time to rank",
   "summary": "",
   "key_points": [],
   "tags": []

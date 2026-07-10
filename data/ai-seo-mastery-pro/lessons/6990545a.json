@@ -7,8 +7,264 @@
   "video_url": "https://www.loom.com/share/96830ebd884c465ebd65b436b0ed59a3?sid=71a67373-ac95-43c1-9f56-dc426ea42055?sid=32592a70-a97d-44f5-bb09-83fb06773567?hide_owner=true&hide_share=true&hide_title=true&hideEmbedTopBar=true",
   "video_file": "6990545a_how-chatgpt-makes-recommendations [96830ebd884c465ebd65b436b0ed59a3].mp4",
   "content_md": "# How ChatGPT Makes Recommendations\n\n- Code: 6990545a\n- Source: https://www.skool.com/ai-seo-mastery-pro/classroom/63a81f62?md=6990545ad9bc45c884296fdd5d939aa6\n- Video: https://www.loom.com/share/96830ebd884c465ebd65b436b0ed59a3?sid=71a67373-ac95-43c1-9f56-dc426ea42055?sid=32592a70-a97d-44f5-bb09-83fb06773567?hide_owner=true&hide_share=true&hide_title=true&hideEmbedTopBar=true\n- Duration: 4m 8s\n\n## Description\n\n_(no description)_\n",
-  "transcript": [],
-  "transcript_text": "",
+  "transcript": [
+    {
+      "start": 0.34,
+      "end": 5.34,
+      "text": "So let's start by talking about how ChatGPT actually makes its recommendations."
+    },
+    {
+      "start": 5.34,
+      "end": 17.02,
+      "text": "Alright, so fundamentally, ChatGPT basically has the same problem and the same goal that Google solved 25 years ago."
+    },
+    {
+      "start": 17.02,
+      "end": 25.02,
+      "text": "That problem is how do we determine if a third-party website is trustworthy based only on information we can find on the internet."
+    },
+    {
+      "start": 25.02,
+      "end": 29.02,
+      "text": "And the goal is to keep users engaged with their platform."
+    },
+    {
+      "start": 29.02,
+      "end": 32.02,
+      "text": "Google wants to keep you as long as possible on Google and properties."
+    },
+    {
+      "start": 32.02,
+      "end": 35.02,
+      "text": "ChatGPT wants to keep you chatting with ChatGPT."
+    },
+    {
+      "start": 35.02,
+      "end": 40.02,
+      "text": "Neither one cares anything about who you are and they're not trying to figure that out."
+    },
+    {
+      "start": 40.02,
+      "end": 48.02,
+      "text": "They're only trying to figure out whether there are enough other sources that they do trust agree that you or your business is legit."
+    },
+    {
+      "start": 48.02,
+      "end": 49.02,
+      "text": "So that's our goal."
+    },
+    {
+      "start": 49.02,
+      "end": 53.78,
+      "text": "Now, big differences of course, Google crawls the internet."
+    },
+    {
+      "start": 53.78,
+      "end": 55.78,
+      "text": "ChatGPT does not."
+    },
+    {
+      "start": 55.78,
+      "end": 59.78,
+      "text": "It's going to pull from Bing API and it's going to pull from pre-trained data."
+    },
+    {
+      "start": 59.78,
+      "end": 66.78,
+      "text": "This is up to 2023 and it can generate real-time search results."
+    },
+    {
+      "start": 66.78,
+      "end": 72.78,
+      "text": "But for those search results, it relies on Bing a little bit more than Google, though it does Google things also."
+    },
+    {
+      "start": 72.78,
+      "end": 76.78,
+      "text": "This means, of course, that recency is much more important to Google than it is to ChatGPT."
+    },
+    {
+      "start": 76.78,
+      "end": 79.78,
+      "text": "ChatGPT doesn't really care about recency."
+    },
+    {
+      "start": 79.78,
+      "end": 85.78,
+      "text": "It will often reference things that are years old as long as they're relevant to the question it's trying to answer."
+    },
+    {
+      "start": 85.78,
+      "end": 90.78,
+      "text": "Now, ChatGPT uses something that we're going to refer to as semantic similarity."
+    },
+    {
+      "start": 90.78,
+      "end": 93.78,
+      "text": "Google relies a lot on exact match keywords."
+    },
+    {
+      "start": 93.78,
+      "end": 100.78,
+      "text": "Google also relies on semantic similarity, but ChatGPT basically ignores exact match keywords entirely."
+    },
+    {
+      "start": 100.78,
+      "end": 106.78,
+      "text": "So what that means is when ChatGPT is reading all of the reviews about your business, which it will,"
+    },
+    {
+      "start": 106.78,
+      "end": 113.78,
+      "text": "to decide whether or not to recommend it, it's going to pay specific attention to what is being written in those reviews."
+    },
+    {
+      "start": 113.78,
+      "end": 120.78,
+      "text": "So reviews that mention similar things are much more likely to get that business recommended by ChatGPT, right?"
+    },
+    {
+      "start": 120.78,
+      "end": 125.78,
+      "text": "So ChatGPT isn't looking for best plumber in a review because that feels spammy."
+    },
+    {
+      "start": 125.78,
+      "end": 132.78,
+      "text": "ChatGPT knows instead to look for reviews that mention the plumber was fast or clean or well priced, things like that."
+    },
+    {
+      "start": 132.78,
+      "end": 136.78,
+      "text": "Now, of course, Google relies heavily on Google reviews."
+    },
+    {
+      "start": 136.78,
+      "end": 140.78,
+      "text": "ChatGPT will also look at the Google reviews and read all of them."
+    },
+    {
+      "start": 140.78,
+      "end": 146.78,
+      "text": "On top of that, it's going to read all of the reviews about your business on every site that it can find reviews."
+    },
+    {
+      "start": 146.78,
+      "end": 150.78,
+      "text": "Now, Google and ChatGPT, they're both looking for consistency of mentions."
+    },
+    {
+      "start": 150.78,
+      "end": 154.78,
+      "text": "This is what we refer to before as citations for Google."
+    },
+    {
+      "start": 154.78,
+      "end": 160.78,
+      "text": "ChatGPT is going to specifically look for brand mentions in very high trust environments."
+    },
+    {
+      "start": 160.78,
+      "end": 162.78,
+      "text": "Reddit, local news, forums, Quora, next door."
+    },
+    {
+      "start": 162.78,
+      "end": 164.78,
+      "text": "So this is different, right?"
+    },
+    {
+      "start": 164.78,
+      "end": 171.78,
+      "text": "For this to work for Google, you would need these high trust environments to actually link to your website."
+    },
+    {
+      "start": 171.78,
+      "end": 175.78,
+      "text": "But for ChatGPT optimization, we don't need them to link to our website."
+    },
+    {
+      "start": 175.78,
+      "end": 178.78,
+      "text": "We just need them to mention the business name."
+    },
+    {
+      "start": 178.78,
+      "end": 182.78,
+      "text": "That's what ChatGPT is looking for, business name mentions."
+    },
+    {
+      "start": 182.78,
+      "end": 183.78,
+      "text": "That's very different."
+    },
+    {
+      "start": 183.78,
+      "end": 185.78,
+      "text": "Now, let's talk about schema."
+    },
+    {
+      "start": 185.78,
+      "end": 186.78,
+      "text": "Schema is important to Google."
+    },
+    {
+      "start": 186.78,
+      "end": 189.78,
+      "text": "It is even more important to ChatGPT."
+    },
+    {
+      "start": 189.78,
+      "end": 196.78,
+      "text": "So ChatGPT is much more likely to cite your business or your client's business as a source"
+    },
+    {
+      "start": 196.78,
+      "end": 200.78,
+      "text": "if you're using local business schema, Epicuse schema,"
+    },
+    {
+      "start": 200.78,
+      "end": 206.78,
+      "text": "and you have very clear answers to service-related questions which you can and should embed in the schema."
+    },
+    {
+      "start": 206.78,
+      "end": 210.78,
+      "text": "We'll talk more about this when we break down schema in a future lesson."
+    },
+    {
+      "start": 210.78,
+      "end": 218.78,
+      "text": "So in short, just the 30,000-foot view, Google ranks websites where as ChatGPT recommends businesses."
+    },
+    {
+      "start": 218.78,
+      "end": 224.78,
+      "text": "Now, it is important to note that if Google is ranking your website high, that is a trust factor for ChatGPT."
+    },
+    {
+      "start": 224.78,
+      "end": 231.78,
+      "text": "So ChatGPT is most likely to recommend businesses that are ranking well on Google."
+    },
+    {
+      "start": 231.78,
+      "end": 238.78,
+      "text": "And even better, most of what works to rank on Google will also work to get ChatGPT to recognize and recommend your businesses."
+    },
+    {
+      "start": 238.78,
+      "end": 245.78,
+      "text": "There are just a few key differences, a few additions that you might want to consider to get ChatGPT to recommend your business."
+    },
+    {
+      "start": 245.78,
+      "end": 247.78,
+      "text": "That's what we're going to cover here."
+    }
+  ],
+  "transcript_text": "So let's start by talking about how ChatGPT actually makes its recommendations. Alright, so fundamentally, ChatGPT basically has the same problem and the same goal that Google solved 25 years ago. That problem is how do we determine if a third-party website is trustworthy based only on information we can find on the internet. And the goal is to keep users engaged with their platform. Google wants to keep you as long as possible on Google and properties. ChatGPT wants to keep you chatting with ChatGPT. Neither one cares anything about who you are and they're not trying to figure that out. They're only trying to figure out whether there are enough other sources that they do trust agree that you or your business is legit. So that's our goal. Now, big differences of course, Google crawls the internet. ChatGPT does not. It's going to pull from Bing API and it's going to pull from pre-trained data. This is up to 2023 and it can generate real-time search results. But for those search results, it relies on Bing a little bit more than Google, though it does Google things also. This means, of course, that recency is much more important to Google than it is to ChatGPT. ChatGPT doesn't really care about recency. It will often reference things that are years old as long as they're relevant to the question it's trying to answer. Now, ChatGPT uses something that we're going to refer to as semantic similarity. Google relies a lot on exact match keywords. Google also relies on semantic similarity, but ChatGPT basically ignores exact match keywords entirely. So what that means is when ChatGPT is reading all of the reviews about your business, which it will, to decide whether or not to recommend it, it's going to pay specific attention to what is being written in those reviews. So reviews that mention similar things are much more likely to get that business recommended by ChatGPT, right? So ChatGPT isn't looking for best plumber in a review because that feels spammy. ChatGPT knows instead to look for reviews that mention the plumber was fast or clean or well priced, things like that. Now, of course, Google relies heavily on Google reviews. ChatGPT will also look at the Google reviews and read all of them. On top of that, it's going to read all of the reviews about your business on every site that it can find reviews. Now, Google and ChatGPT, they're both looking for consistency of mentions. This is what we refer to before as citations for Google. ChatGPT is going to specifically look for brand mentions in very high trust environments. Reddit, local news, forums, Quora, next door. So this is different, right? For this to work for Google, you would need these high trust environments to actually link to your website. But for ChatGPT optimization, we don't need them to link to our website. We just need them to mention the business name. That's what ChatGPT is looking for, business name mentions. That's very different. Now, let's talk about schema. Schema is important to Google. It is even more important to ChatGPT. So ChatGPT is much more likely to cite your business or your client's business as a source if you're using local business schema, Epicuse schema, and you have very clear answers to service-related questions which you can and should embed in the schema. We'll talk more about this when we break down schema in a future lesson. So in short, just the 30,000-foot view, Google ranks websites where as ChatGPT recommends businesses. Now, it is important to note that if Google is ranking your website high, that is a trust factor for ChatGPT. So ChatGPT is most likely to recommend businesses that are ranking well on Google. And even better, most of what works to rank on Google will also work to get ChatGPT to recognize and recommend your businesses. There are just a few key differences, a few additions that you might want to consider to get ChatGPT to recommend your business. That's what we're going to cover here.",
   "summary": "",
   "key_points": [],
   "tags": []

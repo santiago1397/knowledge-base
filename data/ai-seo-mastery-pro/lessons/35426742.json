@@ -7,8 +7,284 @@
   "video_url": "https://www.loom.com/share/e673bb8862d5497281f8f3110d74f080?hide_owner=true&hide_share=true&hide_title=true&hideEmbedTopBar=true",
   "video_file": "35426742_setting-up-claude-projects [e673bb8862d5497281f8f3110d74f080].mp4",
   "content_md": "# Setting Up Claude Projects\n\n- Code: 35426742\n- Source: https://www.skool.com/ai-seo-mastery-pro/classroom/63a81f62?md=354267429e0640d9b260890f16716b8d\n- Video: https://www.loom.com/share/e673bb8862d5497281f8f3110d74f080?hide_owner=true&hide_share=true&hide_title=true&hideEmbedTopBar=true\n- Duration: 3m 33s\n\n## Description\n\n_(no description)_\n",
-  "transcript": [],
-  "transcript_text": "",
+  "transcript": [
+    {
+      "start": 0.34,
+      "end": 8.1,
+      "text": "Okay, so this is the inside of the cloud workspace for my agency and for our copywriters."
+    },
+    {
+      "start": 8.1,
+      "end": 11.9,
+      "text": "This is the exact one that we actually use on a regular basis."
+    },
+    {
+      "start": 11.9,
+      "end": 14.32,
+      "text": "Let me show you how to set up the cloud projects."
+    },
+    {
+      "start": 14.32,
+      "end": 18.34,
+      "text": "So on the left rail, I can just click on projects and you can see that I have one set up for"
+    },
+    {
+      "start": 18.34,
+      "end": 22.9,
+      "text": "the supporting content, category, service page, neighborhood page outlines."
+    },
+    {
+      "start": 22.9,
+      "end": 26.02,
+      "text": "And below that I have a bunch set up for individual clients."
+    },
+    {
+      "start": 26.02,
+      "end": 27.94,
+      "text": "But let me give you an idea of how these are set up."
+    },
+    {
+      "start": 27.94,
+      "end": 32.22,
+      "text": "So I'm going to hit neighborhood page and you would hit new project to create this."
+    },
+    {
+      "start": 32.22,
+      "end": 36.42,
+      "text": "And then in the instructions here, you can see these instructions are exactly what's"
+    },
+    {
+      "start": 36.42,
+      "end": 40.1,
+      "text": "in the copywriter instruction sheet, no difference."
+    },
+    {
+      "start": 40.1,
+      "end": 44.7,
+      "text": "And what we'll look at, like if I open a random one here, you can see that the copywriter"
+    },
+    {
+      "start": 44.7,
+      "end": 52.5,
+      "text": "will give the necessary inputs and cloud will then go and create the outline."
+    },
+    {
+      "start": 52.5,
+      "end": 56.58,
+      "text": "And I'll hit retry because the artifact was removed, no problem."
+    },
+    {
+      "start": 56.58,
+      "end": 61.74,
+      "text": "So we'll just have it regenerate this outline and I'll pause the recording while it's doing"
+    },
+    {
+      "start": 61.74,
+      "end": 62.74,
+      "text": "that."
+    },
+    {
+      "start": 62.74,
+      "end": 63.74,
+      "text": "Great."
+    },
+    {
+      "start": 63.74,
+      "end": 66.5,
+      "text": "I just found it in a different chat, but no problem."
+    },
+    {
+      "start": 66.5,
+      "end": 69.02,
+      "text": "Here's what that outline looks like when it's done with it."
+    },
+    {
+      "start": 69.02,
+      "end": 72.5,
+      "text": "So once we're done with this and we're happy with this, we can copy this."
+    },
+    {
+      "start": 72.5,
+      "end": 73.82,
+      "text": "So I'll just hit copy."
+    },
+    {
+      "start": 73.82,
+      "end": 78.98,
+      "text": "And then we're going to go back to the overall projects."
+    },
+    {
+      "start": 78.98,
+      "end": 84.3,
+      "text": "And now we're going to go into the actual client folder or the client project."
+    },
+    {
+      "start": 84.3,
+      "end": 88.14,
+      "text": "And what we have here, they're all going to have this little file."
+    },
+    {
+      "start": 88.14,
+      "end": 92.02,
+      "text": "And let me put this information in the training so you have it."
+    },
+    {
+      "start": 92.02,
+      "end": 97.46,
+      "text": "But it's just telling Claude how to handle the keyword meta information."
+    },
+    {
+      "start": 97.46,
+      "end": 100.38,
+      "text": "And then we have the prompt to actually write local content."
+    },
+    {
+      "start": 100.38,
+      "end": 104.62,
+      "text": "And this prompt is, again, exactly the one that's in the copywriter instructions."
+    },
+    {
+      "start": 104.62,
+      "end": 109.1,
+      "text": "The difference is at the bottom, so this is the last line in the copywriter instructions."
+    },
+    {
+      "start": 109.1,
+      "end": 113.04,
+      "text": "And you can see that now we're going to put in that, hey, this has multiple locations."
+    },
+    {
+      "start": 113.04,
+      "end": 116.92,
+      "text": "So I'm going to put the GBP information for each one."
+    },
+    {
+      "start": 116.92,
+      "end": 121.44,
+      "text": "If it doesn't have multiple locations, clearly leave this line out, but still put the GBP"
+    },
+    {
+      "start": 121.44,
+      "end": 122.44,
+      "text": "information."
+    },
+    {
+      "start": 122.44,
+      "end": 124.72,
+      "text": "Claude needs to know who they are."
+    },
+    {
+      "start": 124.72,
+      "end": 127.08,
+      "text": "And yeah, so this is the GBP information."
+    },
+    {
+      "start": 127.08,
+      "end": 130.56,
+      "text": "So we have the primary, secondary categories, all the services."
+    },
+    {
+      "start": 130.56,
+      "end": 134.44,
+      "text": "Again, we want Claude to have all this necessary information."
+    },
+    {
+      "start": 134.44,
+      "end": 136.72,
+      "text": "Then we have more information about this client."
+    },
+    {
+      "start": 136.72,
+      "end": 140.96,
+      "text": "This is basically copy pasted from their about page."
+    },
+    {
+      "start": 140.96,
+      "end": 145.36,
+      "text": "And then we've had some feedback from the client on different things that have been"
+    },
+    {
+      "start": 145.36,
+      "end": 149.36,
+      "text": "mentioned, air duct cleaning, truck mounted air duct cleaning, NAIT certification."
+    },
+    {
+      "start": 149.36,
+      "end": 153.36,
+      "text": "So anything that the client gives us back, any feedback they give us, we'll just put"
+    },
+    {
+      "start": 153.36,
+      "end": 158.0,
+      "text": "in this project instructions, and they'll grow over time as the client gives us feedback."
+    },
+    {
+      "start": 158.0,
+      "end": 163.96,
+      "text": "If the client gives very detailed feedback, like for specific content and what they changed"
+    },
+    {
+      "start": 163.96,
+      "end": 170.56,
+      "text": "exactly, then what we'll often do is give that before and after, hey, here's what we"
+    },
+    {
+      "start": 170.56,
+      "end": 175.44,
+      "text": "initially gave the content, here's the changes they made, we'll upload those in files."
+    },
+    {
+      "start": 175.44,
+      "end": 180.16,
+      "text": "So that Claude has, hey, here's what we initially gave the client, and here's the final edited"
+    },
+    {
+      "start": 180.16,
+      "end": 184.2,
+      "text": "version that the client gave us back because the client didn't like the first version."
+    },
+    {
+      "start": 184.2,
+      "end": 189.08,
+      "text": "And then we'll add a line down here, please write in the style of the after pages in the"
+    },
+    {
+      "start": 189.08,
+      "end": 191.16,
+      "text": "files, something like that."
+    },
+    {
+      "start": 191.16,
+      "end": 194.76,
+      "text": "And that just keeps going like that, and it gets more and more involved."
+    },
+    {
+      "start": 194.76,
+      "end": 198.32,
+      "text": "So you can see the projects that we have, we have one for each of the different types"
+    },
+    {
+      "start": 198.32,
+      "end": 201.76,
+      "text": "of outlines, then we have one for each of the different clients."
+    },
+    {
+      "start": 201.76,
+      "end": 204.52,
+      "text": "So that's how we're running the Claude projects here."
+    },
+    {
+      "start": 204.52,
+      "end": 208.44,
+      "text": "So the actual setup, when we get a new client, it only takes a couple of minutes, we just"
+    },
+    {
+      "start": 208.44,
+      "end": 213.12,
+      "text": "have to create the new Claude project for that specific client, and we're good to go."
+    }
+  ],
+  "transcript_text": "Okay, so this is the inside of the cloud workspace for my agency and for our copywriters. This is the exact one that we actually use on a regular basis. Let me show you how to set up the cloud projects. So on the left rail, I can just click on projects and you can see that I have one set up for the supporting content, category, service page, neighborhood page outlines. And below that I have a bunch set up for individual clients. But let me give you an idea of how these are set up. So I'm going to hit neighborhood page and you would hit new project to create this. And then in the instructions here, you can see these instructions are exactly what's in the copywriter instruction sheet, no difference. And what we'll look at, like if I open a random one here, you can see that the copywriter will give the necessary inputs and cloud will then go and create the outline. And I'll hit retry because the artifact was removed, no problem. So we'll just have it regenerate this outline and I'll pause the recording while it's doing that. Great. I just found it in a different chat, but no problem. Here's what that outline looks like when it's done with it. So once we're done with this and we're happy with this, we can copy this. So I'll just hit copy. And then we're going to go back to the overall projects. And now we're going to go into the actual client folder or the client project. And what we have here, they're all going to have this little file. And let me put this information in the training so you have it. But it's just telling Claude how to handle the keyword meta information. And then we have the prompt to actually write local content. And this prompt is, again, exactly the one that's in the copywriter instructions. The difference is at the bottom, so this is the last line in the copywriter instructions. And you can see that now we're going to put in that, hey, this has multiple locations. So I'm going to put the GBP information for each one. If it doesn't have multiple locations, clearly leave this line out, but still put the GBP information. Claude needs to know who they are. And yeah, so this is the GBP information. So we have the primary, secondary categories, all the services. Again, we want Claude to have all this necessary information. Then we have more information about this client. This is basically copy pasted from their about page. And then we've had some feedback from the client on different things that have been mentioned, air duct cleaning, truck mounted air duct cleaning, NAIT certification. So anything that the client gives us back, any feedback they give us, we'll just put in this project instructions, and they'll grow over time as the client gives us feedback. If the client gives very detailed feedback, like for specific content and what they changed exactly, then what we'll often do is give that before and after, hey, here's what we initially gave the content, here's the changes they made, we'll upload those in files. So that Claude has, hey, here's what we initially gave the client, and here's the final edited version that the client gave us back because the client didn't like the first version. And then we'll add a line down here, please write in the style of the after pages in the files, something like that. And that just keeps going like that, and it gets more and more involved. So you can see the projects that we have, we have one for each of the different types of outlines, then we have one for each of the different clients. So that's how we're running the Claude projects here. So the actual setup, when we get a new client, it only takes a couple of minutes, we just have to create the new Claude project for that specific client, and we're good to go.",
   "summary": "",
   "key_points": [],
   "tags": []

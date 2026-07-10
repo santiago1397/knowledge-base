@@ -1,0 +1,366 @@
+{
+  "course": "ai-seo-mastery-pro",
+  "code": "654574fd",
+  "title": "Keyword Research Philosophy",
+  "duration": "5m19s",
+  "source_url": "https://www.skool.com/ai-seo-mastery-pro/classroom/63a81f62?md=654574fd19ee4cb09f9ced8ec19a34b0",
+  "video_url": "https://www.loom.com/share/c1972e7cc4894472b4bd7a26c562d9a3?sid=87e65a67-446e-4ffe-85db-ba5bac93ef71?hide_owner=true&hide_share=true&hide_title=true&hideEmbedTopBar=true",
+  "video_file": "654574fd_keyword-research-philosophy [c1972e7cc4894472b4bd7a26c562d9a3].mp4",
+  "content_md": "# Keyword Research Philosophy\n\n- Code: 654574fd\n- Source: https://www.skool.com/ai-seo-mastery-pro/classroom/63a81f62?md=654574fd19ee4cb09f9ced8ec19a34b0\n- Video: https://www.loom.com/share/c1972e7cc4894472b4bd7a26c562d9a3?sid=87e65a67-446e-4ffe-85db-ba5bac93ef71?hide_owner=true&hide_share=true&hide_title=true&hideEmbedTopBar=true\n- Duration: 5m 19s\n\n## Description\n\n_(no description)_\n",
+  "transcript": [
+    {
+      "start": 0.37,
+      "end": 5.01,
+      "text": "All right, so let's talk about keyword research now to be honest keyword research before"
+    },
+    {
+      "start": 5.73,
+      "end": 11.47,
+      "text": "ChatGPT before some Google algorithm updates keyword research was a lot more important than it is now"
+    },
+    {
+      "start": 11.89,
+      "end": 14.85,
+      "text": "Typically now we don't spend a huge amount of time on it"
+    },
+    {
+      "start": 15.13,
+      "end": 18.75,
+      "text": "Again, we have chatGPT to help us and we'll go through those prompts"
+    },
+    {
+      "start": 18.85,
+      "end": 23.61,
+      "text": "But arguably even more importantly the prevalence of topical authority"
+    },
+    {
+      "start": 24.13,
+      "end": 27.31,
+      "text": "Topical prevalence is becoming more and more important in Google's algorithm"
+    },
+    {
+      "start": 27.31,
+      "end": 32.99,
+      "text": "So keyword research is less important than it used to be but it's we still something that we focus on okay, so"
+    },
+    {
+      "start": 34.03,
+      "end": 36.03,
+      "text": "keyword research"
+    },
+    {
+      "start": 36.87,
+      "end": 38.87,
+      "text": "The first thing that we want to do is"
+    },
+    {
+      "start": 39.55,
+      "end": 42.51,
+      "text": "Figure out what keywords we can rank for"
+    },
+    {
+      "start": 43.99,
+      "end": 51.03,
+      "text": "Especially if it's a site that's not currently receiving any traffic for non-branded keywords, right? We don't really care about branded keywords"
+    },
+    {
+      "start": 51.03,
+      "end": 52.71,
+      "text": "It's easy to rank for branded keywords"
+    },
+    {
+      "start": 52.71,
+      "end": 57.15,
+      "text": "So when we're looking at a site we want to focus on how much traffic are they getting from non-branded keywords"
+    },
+    {
+      "start": 57.15,
+      "end": 64.23,
+      "text": "And if that number is very small, then we're going to focus on just getting them some traffic from keywords that they can actually rank for"
+    },
+    {
+      "start": 64.67,
+      "end": 71.63,
+      "text": "We also want to make sure that we keep in our head that we want to build topical authority by selecting relevant keywords for"
+    },
+    {
+      "start": 71.67,
+      "end": 74.83,
+      "text": "Topical authority not always something that we used to do"
+    },
+    {
+      "start": 75.55,
+      "end": 79.51,
+      "text": "Sometimes we'll ask our clients if they have any specific keywords in mind"
+    },
+    {
+      "start": 79.95,
+      "end": 84.59,
+      "text": "Well, I shouldn't say sometimes we always ask our clients if they have any specific keywords in mind"
+    },
+    {
+      "start": 84.87,
+      "end": 90.83,
+      "text": "But they're always almost always going to give us keywords that they don't have any chance at all in ranking for like"
+    },
+    {
+      "start": 90.83,
+      "end": 95.67,
+      "text": "they'll have a site that has a domain rating of five and they'll give us a bunch of keywords that they want to rank for and"
+    },
+    {
+      "start": 96.07,
+      "end": 99.15,
+      "text": "To rank for any of them. They would need a domain rating of like 80, right?"
+    },
+    {
+      "start": 99.15,
+      "end": 101.67,
+      "text": "And they they're not spending millions of dollars. So"
+    },
+    {
+      "start": 102.67,
+      "end": 104.67,
+      "text": "Most of the time when clients give us"
+    },
+    {
+      "start": 105.19,
+      "end": 107.35,
+      "text": "Suggestions that they're just way too competitive"
+    },
+    {
+      "start": 107.35,
+      "end": 111.71,
+      "text": "so what we have to do is to bring them some traffic is"
+    },
+    {
+      "start": 112.03,
+      "end": 118.39,
+      "text": "Find keywords that are less competitive and gradually build that authority relevance domain ratings so that we can snowball"
+    },
+    {
+      "start": 118.83,
+      "end": 123.83,
+      "text": "Their ranking. Okay. Okay, so this is an important point when we are"
+    },
+    {
+      "start": 124.07,
+      "end": 130.67,
+      "text": "Optimizing an article when we're writing an article when we're using page optimizer pro when we're using it as part of our topical relevance"
+    },
+    {
+      "start": 130.71,
+      "end": 134.03,
+      "text": "Each URL gets one target keyword, right?"
+    },
+    {
+      "start": 134.03,
+      "end": 137.87,
+      "text": "We cannot optimize a URL effectively for more than one keyword"
+    },
+    {
+      "start": 137.99,
+      "end": 143.91,
+      "text": "So do not try to optimize a URL for two or three or four keywords you get to choose one"
+    },
+    {
+      "start": 144.11,
+      "end": 149.27,
+      "text": "Okay, and I know that can be hard, but that's it. You just choose one keyword for one URL"
+    },
+    {
+      "start": 149.71,
+      "end": 155.87,
+      "text": "So when we're looking at keyword research, we clearly want to find in an ideal world"
+    },
+    {
+      "start": 155.95,
+      "end": 161.95,
+      "text": "High volume low competition keywords now volume and competition are obviously both relevant to your client"
+    },
+    {
+      "start": 161.95,
+      "end": 167.47,
+      "text": "I have a client who currently gets 20 or 30 clicks a month from Google search console"
+    },
+    {
+      "start": 167.47,
+      "end": 172.79,
+      "text": "Which they're incredibly happy about because each client is worth 50 to $60,000 form"
+    },
+    {
+      "start": 172.79,
+      "end": 177.23,
+      "text": "So they're in a very very small search volume niche 50 or 60 clicks a month is huge"
+    },
+    {
+      "start": 177.51,
+      "end": 180.55,
+      "text": "And then I have other clients who you know"
+    },
+    {
+      "start": 181.87,
+      "end": 184.43,
+      "text": "10,000 clicks a month is a round off error and"
+    },
+    {
+      "start": 185.39,
+      "end": 190.23,
+      "text": "This is important and we'll talk about how to write AI content effectively"
+    },
+    {
+      "start": 190.23,
+      "end": 193.35,
+      "text": "But the important thing to keep in mind is that it's inexpensive"
+    },
+    {
+      "start": 193.67,
+      "end": 196.71,
+      "text": "To write AI content content used to be expensive"
+    },
+    {
+      "start": 196.71,
+      "end": 202.91,
+      "text": "So we would focus a lot on prioritizing which keywords are actually trying to rank for but now content is very inexpensive"
+    },
+    {
+      "start": 203.19,
+      "end": 208.35,
+      "text": "So generally, we're just going to do all of them. Okay, there's no reason to like, you know"
+    },
+    {
+      "start": 208.75,
+      "end": 213.03,
+      "text": "Stress out over which ones we should go for first. We'll just do all of them content is cheap"
+    },
+    {
+      "start": 213.75,
+      "end": 218.95,
+      "text": "I will say yes, we're going to choose one keyword and optimize for it"
+    },
+    {
+      "start": 219.07,
+      "end": 221.07,
+      "text": "But we're going to"
+    },
+    {
+      "start": 221.07,
+      "end": 225.39,
+      "text": "Rank for a variety of similar keywords, even if you've only optimized for one"
+    },
+    {
+      "start": 225.43,
+      "end": 229.59,
+      "text": "So the clear example of that of course personal injury lawyer and personal injury attorney"
+    },
+    {
+      "start": 229.59,
+      "end": 234.23,
+      "text": "You'll generally find those two terms have almost the same search results"
+    },
+    {
+      "start": 234.23,
+      "end": 236.23,
+      "text": "And if you rank for one, you'll rank for the other"
+    },
+    {
+      "start": 236.79,
+      "end": 240.43,
+      "text": "So what we need to do is identify these similar queries"
+    },
+    {
+      "start": 240.43,
+      "end": 246.19,
+      "text": "Otherwise our keyword search volume is going to be way off to go back to this personal injury lawyer and personal injury attorney"
+    },
+    {
+      "start": 246.75,
+      "end": 249.39,
+      "text": "Personal the search volume for those two"
+    },
+    {
+      "start": 249.39,
+      "end": 254.75,
+      "text": "We should be adding them when we're looking at that keyword because we know we're going to rank for both of them"
+    },
+    {
+      "start": 254.75,
+      "end": 259.95,
+      "text": "If we rank for one of them, so we're going to optimize the one that has the higher search volume"
+    },
+    {
+      "start": 259.95,
+      "end": 263.23,
+      "text": "We're almost always going to optimize around the one that has the higher search volume"
+    },
+    {
+      "start": 263.51,
+      "end": 266.31,
+      "text": "But we know that will probably rank for both of them"
+    },
+    {
+      "start": 266.31,
+      "end": 268.31,
+      "text": "So we want to add the search volume together"
+    },
+    {
+      "start": 268.71,
+      "end": 273.31,
+      "text": "To correctly identify how much search volume we're targeting with that keyword"
+    },
+    {
+      "start": 273.39,
+      "end": 279.03,
+      "text": "Okay, and any time we want to see if Google sees two different keywords as similar"
+    },
+    {
+      "start": 279.07,
+      "end": 283.67,
+      "text": "Just type them into Google if the search results are very very similar then we know Google sees them as similar"
+    },
+    {
+      "start": 283.83,
+      "end": 287.91,
+      "text": "So we add all these search volumes up of these very similar keywords"
+    },
+    {
+      "start": 287.91,
+      "end": 293.35,
+      "text": "Then we do a weighted average of the difficulty if we didn't do that then we would end up with"
+    },
+    {
+      "start": 293.59,
+      "end": 297.51,
+      "text": "Lower estimated volumes that we're actually going for but again"
+    },
+    {
+      "start": 297.87,
+      "end": 304.35,
+      "text": "This used to be something we would spend four or five hours on we don't anymore content is so inexpensive"
+    },
+    {
+      "start": 305.95,
+      "end": 309.11,
+      "text": "Really when we're looking at keyword research, we just want to get a broad"
+    },
+    {
+      "start": 310.47,
+      "end": 311.75,
+      "text": "broad"
+    },
+    {
+      "start": 311.75,
+      "end": 314.63,
+      "text": "ideas for keywords with some AI prompts and"
+    },
+    {
+      "start": 315.07,
+      "end": 319.63,
+      "text": "Leverage that along with topical relevance to find the content targets. We're going to write about"
+    }
+  ],
+  "transcript_text": "All right, so let's talk about keyword research now to be honest keyword research before ChatGPT before some Google algorithm updates keyword research was a lot more important than it is now Typically now we don't spend a huge amount of time on it Again, we have chatGPT to help us and we'll go through those prompts But arguably even more importantly the prevalence of topical authority Topical prevalence is becoming more and more important in Google's algorithm So keyword research is less important than it used to be but it's we still something that we focus on okay, so keyword research The first thing that we want to do is Figure out what keywords we can rank for Especially if it's a site that's not currently receiving any traffic for non-branded keywords, right? We don't really care about branded keywords It's easy to rank for branded keywords So when we're looking at a site we want to focus on how much traffic are they getting from non-branded keywords And if that number is very small, then we're going to focus on just getting them some traffic from keywords that they can actually rank for We also want to make sure that we keep in our head that we want to build topical authority by selecting relevant keywords for Topical authority not always something that we used to do Sometimes we'll ask our clients if they have any specific keywords in mind Well, I shouldn't say sometimes we always ask our clients if they have any specific keywords in mind But they're always almost always going to give us keywords that they don't have any chance at all in ranking for like they'll have a site that has a domain rating of five and they'll give us a bunch of keywords that they want to rank for and To rank for any of them. They would need a domain rating of like 80, right? And they they're not spending millions of dollars. So Most of the time when clients give us Suggestions that they're just way too competitive so what we have to do is to bring them some traffic is Find keywords that are less competitive and gradually build that authority relevance domain ratings so that we can snowball Their ranking. Okay. Okay, so this is an important point when we are Optimizing an article when we're writing an article when we're using page optimizer pro when we're using it as part of our topical relevance Each URL gets one target keyword, right? We cannot optimize a URL effectively for more than one keyword So do not try to optimize a URL for two or three or four keywords you get to choose one Okay, and I know that can be hard, but that's it. You just choose one keyword for one URL So when we're looking at keyword research, we clearly want to find in an ideal world High volume low competition keywords now volume and competition are obviously both relevant to your client I have a client who currently gets 20 or 30 clicks a month from Google search console Which they're incredibly happy about because each client is worth 50 to $60,000 form So they're in a very very small search volume niche 50 or 60 clicks a month is huge And then I have other clients who you know 10,000 clicks a month is a round off error and This is important and we'll talk about how to write AI content effectively But the important thing to keep in mind is that it's inexpensive To write AI content content used to be expensive So we would focus a lot on prioritizing which keywords are actually trying to rank for but now content is very inexpensive So generally, we're just going to do all of them. Okay, there's no reason to like, you know Stress out over which ones we should go for first. We'll just do all of them content is cheap I will say yes, we're going to choose one keyword and optimize for it But we're going to Rank for a variety of similar keywords, even if you've only optimized for one So the clear example of that of course personal injury lawyer and personal injury attorney You'll generally find those two terms have almost the same search results And if you rank for one, you'll rank for the other So what we need to do is identify these similar queries Otherwise our keyword search volume is going to be way off to go back to this personal injury lawyer and personal injury attorney Personal the search volume for those two We should be adding them when we're looking at that keyword because we know we're going to rank for both of them If we rank for one of them, so we're going to optimize the one that has the higher search volume We're almost always going to optimize around the one that has the higher search volume But we know that will probably rank for both of them So we want to add the search volume together To correctly identify how much search volume we're targeting with that keyword Okay, and any time we want to see if Google sees two different keywords as similar Just type them into Google if the search results are very very similar then we know Google sees them as similar So we add all these search volumes up of these very similar keywords Then we do a weighted average of the difficulty if we didn't do that then we would end up with Lower estimated volumes that we're actually going for but again This used to be something we would spend four or five hours on we don't anymore content is so inexpensive Really when we're looking at keyword research, we just want to get a broad broad ideas for keywords with some AI prompts and Leverage that along with topical relevance to find the content targets. We're going to write about",
+  "summary": "",
+  "key_points": [],
+  "tags": []
+}
