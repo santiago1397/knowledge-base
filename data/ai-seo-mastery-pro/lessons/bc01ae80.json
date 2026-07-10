@@ -175,7 +175,20 @@
     }
   ],
   "transcript_text": "Okay, so here is what the content brief looks like. This is what we give the copywriters so they know exactly what they're going to write So when we give it to them the copywriter manager is going to put the URL in here If it's a new page and most of them are new pages, then we're going to pre-fill in what we want the final live URL to be Generally, the URL structure is not super important. Don't spend a huge amount of time on this Usually we're going to try to minimize the number of folders keep it flash Keep the structure flat use dashes instead of folders and we want the target keyword in the URL Then we have the target keyword What target keyword is the content being written for made a title made a description are going to be left blank the content writer Will fill that in and zero GPT score will also we left blank the copywriter will fill that in now We have a blank content brief for every single client what that lets us do is put the client GVP information in here So we have their business name primary category address phone number and a link to the GVP This is helpful both for the content writers and for future steps of this process So I would highly encourage you to do this. This basically means that we have a blank content brief for every single client I know it doesn't seem like a lot to copy paste information for each client into this copy brief into the content brief But if it takes one or two minutes and you're producing 100 articles a month, that's two hours of time Okay, so we just have a blank sheet for every single client where we have this information filled in there are two here This particular client was multi location. So for a multi location client We're just going to put every one of their GVPs information in here So we can copy this delete it if it delete one of these if it's not multi location But I don't want a blank content brief for every single location I just want one for every single client in terms of which location this content is for That will be made very clear based on the target keyword Remember the target keyword will almost always have the city name in it. So which GVP we're writing for will be very clear Based on that. Okay, and then the content brief itself. We're going to repeat what client again This is prefilled for the blank ones. Then we're going to put the page type is a neighborhood content supporting content a category content service content, whatever it happens to be Then we have the due date. That's assigned when the copywriter is assigned to the task any specific notes And then we're going to add the internal links that we want the content to Have this will also be done by the copywriter manager When this is filled out before it's given to the copywriter Then the copywriter will go through the copywriting process and paste the finalized content in here And they'll update made a title made a description and zero gpt score Everything else will already be filled in for the copywriter to have the necessary information they need",
-  "summary": "",
-  "key_points": [],
-  "tags": []
+  "summary": "This lesson explains how to create a content brief for copywriters, including pre-filling URLs and client information. The brief helps ensure consistency and clarity in the writing process.",
+  "key_points": [
+    "Pre-fill URLs and client info",
+    "Use flat URL structure with dashes",
+    "Repeat client name and page type",
+    "Include due date and internal links"
+  ],
+  "tags": [
+    "content brief",
+    "copywriting",
+    "seo",
+    "url structure",
+    "client information",
+    "internal linking",
+    "due dates"
+  ]
 }

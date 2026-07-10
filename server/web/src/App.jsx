@@ -7,6 +7,19 @@ import { api, chatStream } from "./api.js";
 const fmt = (s) =>
   s == null ? "" : `${Math.floor(s / 60)}:${String(Math.floor(s % 60)).padStart(2, "0")}`;
 
+// Lessons arrive already sorted (module_order, lesson_order). Collapse them into
+// consecutive module groups, preserving that order.
+function groupByModule(lessons) {
+  const groups = [];
+  for (const l of lessons) {
+    const title = l.module_title || "";
+    const last = groups[groups.length - 1];
+    if (last && last.title === title) last.items.push(l);
+    else groups.push({ title, items: [l] });
+  }
+  return groups;
+}
+
 export default function App() {
   const [authed, setAuthed] = useState(null); // null=loading
   useEffect(() => {
@@ -84,12 +97,17 @@ function Library() {
           <div className="muted">{r.text.slice(0, 160)}…</div>
         </div>
       ))
-    : lessons.map((l) => (
-        <div className="card" key={l.code}>
-          <Link to={`/lesson/${l.code}`}>{l.title}</Link>
-          {l.duration && <span className="muted"> · {l.duration}</span>}
-          <div>{(l.tags || []).map((t) => <span className="tag" key={t}>{t}</span>)}</div>
-        </div>
+    : groupByModule(lessons).map(({ title, items }) => (
+        <section key={title || "_"} className="module">
+          {title && <h3 className="module-title">{title}</h3>}
+          {items.map((l) => (
+            <div className="card" key={l.code}>
+              <Link to={`/lesson/${l.code}`}>{l.title}</Link>
+              {l.duration && <span className="muted"> · {l.duration}</span>}
+              <div>{(l.tags || []).map((t) => <span className="tag" key={t}>{t}</span>)}</div>
+            </div>
+          ))}
+        </section>
       ));
 
   return (
@@ -121,6 +139,7 @@ function Lesson() {
   return (
     <>
       <p><Link to="/">← Library</Link></p>
+      {l.module_title && <p className="muted">{l.module_title}</p>}
       <h2>{l.title} <span className="muted">{l.duration}</span></h2>
       {src && <video ref={video} src={src} controls onLoadedMetadata={onLoaded} />}
       {l.summary && <><h3>Summary</h3><p>{l.summary}</p></>}

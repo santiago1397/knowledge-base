@@ -265,7 +265,20 @@
     }
   ],
   "transcript_text": "So every month, every one of our clients, we do a Google News feature. It's basically a press release, but we make sure that where we're doing the press release is going to hit Google News. Hitting Google News is what's important about this. What we do, we send an email out, it's automated to every one of our clients every month and then basically just say, Hey, is there anything newsworthy that's happened in the past month? Now we also let them know of silly days to help them come up with something. For example, if there's a taco day or pancake day, and every month has days like this, we just have it in an AI prompt, which is below this to pull that list of silly days so that when we send the email to the clients, they can look at the list of silly days and be like, oh yeah, pancake day is coming up and let's announce that for pancake day. If you get your water heater replaced, we'll bring you a stack of pancakes or something like that if you do it on that day. So they don't really ever have to do anything with it, but it's just some silly thing to get their brand in the news on Google News every month. This is good for both Google ranking and it's good for being featured in AI systems. These mentions are valuable. They're not very expensive. PR Underground is the one that we use. I can show you the pricing. Obviously I'm not marketing this up. There's no affiliate link. It's a $75 per release and that's basically what we do. That's we don't do any of these other ones. It's really just we pay per release. I mean, we do have the premium package because per release, it ends up being less expensive, so it depends on how many clients you have, but you know, $75 per release if you have that. So the way you do it, basically you'll come into dashboard, you'll hit Add Newsroom, and then you'll fill out all of this information, upload a logo, fill out all of this. You'll, for the press contact, I'll usually put someone at my agency, not at the clients. Then, you know, there's social media accounts, images, et cetera. Okay, then you'll hit Save Newsroom. And once you have that, you're going to create release and it will give you a drop-down box where you select the newsroom. So I'm going to do that, but I'll pause the recording so you don't see our list of clients. All right, so I just selected myself. I've done, you know, press releases for myself, obviously. So yeah, so once you select that newsroom, yeah, you can fill in the publish date and then you'll just fill in these details, region, you know, we'll use United States, headline, excerpt, subheading, release text. I'll put the prompt that we use to have Claude help us write these for us. Then we can add a YouTube video if we want. We'll select some stuff, you know, we'll put the tags in there. And a lot of this is going to be pulled from the newsroom and then we'll just hit Save and Preview and go through and order it. So we do this in one of our clients. It helps both Google and AI rankings.",
-  "summary": "",
-  "key_points": [],
-  "tags": []
+  "summary": "This lesson explains how to create a monthly Google News feature for clients as a press release. The goal is to ensure that these releases are visible on Google News, which can improve SEO and brand visibility. Silly days are suggested to make the content more engaging.",
+  "key_points": [
+    "Automated email sent to clients",
+    "Use of silly days for ideas",
+    "PR Underground service used",
+    "Google News feature improves ranking"
+  ],
+  "tags": [
+    "google news",
+    "press release",
+    "seo",
+    "monthly feature",
+    "brand visibility",
+    "silly days",
+    "ai systems"
+  ]
 }

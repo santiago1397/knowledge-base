@@ -125,13 +125,14 @@ def courses(user_id: int = Depends(auth.current_user)):
 
 @app.get("/api/lessons")
 def lessons(course: str | None = None, user_id: int = Depends(auth.current_user)):
-    sql = ("SELECT l.code, l.title, l.duration, l.tags, c.slug AS course "
+    sql = ("SELECT l.code, l.title, l.duration, l.tags, "
+           "l.module_order, l.module_title, l.lesson_order, c.slug AS course "
            "FROM lessons l JOIN courses c ON c.id = l.course_id")
     params: list = []
     if course:
         sql += " WHERE c.slug = %s"
         params.append(course)
-    sql += " ORDER BY l.title"
+    sql += " ORDER BY l.module_order, l.lesson_order, l.title"
     with cursor() as cur:
         cur.execute(sql, params)
         cols = [d.name for d in cur.description]
@@ -144,7 +145,7 @@ def lesson_detail(code: str, user_id: int = Depends(auth.current_user)):
         cur.execute(
             "SELECT l.code, l.title, l.duration, l.source_url, l.video_url, "
             "l.video_file, l.summary, l.key_points, l.tags, l.content_md, "
-            "l.transcript, c.slug AS course "
+            "l.transcript, l.module_title, l.module_order, c.slug AS course "
             "FROM lessons l JOIN courses c ON c.id = l.course_id WHERE l.code=%s",
             (code,))
         row = cur.fetchone()

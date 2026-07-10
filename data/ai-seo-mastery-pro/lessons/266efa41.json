@@ -300,7 +300,21 @@
     }
   ],
   "transcript_text": "All right, so our process to have chat gpt right content for us is multi-stepped So the first thing we're going to do is generate something like this content planner now I will be clear this content planner in this format is rather Formal right so this would be something that we generate for a client We would not generate a document like this if we're using chat gpt But we are going to use a lot of the same information and we're just going to copy it somewhere A word doc something like that if we're using even if we're just using chat gpt ourselves So we're going to go ahead and type in the target search into Google That's how we start doing this because remember Google is an open book test So then we're going to open up the first few Pages that are actually ranking Because we want to mimic our content based on what's actually working. Okay? So these are the first few pages We're going to do a quick Word count on these pages. We can do that with page optimizer pro We can do it with other word count tools But we're basically just going to get the word count of these pages. That's already ranking so we can see We did that already at 1600 words now the overall content topic that we're going to base on What the topics are for the content that's already ranking so we can see it's talking about outdoor Oasis backyard of your of your dreams So that's where we came up with the motorized pergola functional luxury at the touch of a button Because motorized pergola is obviously a very luxury product. Okay? So recommend a title tag this Will we can actually blank we'll have chat gpt do that and that made a description same thing We'll do chat. We'll have chat gpt do that So these competitive h2h3h4 tags basically what we're going to do is Copy the h2 tags for our competition. So we're gonna copy that one. We're gonna copy that one We're gonna copy this one. We're gonna copy this one Go to this other one. I don't want notifications from you We're gonna copy that We're gonna copy this one. We're gonna copy this So functional luxury we're gonna copy that one. So here we're just getting an idea for what are the h2 h3 h4 tags That Google is currently rewarding. Okay, and then people also ask for that We're gonna come Back here, and we're going to see if we can find the people also ask section and sometimes it's not shown and When that happens, we're just gonna add FAQ and there's the people also also ask section So that's what we're looking for. We really want this people also ask section the reason you probably know These are questions that Google sees as highly highly relevant to this particular search query So we definitely want to grab it and clicking it open and closing it expands the section So I'm just gonna grab all of these we're gonna copy it and we're gonna paste it into this people also ask section Boom. All right, cool. Now search is related to that's gonna be at the bottom So we can copy some of those related searches Stop bouncing around there you go. So if we can copy some of these related searches Google image subtopics. This is another one that it's kind of weird, but it still works if we hit images in here We'll move the FAQ Images here are what we're looking for. These are the Google image subtopics Which again Google sees is highly relevant to this particular search query. Okay now keyword variations LSI keywords for those we're going to use page optimizer pro I'm not gonna show you that here I'm gonna show you that in the page optimizer pro video. So don't worry about these for now We don't actually need these to get chat GPT to write a quality article We'll add these in later after chat GPT has already written them Okay, and the authority outbound links the references the bio box internal links again all of that is more information for the client So that information What we collected target length? H2 tags people also ask section related searches and Google image subtopics as well as the overall content topic is What we need in order to get writing for chat GPT",
-  "summary": "",
-  "key_points": [],
-  "tags": []
+  "summary": "The lesson explains how to create a content planner by analyzing top-ranking pages for relevant keywords and structure. This helps in generating high-quality content using AI tools like ChatGPT.",
+  "key_points": [
+    "Analyze top-ranking Google pages",
+    "Copy H2, H3, H4 tags from competitors",
+    "Extract 'People also ask' section",
+    "Use word count for target length",
+    "Collect related searches and image subtopics"
+  ],
+  "tags": [
+    "content planning",
+    "seo",
+    "keyword analysis",
+    "competitor research",
+    "ai writing",
+    "google ranking",
+    "page optimization"
+  ]
 }

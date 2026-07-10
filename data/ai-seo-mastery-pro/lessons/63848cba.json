@@ -175,7 +175,22 @@
     }
   ],
   "transcript_text": "So what I'm going to show you here is a shortcut to establish EEAT with Google. What we've seen is a lot of our clients don't necessarily want their name on their website, depending on what field they're in, depending on what space they're in. And even if they're okay with their real name being on it, they don't necessarily want to go through the effort to create the authority with Google's algorithm that they would need to so that Google sees them as an authority. One thing that we did learn from the Google API leak that happened a month or so ago is that when an author name appears on a website, it looks like Google stores attributes about that author from what it has seen for that name across the internet. So we haven't actually used this trick. We've seen several of our client competitors use this trick. So I just wanted to share it with you guys so that you're aware of websites that do this. I don't necessarily recommend doing this because there's some risk involved, but I wanted to make you guys aware of this shortcut. So what we're going to do in this case, our client was in the CBD space and one of the competitors had a much, much lower domain rating and was just crushing them in terms of traffic. They're ranking much better across the board. Their byline on their page on their website was Anna Smith. So this is a very common technique. As I mentioned, you use an AI generated image. You use a generic author name and that used to work really well. It doesn't work so much anymore. But what's interesting about the name Anna Smith and you see I've searched for Anna Smith CBD. It's a generic enough name that there are a lot of Anna Smiths and many of them are associated with CBD. So we have Stanford Medicine, right? And this is an Instagram post CBD oils, Anna Charity Smith. We see Anna Smith, CEO, Hero Calls, Camomile CBD with Anna Smith there. Another Instagram, Google Scholar for Anna Smith, Anna Smith here on Springer. We have three different photos of three different women named Anna Smith, an ex. So the point here is what my clients competitor has done is used in a generic name. And I can tell you the photo on their website did not match any of these Anna Smiths. So they created a new Anna Smith using an AI generated image. And they chose the name Anna Smith to be consistent with the name that in Google's algorithm. There's already attributes stored about Anna Smith in the CBD space to shortcut toward that authority. So just be aware that there are websites out there that are taking this approach, not necessarily one that I would recommend. Again, you know, there's some ethical dilemmas of doing this, but just want to make you guys aware.",
-  "summary": "",
-  "key_points": [],
-  "tags": []
+  "summary": "This lesson explains an ethical shortcut to establish EEAT with Google by using a generic author name and AI-generated image. The technique involves choosing a common name associated with the field, like Anna Smith in CBD, and using an AI image that doesn't match any real person to shortcut towards authority.",
+  "key_points": [
+    "Use generic names for authors",
+    "Employ AI-generated images",
+    "Choose names relevant to the field",
+    "Avoid matching real people",
+    "Shortcut EEAT without personal branding"
+  ],
+  "tags": [
+    "ethics",
+    "seo",
+    "authorship",
+    "eeat",
+    "ai",
+    "google",
+    "authority",
+    "manipulation"
+  ]
 }

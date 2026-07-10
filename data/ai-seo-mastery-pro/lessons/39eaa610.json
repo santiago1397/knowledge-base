@@ -135,7 +135,19 @@
     }
   ],
   "transcript_text": "need to use level blades to mel. There's a way that you can do this manually. It involves using a pre-rendering service with Cloudflare. I am not a technical web developer. So if I were trying to do that, I would basically be using Claude to help guide me every step of the way to set that up. So I'm not going to guide you in terms of how to set that up manually. If you are not familiar with website development, the technical aspects of how to do it, Cloudflare through a pre-rendering service, I would suggest maybe finding someone on Upwork or post on the group and see if somebody else can help you. Or you can do what we simply do, which is this level blades to mel. It basically sets it up for you. It's a one click setup, very, very easy to use. And it is fairly inexpensive. Yeah, if I come to pricing, yeah, so it's $20 a month for three websites. That's, you know, $6.30 per website per month. So in my mind, it's not worth the effort to have someone else set this up for me if there's a tool that will do it at this price point. But you might make that determination differently, or you might decide to do it yourself. Cloudflare is free. A lot of pre-rendering services are free. That's how this can be so inexpensive, because they're basically setting up a free thing for you and then taking a long term monthly payment. So I'm not going to drop an affiliate link. I'm not affiliating for lovable HTML. This is really just the quickest possible way to get a lovable website so that Google can index it. If you just have it built, like this one, and even if I went into lovable, I could very easily put a custom domain in here, and then send it to the client and say, boom, here's your website, isn't it pretty? And they basically say, oh, my gosh, it's so pretty. I love it. But the challenge is, of course, Google can't render this website. AI can't render this website. If you take this domain and you give it to Cloud or chat GPT and say, hey, go crawl this website, tell me what you see, it will say that it can't crawl the website. It's just because of the way that lovable builds its websites. So anyway, lovable HTML fixes that. So if you're building these websites to actually get them to rank, you need to put something in place so that Google and the AI tools can actually see it.",
-  "summary": "",
-  "key_points": [],
-  "tags": []
+  "summary": "This lesson explains how to use Lovable HTML for creating websites that can be indexed by Google and AI tools. It is recommended due to its ease-of-use, affordability, and one-click setup compared to manual pre-rendering services.",
+  "key_points": [
+    "use Lovable HTML for website indexing",
+    "one-click setup for easy use",
+    "affordable pricing at $20/month for three websites"
+  ],
+  "tags": [
+    "lovable html",
+    "google indexing",
+    "website development",
+    "ai seo",
+    "cloudflare",
+    "pre-rendering",
+    "cost-effective"
+  ]
 }

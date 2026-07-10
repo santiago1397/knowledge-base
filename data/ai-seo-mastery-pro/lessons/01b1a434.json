@@ -95,7 +95,20 @@
     }
   ],
   "transcript_text": "So, let's chat about an audience avatar. This is an important step that we do for nearly every single one of our clients. We want Claude to generate an avatar sheet for us. So I have a project set up in Claude preloaded with these instructions and they're obviously below this lesson. And it's essentially, we're just going to give Claude the details of the services from the GVP, the primary category, secondary categories from the GVP, and the city name, and then Claude will generate an audience avatar for us. Review that avatar. For example, this is an avatar that we made for my YouTube channel. So review the avatar, make sure it makes sense that it matches most of who your client or who your customer would typically be, because we're going to feed this avatar frequently back to Claude or chat GPT so that it always knows who it's writing for. It's important that the AI has its audience in mind. It can write much better content if it knows who its audience avatar is. So you'll see this used over and over once we generate this avatar in all of the content writing.",
-  "summary": "",
-  "key_points": [],
-  "tags": []
+  "summary": "This lesson explains how to create an audience avatar using Claude for content writing. The avatar helps ensure that the AI understands who its target audience is, leading to more effective and relevant content.",
+  "key_points": [
+    "Use Claude to generate an audience avatar",
+    "Input details like services, categories, and city name",
+    "Review and refine the avatar frequently"
+  ],
+  "tags": [
+    "audienceavatar",
+    "contentwriting",
+    "ai",
+    "claudiai",
+    "targetaudience",
+    "seo",
+    "contentstrategy",
+    "gvp"
+  ]
 }

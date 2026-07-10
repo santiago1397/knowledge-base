@@ -150,7 +150,22 @@
     }
   ],
   "transcript_text": "For the vast majority of websites no follow links are a complete waste of time So usually just don't worry about them. I want to say usually like 90 plus percent of the time Just don't worry about them. Okay, so if you don't know a note trying to figure a way to put this little burb And no follow link tells Google that you don't want that link to pass any SEO authority Okay, that's that's what it does That's the only reason that link type exists so that you can link to something and not pass any authority For most of you with websites, why would you link to something that you don't want to pass any authority to okay? You passing authority does not change the amount of authority you have okay? That's one concept and important to keep in mind In the module. What is SEO how SEO authority is passed? I talk a lot about this how authority is passed how no follow affects it or doesn't affect it so if you want more information you can go check that out, but if you have Five links it doesn't matter how many of them are no follow doesn't matter how many of our do follow They all will pass the same amount of authority So if you no follow for the links, it's not like the one that has a do follow passes more authority than if they were all do Follow links, okay? The authority passed by by your other links does not change But whether you have no follow or do follow the only thing that no following the link does is It does not pass authority to that URL and really the external links that you have on your website are two trusted Sources they're non-competitive. So there's no reason to not pass authority to them There's no reason to not worry about the no follow and on your own website with internal links You know you can't authority sculpt anyway So there's no reason to add the no follow Attribute to pretty much any link that you have on your website the exception of course is if you have paid blog Postings or things like that where Google suggests that you no follow them But I mean if if you're in this small exception where no no following makes sense Then you probably know it. Okay, so if you don't know you're fine not worrying about it. Don't waste your time",
-  "summary": "",
-  "key_points": [],
-  "tags": []
+  "summary": "No follow links are generally not useful for most websites as they do not pass any SEO authority. They should be used sparingly, such as on paid blog postings.",
+  "key_points": [
+    "No follow links do not pass SEO authority",
+    "90% of the time no follow links can be ignored",
+    "Internal and trusted external links should typically be do follow",
+    "Use no follow for paid blog postings or similar exceptions"
+  ],
+  "tags": [
+    "seo",
+    "authority",
+    "links",
+    "noodp",
+    "nofollow",
+    "internal",
+    "external",
+    "paid",
+    "blog"
+  ]
 }

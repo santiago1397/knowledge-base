@@ -35,26 +35,48 @@ def upsert_course(cur, slug: str) -> int:
     return cur.fetchone()[0]
 
 
-def upsert_lesson(cur, course_id: int, l: dict) -> int:
+def load_modules(base: Path) -> dict[str, dict]:
+    """Map lesson code -> {module_order, module_title, lesson_order} from the
+    committed modules.json (the original course grouping + order). Optional:
+    a course without the file just ingests every lesson ungrouped (order 0)."""
+    path = base / "modules.json"
+    if not path.exists():
+        return {}
+    out: dict[str, dict] = {}
+    for mod in json.loads(path.read_text(encoding="utf-8")):
+        for l in mod.get("lessons", []):
+            out[l["code"]] = {
+                "module_order": mod.get("module_order", 0),
+                "module_title": mod.get("module_title", ""),
+                "lesson_order": l.get("lesson_order", 0),
+            }
+    return out
+
+
+def upsert_lesson(cur, course_id: int, l: dict, mod: dict) -> int:
     cur.execute(
         """INSERT INTO lessons
              (course_id, code, title, duration, source_url, video_url,
               video_file, summary, key_points, tags, content_md,
-              transcript, transcript_text)
-           VALUES (%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s)
+              transcript, transcript_text, module_order, module_title, lesson_order)
+           VALUES (%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s)
            ON CONFLICT (course_id, code) DO UPDATE SET
              title=EXCLUDED.title, duration=EXCLUDED.duration,
              source_url=EXCLUDED.source_url, video_url=EXCLUDED.video_url,
              video_file=EXCLUDED.video_file, summary=EXCLUDED.summary,
              key_points=EXCLUDED.key_points, tags=EXCLUDED.tags,
              content_md=EXCLUDED.content_md, transcript=EXCLUDED.transcript,
-             transcript_text=EXCLUDED.transcript_text
+             transcript_text=EXCLUDED.transcript_text,
+             module_order=EXCLUDED.module_order, module_title=EXCLUDED.module_title,
+             lesson_order=EXCLUDED.lesson_order
            RETURNING id""",
         (course_id, l["code"], l.get("title", ""), l.get("duration", ""),
          l.get("source_url", ""), l.get("video_url", ""), l.get("video_file", ""),
          l.get("summary", ""), json.dumps(l.get("key_points", [])),
          json.dumps(l.get("tags", [])), l.get("content_md", ""),
-         json.dumps(l.get("transcript", [])), l.get("transcript_text", "")))
+         json.dumps(l.get("transcript", [])), l.get("transcript_text", ""),
+         mod.get("module_order", 0), mod.get("module_title", ""),
+         mod.get("lesson_order", 0)))
     return cur.fetchone()[0]
 
 
@@ -71,14 +93,18 @@ def main() -> int:
         print(f"Missing artifacts under {base}")
         return 1
 
+    modules = load_modules(base)
+
     with cursor() as cur:
         course_id = upsert_course(cur, args.course)
 
         code_to_lesson_id: dict[str, int] = {}
         for f in sorted(lessons_dir.glob("*.json")):
             l = json.loads(f.read_text(encoding="utf-8"))
-            code_to_lesson_id[l["code"]] = upsert_lesson(cur, course_id, l)
-        print(f"Upserted {len(code_to_lesson_id)} lessons.")
+            mod = modules.get(l["code"], {})
+            code_to_lesson_id[l["code"]] = upsert_lesson(cur, course_id, l, mod)
+        print(f"Upserted {len(code_to_lesson_id)} lessons "
+              f"({len(modules)} mapped to modules).")
 
         cur.execute("DELETE FROM chunks WHERE course_id = %s", (course_id,))
         table = pq.read_table(parquet).to_pylist()

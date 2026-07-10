@@ -100,7 +100,18 @@
     }
   ],
   "transcript_text": "So let's talk about a sitemap for most domains most websites. I think what's a sitemap is a complete waste of time and I have a lot of Evidence to support this conclusion With a sitemap basically a sitemap is designed to help Google find the URLs that you want Google to index But Google is already very good at finding URLs if Google can't find your URLs Then something else is wrong very rarely will a sitemap fix your problem Okay, you need to make sure your website has proper structure proper internal links proper external links that the content is Quality that Google wants to index it if you're not getting indexed very very rarely Unless you have a massive website will a sitemap fix your problem I have tried this so many times, you know, maybe a site We weren't getting indexed like I wanted it to so I went through the effort of creating a sitemap Going into the search console telling Google where the sitemap was and it would not help indexing at all Okay, so unless you have a big a big website like two three four hundred URLs or bigger this sitemap really isn't going to fix your problems if you're having problems getting indexed Something else is wrong. Go ahead and reach out. We can chat we can figure out what else is wrong but 99% of the time if you're having trouble getting indexed a sitemap won't help you and if you're not Having trouble getting indexed then a sitemap certainly won't help you. So usually don't worry about it",
-  "summary": "",
-  "key_points": [],
-  "tags": []
+  "summary": "Sitemaps are generally unnecessary for most websites as Google can effectively find URLs without them. They only help with large sites or specific indexing issues.",
+  "key_points": [
+    "Sitemaps rarely help small to medium-sized websites",
+    "Proper website structure is more important",
+    "Google already finds URLs well"
+  ],
+  "tags": [
+    "seo",
+    "google",
+    "sitemap",
+    "indexing",
+    "website",
+    "structure"
+  ]
 }

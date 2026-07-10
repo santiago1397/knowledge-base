@@ -135,7 +135,18 @@
     }
   ],
   "transcript_text": "All right, next we're gonna do services. The reason we do services next is because we're going to use the services that chat GPT gives us to get more categories. So here's the prompt, you can find it in the module. It's a really quick question. Hey, give me 20 services. If you want more than 20, you can ask it for more than 20. And I asked it for 20, but feel free to go over and it looks like it has done, you know, above and beyond. We're coming up on number 40 here. It's still moving. Okay, this is perfect, 46 services. So you'll want to read through these, make sure they make sense for your client. You might want to run them by your client to make sure they actually do these things. We've had an issue, we did this once for a plumber and we put that they do solar water heaters and they didn't do solar water heaters. They actually got a call from someone who wanted a solar water heater. So anyway, you might want to run these by your client to make sure they're accurate, but get these services and next we'll do the categories.",
-  "summary": "",
-  "key_points": [],
-  "tags": []
+  "summary": "The lesson explains how to use chat GPT to generate a list of services for a client and emphasizes verifying their accuracy with the client. The goal is to ensure the service list accurately reflects what the business can provide.",
+  "key_points": [
+    "use chat GPT for generating services",
+    "verify services with clients",
+    "ensure accuracy in service listings"
+  ],
+  "tags": [
+    "services",
+    "verification",
+    "client",
+    "chat gpt",
+    "accuracy",
+    "business"
+  ]
 }

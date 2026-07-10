@@ -130,7 +130,19 @@
     }
   ],
   "transcript_text": "Okay, so now that we have our relevant topics, we're going to ask Chachi Pd to generate a variety of keyword variations for us So here's that prompt and I'm going to go ahead and change it to be this first one We'll just do introduction to graphic design So in the graphic design niche and set of fundamentals will say introduction so we're going to run this prompt for each of the 25 topics and And The reason for that I mean again our goal is to just get as many Content ideas that are all semantically relevant so that when we start publishing content Google sees it all as improving the authority the comprehensiveness of this domain in this space now If you're targeting graphic design, hopefully you have a domain rating. That's quite high So, you know clearly changes for the niche that you're interested in so here is the key 15 keyword variations That it's given us and then we're getting SEO optimized titles headings and content outlines So these right here and there are going to be 15 of them And There it is. Yep. This is those 15 of them so if we do that for all 25 we're going to end up with write 375 article ideas that have target keywords title and headings and We're going to use chat gpt to go and crank out to write all 375 of those articles and once we're done We will have an enormous amount of authority in this space and I guarantee that we'll be able to write 375 articles much faster than you think using AI To do the writing for us",
-  "summary": "",
-  "key_points": [],
-  "tags": []
+  "summary": "This lesson explains how to use AI tools like ChatGPT to generate keyword variations for content creation in a specific niche, such as graphic design. The goal is to produce numerous SEO-optimized article ideas that can boost the authority and comprehensiveness of a website.",
+  "key_points": [
+    "Use AI to generate keyword variations",
+    "Create multiple articles per topic",
+    "Boost domain authority with comprehensive content"
+  ],
+  "tags": [
+    "ai",
+    "seo",
+    "content creation",
+    "keyword optimization",
+    "graphic design",
+    "authority building",
+    "comprehensive content"
+  ]
 }

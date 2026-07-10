@@ -105,7 +105,18 @@
     }
   ],
   "transcript_text": "So, we want to add outbound authority links to content. An outbound authority link is a link from your website, from your content to another website that's not competitive to yours that has a very high trust factor with Google. These types of outbound authority links are correlated, very highly correlated with improved rank position. They also allow you to pass AI detector tests much more easily because AI usually does not insert these outbound authority links. So, what we have here is a list of 100 domains that you can use for outbound authority links. So, the way that we usually use this, I'm just going to grab a random one Britannica. Don't use the same domain for everyone, Wikipedia is easy, but don't do it. So, if I do a site colon search, so then I'm telling Google I only want to see results in Britannica.com and I have a local plumber, then I'll do a site colon search Britannica for the word plumber. Now, if I'm doing an FAQ section talking about water heater replacement, then I would do water heater replacement. If I want to do main drain line replacement, I would do main drain line replacement. Whatever the topic of my article is, I can do site colon search and that topic, then I have some lovely URLs here that I can link to and those will serve as high authority outbound links.",
-  "summary": "",
-  "key_points": [],
-  "tags": []
+  "summary": "The lesson explains how to use outbound authority links to improve website ranking and pass AI detector tests. These are high-trust external links that should be carefully selected from non-competitive websites with a strong Google trust factor.",
+  "key_points": [
+    "use non-competitive high-trust domains",
+    "perform site: search for relevant topics",
+    "insert these as outbound authority links"
+  ],
+  "tags": [
+    "outbound links",
+    "seo",
+    "ai detection",
+    "authority sites",
+    "google trust",
+    "ranking improvement"
+  ]
 }

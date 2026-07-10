@@ -270,7 +270,21 @@
     }
   ],
   "transcript_text": "Alright, so let me walk through the current sheet that we use to calculate the pricing we use based on scope of work. So we're going to start up here at team pay rates. So this is my team, and you can put whatever pay rates make sense there for your team. If it's all you, that's fine. If it's not all you, whatever you're paying people, whatever you would like to pay yourself. So this is the different pay for all of the different roles that we have to make this work. Then I break down what it costs to produce each individual article. We have the SEO expert who's going to determine the target keywords. We have the copywriter manager who's going to set up the content brief. Then the copywriter writes the content. Copywriter manager reviews. Schema image guy generates schema and images. The copywriter manager reviews that. The developer posts it, and then the copywriter manager finally reviews what was posted. This assumes no follow-ups, no additional comments. And in this total cost, you can see I've also included the cost of a medium quality link. So every article we publish has a link, so that's what this final cost per article is. By the way, I should mention everything in green are numbers that you can change to reflect your team. So if your SEO expert can do this in 30 seconds, feel free to make that update. If your link cost is $5, make that update. Then when we come down here, these are basically all of the month one costs that we have for a brand new client. We have this separated out because we need to account for this for a new client. So we set up the cloud projects. I'm assuming that's a half hour. We do a GBP audit. We implement changes from the GBP audit. We do a landing page audit. And then we implement changes from the landing page audit. This is very similar to the per article, but we don't source a link to it. And there are a couple of additional steps. The SEO expert reviews this because of how important the GBP landing page is. Okay, so then month one, brand new client, we have all of the costs that it takes to set everything up. So we have the total amount of cost. And then because I don't like charging setup fees, I hate charging setup fees, we charge the same flat rate every month. What we do to account for month one is we reduce the number of articles a new client gets to account for these startup costs. So a new article is $82. It's $226 estimate to do this. So that is three articles. And I have rounded up so that we don't accidentally lose money. So then coming down here, you'll enter whatever gross margin you like. I like to run a fairly high one, 50 to 70%, depending on how large the scope of work is. Remember, there's no client success manager costs, no meeting costs, monthly reporting costs, anything like that. This is just the bare bones SEO fulfillment. It also assumes that there's no revisions, no client feedback that needs to be adjusted, things like that. So that's why we have a relatively high gross margin. Then you have the number of articles that you're going to write every month for that client. I do call out here how many that would be in the first month. Remember, it's three fewer than your cost to generate eight articles with a link to each one is this. And then with that desired gross margin, that is what the quoted price is. Feel free, download this, make a copy of it, adjust it to work for your team, the workflow that you use. This is just the workflow that we use at my agency.",
-  "summary": "",
-  "key_points": [],
-  "tags": []
+  "summary": "This lesson explains how to calculate pricing based on the scope of work for SEO services. It breaks down costs per article and startup fees for new clients, using an Excel sheet to track expenses and margins.",
+  "key_points": [
+    "Define pay rates for team members",
+    "Breakdown costs for each article and setup",
+    "Adjust gross margin based on scope",
+    "Account for startup costs in month one"
+  ],
+  "tags": [
+    "seo",
+    "pricing",
+    "scope-based",
+    "costs",
+    "articles",
+    "setup",
+    "margin",
+    "workflow"
+  ]
 }

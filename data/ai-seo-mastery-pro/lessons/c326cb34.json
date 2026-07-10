@@ -85,7 +85,21 @@
     }
   ],
   "transcript_text": "When we get a new local business client the most common thing we see is that they have exactly one GBP category they went for the primary category and then they stopped so we don't want to do that We want to make sure that we give Multiple different categories. It's gonna be easier to rank for broad statements But Google's has like a thousand different categories that we could choose We don't want to go through all those and decide if they're accurate enough. So instead we're going to do this so What did I say HVAC service installation company in Houston a Local so I'm gonna put that in here and then I'm going to grab all the services and Paste it in and then give that prompt over to chat GPT to ask it which categories should I use? So now it is giving me now we can't use all of these right, but it's giving me a much shorter list of GBP categories we can start at the top and sort of come down and see which of these make sense Are they services that our client actually provides? So choose, you know, we want five in total four secondary plus your primary category",
-  "summary": "",
-  "key_points": [],
-  "tags": []
+  "summary": "The lesson explains that businesses should use multiple GBP categories instead of just one primary category to improve their ranking for broader search terms. It suggests using a service description and pasting it into ChatGPT to get recommended categories, then selecting the most relevant ones.",
+  "key_points": [
+    "Use multiple GBP categories",
+    "Improve ranking for broad statements",
+    "Use ChatGPT for category suggestions",
+    "Select four secondary plus one primary category"
+  ],
+  "tags": [
+    "gbp",
+    "categories",
+    "seo",
+    "local business",
+    "chatgpt",
+    "ranking",
+    "search terms",
+    "optimization"
+  ]
 }

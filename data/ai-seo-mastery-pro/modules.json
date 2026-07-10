@@ -1,0 +1,589 @@
+[
+  {
+    "module_order": 1,
+    "module_title": "Getting Started",
+    "lessons": [
+      {
+        "code": "369f7f92",
+        "title": "5-Minute Introduction: AI SEO",
+        "lesson_order": 1
+      },
+      {
+        "code": "21391829",
+        "title": "What Is Local SEO?",
+        "lesson_order": 2
+      }
+    ]
+  },
+  {
+    "module_order": 2,
+    "module_title": "SEO Foundation",
+    "lessons": [
+      {
+        "code": "ca67584a",
+        "title": "SEO Philosophy",
+        "lesson_order": 3
+      },
+      {
+        "code": "c45107fa",
+        "title": "Key Google Rank Factors",
+        "lesson_order": 4
+      },
+      {
+        "code": "aa6fdbdd",
+        "title": "How SEO Authority is Passed",
+        "lesson_order": 5
+      },
+      {
+        "code": "b473e564",
+        "title": "AI Overview in Search",
+        "lesson_order": 6
+      },
+      {
+        "code": "17d349dd",
+        "title": "What is E-E-A-T?",
+        "lesson_order": 7
+      }
+    ]
+  },
+  {
+    "module_order": 3,
+    "module_title": "Setting Up Your AI",
+    "lessons": [
+      {
+        "code": "70d3900d",
+        "title": "We Suggest This AI: Claude",
+        "lesson_order": 8
+      },
+      {
+        "code": "b04c5e2b",
+        "title": "Using Custom Projects in Claude",
+        "lesson_order": 9
+      },
+      {
+        "code": "01b1a434",
+        "title": "Creating an Audience Avatar",
+        "lesson_order": 10
+      },
+      {
+        "code": "69dbc5e8",
+        "title": "Recommended Tools",
+        "lesson_order": 11
+      }
+    ]
+  },
+  {
+    "module_order": 4,
+    "module_title": "Local SEO Foundations",
+    "lessons": [
+      {
+        "code": "772272ad",
+        "title": "Overview",
+        "lesson_order": 12
+      },
+      {
+        "code": "f19ca55d",
+        "title": "GBP Audit",
+        "lesson_order": 13
+      },
+      {
+        "code": "a894c4fe",
+        "title": "GBP Landing Page Audit",
+        "lesson_order": 14
+      },
+      {
+        "code": "b79a578e",
+        "title": "GBP Management Set Up",
+        "lesson_order": 15
+      }
+    ]
+  },
+  {
+    "module_order": 5,
+    "module_title": "How to Do Local AI SEO",
+    "lessons": [
+      {
+        "code": "75e25c91",
+        "title": "Client Deliverables Walkthrough",
+        "lesson_order": 16
+      },
+      {
+        "code": "90030068",
+        "title": "3 Phases of Local SEO",
+        "lesson_order": 17
+      },
+      {
+        "code": "0780ac81",
+        "title": "Local Link Overview",
+        "lesson_order": 18
+      },
+      {
+        "code": "ae246934",
+        "title": "Identifying Low Competition",
+        "lesson_order": 19
+      },
+      {
+        "code": "237288c0",
+        "title": "Estimate Scope of Work",
+        "lesson_order": 20
+      },
+      {
+        "code": "7ecaadb4",
+        "title": "[Tool] Scope Based Pricing",
+        "lesson_order": 21
+      },
+      {
+        "code": "91bdb23b",
+        "title": "Client Access We Request",
+        "lesson_order": 22
+      },
+      {
+        "code": "78415ef9",
+        "title": "Onboarding Clients",
+        "lesson_order": 23
+      },
+      {
+        "code": "3d4cf401",
+        "title": "Rank Tracking",
+        "lesson_order": 24
+      },
+      {
+        "code": "4d5790fa",
+        "title": "Determining Local Rank Map Size",
+        "lesson_order": 25
+      },
+      {
+        "code": "b2ebc7f8",
+        "title": "Adding Schema",
+        "lesson_order": 26
+      },
+      {
+        "code": "73adfe6f",
+        "title": "What is the Core 30?",
+        "lesson_order": 27
+      },
+      {
+        "code": "e64641a7",
+        "title": "How to Structure the Core 30",
+        "lesson_order": 28
+      },
+      {
+        "code": "57b9af58",
+        "title": "Core 30 Content Audit",
+        "lesson_order": 29
+      },
+      {
+        "code": "e4ca2c32",
+        "title": "Example Site for Core 30",
+        "lesson_order": 30
+      },
+      {
+        "code": "8c266b3b",
+        "title": "Structure for Multiple Locations",
+        "lesson_order": 31
+      },
+      {
+        "code": "a92c962b",
+        "title": "Building More Topical Relevance",
+        "lesson_order": 32
+      },
+      {
+        "code": "043327fc",
+        "title": "Building More Geographical Relevance",
+        "lesson_order": 33
+      },
+      {
+        "code": "82487a41",
+        "title": "AI Content Prioritization - Geographic Relevance",
+        "lesson_order": 34
+      },
+      {
+        "code": "3063310a",
+        "title": "Creating an \"About\" Page",
+        "lesson_order": 35
+      },
+      {
+        "code": "9094b3b0",
+        "title": "Local Business Schema",
+        "lesson_order": 36
+      },
+      {
+        "code": "1535f6ca",
+        "title": "Technical Audit",
+        "lesson_order": 37
+      },
+      {
+        "code": "37395b16",
+        "title": "Reduce Client Churn",
+        "lesson_order": 38
+      },
+      {
+        "code": "ffcdad1e",
+        "title": "60 Day Internal Task Tracker",
+        "lesson_order": 39
+      }
+    ]
+  },
+  {
+    "module_order": 6,
+    "module_title": "The Google Business Profile",
+    "lessons": [
+      {
+        "code": "7a06ff4d",
+        "title": "Types of GBP",
+        "lesson_order": 40
+      },
+      {
+        "code": "e8c5c82f",
+        "title": "Verifying a GBP",
+        "lesson_order": 41
+      },
+      {
+        "code": "84b9070b",
+        "title": "GBP Description",
+        "lesson_order": 42
+      },
+      {
+        "code": "1a0af25c",
+        "title": "GBP Services",
+        "lesson_order": 43
+      },
+      {
+        "code": "c326cb34",
+        "title": "GBP Categories",
+        "lesson_order": 44
+      },
+      {
+        "code": "d60fff60",
+        "title": "Making GBP Changes",
+        "lesson_order": 45
+      },
+      {
+        "code": "2bd7a999",
+        "title": "Re-Theme'ing a GBP Category",
+        "lesson_order": 46
+      },
+      {
+        "code": "6acce0ae",
+        "title": "Upcoming Holiday Hours",
+        "lesson_order": 47
+      },
+      {
+        "code": "9ad111b1",
+        "title": "[Update] Automated Calls",
+        "lesson_order": 48
+      },
+      {
+        "code": "4a186bb9",
+        "title": "All the Other GBP Boxes",
+        "lesson_order": 49
+      },
+      {
+        "code": "237a7de6",
+        "title": "Geotag Images",
+        "lesson_order": 50
+      },
+      {
+        "code": "3d4f70e5",
+        "title": "Get More Reviews",
+        "lesson_order": 51
+      },
+      {
+        "code": "f3c18777",
+        "title": "[Prompt] Endless GBP Posts",
+        "lesson_order": 52
+      }
+    ]
+  },
+  {
+    "module_order": 7,
+    "module_title": "Creating AI Content",
+    "lessons": [
+      {
+        "code": "0f0406fc",
+        "title": "Caleb's Internal Team's Copywriting System",
+        "lesson_order": 53
+      },
+      {
+        "code": "810cc903",
+        "title": "Human Editing of AI Articles",
+        "lesson_order": 54
+      },
+      {
+        "code": "bc01ae80",
+        "title": "Creating the Content Brief",
+        "lesson_order": 55
+      },
+      {
+        "code": "35426742",
+        "title": "Setting Up Claude Projects",
+        "lesson_order": 56
+      },
+      {
+        "code": "a5e7d2e9",
+        "title": "Outbound Authority Links",
+        "lesson_order": 57
+      },
+      {
+        "code": "892b004d",
+        "title": "Internal Anchor Text Guidelines",
+        "lesson_order": 58
+      },
+      {
+        "code": "2787eab9",
+        "title": "Generating Metadata",
+        "lesson_order": 59
+      },
+      {
+        "code": "9db6d6db",
+        "title": "[Tool] Page Optimizer Pro",
+        "lesson_order": 60
+      }
+    ]
+  },
+  {
+    "module_order": 8,
+    "module_title": "Building a Core 30 Website in Lovable",
+    "lessons": [
+      {
+        "code": "8027ed18",
+        "title": "Overview",
+        "lesson_order": 61
+      },
+      {
+        "code": "34ca0fd3",
+        "title": "AI Website Checklist",
+        "lesson_order": 62
+      },
+      {
+        "code": "f4d1c7cb",
+        "title": "Prompt 0: Planning",
+        "lesson_order": 63
+      },
+      {
+        "code": "39eaa610",
+        "title": "Lovable HTML: NEEDED to Get Ranked",
+        "lesson_order": 64
+      },
+      {
+        "code": "d5abfc00",
+        "title": "Prompt 1: Skeleton",
+        "lesson_order": 65
+      },
+      {
+        "code": "0d60b2a9",
+        "title": "Prompt 2: GBP Landing Page Content",
+        "lesson_order": 66
+      },
+      {
+        "code": "8e0d0006",
+        "title": "Prompt 3: GBP Landing Page Build Out",
+        "lesson_order": 67
+      },
+      {
+        "code": "e44cebd1",
+        "title": "Prompt 4: Secondary Category Page Build Out",
+        "lesson_order": 68
+      },
+      {
+        "code": "3032def6",
+        "title": "Prompt 5: Core Service Page Build Out",
+        "lesson_order": 69
+      },
+      {
+        "code": "bf9699a4",
+        "title": "Prompt 6: Service Page Build Out",
+        "lesson_order": 70
+      },
+      {
+        "code": "16d634b1",
+        "title": "Prompt 8: Technical SEO Implementation",
+        "lesson_order": 71
+      },
+      {
+        "code": "92c7f0d9",
+        "title": "Walkthrough of Caleb's Build",
+        "lesson_order": 72
+      }
+    ]
+  },
+  {
+    "module_order": 9,
+    "module_title": "Starting Off-Site AI SEO",
+    "lessons": [
+      {
+        "code": "13ed811b",
+        "title": "Introduction to Backlinking",
+        "lesson_order": 73
+      },
+      {
+        "code": "c73971e8",
+        "title": "External Anchor Text Guidelines",
+        "lesson_order": 74
+      },
+      {
+        "code": "129d9d70",
+        "title": "Local Authority Building",
+        "lesson_order": 75
+      },
+      {
+        "code": "bebd9d05",
+        "title": "Searching for Link Opportunities",
+        "lesson_order": 76
+      },
+      {
+        "code": "a1d424a2",
+        "title": "Monthly Google News Feature (Press Release)",
+        "lesson_order": 77
+      },
+      {
+        "code": "9412eab3",
+        "title": "Blog Commenting",
+        "lesson_order": 78
+      },
+      {
+        "code": "d2ed2b12",
+        "title": "Social Signals",
+        "lesson_order": 79
+      }
+    ]
+  },
+  {
+    "module_order": 10,
+    "module_title": "Optimizing for AI Systems Recommendations",
+    "lessons": [
+      {
+        "code": "6990545a",
+        "title": "How ChatGPT Makes Recommendations",
+        "lesson_order": 80
+      },
+      {
+        "code": "97fa4b5a",
+        "title": "Data Source: ChatGPT VS. Google",
+        "lesson_order": 81
+      },
+      {
+        "code": "aa2c22d4",
+        "title": "How to Check Business Visibility",
+        "lesson_order": 82
+      },
+      {
+        "code": "4a4eda1f",
+        "title": "Proving Business Legitimacy",
+        "lesson_order": 83
+      },
+      {
+        "code": "a4c76d98",
+        "title": "High Quality Mentions",
+        "lesson_order": 84
+      },
+      {
+        "code": "975cf5d5",
+        "title": "Create Even More Schema",
+        "lesson_order": 85
+      },
+      {
+        "code": "21dcf3ad",
+        "title": "Review Diversification and Specificity: Attributes",
+        "lesson_order": 86
+      },
+      {
+        "code": "f74717d6",
+        "title": "Reddit Optimization",
+        "lesson_order": 87
+      }
+    ]
+  },
+  {
+    "module_order": 11,
+    "module_title": "Special Circumstances",
+    "lessons": [
+      {
+        "code": "2eff9321",
+        "title": "YMYL-Niche Sites",
+        "lesson_order": 88
+      },
+      {
+        "code": "63848cba",
+        "title": "Ethics: E-E-A-T Authorship Method",
+        "lesson_order": 89
+      },
+      {
+        "code": "8874f8c8",
+        "title": "When to Use a Sitemap",
+        "lesson_order": 90
+      },
+      {
+        "code": "ff4b8f70",
+        "title": "NoFollow Attributes on Links",
+        "lesson_order": 91
+      },
+      {
+        "code": "d213b414",
+        "title": "Hiding Content from Users",
+        "lesson_order": 92
+      },
+      {
+        "code": "8d2ba5b7",
+        "title": "Disavowing Existing Backlinks",
+        "lesson_order": 93
+      }
+    ]
+  },
+  {
+    "module_order": 12,
+    "module_title": "Non-Local SEO",
+    "lessons": [
+      {
+        "code": "f630a6f9",
+        "title": "Non-Local SEO Engagement Plan",
+        "lesson_order": 94
+      },
+      {
+        "code": "e49d6911",
+        "title": "Basic Site Structure",
+        "lesson_order": 95
+      },
+      {
+        "code": "7e6ce6ef",
+        "title": "Search Console for Existing Content",
+        "lesson_order": 96
+      },
+      {
+        "code": "be54d548",
+        "title": "Click Through Rate (CTR) Analysis",
+        "lesson_order": 97
+      },
+      {
+        "code": "67c469bd",
+        "title": "Identify Content with Existing Authority",
+        "lesson_order": 98
+      },
+      {
+        "code": "a45de1a8",
+        "title": "Generate Topical Relevance",
+        "lesson_order": 99
+      },
+      {
+        "code": "654574fd",
+        "title": "Keyword Research Philosophy",
+        "lesson_order": 100
+      },
+      {
+        "code": "eddcf4ac",
+        "title": "AI-Generate Keyword Variations",
+        "lesson_order": 101
+      },
+      {
+        "code": "266efa41",
+        "title": "Creating a Content Planner",
+        "lesson_order": 102
+      },
+      {
+        "code": "eba6e0ed",
+        "title": "AI-Rewriting Pages",
+        "lesson_order": 103
+      }
+    ]
+  }
+]

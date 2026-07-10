@@ -235,7 +235,20 @@
     }
   ],
   "transcript_text": "The AI that we recommend for most of the work that we're talking about is going to be Claude. It's done by Anthropic. And there are two models for Claude. We currently, at least, there's the Sonnet4. The Sonnet4 is the model that is best used for writing content. And we have Opus4. Opus4 is the model best used for doing data analysis. Like when we ask it to do a local site technical audit, we would use Opus. If we're asking for content writing, we'll use Sonnet. Now, ChatGPT, of course, can still work. If you want to use ChatGPT, O3 is similar to the Opus in terms of its ability to do the auditing. 4.5 is supposed to be good for writing, but the caveat there is that Sonnet4 from Claude is better at writing than 4.5. And the 4.0 is just the basic ChatGPT. Now, I currently have subscriptions to both Claude and ChatGPT. The reason for that is ChatGPT does a couple of things that Claude won't do. Number one, ChatGPT will generate images. Claude can't do that yet. Number two, we do a lot of work in terms of getting ChatGPT to recommend local businesses. Claude won't recommend local businesses. If you ask it to, it will just flat out refuse and tell you how to evaluate local businesses. So that's an advantage of ChatGPT that it will actually recommend actual businesses. And the third thing that ChatGPT is really good for, it has its voice functionality. Now, I like the voice functionality for ChatGPT a lot. I can put my headphones on, open up the voice chat, and talk to ChatGPT in a business brainstorming session, then have it give me a bunch of notes about what we talked about, and a direction path forward. Claude also doesn't have that chat feature. So I have subscriptions to both. In general, Claude is the one that I use much, much more often. But ChatGPT's use cases are enough that it's worth $20 a month for me. Claude, we have the pro membership, I think. It's $100 a month because we kept hitting usage limits.",
-  "summary": "",
-  "key_points": [],
-  "tags": []
+  "summary": "The lesson recommends using Claude for most tasks due to its superior content writing capabilities compared to ChatGPT. However, ChatGPT is preferred for generating images and recommending local businesses. Both AI tools have their unique strengths.",
+  "key_points": [
+    "Claude excels in content writing",
+    "ChatGPT can generate images",
+    "Claude cannot recommend local businesses",
+    "Voice functionality available in ChatGPT"
+  ],
+  "tags": [
+    "claude",
+    "chatgpt",
+    "ai",
+    "contentwriting",
+    "imagegeneration",
+    "localbusinesses",
+    "voicefunctionality"
+  ]
 }

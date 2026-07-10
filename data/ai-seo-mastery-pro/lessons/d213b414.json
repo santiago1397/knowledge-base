@@ -120,7 +120,19 @@
     }
   ],
   "transcript_text": "So hiding content what I mean by this is putting your content in accordions or Moussavers or collapsible blocks Usually this is something that the web designer or the client wants because they want the website to look better But really you should not be wasting your time hiding content. Just keep it all visible Don't do any of those accordions or mouseovers or anything like that Okay, Google the way Google crawl works is it's rendering websites in the most recent version of Chrome and when it's doing that It follows links, but it can't click So if your content is hidden behind something that requires Moussavers or clicks Google won't be able to see it now. I say that I say Google can't see it. That's sort of true We know that if you hide Something in an accordion and then you do an exact match like you search for exactly that content in quotes Google will display that result so it will show that result But if you have ten websites and everything is close to exactly the same as possible You hide the content on five of them and you don't hide the content on the other five and then you search for the exact match That's hidden the five that are not hidden will rank above the five that aren't okay So you're going to rank better and faster if you don't hide content Users are used to content that is not hidden because for SEO reasons Most websites that they interact with most websites that rank well on Google aren't hiding content So don't worry about it Don't hide content if your client really wants the content to be hidden what I've done before is said yeah, no problem Go ahead and have your web designer hide that if you really want it to be hidden But remember this is going to cost more money and or more time to rank",
-  "summary": "",
-  "key_points": [],
-  "tags": []
+  "summary": "This lesson explains that hiding content using accordions or mouseovers can negatively impact SEO as Google cannot crawl hidden content. It suggests keeping all content visible for better search engine rankings and user experience.",
+  "key_points": [
+    "Google cannot see hidden content",
+    "Hidden content ranks lower in search results",
+    "Keep content visible for SEO"
+  ],
+  "tags": [
+    "seo",
+    "google",
+    "content",
+    "hiding",
+    "webdesign",
+    "searchengine",
+    "rankings"
+  ]
 }

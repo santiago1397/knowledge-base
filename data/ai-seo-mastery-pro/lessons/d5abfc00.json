@@ -9,7 +9,18 @@
   "content_md": "# Prompt 1: Skeleton\n\n- Code: d5abfc00\n- Source: https://www.skool.com/ai-seo-mastery-pro/classroom/63a81f62?md=d5abfc00102a4d4582e0be8827ec1648\n\n## Description\n\n_(no description)_\n",
   "transcript": [],
   "transcript_text": "",
-  "summary": "",
-  "key_points": [],
-  "tags": []
+  "summary": "This lesson focuses on the basics of creating a skeleton for an AI project, providing foundational code and resources.",
+  "key_points": [
+    "Code example provided",
+    "Foundation for AI projects",
+    "Link to source material"
+  ],
+  "tags": [
+    "ai",
+    "project",
+    "skeleton",
+    "code",
+    "resources",
+    "basics"
+  ]
 }

@@ -25,8 +25,16 @@ CREATE TABLE IF NOT EXISTS lessons (
     content_md      TEXT NOT NULL DEFAULT '',
     transcript      JSONB NOT NULL DEFAULT '[]',
     transcript_text TEXT NOT NULL DEFAULT '',
+    module_order    INTEGER NOT NULL DEFAULT 0,   -- course module order (0 = ungrouped)
+    module_title    TEXT NOT NULL DEFAULT '',
+    lesson_order    INTEGER NOT NULL DEFAULT 0,   -- position within the course (links.md order)
     UNIQUE (course_id, code)
 );
+
+-- Idempotent upgrade for a DB created before module grouping existed.
+ALTER TABLE lessons ADD COLUMN IF NOT EXISTS module_order INTEGER NOT NULL DEFAULT 0;
+ALTER TABLE lessons ADD COLUMN IF NOT EXISTS module_title TEXT NOT NULL DEFAULT '';
+ALTER TABLE lessons ADD COLUMN IF NOT EXISTS lesson_order INTEGER NOT NULL DEFAULT 0;
 
 -- bge-small-en-v1.5 => 384 dimensions
 CREATE TABLE IF NOT EXISTS chunks (

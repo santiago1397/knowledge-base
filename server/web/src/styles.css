@@ -22,3 +22,7 @@ video { width:100%; border-radius:10px; background:#000; }
 .seg { cursor:pointer; padding:2px 0; } .seg:hover { background:var(--panel); }
 .answer { white-space:pre-wrap; }
 .grid { display:grid; grid-template-columns:1fr; gap:2px; }
+.module { margin:22px 0; }
+.module-title { margin:0 0 6px; font-size:13px; text-transform:uppercase;
+  letter-spacing:.05em; color:var(--muted); border-bottom:1px solid var(--border);
+  padding-bottom:6px; }

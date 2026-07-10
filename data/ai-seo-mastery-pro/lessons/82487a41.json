@@ -240,7 +240,19 @@
     }
   ],
   "transcript_text": "All right, so let's talk about how to prioritize geographical content production. If your rank map looks like this, then you don't need geographical content production. What you need is just to finish up the Core 30 and then topical relevance if it continues to look like that. So instead, I ran this example of a business that's doing pretty well, but we want to prioritize content to turn even more of these green. So when we're prioritizing content, we're looking for fours and fives, and we're going to write geographical content about those fours and fives. But you can see there are quite a few fours and fives here. So which ones do we want to prioritize? So that's what this prompt is going to help with. So we're going to hit Share, and then we're going to export that CSV. I'm going to come over to Claude, and you can see I've copied the exact prompt that's just below this video. And we'll come over here, and we'll give it the heat map, and then I'm going to change the model to make sure we're using Opus. Opus is the better model for doing data analysis. And then we'll go ahead and run it. All right, that took a little bit of time, a minute or two, but it is finished now. And what this AI, what the prompt does is it gets the AI to analyze the rank map based on the longitude and latitude and sorts them in terms of how hard they are to rank and what the traffic potential is. So it's basically giving a high priority to the West Central Fort Wayne. It gives you why it's giving that one. It's giving some target keywords. It's doing this based on demographics, based on population density, based on all the information that would make this really hard to do manually. So essentially, and if we scroll all the way down, it's giving those neighborhoods the topic content recommendations. This is a good prompt to just very quickly get an idea of what type of content focused on which geographical locations we should be focused on.",
-  "summary": "",
-  "key_points": [],
-  "tags": []
+  "summary": "The lesson explains how to prioritize geographic content production based on a rank map. It suggests focusing on areas with higher ranking potential and using AI tools for analysis.",
+  "key_points": [
+    "Prioritize content based on rank map",
+    "Focus on fours and fives in the map",
+    "Use AI for detailed geographical analysis"
+  ],
+  "tags": [
+    "ai content prioritization",
+    "geographic relevance",
+    "rank map",
+    "content production",
+    "demographics",
+    "traffic potential",
+    "seo"
+  ]
 }

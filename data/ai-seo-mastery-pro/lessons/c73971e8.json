@@ -175,7 +175,19 @@
     }
   ],
   "transcript_text": "So external anchor text the overall message here is going to be pretty similar to what we said for internal anchor text We want it to look natural. We don't want it to look like a Professional SEO has sourced all of this anchor text. So general guidelines. We really do not want to repeat anchor text Okay, very long anchor text that is repeated over and over again is a sign of spam Just try to avoid repeating anchor text the exception to that is exact match and in that only if you have a lot of links coming in So you might repeat exact match once or twice But again, that's only if you have like 20 30 40 links coming into a site then you might repeat the exact match Keywords if you when you're using keywords you want to incorporate them naturally They have to fit in with the flow of the content on the page that has the link We know that Google Reads the content around the link to decide what the link is about and not just the anchor text itself So make sure that your link is in the section of content that is talking about the destination page if possible Similarly match the destination URL don't have the anchor text talk about something that isn't related to the URL It's linking to you will want to use some generic anchor text Click here read more that is much more common for external anchor text than for internal I remember for internal we said not to use generic anchor text. That's not true for external. We want to use generic We want the anchor text in the body We don't want to put it in the footer or the sidebar or heading tag We just in the body of the text is the best place for them And also we want to use some branding and some just naked URLs I know we said not to do that for internal but for external. We definitely want to so the guidance for how much of each to use 30% of the link should be branded and 20% or so should be generic click here or similar So that's about half of the external anchor text would not be keyword rich and not include any keywords on it at all a 30% of it Keyword rich partial match. So there you're going to add like extra words or something like that so So that you have keyword rich But it is not the exact match keyword you're trying to rank and here you have 5% exact match again You might have two or three that repeat that exact match anchor text If you have a bunch of links coming in and then the 15% for natural variations. So this wouldn't include the keyword But it would include a natural variation of that keyword like lawyer attorney type of Variation so keep these rules in mind as you do your external anchor text these percentages are guidelines Really the focus is to make sure that it is a natural looking link profile",
-  "summary": "",
-  "key_points": [],
-  "tags": []
+  "summary": "This lesson explains how to create natural and effective external anchor text for SEO purposes. It emphasizes avoiding repeated keywords, using a mix of branded, generic, and keyword-rich links, and ensuring the content flows naturally with the page’s context.",
+  "key_points": [
+    "Avoid repeating anchor text",
+    "Use 30% branded, 20% generic, 5% exact match, 55% natural variations",
+    "Ensure anchor text fits naturally within the content"
+  ],
+  "tags": [
+    "seo",
+    "anchor text",
+    "external links",
+    "natural language",
+    "keyword optimization",
+    "link profile",
+    "content flow"
+  ]
 }

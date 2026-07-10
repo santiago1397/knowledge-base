@@ -255,7 +255,23 @@
     }
   ],
   "transcript_text": "So let's talk about schema. Schema is easy to overlook but it is helpful and it is incredibly incredibly fast to do. So there's no reason that every single URL on your domain should not have schema. It definitely should. So what schema is is it's a markup language structured data that helps Google and other search engines understand what the content is. Okay so the types of schema, the big main types I'm going to cover here, organization schema, local business, product, article, FAQ, review and breadcrumb. So let's break these down one by one. So organization schema should be basically on every single URL on your domain on the header of every page and it's there to provide Google search engines with consistent information about your business across the entire domain. Local business schema that should only be on one URL and it should be on the URL that your Google business profile points to. So if you have multiple locations, each location page should have schema that matches the Google business profile. If you only have one location it's probably going to be your homepage and your homepage then should have local business schema that matches your Google business profile. And this improves local SEO by showing Google confirming that your business on the landing page is the exact same business on the Google business profile. So all the data, all the information needs to match. The next type is product schema. Obviously this is mainly for e-commerce type websites and this would go on an individual product page and that's going to provide the information about the product price availability specifications. Just more information so Google, Google can do a pretty good job guessing by looking at your page but by using structured data you're going to make sure that Google isn't guessing. Article schema should be on every single blog post, every single article and the goal of that is if it's done correctly it can actually make the pages look better in search results which drive improved click-through rate. FAQ schema should be on any page with FAQs which should be a lot of your pages if you're following along. The reason we want to do that is Google can then display questions and answers directly on the search engine results page and the more space that your result takes up on the SERP the more clicks you're going to get. Review schema that goes on every page that has reviews. Sometimes you can get the review ratings to display directly that's getting harder and harder to do but regardless if you have customer reviews you should have review schema. Now breadcrumb schema basically you'll put that on every page that has a hierarchical structure so the big example for hierarchical structure are target URLs and supporting content and the reason for that is to make sure that Google understands the site structure and that these are silos that you've created. So breadcrumb schema should definitely be everywhere that you are implementing a hierarchical site structure. So schema should be on every URL on the domain. Use schema on every URL you should. I'm Yoda here so it should be on every URL even if it's just organizational schema because nothing else fits it should still be there. You can put multiple types on there so if you have an article with an FAQ section that has reviews you're gonna have the review schema the FAQ schema the article schema the organizational schema and the breadcrumb schema okay. So you always need to validate with Google's structured data testing tool that link is in the module and chat GPT will write the schema for you. You can just take that and then paste it into your website. The prompts to get chat GPT to write it for you super super simple they're also in the module the prompts that we use.",
-  "summary": "",
-  "key_points": [],
-  "tags": []
+  "summary": "This lesson explains how to add schema markup to your website to help search engines understand your content better. It covers various types of schema such as organization, local business, product, article, FAQ, review, and breadcrumb, each with specific use cases.",
+  "key_points": [
+    "Every URL on the domain should have schema",
+    "Use multiple schemas where applicable",
+    "Validate with Google's structured data testing tool"
+  ],
+  "tags": [
+    "schema",
+    "seo",
+    "structured_data",
+    "google",
+    "markup",
+    "local_business",
+    "product",
+    "article",
+    "faq",
+    "review",
+    "breadcrumb"
+  ]
 }

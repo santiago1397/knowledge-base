@@ -325,7 +325,23 @@
     }
   ],
   "transcript_text": "So, your local business website needs local business schema. This is a markup language that tells Google that you are a local business and it gives it all the relevant information. I have ChatGPT write it for me. It's very quick, very easy. I'll give you this prompt. It's a pretty simple prompt. But basically, you ask ChatGPT what it needs to write schema. It gives you everything it needs and then it'll write it for you as soon as you give this information. You just give ChatGPT this information and say, please write local business schema for me and it will do it. Then you'll check it at the Google structured data testing tool just to make sure ChatGPT didn't make any mistakes. ChatGPT can make mistakes as we've talked about. So this schema, it goes on the GVP landing page. That means the landing page that your GVP links to. It doesn't go on every single URL on your domain. Just the landing page. That's it. Just that one URL. If you have a multi-location business, then that schema should go on the landing page for that location. Each location needs its own landing page and the schema for that landing page needs to match the GVP. So business name needs to match whatever the name is on the GVP. Exactly. Business type should be your primary category. The description should be the GVP description. Address should match. Phone number should match. Email address should match. Website URL should match. The latitude and longitude coordinates, that's super easy to get. If you go to Google Maps and you go anywhere in Google Maps and you right click, you will get the coordinates of that location. So super easy to find. Opening hours, again, match what you have on the GVP. Service area, match what you have on the GVP. Social media profiles, match what you have on the GVP. Are we getting tired of hearing that? URL of the business logo, for that, you're just going to go to the business website, right click on the image and hit, let me go to a quick business. Let's see, plumber, long beach, sure. And we'll go to the, they don't even have a website. That's funny. So this is a low competition. Okay, so here we go. So we're going to right click on there and we want copy image address that will give us the image address we're looking for, for the logo, URLs of other images. We can do the same thing. We can go through and find any images we want, or if we looked at like a GVP or something like that, we can grab images from the GVP. We don't have to, but we can. I won't show you that, but you can, it's not hard, just right click and grab it. Payment methods, no problem. So basically price range, so this is just dollar signs. You'll get a warning if you don't do it. So generally I do like two dollar signs or three dollar signs, that's fine. So there you have it. Get all of this information together, make sure everything matches the GVP and give it to chatGPT and ask chatGPT to write it for you, then test in the Google structured testing tool.",
-  "summary": "",
-  "key_points": [],
-  "tags": []
+  "summary": "This lesson explains how to use local business schema markup for your website, which helps Google recognize and display relevant information about your business. The process involves providing specific details like name, address, phone number, and other attributes to ChatGPT, then testing the schema using a structured data testing tool.",
+  "key_points": [
+    "Use local business schema markup",
+    "Provide detailed business information to ChatGPT",
+    "Test schema with Google structured data testing tool",
+    "Match all details with your Google My Business profile (GVP)",
+    "Include logo and image URLs",
+    "Specify opening hours, service area, and payment methods"
+  ],
+  "tags": [
+    "localbusinessschema",
+    "googlestructureddata",
+    "chatgpt",
+    "markupschema",
+    "googlemybusiness",
+    "seo",
+    "webdevelopment",
+    "searchenginemarketing"
+  ]
 }

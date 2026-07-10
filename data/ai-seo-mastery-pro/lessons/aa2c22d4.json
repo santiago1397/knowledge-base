@@ -235,7 +235,18 @@
     }
   ],
   "transcript_text": "So here we're going to talk about how to check your business visibility with ChatGPT. The problem is, as most of you know, Google's ranking results are customized to the user. So if you constantly visit this website for a plumber near you and then you search for plumber near me, that website will almost certainly be shown to you, even if it's not ranked in the top three for most users. That's why we always check Google ranking with a third party tool or by searching in incognito mode. We want to see what Google is recommending to someone who isn't us rather than what Google will show us. For ChatGPT, it's similar. ChatGPT is very customized to you. It knows who you are if you've been talking to it frequently. It knows what you do. So if you are a plumber in Fort Wayne, Indiana, and then you just tell ChatGPT, hey, recommend a plumber in Fort Wayne, Indiana, it's going to recommend you. But that's not what it's going to recommend to everyone else. And this puts us in this dangerous situation where we don't actually know what ChatGPT is saying about us to other people who aren't us. So the prompt that's below this video, the goal of that is really to strip away user context and personalization and force ChatGPT to rely on external sources and treat you as if you were just some person that doesn't know anything about. Now, what you want to look for if you run this prompt is, first, of course, is your business mentioned. And then, if it is, what sources are cited? What sources is ChatGPT using, citing for your business? And then third, what words is ChatGPT pulling when it is recommending your business? It will source all of this. You can see it clearly if you're mentioned. And if you aren't mentioned, go ahead. Use this bonus prompt to try to figure out why. Who else is reputable that you didn't recommend and why didn't you recommend them? That can give you an idea of how to start building this. But we're going to cover in the next few lessons exactly what you need to do to get ChatGPT to recommend your business.",
-  "summary": "",
-  "key_points": [],
-  "tags": []
+  "summary": "This lesson explains how to use ChatGPT to check your business visibility by stripping away user context and personalization. The goal is to see what sources ChatGPT cites for your business and the words it uses when recommending it.",
+  "key_points": [
+    "Strip away user context",
+    "Check cited sources",
+    "Examine recommended words"
+  ],
+  "tags": [
+    "chatgpt",
+    "business visibility",
+    "seo",
+    "personalization",
+    "external sources",
+    "prompting"
+  ]
 }

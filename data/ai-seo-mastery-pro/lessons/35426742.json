@@ -285,7 +285,19 @@
     }
   ],
   "transcript_text": "Okay, so this is the inside of the cloud workspace for my agency and for our copywriters. This is the exact one that we actually use on a regular basis. Let me show you how to set up the cloud projects. So on the left rail, I can just click on projects and you can see that I have one set up for the supporting content, category, service page, neighborhood page outlines. And below that I have a bunch set up for individual clients. But let me give you an idea of how these are set up. So I'm going to hit neighborhood page and you would hit new project to create this. And then in the instructions here, you can see these instructions are exactly what's in the copywriter instruction sheet, no difference. And what we'll look at, like if I open a random one here, you can see that the copywriter will give the necessary inputs and cloud will then go and create the outline. And I'll hit retry because the artifact was removed, no problem. So we'll just have it regenerate this outline and I'll pause the recording while it's doing that. Great. I just found it in a different chat, but no problem. Here's what that outline looks like when it's done with it. So once we're done with this and we're happy with this, we can copy this. So I'll just hit copy. And then we're going to go back to the overall projects. And now we're going to go into the actual client folder or the client project. And what we have here, they're all going to have this little file. And let me put this information in the training so you have it. But it's just telling Claude how to handle the keyword meta information. And then we have the prompt to actually write local content. And this prompt is, again, exactly the one that's in the copywriter instructions. The difference is at the bottom, so this is the last line in the copywriter instructions. And you can see that now we're going to put in that, hey, this has multiple locations. So I'm going to put the GBP information for each one. If it doesn't have multiple locations, clearly leave this line out, but still put the GBP information. Claude needs to know who they are. And yeah, so this is the GBP information. So we have the primary, secondary categories, all the services. Again, we want Claude to have all this necessary information. Then we have more information about this client. This is basically copy pasted from their about page. And then we've had some feedback from the client on different things that have been mentioned, air duct cleaning, truck mounted air duct cleaning, NAIT certification. So anything that the client gives us back, any feedback they give us, we'll just put in this project instructions, and they'll grow over time as the client gives us feedback. If the client gives very detailed feedback, like for specific content and what they changed exactly, then what we'll often do is give that before and after, hey, here's what we initially gave the content, here's the changes they made, we'll upload those in files. So that Claude has, hey, here's what we initially gave the client, and here's the final edited version that the client gave us back because the client didn't like the first version. And then we'll add a line down here, please write in the style of the after pages in the files, something like that. And that just keeps going like that, and it gets more and more involved. So you can see the projects that we have, we have one for each of the different types of outlines, then we have one for each of the different clients. So that's how we're running the Claude projects here. So the actual setup, when we get a new client, it only takes a couple of minutes, we just have to create the new Claude project for that specific client, and we're good to go.",
-  "summary": "",
-  "key_points": [],
-  "tags": []
+  "summary": "This lesson explains how to set up Claude projects for managing client content. It covers creating new projects, inputting necessary information, and organizing files for each client.",
+  "key_points": [
+    "Create new project using 'new project' option",
+    "Input copywriter instructions and client details",
+    "Organize files with client feedback and multiple location data"
+  ],
+  "tags": [
+    "claude",
+    "project setup",
+    "copywriting",
+    "client management",
+    "content creation",
+    "instructions",
+    "feedback incorporation"
+  ]
 }

@@ -195,7 +195,20 @@
     }
   ],
   "transcript_text": "OK, so what we're going to do here is use Claude to do a quick click-through rate analysis. The reason we do this is improving the click-through rate is a very quick and effective way to significantly increase traffic almost overnight. You're basically just trying to get more clicks to people who are already seeing the website and not clicking on it. So what we're going to do, we're going to start in Google Search Console here. And we're going to come down to Performance, there it is. And once we're at Performance, we're just going to hit Export. And we're going to export the CSV. And we're going to get this folder of files. Now, we care about pages and we care about queries. So we're going to come over to Claude. And these project instructions will be below this video, so you can copy it in. And we'll go ahead and we'll open up the queries. And we'll open up the pages. And what we're going to do is grab these rows that have data, give it to Claude, and then grab these columns with queries and give that to Claude and hit Enter. I just pause it there for the AI to do its thing. And we get this helpful report. Now, clearly, we're going to focus on the high priority actions and a couple more prompts with Claude. And we'll be able to get it to write new title tags and meta descriptions for us based on the keywords that these pages are ranking for. You can see we've also have this lovely chart that's been generated for us. And we can take this as the first step and then decide which URLs to have Claude rewrite title tags, meta descriptions, implement that, and target a click-the-rate improvement for this brand new client.",
-  "summary": "",
-  "key_points": [],
-  "tags": []
+  "summary": "This lesson explains how to use Google Search Console and Claude to analyze click-through rates by exporting data, identifying high-priority actions, and optimizing title tags and meta descriptions based on keyword performance.",
+  "key_points": [
+    "Export data from Google Search Console",
+    "Identify high-priority actions for optimization",
+    "Use Claude to rewrite title tags and meta descriptions",
+    "Target click-through rate improvement"
+  ],
+  "tags": [
+    "google search console",
+    "click-through rate",
+    "optimization",
+    "title tags",
+    "meta descriptions",
+    "claude",
+    "keyword performance"
+  ]
 }

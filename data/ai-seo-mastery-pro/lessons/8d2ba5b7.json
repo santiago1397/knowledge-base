@@ -250,7 +250,22 @@
     }
   ],
   "transcript_text": "So disavowing, it comes and goes as to whether it's worthwhile to do or not. Sometimes, disavowing does absolutely nothing and then Google will do an algorithm update and suddenly disavowing links can be incredibly valuable. And then it'll go the other way where it'll stop being effective again. Disavowing essentially is a process where you're going to tell Google to ignore incoming links from certain domains. So you can do this from the Search Console. A really good way to basically screw over a domain completely is to disavow every domain that is giving them a link. For anyone who says links aren't important, go ahead and disavow every link coming to your website and see what happens to the traffic. Obviously, don't do that unless you're really angry at the website. So what we're going to do is we're going to grab the links and we're going to grab it from Search Console, not from a third-party backlink checker. So we're going to come into links and then we're going to grab internal links and export external links. And we're going to grab the latest ones in the CSV and export that. Here's the list. It is, I think, 1,486, because remember we have the headline there. So 1,486 links coming into this particular domain. And we want to see which ones of these are low quality and we want to disavow and which ones we want to keep. So of course, let me just close out of this. Don't save. And I'm going to come over to ChatGPT. We'll give it that file. And then I'm going to give it this prompt. So ChatGPT will do this. It's going to give you a plan and then it's going to, would you like me to proceed? So we'll just tell it to proceed. So we were able to get it here where it is telling us that it is not indexed, not indexed. This one is indexed. We just want to continue with more domains. Perfect. All right. And it's going to give us a disavow file that we can download here. It is the text file as Google requires. Obviously, we'd want it to run through the rest of it, but this isn't the correct format. And we can go over to the disavow tool to find this. Just do a Google search for disavow and you'll be able to find it. So we'll select a property and it's this one and we would upload that text file. I'm not going to actually do it. And yeah, you can see the warning right here. So be careful when you're doing this. It's worth checking every once in a while. Basically, if the domain was de-indexed by Google, then it's probably worth disavowing. If the domain is still on Google, then maybe don't disavow it. So the other way to check it, you know, there's a tool like this one, indexedchecking.com, and it only allows 20 URLs. So if I grab the first 25 URLs, I can put it in there and run it. Then very similarly, we're also going to be able to determine a list of very quality, very low quality domains, domains that Google has actually de-indexed. So that's how you disavow and hopefully this was helpful for you.",
-  "summary": "",
-  "key_points": [],
-  "tags": []
+  "summary": "The lesson explains how disavowing backlinks can be a useful SEO strategy depending on Google's algorithm updates. It involves exporting and analyzing incoming links from the Search Console, identifying low-quality domains, and using tools like ChatGPT to create a disavow file.",
+  "key_points": [
+    "disavowing backlinks",
+    "Google algorithm updates",
+    "Search Console for link analysis",
+    "ChatGPT for disavow file creation",
+    "index checking tools"
+  ],
+  "tags": [
+    "seo",
+    "backlinks",
+    "google",
+    "algorithm",
+    "disavow",
+    "search console",
+    "chatgpt",
+    "link quality"
+  ]
 }

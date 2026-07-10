@@ -450,7 +450,22 @@
     }
   ],
   "transcript_text": "So here I'm going to show you how we use Page Optimizer Pro. So we're going to take, I'm going to hit New Project. We're going to take the content that we just wrote with the additional FAQ section. We're going to make that update. And then we want to copy and paste the domain, OK? So no problem. I'm going to grab the domain and put it there. And Page Optimizer Pro, the way it works, you guys may have heard of it. Essentially, it analyzes the content, the keywords, the LSI keywords in that competitors use to give you recommendations to rewrite your content in a way that Google understands it. So this is something, it's like the last step that we would do before we source an external link to the content. And the goal here is just to make sure Google understands it. The way this tool works, it can be super, super effective. It's actually so effective that its founder has ranked websites with lower Ipsum content, which is made up words. But he's used a tool like this one, an early version of this tool, to put the right LSI keywords in the right place and then was basically able to rank made up content. So this helps you write for Google. You still need to write for users, of course, also. I'm just going to call the project 4K9s. We're going to create a new on-page optimization. That's what we want. We're going to go ahead for the pro. And the main keyword, of course, we know it's this one that ChatGPT told me. I'm going to use English. I'm going to use the United States. And now we're going to grab that specific URL. I'm going to put it there. If you want to use these, you can. I'm not going to for now. And I'll just call it wire create versus plastic kennel. And I'll hit Next. And I could add secondary keywords. But again, I'm just going to do a quick example here to show you what this tool does. I'm going to go ahead and let this process and pause the recording. All right, here we go. So we have a 25%, which isn't great. We can hit Open Report. And really, what this tool is telling us is where to put important terms. So in the search engine title is the title tag. It's saying that we need to use it. So we've done OK. You can see green dots versus orange here. So should we use plastic crate in the title? Then we have the page title, subheadings, and then main content. So essentially, what we would want to do is rewrite the main content to follow these guidelines. So the word create, we should be using it zero or one time. And we're using it 14 times. So we probably want to rewrite this content to remove the word create. And we can keep going down. We can see all of this. And beyond that, there's additional help on some of the page structure, whether using bold italics. We have images, lists, tables. So we can go through this and schema is good. So we do have schema on there. We can see what types of schema our competitors have versus the schema that we have. We can generate additional schema if we want. We have LSI variations, similar thing. We write 45 as a target for create. And we're using it 19. So basically, we would go through this. And we'd use this information to make relatively small changes to the content, just to optimize it so that Google knows what we're writing about. And this, combined with the prior lesson where we went through and added the FAQ sections for topical authority, topical relevance, these two areas just doing these two where often enough to get a good boost in rank position and put our client's website onto the first page of Google results and just get massive amounts of traffic very quickly with these two techniques.",
-  "summary": "",
-  "key_points": [],
-  "tags": []
+  "summary": "This lesson demonstrates how to use Page Optimizer Pro to analyze and optimize website content for better search engine understanding. The tool provides recommendations on keyword placement, schema usage, and other on-page optimization techniques.",
+  "key_points": [
+    "Analyze content for keyword optimization",
+    "Improve title tags and subheadings",
+    "Use LSI keywords effectively",
+    "Check page structure and schema",
+    "Make small changes to boost SEO"
+  ],
+  "tags": [
+    "seo",
+    "optimization",
+    "content analysis",
+    "lsi",
+    "schema",
+    "title tag",
+    "subheadings",
+    "keyword placement"
+  ]
 }

@@ -185,7 +185,20 @@
     }
   ],
   "transcript_text": "So we need access to three key things to get started. The first one is going to be a Google Business Profile. So with the account that owns the Google Business Profile with the Google account, you're just gonna come onto this section here and we're gonna click here and hit Business Profile Settings. And then we're going to go to People and Access and you're going to hit Add. And you're going to add as a manager, the email address is alcooologisticsinc at Gmail.org. And you'll hit Invite, I'll get the email and we'll be able to respond. Next, we need access to your WordPress site. If you don't have the site on WordPress, let me know whatever website platform you're built on and we can help you figure out how to grant access. But most are on WordPress. So the way to do it on WordPress is we're gonna come into Users and hit Add User. And here we're gonna do a username so we can do alcooologistics, email. We're gonna do the same email, alcooologistics.email.com. These are not required so you can leave them blank. Password is fine. And then as a role, we're just going to choose Editor. And then you'll hit Add User. I'll again get the email confirmation for that. The third and final is going to the Google Search Console. So here you're going to log into the Google Search Console. You'll come down and hit Settings. And then under Users and Permissions here, and then you'll hit Add User. As before, we'll use the alcooologistics.email.com and permission is full. And then you'll hit Add and that's it.",
-  "summary": "",
-  "key_points": [],
-  "tags": []
+  "summary": "This lesson explains how to request access to a Google Business Profile, a WordPress site, and the Google Search Console for client management. Access is granted through specific user roles and permissions.",
+  "key_points": [
+    "Request access to Google Business Profile",
+    "Add manager in Business Profile Settings",
+    "Grant access to WordPress site as an Editor role",
+    "Add user to Google Search Console with full permission"
+  ],
+  "tags": [
+    "googlebusinessprofile",
+    "wordpressaccess",
+    "searchconsole",
+    "userpermissions",
+    "managerrole",
+    "editorrole",
+    "clientmanagement"
+  ]
 }

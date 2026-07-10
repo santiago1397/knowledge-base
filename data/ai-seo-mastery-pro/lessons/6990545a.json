@@ -265,7 +265,22 @@
     }
   ],
   "transcript_text": "So let's start by talking about how ChatGPT actually makes its recommendations. Alright, so fundamentally, ChatGPT basically has the same problem and the same goal that Google solved 25 years ago. That problem is how do we determine if a third-party website is trustworthy based only on information we can find on the internet. And the goal is to keep users engaged with their platform. Google wants to keep you as long as possible on Google and properties. ChatGPT wants to keep you chatting with ChatGPT. Neither one cares anything about who you are and they're not trying to figure that out. They're only trying to figure out whether there are enough other sources that they do trust agree that you or your business is legit. So that's our goal. Now, big differences of course, Google crawls the internet. ChatGPT does not. It's going to pull from Bing API and it's going to pull from pre-trained data. This is up to 2023 and it can generate real-time search results. But for those search results, it relies on Bing a little bit more than Google, though it does Google things also. This means, of course, that recency is much more important to Google than it is to ChatGPT. ChatGPT doesn't really care about recency. It will often reference things that are years old as long as they're relevant to the question it's trying to answer. Now, ChatGPT uses something that we're going to refer to as semantic similarity. Google relies a lot on exact match keywords. Google also relies on semantic similarity, but ChatGPT basically ignores exact match keywords entirely. So what that means is when ChatGPT is reading all of the reviews about your business, which it will, to decide whether or not to recommend it, it's going to pay specific attention to what is being written in those reviews. So reviews that mention similar things are much more likely to get that business recommended by ChatGPT, right? So ChatGPT isn't looking for best plumber in a review because that feels spammy. ChatGPT knows instead to look for reviews that mention the plumber was fast or clean or well priced, things like that. Now, of course, Google relies heavily on Google reviews. ChatGPT will also look at the Google reviews and read all of them. On top of that, it's going to read all of the reviews about your business on every site that it can find reviews. Now, Google and ChatGPT, they're both looking for consistency of mentions. This is what we refer to before as citations for Google. ChatGPT is going to specifically look for brand mentions in very high trust environments. Reddit, local news, forums, Quora, next door. So this is different, right? For this to work for Google, you would need these high trust environments to actually link to your website. But for ChatGPT optimization, we don't need them to link to our website. We just need them to mention the business name. That's what ChatGPT is looking for, business name mentions. That's very different. Now, let's talk about schema. Schema is important to Google. It is even more important to ChatGPT. So ChatGPT is much more likely to cite your business or your client's business as a source if you're using local business schema, Epicuse schema, and you have very clear answers to service-related questions which you can and should embed in the schema. We'll talk more about this when we break down schema in a future lesson. So in short, just the 30,000-foot view, Google ranks websites where as ChatGPT recommends businesses. Now, it is important to note that if Google is ranking your website high, that is a trust factor for ChatGPT. So ChatGPT is most likely to recommend businesses that are ranking well on Google. And even better, most of what works to rank on Google will also work to get ChatGPT to recognize and recommend your businesses. There are just a few key differences, a few additions that you might want to consider to get ChatGPT to recommend your business. That's what we're going to cover here.",
-  "summary": "",
-  "key_points": [],
-  "tags": []
+  "summary": "ChatGPT makes recommendations based on semantic similarity and high trust mentions in relevant environments like Reddit or local news, rather than exact match keywords. It relies heavily on schema for business recognition and consistency across reviews.",
+  "key_points": [
+    "uses semantic similarity",
+    "high trust mentions",
+    "schema is crucial",
+    "reviews are important",
+    "Google ranking helps"
+  ],
+  "tags": [
+    "chatgpt",
+    "recommendations",
+    "semantics",
+    "trust",
+    "reviews",
+    "schema",
+    "seo",
+    "optimization"
+  ]
 }

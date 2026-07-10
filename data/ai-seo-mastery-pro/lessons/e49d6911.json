@@ -325,7 +325,20 @@
     }
   ],
   "transcript_text": "Okay, so let's talk about how we structure content, how we structure a website for non-local websites. So here I'm going to assume that you've done the Topical Relevance Map. That's an earlier module set, so go do that if you haven't yet. But once we do that, we basically, let me with this, structure the site around that Topical Relevance Map. So the first thing we did with the Topical Relevance Map is we asked ChatGPT to give us a bunch of different topics based on the same target keyword. So here we have four different topics. I think we asked for 30, so we could go all the way up to topic number 30. Then we asked ChatGPT for 15 variations, and we're going to do that for each of the 30 topics. So topic one, here's the variations. Topic two, variations, three variations, four variations. And then if we aren't quite ranking well enough, we're going to start to do supporting content for the keyword variations. Typically we do the supporting content there under the keyword variations. We can do it under the topic, but 15 variations is usually enough so that we can worry about doing supporting content down here. So 30 topics, 15 variations for each topic that obviously translates into just a huge number of articles. The way this linking will work is this topic, the article in topic one, will link to each one of the variation URLs. And that link will happen in a section of text that is relevant to these variations. Each one of these variations will also link back up to topic one, and we'll do a link circle. So one links to two, two links to three, three links to one. Obviously if we had more of these, we would just keep that link circle going. Same thing for the supporting content, except we treat the variation like the topic. So variation links down to one, variation links down to two, supporting content one links up to variation, supporting content two links up to variation, one links to two, okay? Now, we do not want topic four, variation two, to link over to topic one. We wanna keep these as structured silos that don't interlink across these different topics, and that's how we build up topical relevance as quickly as possible. Follow the guidelines on how to write content with chat GPT, and these, I know it looks like a lot of content, but content is relatively inexpensive now, so this'll come together fairly quickly. And don't forget, generally we wanna source at least one link to each one of these so that Google knows it's good content.",
-  "summary": "",
-  "key_points": [],
-  "tags": []
+  "summary": "The lesson explains how to structure a website by creating topics and keyword variations based on a Topical Relevance Map. Each topic links to its variations, which in turn link back to the main topic, forming a circular link structure. This approach helps build topical relevance quickly while keeping content organized into structured silos.",
+  "key_points": [
+    "create topics from Topical Relevance Map",
+    "link each variation to the main topic and vice versa",
+    "formulate supporting content for variations",
+    "keep topics as structured silos"
+  ],
+  "tags": [
+    "site structure",
+    "seo",
+    "content strategy",
+    "keyword optimization",
+    "topic modeling",
+    "link building",
+    "structured content"
+  ]
 }

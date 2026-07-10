@@ -290,7 +290,23 @@
     }
   ],
   "transcript_text": "So here we're going to use some custom regex in the Google search console and the reason for that is to identify Keywords that are very specifically a certain type of keyword that we want to improve rank position So I'm going to give you a couple of examples as usual I'll have the file here for resources sooner. You don't need to copy this down. So we're going to filter by query And We're going to come down to custom regex Okay, and what we're going to put in here is this what who when where why how so that's going to show me all of the Queries that include one of those words So this is going to show me all of the question queries that this domain is already ranking for so if I wanted to improve content Write more information Then I know that these queries are queries that users are already searching and already clicking on my Website so improving the content for these or adding additional content for these queries is massively helpful Remember search console only show you a thousand queries at maximum So in this case this particular client has a thousand queries that are Questions now if I want to see so this was getting 54 clicks if I want to see which page is associated with that I can click on it That's going to add that as a filter and then I can come over to pages And I can see there are three pages ranking for that query and they're combining for 54 clicks And if I look at the average position You know we're in position five here where they're getting 50 clicks from it So I would certainly be thinking about improving the information on this page for how to stop seizures and that would Potentially significantly increase the one of traffic they're getting so I'm going to get rid of that Query I'll show you another one another good one, which is It's going to identify long tail keywords for us. So again, I'm going to hit new query and The point of all of this is it's much easier to rank improve rank position Than to rank for things that you're not already ranked for so this I know this looks pretty crazy but that's going to give us the Queries that are more than five words long So this is long tail keywords that we're already ranking for generally things that are more than five words long They're a lot easier to rank for Lower search volume So again, we can see we have over a thousand queries That match this and I could do the same technique I did before and figure out which pages are each of these ranking for and Go in there and improve the content and improve the amount of traffic that I'm getting from these long tail keywords the next one I'll show you is For e-com clients in particular. This is an e-com store. So this is going to give me Which queries am I already ranked for that are that show buyer intent? So price advice buy order promotions Best so again, you know, I'm showing all the queries on this domain That include one of those buyer intent type words, which will and there's only 954 of these So these getting more traffic from buyer intent words is obviously a massive Massive improvement in the sales. So if I looked at this one, right, I'm in position eight Best backseat cover for dogs. That's pretty low on the first page Maybe I could get that a little bit higher on the first page. This one is interesting best truck seat covers I'm in position 18 or how about how about this one first position on the second page That is the first loser in SEO best dog seat cover man If I could get that up two or three Positions to the bottom of the first page. I'm gonna get not 13 clicks I might get 50 or 60 clicks and that's gonna significantly increase the amount of orders I'm getting from that query. So another quick way to set up a quick win for your client this time using Fancy red Jax filtering in the Google search console queries",
-  "summary": "",
-  "key_points": [],
-  "tags": []
+  "summary": "This lesson explains how to use custom regex in Google Search Console to identify specific types of keywords for improving content rank position. It covers filtering by query, identifying question queries and long-tail keywords, and finding buyer intent terms to enhance e-commerce sales.",
+  "key_points": [
+    "use custom regex in search console",
+    "filter by query type",
+    "identify question queries",
+    "find long-tail keywords",
+    "target buyer intent terms",
+    "improve content for better rankings"
+  ],
+  "tags": [
+    "google search console",
+    "seo",
+    "content optimization",
+    "keyword analysis",
+    "e-commerce",
+    "rank improvement",
+    "buyer intent",
+    "long-tail keywords"
+  ]
 }

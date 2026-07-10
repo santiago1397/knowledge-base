@@ -235,7 +235,25 @@
     }
   ],
   "transcript_text": "give you guys this checklist. The reason we built it is because we're adding the ability for the core 30 agent to build its own websites. Now I've said before that AI built websites usually don't rank as well as websites on WordPress or other CRMs website platforms. And that is true. But the reason AI built websites often don't rank as well is because quite simply if you ask Claude or Lovable to build your website, they don't put a lot of the things in that Google and the AI systems need to have in there. So what this is, it's literally a checklist. You can copy it, you can give it to Claude and say, Hey, build me a website, make sure you include these things. Okay, that's what this is designed for. That's the use case. So I'm not going to walk through what all of this exactly means. I had my developers put this together, because I don't frankly know what a lot of this exactly means. The big one is this top one. If you just ask Claude code to build a website, it's likely going to build you something very pretty looking in JavaScript. The challenge with JavaScript, yes, Google can render JavaScript, but it takes a lot longer for Google to render JavaScript than for Google to render base HTML. And the bigger issue, assuming that you're trying to show up in the AI systems is Claude bot, chat, GPT bot, Grock bot, none of them are capable of rendering JavaScript. So if your website is built in JavaScript, you're invisible to AI's, and Google will struggle to crawl just because it takes so much time. So that's the biggest issue. Like if there's one thing that you take away from this is make sure your website is built on static generated HTML. The other really big thing, probably the second biggest on URLs and redirects is the single canonical host name. So you have to keep in mind that every single URL has four versions with and without the www and with and without the trailing slash, choose one of those one of the four, be consistent, and make sure the AI canonicalizes all of the website URLs to the one that you've chosen and implement redirects to the one that you have are from the one that you have not chosen to the one that you have. Also make sure you have that HTTP redirect. Okay, so the way I've split this is layer one, which is the overall website, things that the website needs to get right. So I would suggest creating a project in Claude, and working with that, having it give prompts for Claude code to build the website to add pages, whatever you want to do. But in that Claude project, you can upload this PDF. So Claude can see exactly what it needs to keep in mind for any of the website changes or updates that it's giving prompts to for Claude code. And I think on here, there's a site map. And, and this is a big one, right? If you just ask Claude code to add a new page, we'll usually not update the site map unless you ask. So again, if you put this checklist in a Claude project, and then work with that project to get your prompts, one common thing that I see people do is they'll use the core 30 agent to produce content, they'll export that content and HTML, they'll give it to Claude project that has something like this in the project files and say, hey, can you redesign this HTML to be consistent with the existing website, and then give me a prompt so I can give Claude code to actually build this and add this additional page. Now, below all of that website, we have the content layer. This is everything you need to be aware of that is on each individual page to make sure the pages are set up as well as possible, to provide the trust and to rank you. And this core 30 agent symbol over here means that the core 30 agent will take care of you. So go ahead, use the core 30 agent for the content production for the research, it makes this a lot easier, a lot faster, and it's going to take care of a lot of these page level issues for you. So hopefully this is helpful. And yeah, go ahead and use it. Like I said, a Claude project, I think is the best use case for this, where you then just copy a prompt from crop cloud project into Claude code. I expect this to be temporary fairly soon, we're going to roll out the ability for the core 30 agent to just directly build websites.",
-  "summary": "",
-  "key_points": [],
-  "tags": []
+  "summary": "This lesson provides a checklist to ensure AI-built websites are optimized for search engines and AI systems. It emphasizes static HTML over JavaScript for better rendering and mentions the importance of consistent URL structures and content optimization.",
+  "key_points": [
+    "static generated HTML",
+    "consistent URL structure",
+    "AI website optimization",
+    "JavaScript vs. HTML",
+    "canonical host name",
+    "content layer optimization",
+    "core 30 agent"
+  ],
+  "tags": [
+    "ai",
+    "website",
+    "optimization",
+    "html",
+    "javascript",
+    "seo",
+    "url",
+    "redirects",
+    "content"
+  ]
 }

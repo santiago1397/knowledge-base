@@ -280,7 +280,19 @@
     }
   ],
   "transcript_text": "So I'm going to show you how to create a custom project with Claude that will make it much easier and faster For you to use Claude for a lot of the AI asks now in the past I haven't recommended using the GPT's the custom GPT's for chat GPT And that's because I found them not super effective chat GPT often would do things outside of the Specific directions in the GPT, but I found that Claude is much better at following these project instructions so we're going to go to Claude and we're going to go to projects and We're going to create a new project and I'm going to call this one summarize weekly zoom transcript for community I want to give you a transcript for a weekly zoom call and ask you to pull out the most important parts for For the community to see so that's it That's all I want and this is for the weekly zoom huddles Of course, you could also do this for writing content You could do this for keyword research any time where you have the same prompt using over and over again I really like these personal projects and let me give you an example, right? So if I did set custom instructions, this is how strong so I could say respond in Three words all the time No matter what the prompt is Okay, so that's the custom instruction. I've given it and then Then I could how can I use you for a I SEO? Three words. Okay, so this is something that chat GPT would not be able to do. Okay, so I just want to give you that quick example So And what I want is custom instructions now the best way to develop these is going to be Not on Claude on a Google Doc or Microsoft Word or something like that because this is so small so I'm gonna go ahead and grab the prompt that I've already written and I'm going to put it in the format of it in the lesson here so you can edit this for your own so I'll paste it in and Save instructions and now I should be able to just grab The transcript from Vimeo and out load it directly Before I do that It's important that you can add content here and you can upload files You can add text and you can give Claude much more internal information that it will focus on and only use for this project so for example if you had a if you were doing a content generation project and you had a list of words that you Didn't want Claude to use you could simply add text and you could simply add the text and words To not use and then I would paste in all the words. I didn't want Claude to use And then it would obey that when it is in this project This is an incredible way to quickly automate a lot of the tasks with Claude Instead of keeping all the prompts somewhere else and copy pasting them in all the time All right, so here are the auto-generated captions from Vimeo and I'll just enter I don't even need any text because Claude is using the custom instructions. I gave it So just to remind you this is the format I asked it to take executive summary key takeaways main discussion points notable Q&A emerging trends tools and resources mentioned and Here is the output. We have executive summary key takeaways main discussion points. Let me move my face Notable Q&A's emerging trends and challenges tools and resources mentioned so very effective very cool And now when I summarize this transcript every week, I just have to drop the auto-generated Vimeo captions in and Hit enter and we'll automatically do it highly highly recommend that you create a quick Claude project for any Tasks like that and the big ones that I see are of course keyword research any sort of frequent data analysis that you're doing With Google search console data the undercover lead magnets that you're generating and of course content production",
-  "summary": "",
-  "key_points": [],
-  "tags": []
+  "summary": "This lesson explains how to create a custom project in Claude for tasks like summarizing weekly Zoom transcripts. It highlights the benefits of using custom instructions and shows how to set up the project with specific prompts.",
+  "key_points": [
+    "create custom projects",
+    "use custom instructions",
+    "summarize content efficiently"
+  ],
+  "tags": [
+    "claude",
+    "custom projects",
+    "ai",
+    "automation",
+    "content summarization",
+    "prompt engineering",
+    "seo"
+  ]
 }

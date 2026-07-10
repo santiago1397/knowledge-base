@@ -180,7 +180,19 @@
     }
   ],
   "transcript_text": "So I know it's highly, highly tempting to take content directly from AI and publish it to your website. So the whole point of this is to ask you to not do that. There are two reasons that you really need a human editing step in your content. Okay, number one is to prevent hallucination. If you don't know hallucination is a polite word that basically means the AI just makes things up, right? AI can't fact-check, it just makes things up and states it very confidently and very wrong. So you'll want to fact-check a lot of the stated information to make sure it actually is correct. And number two, AI, right now at least, it struggles with adding human uniqueness, perspective, experience, advice, opinion. The new version ChatGPT40 for Omni is getting better at that, but it still struggles compared to a human writer because, you know, it doesn't actually have any human experiences. So fact-checking is the goal to prevent hallucination. Really, you know, anytime you see a fact inserted into the content, just quickly double-check that. Google search, look for a trusted source that's going to give you, hopefully, verify that information or edit it so that it is correct. And for human editing, when we get to the prompts that we use, you'll see that what we do is we ask ChatGPT to add human experiences, human stories, and metaphors, and all of this to try to mimic a human writing, a human writer. Often, those experiences they're obviously all made up and they're often not very good. So the real goal of human editing is to take those sections where ChatGPT has inserted, you know, mediocre human experience stories and improve them by using your own or your editor's actual human experience to talk about, you know, what it's like to be human and add that perspective. So my advice is to not skip it. We know that Google doesn't care if your content is AI or not. Google cares if it is helpful, if the if its searchers are engaging with your content and interacting with it. But in my experience doing this, peer AI content, even from the newest ChatGPT 4.0, is just not good enough to create the level of user engagement that you need if you want to rank under the first page and stop there. Plus, human editing is typically relatively inexpensive. So we can publish an article for, you know, $10 in total amount of cost. That's the time of my editor to have ChatGPT generate the article and the time of my editor to actually do the human editing. So it doesn't take a huge amount of time. And I think it's a really important step to make sure that any ranking you get, any traffic you get, are not going to be temporary, especially as ChatGPT as AI content gets better and better and better. In my mind, this becomes more and more important to separate your content from what your competition is doing.",
-  "summary": "",
-  "key_points": [],
-  "tags": []
+  "summary": "This lesson emphasizes the importance of human editing for AI-generated content to prevent factual errors and enhance uniqueness. It suggests that while AI can produce initial drafts, human editors are crucial for fact-checking and adding personal experiences and perspectives.",
+  "key_points": [
+    "prevent hallucination",
+    "add human uniqueness",
+    "human editing is necessary"
+  ],
+  "tags": [
+    "ai",
+    "content creation",
+    "seo",
+    "fact-checking",
+    "editorial process",
+    "uniqueness",
+    "engagement"
+  ]
 }

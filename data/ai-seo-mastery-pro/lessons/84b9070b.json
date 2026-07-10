@@ -160,7 +160,21 @@
     }
   ],
   "transcript_text": "Alright, so the GVP description we're going to have chat GPT right up for us This is the prompt we're going to give it 750 characters is the limit for the GVP description if chat GPT goes way over that this is this right here is The biggest challenge it often ignores this if it goes way over then the next prompt that you would want to give it is rewrite with the 750 character limit in mind do not exceed 750 characters So if it does write more than 750 characters, just give it the second prompt head You don't have to worry about editing it yourself Just give it the second prompt straight away and it'll rewrite it Obviously, you'll want to update the number of years. They've been in business This should also definitely match their about us page and unique selling proposition. That's a weird Punctuation there. This is basically why would why would someone go to them instead of their competition? Right, do they offer a better warranty? Do they offer better customer service? What do they offer that makes people want to go there? If you're not sure what a good unique selling proposition is then you can actually start by saying give me some great examples of unique selling propositions for plumber Located in Houston, Texas So as usual if we're struggling and we can't think of something good that we want to put there Then we can just ask chat you to help us. They're gonna give some good examples You can take those run them by a client see what they think and then choose one that sounds good And work that into your GBP description This doesn't need to be amazing, but it needs to be filled out and it needs to be you know decent",
-  "summary": "",
-  "key_points": [],
-  "tags": []
+  "summary": "This lesson explains how to create a GBP description using Chat GPT within a 750-character limit. It emphasizes matching the description with the 'about us' page and unique selling proposition, suggesting examples if needed.",
+  "key_points": [
+    "Use Chat GPT for GBP description",
+    "Limit text to 750 characters",
+    "Match description with about us page",
+    "Incorporate unique selling proposition",
+    "Provide examples if unsure"
+  ],
+  "tags": [
+    "chat gpt",
+    "gbp description",
+    "character limit",
+    "unique selling proposition",
+    "about us page",
+    "writing tips",
+    "seo"
+  ]
 }
