@@ -20,7 +20,8 @@ import pyarrow.parquet as pq
 
 from app.db import cursor
 
-REPO_ROOT = Path(__file__).resolve().parents[2]
+_here = Path(__file__).resolve()
+REPO_ROOT = _here.parents[2] if len(_here.parents) > 2 else _here.parent
 
 
 def vec_literal(values) -> str:
