@@ -1,0 +1,801 @@
+{
+  "course": "ai-seo-mastery-pro",
+  "code": "17d349dd",
+  "title": "What is E-E-A-T?",
+  "duration": "7m23s",
+  "source_url": "https://www.skool.com/ai-seo-mastery-pro/classroom/63a81f62?md=17d349dd92024f6090ccfdd54dfd8580",
+  "video_url": "https://www.loom.com/share/0b2b31a6309c4b809304ab2fc3b09ec5?hide_owner=true&hide_share=true&hide_title=true&hideEmbedTopBar=true",
+  "video_file": "17d349dd_what-is-e-e-a-t [0b2b31a6309c4b809304ab2fc3b09ec5].mp4",
+  "content_md": "# What is E-E-A-T?\n\n- Code: 17d349dd\n- Source: https://www.skool.com/ai-seo-mastery-pro/classroom/63a81f62?md=17d349dd92024f6090ccfdd54dfd8580\n- Video: https://www.loom.com/share/0b2b31a6309c4b809304ab2fc3b09ec5?hide_owner=true&hide_share=true&hide_title=true&hideEmbedTopBar=true\n- Duration: 7m 23s\n\n## Description\n\n_(no description)_\n",
+  "transcript": [
+    {
+      "start": 0.24,
+      "end": 2.76,
+      "text": "So let's talk about EEAT."
+    },
+    {
+      "start": 2.76,
+      "end": 5.76,
+      "text": "It stands for experience, expertise,"
+    },
+    {
+      "start": 5.76,
+      "end": 8.36,
+      "text": "authoritativeness, and trustworthiness."
+    },
+    {
+      "start": 8.36,
+      "end": 11.0,
+      "text": "The concept was introduced in late 2022,"
+    },
+    {
+      "start": 11.0,
+      "end": 16.4,
+      "text": "like December of 2022, to Google's search radar guidelines."
+    },
+    {
+      "start": 16.4,
+      "end": 18.86,
+      "text": "That means it actually predates the helpful content updates"
+    },
+    {
+      "start": 18.86,
+      "end": 23.4,
+      "text": "that we saw in late 2023 and in March 2024."
+    },
+    {
+      "start": 23.4,
+      "end": 26.56,
+      "text": "So the search radar guidelines, if you're not familiar,"
+    },
+    {
+      "start": 26.56,
+      "end": 28.28,
+      "text": "they're not actually a ranking factor"
+    },
+    {
+      "start": 28.28,
+      "end": 31.68,
+      "text": "to set up documents, like a 300-page PDF document,"
+    },
+    {
+      "start": 31.68,
+      "end": 34.6,
+      "text": "that's a set of guidelines that human quality"
+    },
+    {
+      "start": 34.6,
+      "end": 38.28,
+      "text": "raters use to evaluate the quality of search results."
+    },
+    {
+      "start": 38.28,
+      "end": 42.32,
+      "text": "So this is how Google decides that its search results are good,"
+    },
+    {
+      "start": 42.32,
+      "end": 43.88,
+      "text": "its search results are helpful."
+    },
+    {
+      "start": 43.88,
+      "end": 46.48,
+      "text": "In addition to using user engagement data,"
+    },
+    {
+      "start": 46.48,
+      "end": 50.28,
+      "text": "they actually have a team of humans who will do searches"
+    },
+    {
+      "start": 50.28,
+      "end": 53.2,
+      "text": "and then use the search radar guidelines"
+    },
+    {
+      "start": 53.2,
+      "end": 57.0,
+      "text": "to decide whether the search results are quality or not."
+    },
+    {
+      "start": 57.0,
+      "end": 58.6,
+      "text": "So they're not actually a ranking factor."
+    },
+    {
+      "start": 58.6,
+      "end": 62.64,
+      "text": "That being said, when Google sees too many low-quality pages"
+    },
+    {
+      "start": 62.64,
+      "end": 65.32,
+      "text": "on its search results, Google uses that data"
+    },
+    {
+      "start": 65.32,
+      "end": 67.88,
+      "text": "to drive algorithm changes."
+    },
+    {
+      "start": 67.88,
+      "end": 70.96,
+      "text": "This is what we saw with the helpful content update."
+    },
+    {
+      "start": 70.96,
+      "end": 74.56,
+      "text": "And again, in the March 2024 core update,"
+    },
+    {
+      "start": 74.56,
+      "end": 78.2,
+      "text": "where Google took and basically took a bunch of traffic"
+    },
+    {
+      "start": 78.2,
+      "end": 83.08,
+      "text": "from niche websites and gave it to highly authoritative user"
+    },
+    {
+      "start": 83.08,
+      "end": 85.4,
+      "text": "content-generated sites."
+    },
+    {
+      "start": 85.44,
+      "end": 91.4,
+      "text": "So the theory, of course, is that the word experience"
+    },
+    {
+      "start": 91.4,
+      "end": 96.0,
+      "text": "will, if the website owner has direct experience,"
+    },
+    {
+      "start": 96.0,
+      "end": 100.12,
+      "text": "then it's going to help build trust with the searcher."
+    },
+    {
+      "start": 100.12,
+      "end": 103.2,
+      "text": "Theoretically, the example that Google uses,"
+    },
+    {
+      "start": 103.2,
+      "end": 105.64,
+      "text": "a searcher would not trust a restaurant review"
+    },
+    {
+      "start": 105.64,
+      "end": 107.88,
+      "text": "if the person writing the review had never actually"
+    },
+    {
+      "start": 107.88,
+      "end": 110.44,
+      "text": "been to the restaurant, which makes sense."
+    },
+    {
+      "start": 110.44,
+      "end": 113.84,
+      "text": "So let's break down each one of these experience."
+    },
+    {
+      "start": 113.84,
+      "end": 115.6,
+      "text": "So what we're looking for here is"
+    },
+    {
+      "start": 115.6,
+      "end": 119.0,
+      "text": "that your content, your website, your author bio,"
+    },
+    {
+      "start": 119.0,
+      "end": 122.32,
+      "text": "it demonstrates firsthand experience with the topic"
+    },
+    {
+      "start": 122.32,
+      "end": 123.56,
+      "text": "that you're writing about."
+    },
+    {
+      "start": 123.56,
+      "end": 125.12,
+      "text": "So when you're doing content writing"
+    },
+    {
+      "start": 125.12,
+      "end": 128.4,
+      "text": "and we have this rewrite prompt in the content writer"
+    },
+    {
+      "start": 128.4,
+      "end": 133.2,
+      "text": "module, we can ask ChatGPT to write with firsthand experience."
+    },
+    {
+      "start": 133.2,
+      "end": 136.0,
+      "text": "If it does a bad job at that, because it's AI,"
+    },
+    {
+      "start": 136.0,
+      "end": 137.92,
+      "text": "it doesn't have firsthand experience."
+    },
+    {
+      "start": 137.92,
+      "end": 140.84,
+      "text": "So if it does a bad job at writing with firsthand experience,"
+    },
+    {
+      "start": 140.84,
+      "end": 142.96,
+      "text": "you can identify it in the human editing stage"
+    },
+    {
+      "start": 142.96,
+      "end": 144.88,
+      "text": "and improve the parts where it talks about having"
+    },
+    {
+      "start": 144.88,
+      "end": 146.2,
+      "text": "firsthand experience."
+    },
+    {
+      "start": 146.2,
+      "end": 148.6,
+      "text": "We also want to make sure that we have an author bio,"
+    },
+    {
+      "start": 148.6,
+      "end": 150.84,
+      "text": "and that bio should definitely focus"
+    },
+    {
+      "start": 150.84,
+      "end": 153.0,
+      "text": "on having firsthand experience with whatever"
+    },
+    {
+      "start": 153.0,
+      "end": 155.32,
+      "text": "the topic at hand is."
+    },
+    {
+      "start": 155.32,
+      "end": 158.64,
+      "text": "Expertise, so the first way we're going to manage expertise"
+    },
+    {
+      "start": 158.64,
+      "end": 161.04,
+      "text": "is by developing topical relevancy and authority"
+    },
+    {
+      "start": 161.04,
+      "end": 163.6,
+      "text": "mapping for all the content we produce."
+    },
+    {
+      "start": 163.6,
+      "end": 166.2,
+      "text": "If you're following the methods that I lay down"
+    },
+    {
+      "start": 166.2,
+      "end": 170.36,
+      "text": "for how to write content, how to decide what content to write,"
+    },
+    {
+      "start": 170.36,
+      "end": 172.32,
+      "text": "then you are going to go a long way"
+    },
+    {
+      "start": 172.36,
+      "end": 174.6,
+      "text": "toward developing the expertise."
+    },
+    {
+      "start": 174.6,
+      "end": 178.2,
+      "text": "This is one of the reasons that topical maps work so well"
+    },
+    {
+      "start": 178.2,
+      "end": 181.72,
+      "text": "for Google's search algorithm, the way that it works now,"
+    },
+    {
+      "start": 181.72,
+      "end": 185.84,
+      "text": "because that deep topical authority is established"
+    },
+    {
+      "start": 185.84,
+      "end": 187.0,
+      "text": "when you build that."
+    },
+    {
+      "start": 187.0,
+      "end": 190.72,
+      "text": "Additionally, citing sources and linking to trusted sites"
+    },
+    {
+      "start": 190.72,
+      "end": 192.8,
+      "text": "and studies, very, very helpful."
+    },
+    {
+      "start": 192.8,
+      "end": 194.76,
+      "text": "That's why when we write content,"
+    },
+    {
+      "start": 194.76,
+      "end": 198.2,
+      "text": "we're asking ChatGPT to always add external links"
+    },
+    {
+      "start": 198.2,
+      "end": 199.68,
+      "text": "to trusted sites."
+    },
+    {
+      "start": 199.68,
+      "end": 203.2,
+      "text": "Authoritativeness, so here we might do a little bit"
+    },
+    {
+      "start": 203.2,
+      "end": 205.56,
+      "text": "of off-site SEO."
+    },
+    {
+      "start": 205.56,
+      "end": 208.0,
+      "text": "A press release is a good way to add authoritativeness."
+    },
+    {
+      "start": 208.0,
+      "end": 210.24,
+      "text": "Then we're going to have links coming into the site"
+    },
+    {
+      "start": 210.24,
+      "end": 212.72,
+      "text": "from very high DR, very trusted websites"
+    },
+    {
+      "start": 212.72,
+      "end": 214.6,
+      "text": "that are press releases."
+    },
+    {
+      "start": 214.6,
+      "end": 217.92,
+      "text": "It's arguable whether that actually helps an SEO or not."
+    },
+    {
+      "start": 217.92,
+      "end": 220.08,
+      "text": "I think it does, I've seen some results,"
+    },
+    {
+      "start": 220.08,
+      "end": 222.16,
+      "text": "so we typically do press releases."
+    },
+    {
+      "start": 222.16,
+      "end": 225.0,
+      "text": "They're not super expensive, so it's generally worth doing."
+    },
+    {
+      "start": 225.0,
+      "end": 227.64,
+      "text": "On top of that, the name of the person"
+    },
+    {
+      "start": 227.64,
+      "end": 229.96,
+      "text": "who is writing the content on the website,"
+    },
+    {
+      "start": 229.96,
+      "end": 233.28,
+      "text": "if that same name is engaging on subreddits,"
+    },
+    {
+      "start": 233.28,
+      "end": 236.16,
+      "text": "industry forms, and similar areas that can also help"
+    },
+    {
+      "start": 236.16,
+      "end": 238.16,
+      "text": "to build the authoritativeness, and yes,"
+    },
+    {
+      "start": 238.16,
+      "end": 241.0,
+      "text": "there's a lot of evidence that Google's algorithm"
+    },
+    {
+      "start": 241.0,
+      "end": 245.28,
+      "text": "is looking at the byline who wrote that article,"
+    },
+    {
+      "start": 245.28,
+      "end": 248.6,
+      "text": "and then deciding if that is a real person or not"
+    },
+    {
+      "start": 248.6,
+      "end": 252.64,
+      "text": "based on how much other information is about that person."
+    },
+    {
+      "start": 252.64,
+      "end": 255.32,
+      "text": "Clearly, if you have a claimed Google knowledge panel"
+    },
+    {
+      "start": 255.32,
+      "end": 258.24,
+      "text": "that matches the author's name, that's huge."
+    },
+    {
+      "start": 258.24,
+      "end": 260.76,
+      "text": "Knowledge panels can be difficult to get,"
+    },
+    {
+      "start": 260.76,
+      "end": 262.72,
+      "text": "but if you have that, that's amazing."
+    },
+    {
+      "start": 262.72,
+      "end": 264.88,
+      "text": "Getting a knowledge panel just really comes down"
+    },
+    {
+      "start": 264.88,
+      "end": 268.8,
+      "text": "to having a lot of content about you on the internet."
+    },
+    {
+      "start": 268.8,
+      "end": 270.8,
+      "text": "Another way is to have a published book."
+    },
+    {
+      "start": 270.8,
+      "end": 272.2,
+      "text": "This is easier than it seems."
+    },
+    {
+      "start": 272.2,
+      "end": 274.92,
+      "text": "You can publish a book on Kindle Direct Publishing,"
+    },
+    {
+      "start": 274.92,
+      "end": 277.04,
+      "text": "and ChatGPT can be your ghost writer."
+    },
+    {
+      "start": 277.04,
+      "end": 280.12,
+      "text": "Another excellent way to show authoritativeness,"
+    },
+    {
+      "start": 280.12,
+      "end": 283.96,
+      "text": "and yes, the sales page for your book"
+    },
+    {
+      "start": 283.96,
+      "end": 285.8,
+      "text": "will come up with your name search,"
+    },
+    {
+      "start": 285.8,
+      "end": 287.6,
+      "text": "and Google will see that."
+    },
+    {
+      "start": 287.6,
+      "end": 290.48,
+      "text": "And trustworthiness, this is by far the most important."
+    },
+    {
+      "start": 290.48,
+      "end": 293.72,
+      "text": "Google says that, and it seems pretty clear why."
+    },
+    {
+      "start": 293.72,
+      "end": 296.0,
+      "text": "Trustworthiness, you need to be trustworthy."
+    },
+    {
+      "start": 296.0,
+      "end": 298.96,
+      "text": "So one, the person who's writing your content"
+    },
+    {
+      "start": 298.96,
+      "end": 301.96,
+      "text": "needs to be transparent, so don't hide it."
+    },
+    {
+      "start": 301.96,
+      "end": 303.24,
+      "text": "You need to be very, very clear"
+    },
+    {
+      "start": 303.24,
+      "end": 305.72,
+      "text": "about who's writing your contact,"
+    },
+    {
+      "start": 305.72,
+      "end": 307.96,
+      "text": "and on top of that, whatever the website is,"
+    },
+    {
+      "start": 307.96,
+      "end": 309.96,
+      "text": "there needs to be clear ways to contact it."
+    },
+    {
+      "start": 309.96,
+      "end": 312.72,
+      "text": "Contact the website owner, customer service,"
+    },
+    {
+      "start": 312.72,
+      "end": 314.96,
+      "text": "privacy policy, return policy."
+    },
+    {
+      "start": 314.96,
+      "end": 318.4,
+      "text": "A lot of affiliate websites lost a lot of traffic"
+    },
+    {
+      "start": 318.4,
+      "end": 320.56,
+      "text": "because they weren't doing things like this."
+    },
+    {
+      "start": 320.56,
+      "end": 322.52,
+      "text": "They didn't have a way to contact them."
+    },
+    {
+      "start": 322.52,
+      "end": 324.2,
+      "text": "They weren't transparent on who was actually"
+    },
+    {
+      "start": 324.2,
+      "end": 327.52,
+      "text": "writing the content, and an algorithm update"
+    },
+    {
+      "start": 327.52,
+      "end": 330.52,
+      "text": "in December of 22 basically hammered them."
+    },
+    {
+      "start": 330.52,
+      "end": 332.24,
+      "text": "You should almost always create"
+    },
+    {
+      "start": 332.24,
+      "end": 334.8,
+      "text": "a Google business profile for a website,"
+    },
+    {
+      "start": 334.8,
+      "end": 336.4,
+      "text": "even if you're not a local business."
+    },
+    {
+      "start": 336.4,
+      "end": 339.12,
+      "text": "Don't link the Google business profile to your homepage"
+    },
+    {
+      "start": 339.12,
+      "end": 340.6,
+      "text": "if you're not a local business,"
+    },
+    {
+      "start": 340.64,
+      "end": 343.96,
+      "text": "but still create one and link it to your About Me page,"
+    },
+    {
+      "start": 343.96,
+      "end": 346.0,
+      "text": "or Contact Me page, something like that."
+    },
+    {
+      "start": 346.0,
+      "end": 349.16,
+      "text": "A real business can have a Google business profile,"
+    },
+    {
+      "start": 349.16,
+      "end": 351.76,
+      "text": "even non-local, and the last one here,"
+    },
+    {
+      "start": 351.76,
+      "end": 354.36,
+      "text": "create and be active on social media accounts"
+    },
+    {
+      "start": 354.36,
+      "end": 356.52,
+      "text": "and link to all of your social media accounts"
+    },
+    {
+      "start": 356.52,
+      "end": 358.08,
+      "text": "from your About Me, from your Footer,"
+    },
+    {
+      "start": 358.08,
+      "end": 360.72,
+      "text": "from your Author BioBox, because again,"
+    },
+    {
+      "start": 360.72,
+      "end": 365.44,
+      "text": "Google will see the information that you're putting out there"
+    },
+    {
+      "start": 365.44,
+      "end": 368.12,
+      "text": "from these social media accounts."
+    },
+    {
+      "start": 368.12,
+      "end": 371.48,
+      "text": "So, EEAT, content that has uniqueness,"
+    },
+    {
+      "start": 371.48,
+      "end": 374.16,
+      "text": "human experience, perspective opinions, and advice,"
+    },
+    {
+      "start": 374.16,
+      "end": 377.28,
+      "text": "will almost always outperform generic AI-generated content."
+    },
+    {
+      "start": 377.28,
+      "end": 381.4,
+      "text": "Google is going out of its way to try as hard as it can"
+    },
+    {
+      "start": 381.4,
+      "end": 385.28,
+      "text": "to not rank generic AI-related generated content"
+    },
+    {
+      "start": 385.28,
+      "end": 387.32,
+      "text": "that is just drivel, okay?"
+    },
+    {
+      "start": 387.32,
+      "end": 390.88,
+      "text": "So, the module set called Content Generation"
+    },
+    {
+      "start": 390.88,
+      "end": 394.52,
+      "text": "is going to cover how we get ChatGPT to write content"
+    },
+    {
+      "start": 394.52,
+      "end": 397.12,
+      "text": "fairly easily, fairly quickly, that meets this bar,"
+    },
+    {
+      "start": 397.12,
+      "end": 400.6,
+      "text": "but the next thing that you need to do as the website owner"
+    },
+    {
+      "start": 400.6,
+      "end": 403.64,
+      "text": "or your client needs to do is go through"
+    },
+    {
+      "start": 403.64,
+      "end": 407.8,
+      "text": "and establish EEAT with some off-page things,"
+    },
+    {
+      "start": 407.8,
+      "end": 410.3,
+      "text": "with some on-page things, to make sure"
+    },
+    {
+      "start": 410.3,
+      "end": 413.0,
+      "text": "that Google sees you as a real person, okay?"
+    },
+    {
+      "start": 413.0,
+      "end": 416.92,
+      "text": "I started this module by asking, is EEAT real?"
+    },
+    {
+      "start": 416.92,
+      "end": 417.96,
+      "text": "I think it is real."
+    },
+    {
+      "start": 417.96,
+      "end": 421.32,
+      "text": "I've seen a lot of evidence that websites"
+    },
+    {
+      "start": 421.32,
+      "end": 424.64,
+      "text": "that have fake people that are the team"
+    },
+    {
+      "start": 424.64,
+      "end": 425.96,
+      "text": "that generate the content,"
+    },
+    {
+      "start": 425.96,
+      "end": 429.4,
+      "text": "they just have been absolutely hammered over and over again."
+    },
+    {
+      "start": 429.4,
+      "end": 433.14,
+      "text": "So, either having a real person be your content writer"
+    },
+    {
+      "start": 433.14,
+      "end": 436.18,
+      "text": "or having it look like a real person,"
+    },
+    {
+      "start": 436.18,
+      "end": 438.94,
+      "text": "but very effectively done, a lot more than a name"
+    },
+    {
+      "start": 438.94,
+      "end": 442.94,
+      "text": "and an AI-generated face is what you need to establish EEAT."
+    }
+  ],
+  "transcript_text": "So let's talk about EEAT. It stands for experience, expertise, authoritativeness, and trustworthiness. The concept was introduced in late 2022, like December of 2022, to Google's search radar guidelines. That means it actually predates the helpful content updates that we saw in late 2023 and in March 2024. So the search radar guidelines, if you're not familiar, they're not actually a ranking factor to set up documents, like a 300-page PDF document, that's a set of guidelines that human quality raters use to evaluate the quality of search results. So this is how Google decides that its search results are good, its search results are helpful. In addition to using user engagement data, they actually have a team of humans who will do searches and then use the search radar guidelines to decide whether the search results are quality or not. So they're not actually a ranking factor. That being said, when Google sees too many low-quality pages on its search results, Google uses that data to drive algorithm changes. This is what we saw with the helpful content update. And again, in the March 2024 core update, where Google took and basically took a bunch of traffic from niche websites and gave it to highly authoritative user content-generated sites. So the theory, of course, is that the word experience will, if the website owner has direct experience, then it's going to help build trust with the searcher. Theoretically, the example that Google uses, a searcher would not trust a restaurant review if the person writing the review had never actually been to the restaurant, which makes sense. So let's break down each one of these experience. So what we're looking for here is that your content, your website, your author bio, it demonstrates firsthand experience with the topic that you're writing about. So when you're doing content writing and we have this rewrite prompt in the content writer module, we can ask ChatGPT to write with firsthand experience. If it does a bad job at that, because it's AI, it doesn't have firsthand experience. So if it does a bad job at writing with firsthand experience, you can identify it in the human editing stage and improve the parts where it talks about having firsthand experience. We also want to make sure that we have an author bio, and that bio should definitely focus on having firsthand experience with whatever the topic at hand is. Expertise, so the first way we're going to manage expertise is by developing topical relevancy and authority mapping for all the content we produce. If you're following the methods that I lay down for how to write content, how to decide what content to write, then you are going to go a long way toward developing the expertise. This is one of the reasons that topical maps work so well for Google's search algorithm, the way that it works now, because that deep topical authority is established when you build that. Additionally, citing sources and linking to trusted sites and studies, very, very helpful. That's why when we write content, we're asking ChatGPT to always add external links to trusted sites. Authoritativeness, so here we might do a little bit of off-site SEO. A press release is a good way to add authoritativeness. Then we're going to have links coming into the site from very high DR, very trusted websites that are press releases. It's arguable whether that actually helps an SEO or not. I think it does, I've seen some results, so we typically do press releases. They're not super expensive, so it's generally worth doing. On top of that, the name of the person who is writing the content on the website, if that same name is engaging on subreddits, industry forms, and similar areas that can also help to build the authoritativeness, and yes, there's a lot of evidence that Google's algorithm is looking at the byline who wrote that article, and then deciding if that is a real person or not based on how much other information is about that person. Clearly, if you have a claimed Google knowledge panel that matches the author's name, that's huge. Knowledge panels can be difficult to get, but if you have that, that's amazing. Getting a knowledge panel just really comes down to having a lot of content about you on the internet. Another way is to have a published book. This is easier than it seems. You can publish a book on Kindle Direct Publishing, and ChatGPT can be your ghost writer. Another excellent way to show authoritativeness, and yes, the sales page for your book will come up with your name search, and Google will see that. And trustworthiness, this is by far the most important. Google says that, and it seems pretty clear why. Trustworthiness, you need to be trustworthy. So one, the person who's writing your content needs to be transparent, so don't hide it. You need to be very, very clear about who's writing your contact, and on top of that, whatever the website is, there needs to be clear ways to contact it. Contact the website owner, customer service, privacy policy, return policy. A lot of affiliate websites lost a lot of traffic because they weren't doing things like this. They didn't have a way to contact them. They weren't transparent on who was actually writing the content, and an algorithm update in December of 22 basically hammered them. You should almost always create a Google business profile for a website, even if you're not a local business. Don't link the Google business profile to your homepage if you're not a local business, but still create one and link it to your About Me page, or Contact Me page, something like that. A real business can have a Google business profile, even non-local, and the last one here, create and be active on social media accounts and link to all of your social media accounts from your About Me, from your Footer, from your Author BioBox, because again, Google will see the information that you're putting out there from these social media accounts. So, EEAT, content that has uniqueness, human experience, perspective opinions, and advice, will almost always outperform generic AI-generated content. Google is going out of its way to try as hard as it can to not rank generic AI-related generated content that is just drivel, okay? So, the module set called Content Generation is going to cover how we get ChatGPT to write content fairly easily, fairly quickly, that meets this bar, but the next thing that you need to do as the website owner or your client needs to do is go through and establish EEAT with some off-page things, with some on-page things, to make sure that Google sees you as a real person, okay? I started this module by asking, is EEAT real? I think it is real. I've seen a lot of evidence that websites that have fake people that are the team that generate the content, they just have been absolutely hammered over and over again. So, either having a real person be your content writer or having it look like a real person, but very effectively done, a lot more than a name and an AI-generated face is what you need to establish EEAT.",
+  "summary": "",
+  "key_points": [],
+  "tags": []
+}

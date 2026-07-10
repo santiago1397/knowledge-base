@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[oc]
+.venv/
+build/
+dist/
+*.egg-info/
+
+# Node / Vite build
+node_modules/
+server/web/dist/
+
+# Whisper / model caches (re-downloadable)
+.cache/
+
+# Secrets — never commit
+.env
+.env.prod
+*.env.prod
+
+# Videos: too big for Git; rsync'd to the server separately
+media/
+
+# Intermediate raw transcripts — regenerable; lessons/*.json already embeds them.
+data/*/transcripts/
+
+# data/<course>/{lessons,chunks.parquet} IS committed — it's the KB source.

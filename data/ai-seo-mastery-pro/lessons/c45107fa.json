@@ -1,0 +1,526 @@
+{
+  "course": "ai-seo-mastery-pro",
+  "code": "c45107fa",
+  "title": "Key Google Rank Factors",
+  "duration": "8m58s",
+  "source_url": "https://www.skool.com/ai-seo-mastery-pro/classroom/63a81f62?md=c45107faa62a43298aa06b563332a6fe",
+  "video_url": "https://www.loom.com/share/993bfab92a8541e58893cf7caeacf15f?sid=33abdc39-fa0e-4f68-b230-69dad2382a43?hide_owner=true&hide_share=true&hide_title=true&hideEmbedTopBar=true",
+  "video_file": "c45107fa_key-google-rank-factors [993bfab92a8541e58893cf7caeacf15f].mp4",
+  "content_md": "# Key Google Rank Factors\n\n- Code: c45107fa\n- Source: https://www.skool.com/ai-seo-mastery-pro/classroom/63a81f62?md=c45107faa62a43298aa06b563332a6fe\n- Video: https://www.loom.com/share/993bfab92a8541e58893cf7caeacf15f?sid=33abdc39-fa0e-4f68-b230-69dad2382a43?hide_owner=true&hide_share=true&hide_title=true&hideEmbedTopBar=true\n- Duration: 8m 58s\n\n## Description\n\n_(no description)_\n",
+  "transcript": [
+    {
+      "start": 0.53,
+      "end": 5.27,
+      "text": "Google is math. Okay, and when I say that what I mean, let me move this"
+    },
+    {
+      "start": 7.05,
+      "end": 13.01,
+      "text": "That Google does not hire people to read everything on the internet and decide which is better or which is worse"
+    },
+    {
+      "start": 13.37,
+      "end": 19.29,
+      "text": "But Google cares very much about making sure that its searchers its users are happy"
+    },
+    {
+      "start": 19.53,
+      "end": 26.17,
+      "text": "Something like 80% of alphabet Google's parent company something like 80% of their revenue comes from ads"
+    },
+    {
+      "start": 26.45,
+      "end": 30.09,
+      "text": "So if people aren't seeing the ads alphabet doesn't make any money"
+    },
+    {
+      "start": 30.21,
+      "end": 35.49,
+      "text": "so Google's free service search is paid for by"
+    },
+    {
+      "start": 36.21,
+      "end": 38.21,
+      "text": "getting people to use it and"
+    },
+    {
+      "start": 38.69,
+      "end": 44.81,
+      "text": "See and click on ads. So Google cares very much about keeping its users happy keeping its search"
+    },
+    {
+      "start": 45.25,
+      "end": 52.43,
+      "text": "Quality results high. Okay, so the way that we keep a searcher happy is by serving them"
+    },
+    {
+      "start": 52.89,
+      "end": 58.49,
+      "text": "URLs websites that answer their search query, okay, and what that means"
+    },
+    {
+      "start": 58.49,
+      "end": 63.45,
+      "text": "We sometimes you call this open book SEO if we have a keyword that we want to rank for"
+    },
+    {
+      "start": 63.49,
+      "end": 66.81,
+      "text": "We do not need to guess how to rank for that keyword"
+    },
+    {
+      "start": 66.89,
+      "end": 70.33,
+      "text": "Okay, Google will tell us if we type that keyword into Google"
+    },
+    {
+      "start": 70.53,
+      "end": 79.01,
+      "text": "Then Google will show us the 10 best pages on the internet that answer that query what all of its searchers are looking for"
+    },
+    {
+      "start": 79.01,
+      "end": 81.01,
+      "text": "Okay, so to keep this in mind"
+    },
+    {
+      "start": 81.69,
+      "end": 87.37,
+      "text": "Some people imagine Google to be a computer program with a bunch of if then statements and we know that's not true"
+    },
+    {
+      "start": 87.37,
+      "end": 92.85,
+      "text": "What Google actually is it's a machine learning algorithm with a goal maximizing program"
+    },
+    {
+      "start": 92.85,
+      "end": 99.57,
+      "text": "so it basically is trying to maximize its searchers happiness and it's measuring searcher happiness by engagement and"
+    },
+    {
+      "start": 100.21,
+      "end": 104.73,
+      "text": "It's doing that by playing with all of the variables that"
+    },
+    {
+      "start": 105.61,
+      "end": 112.05,
+      "text": "Google can see on a website. Okay, so it's trying a bajillion. That's the technical term"
+    },
+    {
+      "start": 112.05,
+      "end": 115.81,
+      "text": "It's trying a bajillion different things and seeing how they impact the goal"
+    },
+    {
+      "start": 116.69,
+      "end": 125.29,
+      "text": "Things that improve user engagement improve the goal. They're kept things that make the goal worse are thrown away"
+    },
+    {
+      "start": 126.69,
+      "end": 130.13,
+      "text": "So, you know, you've probably seen articles on the internet"
+    },
+    {
+      "start": 130.13,
+      "end": 133.81,
+      "text": "Oh, the 200 ranking factors or 300 ranking factors or whatever"
+    },
+    {
+      "start": 133.85,
+      "end": 137.33,
+      "text": "We know that Google doesn't look at 200 or 300 or 400 factors"
+    },
+    {
+      "start": 137.33,
+      "end": 144.13,
+      "text": "Google looks at every single infinitesimal thing on your website to decide based on its data"
+    },
+    {
+      "start": 144.25,
+      "end": 149.45,
+      "text": "That it has had over the years if that website will make its searchers happy"
+    },
+    {
+      "start": 149.53,
+      "end": 155.33,
+      "text": "Okay, so the result of that and Google search engineers have said this over and over again"
+    },
+    {
+      "start": 155.57,
+      "end": 163.53,
+      "text": "They cannot tell why one URL is ranked above a different URL the search engineers do not know with"
+    },
+    {
+      "start": 164.45,
+      "end": 171.13,
+      "text": "Specificity why a given URL is ranked where it is Google is doing it Google's algorithm is doing it on its own"
+    },
+    {
+      "start": 171.53,
+      "end": 175.97,
+      "text": "So the question then if there's a search query that you want to rank for how do you rank for it?"
+    },
+    {
+      "start": 176.05,
+      "end": 181.97,
+      "text": "Well open book test, right? You do. It's already what ranking well, but just do it a little bit better"
+    },
+    {
+      "start": 181.97,
+      "end": 187.57,
+      "text": "So we're gonna base what we do on what the websites that are already ranking are doing. Okay"
+    },
+    {
+      "start": 188.53,
+      "end": 193.65,
+      "text": "So what that means is if we type this query into Google and we see a bunch of e-commerce"
+    },
+    {
+      "start": 194.17,
+      "end": 196.73,
+      "text": "Websites a bunch of e-commerce category pages"
+    },
+    {
+      "start": 196.81,
+      "end": 200.37,
+      "text": "We know that we're not going to be able to rank a blog post for that"
+    },
+    {
+      "start": 200.61,
+      "end": 205.21,
+      "text": "And it's not that Google doesn't want a blog post for those searches"
+    },
+    {
+      "start": 205.21,
+      "end": 209.45,
+      "text": "It's that Google's users want e-commerce category stores"
+    },
+    {
+      "start": 209.57,
+      "end": 215.49,
+      "text": "Those are the websites that they're engaging with that they're interacting with so Google is going to show more and more of those"
+    },
+    {
+      "start": 215.49,
+      "end": 220.61,
+      "text": "And the vice versa thing is true if you have an e-commerce store and you want to rank in category page"
+    },
+    {
+      "start": 221.33,
+      "end": 226.25,
+      "text": "But you type that search into Google and all of the results are blogs. It's not going to work, right?"
+    },
+    {
+      "start": 226.25,
+      "end": 230.69,
+      "text": "You're not going to be able to rank something that is different from what Google is already showing"
+    },
+    {
+      "start": 231.57,
+      "end": 235.29,
+      "text": "Okay, so that's where we say your content needs to be written for Google"
+    },
+    {
+      "start": 235.33,
+      "end": 240.41,
+      "text": "Okay, and also for searchers, but if it's not written for Google, then you'll never rank at all"
+    },
+    {
+      "start": 242.41,
+      "end": 247.21,
+      "text": "Google's algorithm is incapable of reading anything and as I mentioned, right?"
+    },
+    {
+      "start": 247.21,
+      "end": 251.17,
+      "text": "It doesn't have Google doesn't have employees reading content on the internet"
+    },
+    {
+      "start": 251.17,
+      "end": 259.13,
+      "text": "It's judging the content with its algorithm and it's likely something similar to a content called LSI"
+    },
+    {
+      "start": 259.13,
+      "end": 262.93,
+      "text": "Late in semantic indexing. It is not that this is an outdated concept"
+    },
+    {
+      "start": 262.93,
+      "end": 266.25,
+      "text": "So Google is using something much fancier more modern than this"
+    },
+    {
+      "start": 266.37,
+      "end": 270.93,
+      "text": "But LSI is a way to think about how Google can tell what"
+    },
+    {
+      "start": 271.65,
+      "end": 273.77,
+      "text": "Content is about just using math"
+    },
+    {
+      "start": 273.93,
+      "end": 277.77,
+      "text": "so it's trying to figure out what your content is about and"
+    },
+    {
+      "start": 278.05,
+      "end": 281.41,
+      "text": "You doesn't want you to just keyword stuff all over the place"
+    },
+    {
+      "start": 281.41,
+      "end": 287.61,
+      "text": "So it uses something similar to LSI keywords. So let me give you an example of what an LSI keyword is, right?"
+    },
+    {
+      "start": 287.61,
+      "end": 293.09,
+      "text": "So they're not synonyms. So attorney and lawyer though. That's an example of synonyms LSI"
+    },
+    {
+      "start": 293.37,
+      "end": 296.49,
+      "text": "They're not keywords are trying to rank for so for attorney and lawyer"
+    },
+    {
+      "start": 296.49,
+      "end": 302.65,
+      "text": "Some LSI examples will be courtroom trial settlement judge decision binding contract big boat"
+    },
+    {
+      "start": 302.85,
+      "end": 308.01,
+      "text": "Right, the things that you're going to talk about if you're talking about attorneys or lawyers"
+    },
+    {
+      "start": 308.65,
+      "end": 312.29,
+      "text": "Let me give you another example. So say you want to rank for Star Wars, okay?"
+    },
+    {
+      "start": 312.69,
+      "end": 319.77,
+      "text": "Now that's very competitive. That's a very competitive search term and if you jam the word keyword Star Wars in there 50 times"
+    },
+    {
+      "start": 319.77,
+      "end": 320.89,
+      "text": "That's not going to be enough"
+    },
+    {
+      "start": 320.89,
+      "end": 327.69,
+      "text": "But the LSI keywords, right? Luke Skywalker, Princess Leia, Darth Vader, the Death Star, Jedi, Jar Jar Binks,"
+    },
+    {
+      "start": 327.69,
+      "end": 335.61,
+      "text": "Mark Hamill and so on and so forth and those are the LSI keywords where Google has analyzed the entire internet of content and"
+    },
+    {
+      "start": 335.77,
+      "end": 342.53,
+      "text": "Figured out that content that talks about Luke Skywalker and Princess Leia and Darth Vader is actually about Star Wars"
+    },
+    {
+      "start": 342.77,
+      "end": 347.81,
+      "text": "Okay, so that's similar to how Google's algorithm is probably working"
+    },
+    {
+      "start": 350.85,
+      "end": 357.49,
+      "text": "So once we do that and we write for Google we write for Google's algorithm to make sure it knows what we want"
+    },
+    {
+      "start": 357.69,
+      "end": 362.65,
+      "text": "What we're talking about then Google uses external links as a quality signal, right?"
+    },
+    {
+      "start": 363.09,
+      "end": 368.69,
+      "text": "Because Google is math it can't tell if something is of a quality that I wrote"
+    },
+    {
+      "start": 369.13,
+      "end": 375.17,
+      "text": "Something is of a quality that Chad GPT spit out or something was written by Ernest Hemingway, right?"
+    },
+    {
+      "start": 375.21,
+      "end": 383.01,
+      "text": "So these external links is a sign of quality some other website an independent website that you don't own that you don't control"
+    },
+    {
+      "start": 383.69,
+      "end": 389.93,
+      "text": "Decided to link to your URL to your content. That's a sign to Google that you must have good content"
+    },
+    {
+      "start": 390.13,
+      "end": 397.49,
+      "text": "Okay, so those links combined with using LSI keywords is the fundamental of how we do SEO"
+    },
+    {
+      "start": 399.05,
+      "end": 400.57,
+      "text": "Move that again"
+    },
+    {
+      "start": 400.57,
+      "end": 402.93,
+      "text": "Let me just move it down here. Maybe this will work. Okay"
+    },
+    {
+      "start": 403.53,
+      "end": 408.65,
+      "text": "So and what Google is doing is it's looking at the content that is already ranking well"
+    },
+    {
+      "start": 408.89,
+      "end": 411.73,
+      "text": "The content that is making its searchers happy"
+    },
+    {
+      "start": 411.73,
+      "end": 419.25,
+      "text": "It has user engagement data with and it's analyzing the word use usage word patterns word structure in that content"
+    },
+    {
+      "start": 419.25,
+      "end": 425.53,
+      "text": "That's already ranking well and comparing that to your content and if you're way off you're never going to rank"
+    },
+    {
+      "start": 426.85,
+      "end": 428.45,
+      "text": "Okay, so"
+    },
+    {
+      "start": 428.45,
+      "end": 436.85,
+      "text": "It's deciding. Hey, how close is your word patterns your word usage to the content that Google knows is making its users happy"
+    },
+    {
+      "start": 436.89,
+      "end": 442.81,
+      "text": "How many links do you have to determine that it's good quality content and is your content?"
+    },
+    {
+      "start": 443.21,
+      "end": 447.13,
+      "text": "comprehensive, how is the topical relevancy and we can add that here and"
+    },
+    {
+      "start": 448.45,
+      "end": 450.45,
+      "text": "Topical relevance"
+    },
+    {
+      "start": 450.53,
+      "end": 452.53,
+      "text": "That's an important factor also"
+    },
+    {
+      "start": 452.69,
+      "end": 455.85,
+      "text": "Okay, and once if you check all these boxes"
+    },
+    {
+      "start": 456.37,
+      "end": 459.69,
+      "text": "Then you're going to get to the first page and once you're there"
+    },
+    {
+      "start": 459.69,
+      "end": 466.41,
+      "text": "It's going to use user engagement data to verify all of these signals were accurate that you didn't fake all of these signals"
+    },
+    {
+      "start": 466.41,
+      "end": 469.81,
+      "text": "Which you can do but it's very hard to fake user engagement data"
+    },
+    {
+      "start": 470.57,
+      "end": 477.01,
+      "text": "So we call this the Google dance so Google put you on the first page almost as a trial"
+    },
+    {
+      "start": 477.45,
+      "end": 483.33,
+      "text": "And it's going to see how your user engagement metrics are so it's going to put you to the first page"
+    },
+    {
+      "start": 483.33,
+      "end": 485.65,
+      "text": "It's going to bring you back down. It's going to put you on the first page"
+    },
+    {
+      "start": 485.65,
+      "end": 488.09,
+      "text": "It's going to bring you back down. It's going to put you on the first page"
+    },
+    {
+      "start": 488.09,
+      "end": 488.97,
+      "text": "It's going to bring you back down"
+    },
+    {
+      "start": 488.97,
+      "end": 495.21,
+      "text": "It's going to do that a little bit if you got those other signals correct to see how happy you're making its users"
+    },
+    {
+      "start": 495.21,
+      "end": 499.21,
+      "text": "And if you're not making them happy, it's going to bring you down and then leave you down"
+    },
+    {
+      "start": 499.21,
+      "end": 505.49,
+      "text": "If you're making the users happy, especially happier than the content that's already on the first page, you're going to stay there"
+    },
+    {
+      "start": 506.41,
+      "end": 512.53,
+      "text": "Okay, so I've said it many times here. Let's see if I can set a record for it. Google cannot read"
+    },
+    {
+      "start": 512.57,
+      "end": 518.09,
+      "text": "So the goal of your content is to convince Google that it will make its searchers happy"
+    },
+    {
+      "start": 518.21,
+      "end": 522.29,
+      "text": "Then a quality external link will show Google that your content is good"
+    },
+    {
+      "start": 523.01,
+      "end": 525.57,
+      "text": "then building topical relevance"
+    },
+    {
+      "start": 526.69,
+      "end": 530.37,
+      "text": "to show Google you have expertise and"
+    },
+    {
+      "start": 531.93,
+      "end": 538.53,
+      "text": "Finally at the end of the day when Google puts you on the first page your content actually needs to make its searchers happy"
+    }
+  ],
+  "transcript_text": "Google is math. Okay, and when I say that what I mean, let me move this That Google does not hire people to read everything on the internet and decide which is better or which is worse But Google cares very much about making sure that its searchers its users are happy Something like 80% of alphabet Google's parent company something like 80% of their revenue comes from ads So if people aren't seeing the ads alphabet doesn't make any money so Google's free service search is paid for by getting people to use it and See and click on ads. So Google cares very much about keeping its users happy keeping its search Quality results high. Okay, so the way that we keep a searcher happy is by serving them URLs websites that answer their search query, okay, and what that means We sometimes you call this open book SEO if we have a keyword that we want to rank for We do not need to guess how to rank for that keyword Okay, Google will tell us if we type that keyword into Google Then Google will show us the 10 best pages on the internet that answer that query what all of its searchers are looking for Okay, so to keep this in mind Some people imagine Google to be a computer program with a bunch of if then statements and we know that's not true What Google actually is it's a machine learning algorithm with a goal maximizing program so it basically is trying to maximize its searchers happiness and it's measuring searcher happiness by engagement and It's doing that by playing with all of the variables that Google can see on a website. Okay, so it's trying a bajillion. That's the technical term It's trying a bajillion different things and seeing how they impact the goal Things that improve user engagement improve the goal. They're kept things that make the goal worse are thrown away So, you know, you've probably seen articles on the internet Oh, the 200 ranking factors or 300 ranking factors or whatever We know that Google doesn't look at 200 or 300 or 400 factors Google looks at every single infinitesimal thing on your website to decide based on its data That it has had over the years if that website will make its searchers happy Okay, so the result of that and Google search engineers have said this over and over again They cannot tell why one URL is ranked above a different URL the search engineers do not know with Specificity why a given URL is ranked where it is Google is doing it Google's algorithm is doing it on its own So the question then if there's a search query that you want to rank for how do you rank for it? Well open book test, right? You do. It's already what ranking well, but just do it a little bit better So we're gonna base what we do on what the websites that are already ranking are doing. Okay So what that means is if we type this query into Google and we see a bunch of e-commerce Websites a bunch of e-commerce category pages We know that we're not going to be able to rank a blog post for that And it's not that Google doesn't want a blog post for those searches It's that Google's users want e-commerce category stores Those are the websites that they're engaging with that they're interacting with so Google is going to show more and more of those And the vice versa thing is true if you have an e-commerce store and you want to rank in category page But you type that search into Google and all of the results are blogs. It's not going to work, right? You're not going to be able to rank something that is different from what Google is already showing Okay, so that's where we say your content needs to be written for Google Okay, and also for searchers, but if it's not written for Google, then you'll never rank at all Google's algorithm is incapable of reading anything and as I mentioned, right? It doesn't have Google doesn't have employees reading content on the internet It's judging the content with its algorithm and it's likely something similar to a content called LSI Late in semantic indexing. It is not that this is an outdated concept So Google is using something much fancier more modern than this But LSI is a way to think about how Google can tell what Content is about just using math so it's trying to figure out what your content is about and You doesn't want you to just keyword stuff all over the place So it uses something similar to LSI keywords. So let me give you an example of what an LSI keyword is, right? So they're not synonyms. So attorney and lawyer though. That's an example of synonyms LSI They're not keywords are trying to rank for so for attorney and lawyer Some LSI examples will be courtroom trial settlement judge decision binding contract big boat Right, the things that you're going to talk about if you're talking about attorneys or lawyers Let me give you another example. So say you want to rank for Star Wars, okay? Now that's very competitive. That's a very competitive search term and if you jam the word keyword Star Wars in there 50 times That's not going to be enough But the LSI keywords, right? Luke Skywalker, Princess Leia, Darth Vader, the Death Star, Jedi, Jar Jar Binks, Mark Hamill and so on and so forth and those are the LSI keywords where Google has analyzed the entire internet of content and Figured out that content that talks about Luke Skywalker and Princess Leia and Darth Vader is actually about Star Wars Okay, so that's similar to how Google's algorithm is probably working So once we do that and we write for Google we write for Google's algorithm to make sure it knows what we want What we're talking about then Google uses external links as a quality signal, right? Because Google is math it can't tell if something is of a quality that I wrote Something is of a quality that Chad GPT spit out or something was written by Ernest Hemingway, right? So these external links is a sign of quality some other website an independent website that you don't own that you don't control Decided to link to your URL to your content. That's a sign to Google that you must have good content Okay, so those links combined with using LSI keywords is the fundamental of how we do SEO Move that again Let me just move it down here. Maybe this will work. Okay So and what Google is doing is it's looking at the content that is already ranking well The content that is making its searchers happy It has user engagement data with and it's analyzing the word use usage word patterns word structure in that content That's already ranking well and comparing that to your content and if you're way off you're never going to rank Okay, so It's deciding. Hey, how close is your word patterns your word usage to the content that Google knows is making its users happy How many links do you have to determine that it's good quality content and is your content? comprehensive, how is the topical relevancy and we can add that here and Topical relevance That's an important factor also Okay, and once if you check all these boxes Then you're going to get to the first page and once you're there It's going to use user engagement data to verify all of these signals were accurate that you didn't fake all of these signals Which you can do but it's very hard to fake user engagement data So we call this the Google dance so Google put you on the first page almost as a trial And it's going to see how your user engagement metrics are so it's going to put you to the first page It's going to bring you back down. It's going to put you on the first page It's going to bring you back down. It's going to put you on the first page It's going to bring you back down It's going to do that a little bit if you got those other signals correct to see how happy you're making its users And if you're not making them happy, it's going to bring you down and then leave you down If you're making the users happy, especially happier than the content that's already on the first page, you're going to stay there Okay, so I've said it many times here. Let's see if I can set a record for it. Google cannot read So the goal of your content is to convince Google that it will make its searchers happy Then a quality external link will show Google that your content is good then building topical relevance to show Google you have expertise and Finally at the end of the day when Google puts you on the first page your content actually needs to make its searchers happy",
+  "summary": "",
+  "key_points": [],
+  "tags": []
+}

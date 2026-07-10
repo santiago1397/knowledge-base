@@ -1,0 +1,261 @@
+{
+  "course": "ai-seo-mastery-pro",
+  "code": "b2ebc7f8",
+  "title": "Adding Schema",
+  "duration": "3m39s",
+  "source_url": "https://www.skool.com/ai-seo-mastery-pro/classroom/63a81f62?md=b2ebc7f86ec3466a9c58243955893339",
+  "video_url": "https://www.loom.com/share/60819ad50c8649f0b89911f743c38fe3?sid=8369b2c8-a9c2-416d-bbed-ce235faae347?hide_owner=true&hide_share=true&hide_title=true&hideEmbedTopBar=true",
+  "video_file": "b2ebc7f8_adding-schema [60819ad50c8649f0b89911f743c38fe3].mp4",
+  "content_md": "# Adding Schema\n\n- Code: b2ebc7f8\n- Source: https://www.skool.com/ai-seo-mastery-pro/classroom/63a81f62?md=b2ebc7f86ec3466a9c58243955893339\n- Video: https://www.loom.com/share/60819ad50c8649f0b89911f743c38fe3?sid=8369b2c8-a9c2-416d-bbed-ce235faae347?hide_owner=true&hide_share=true&hide_title=true&hideEmbedTopBar=true\n- Duration: 3m 39s\n- Resources:\n  - [Schema Markup Testing Tool](https://validator.schema.org/)\n\n## Description\n\n_(no description)_\n",
+  "transcript": [
+    {
+      "start": 0.0,
+      "end": 5.22,
+      "text": "So let's talk about schema. Schema is easy to overlook but it is helpful and it"
+    },
+    {
+      "start": 5.22,
+      "end": 9.08,
+      "text": "is incredibly incredibly fast to do. So there's no reason that every single"
+    },
+    {
+      "start": 9.08,
+      "end": 14.28,
+      "text": "URL on your domain should not have schema. It definitely should. So what schema is"
+    },
+    {
+      "start": 14.28,
+      "end": 19.28,
+      "text": "is it's a markup language structured data that helps Google and other search"
+    },
+    {
+      "start": 19.28,
+      "end": 24.6,
+      "text": "engines understand what the content is. Okay so the types of schema, the big main"
+    },
+    {
+      "start": 24.6,
+      "end": 28.2,
+      "text": "types I'm going to cover here, organization schema, local business,"
+    },
+    {
+      "start": 28.2,
+      "end": 32.36,
+      "text": "product, article, FAQ, review and breadcrumb. So let's break these down one"
+    },
+    {
+      "start": 32.36,
+      "end": 38.0,
+      "text": "by one. So organization schema should be basically on every single URL on your"
+    },
+    {
+      "start": 38.0,
+      "end": 43.72,
+      "text": "domain on the header of every page and it's there to provide Google search"
+    },
+    {
+      "start": 43.72,
+      "end": 46.96,
+      "text": "engines with consistent information about your business across the entire"
+    },
+    {
+      "start": 46.96,
+      "end": 51.72,
+      "text": "domain. Local business schema that should only be on one URL and it should be on"
+    },
+    {
+      "start": 51.72,
+      "end": 56.04,
+      "text": "the URL that your Google business profile points to. So if you have multiple"
+    },
+    {
+      "start": 56.04,
+      "end": 61.2,
+      "text": "locations, each location page should have schema that matches the Google"
+    },
+    {
+      "start": 61.2,
+      "end": 64.2,
+      "text": "business profile. If you only have one location it's probably going to be your"
+    },
+    {
+      "start": 64.2,
+      "end": 67.6,
+      "text": "homepage and your homepage then should have local business schema that matches"
+    },
+    {
+      "start": 67.6,
+      "end": 71.92,
+      "text": "your Google business profile. And this improves local SEO by showing Google"
+    },
+    {
+      "start": 71.92,
+      "end": 76.36,
+      "text": "confirming that your business on the landing page is the exact same business"
+    },
+    {
+      "start": 76.36,
+      "end": 80.08,
+      "text": "on the Google business profile. So all the data, all the information needs to"
+    },
+    {
+      "start": 80.08,
+      "end": 86.0,
+      "text": "match. The next type is product schema. Obviously this is mainly for e-commerce"
+    },
+    {
+      "start": 86.04,
+      "end": 89.84,
+      "text": "type websites and this would go on an individual product page and that's going"
+    },
+    {
+      "start": 89.84,
+      "end": 93.12,
+      "text": "to provide the information about the product price availability specifications."
+    },
+    {
+      "start": 93.12,
+      "end": 97.4,
+      "text": "Just more information so Google, Google can do a pretty good job guessing by"
+    },
+    {
+      "start": 97.4,
+      "end": 100.96,
+      "text": "looking at your page but by using structured data you're going to make"
+    },
+    {
+      "start": 100.96,
+      "end": 105.28,
+      "text": "sure that Google isn't guessing. Article schema should be on every single blog"
+    },
+    {
+      "start": 105.28,
+      "end": 109.68,
+      "text": "post, every single article and the goal of that is if it's done correctly it can"
+    },
+    {
+      "start": 109.68,
+      "end": 113.44,
+      "text": "actually make the pages look better in search results which drive improved"
+    },
+    {
+      "start": 113.44,
+      "end": 117.92,
+      "text": "click-through rate. FAQ schema should be on any page with FAQs which should be a"
+    },
+    {
+      "start": 117.92,
+      "end": 121.84,
+      "text": "lot of your pages if you're following along. The reason we want to do that is"
+    },
+    {
+      "start": 121.84,
+      "end": 125.56,
+      "text": "Google can then display questions and answers directly on the search engine"
+    },
+    {
+      "start": 125.56,
+      "end": 130.52,
+      "text": "results page and the more space that your result takes up on the SERP the more"
+    },
+    {
+      "start": 130.52,
+      "end": 135.04,
+      "text": "clicks you're going to get. Review schema that goes on every page that has reviews."
+    },
+    {
+      "start": 135.04,
+      "end": 138.64,
+      "text": "Sometimes you can get the review ratings to display directly that's getting"
+    },
+    {
+      "start": 138.64,
+      "end": 143.12,
+      "text": "harder and harder to do but regardless if you have customer reviews you should"
+    },
+    {
+      "start": 143.12,
+      "end": 149.24,
+      "text": "have review schema. Now breadcrumb schema basically you'll put that on every page"
+    },
+    {
+      "start": 149.24,
+      "end": 153.8,
+      "text": "that has a hierarchical structure so the big example for hierarchical structure"
+    },
+    {
+      "start": 153.8,
+      "end": 159.0,
+      "text": "are target URLs and supporting content and the reason for that is to make sure"
+    },
+    {
+      "start": 159.0,
+      "end": 162.48,
+      "text": "that Google understands the site structure and that these are silos that"
+    },
+    {
+      "start": 162.48,
+      "end": 167.24,
+      "text": "you've created. So breadcrumb schema should definitely be everywhere that you"
+    },
+    {
+      "start": 167.28,
+      "end": 174.32,
+      "text": "are implementing a hierarchical site structure. So schema should be on every"
+    },
+    {
+      "start": 174.32,
+      "end": 181.08,
+      "text": "URL on the domain. Use schema on every URL you should. I'm Yoda here so it should"
+    },
+    {
+      "start": 181.08,
+      "end": 184.96,
+      "text": "be on every URL even if it's just organizational schema because nothing"
+    },
+    {
+      "start": 184.96,
+      "end": 189.16,
+      "text": "else fits it should still be there. You can put multiple types on there so if"
+    },
+    {
+      "start": 189.16,
+      "end": 194.4,
+      "text": "you have an article with an FAQ section that has reviews you're gonna have the"
+    },
+    {
+      "start": 194.4,
+      "end": 199.32,
+      "text": "review schema the FAQ schema the article schema the organizational schema and"
+    },
+    {
+      "start": 199.32,
+      "end": 204.12,
+      "text": "the breadcrumb schema okay. So you always need to validate with Google's"
+    },
+    {
+      "start": 204.12,
+      "end": 209.44,
+      "text": "structured data testing tool that link is in the module and chat GPT will write"
+    },
+    {
+      "start": 209.44,
+      "end": 213.48,
+      "text": "the schema for you. You can just take that and then paste it into your website."
+    },
+    {
+      "start": 213.48,
+      "end": 218.12,
+      "text": "The prompts to get chat GPT to write it for you super super simple they're also"
+    },
+    {
+      "start": 218.12,
+      "end": 221.56,
+      "text": "in the module the prompts that we use."
+    }
+  ],
+  "transcript_text": "So let's talk about schema. Schema is easy to overlook but it is helpful and it is incredibly incredibly fast to do. So there's no reason that every single URL on your domain should not have schema. It definitely should. So what schema is is it's a markup language structured data that helps Google and other search engines understand what the content is. Okay so the types of schema, the big main types I'm going to cover here, organization schema, local business, product, article, FAQ, review and breadcrumb. So let's break these down one by one. So organization schema should be basically on every single URL on your domain on the header of every page and it's there to provide Google search engines with consistent information about your business across the entire domain. Local business schema that should only be on one URL and it should be on the URL that your Google business profile points to. So if you have multiple locations, each location page should have schema that matches the Google business profile. If you only have one location it's probably going to be your homepage and your homepage then should have local business schema that matches your Google business profile. And this improves local SEO by showing Google confirming that your business on the landing page is the exact same business on the Google business profile. So all the data, all the information needs to match. The next type is product schema. Obviously this is mainly for e-commerce type websites and this would go on an individual product page and that's going to provide the information about the product price availability specifications. Just more information so Google, Google can do a pretty good job guessing by looking at your page but by using structured data you're going to make sure that Google isn't guessing. Article schema should be on every single blog post, every single article and the goal of that is if it's done correctly it can actually make the pages look better in search results which drive improved click-through rate. FAQ schema should be on any page with FAQs which should be a lot of your pages if you're following along. The reason we want to do that is Google can then display questions and answers directly on the search engine results page and the more space that your result takes up on the SERP the more clicks you're going to get. Review schema that goes on every page that has reviews. Sometimes you can get the review ratings to display directly that's getting harder and harder to do but regardless if you have customer reviews you should have review schema. Now breadcrumb schema basically you'll put that on every page that has a hierarchical structure so the big example for hierarchical structure are target URLs and supporting content and the reason for that is to make sure that Google understands the site structure and that these are silos that you've created. So breadcrumb schema should definitely be everywhere that you are implementing a hierarchical site structure. So schema should be on every URL on the domain. Use schema on every URL you should. I'm Yoda here so it should be on every URL even if it's just organizational schema because nothing else fits it should still be there. You can put multiple types on there so if you have an article with an FAQ section that has reviews you're gonna have the review schema the FAQ schema the article schema the organizational schema and the breadcrumb schema okay. So you always need to validate with Google's structured data testing tool that link is in the module and chat GPT will write the schema for you. You can just take that and then paste it into your website. The prompts to get chat GPT to write it for you super super simple they're also in the module the prompts that we use.",
+  "summary": "",
+  "key_points": [],
+  "tags": []
+}

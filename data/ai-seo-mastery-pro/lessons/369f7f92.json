@@ -1,0 +1,461 @@
+{
+  "course": "ai-seo-mastery-pro",
+  "code": "369f7f92",
+  "title": "5-Minute Introduction: AI SEO",
+  "duration": "6m58s",
+  "source_url": "https://www.skool.com/ai-seo-mastery-pro/classroom/63a81f62?md=369f7f9265404e3ab8fc28237ee70aef",
+  "video_url": "https://www.loom.com/share/ed074086563942d7b6c64e4840fd40d4?hide_owner=true&hide_share=true&hide_title=true&hideEmbedTopBar=true",
+  "video_file": "369f7f92_5-minute-introduction-ai-seo [ed074086563942d7b6c64e4840fd40d4].mp4",
+  "content_md": "# 5-Minute Introduction: AI SEO\n\n- Code: 369f7f92\n- Source: https://www.skool.com/ai-seo-mastery-pro/classroom/63a81f62?md=369f7f9265404e3ab8fc28237ee70aef\n- Video: https://www.loom.com/share/ed074086563942d7b6c64e4840fd40d4?hide_owner=true&hide_share=true&hide_title=true&hideEmbedTopBar=true\n- Duration: 6m 58s\n\n## Description\n\n# **What is SEO?**\n\nSearch Engine Optimization, or SEO, is the practice aimed at increasing the visibility of a website on search engines like Google. The primary goal here is to rank higher in the organic search results, which are the non-paid listings on a search engine results page (SERP). \n\n> Although Google is the most commonly targeted search engine, the principles of SEO apply across all search engines.\n\nSEO is not about *tricking *search engines but about optimizing websites to align with what search engines are designed to do: respond to the user's query as accurately and helpfully as possible. \n\nSearch engines utilize complex algorithms to understand searcher intent, prioritize relevant content, and ultimately, rank search results based on their ability to satisfy user needs.\n\n## **Understanding Search Engine Algorithms**\n\nIt's crucial to remember that search engines, like Google, do not \"read\" content as humans do. They use mathematical models to process the vast amount of information on the internet. \n\nFor instance, when you enter a query into Google, it uses your input and behavioral signals from all users to rank the results. These signals include how users interact with different search results. If a particular page frequently satisfies user queries, it will likely move up in the rankings.\n\n### **The Role of Content and Links**\n\nAn effective SEO strategy involves creating content that not only appeals to search engines but also engages and retains users. Moreover, links from other reputable websites act as endorsements, suggesting the quality and reliability of your content. High-quality backlinks can significantly enhance your site's trustworthiness and authority, which are critical factors for ranking on the first page of search results.\n\n![](https://assets.skool.com/f/15482c0c7dec4b84a29a295bc7678f2f/a2db95cdda0b47678b0be1a059ed19a310dd583ec650448fb5ed20cbd5ff8434-md.png)\n\n# **Introduction to AI in SEO**\n\nWhen we discuss AI in the context of SEO, we are typically referring to technologies like generative pre-training transformers, including models such as GPT (Generative Pre-trained Transformer). These AI models have been trained on vast datasets from the internet to understand and generate human-like text based on the patterns they've learned.\n\n## **AI’s Capabilities and Limitations**\n\nAI can streamline content creation by generating coherent and contextually appropriate responses. However, it's not without its flaws. For example, AI may \"hallucinate\" data, meaning it might generate plausible but factually incorrect information. This underscores the necessity for human oversight in content creation, especially for fact-checking and adding unique insights that reflect human experiences and perspectives.\n\n## **Practical Uses of AI in SEO**\n\nAI tools can save significant time in content production and analysis. With advanced capabilities like analyzing data, generating reports, and even creating visual content, AI can greatly enhance productivity. However, it's essential to guide AI with precise prompts and subsequently refine its outputs to ensure accuracy and uniqueness.\n",
+  "transcript": [
+    {
+      "start": 0.34,
+      "end": 7.92,
+      "text": "Okay, so five minutes less than five minutes on SEO and AI, so we're going to start with what is SEO?"
+    },
+    {
+      "start": 8.02,
+      "end": 12.06,
+      "text": "The goal of SEO is to rank websites higher on organic search"
+    },
+    {
+      "start": 12.58,
+      "end": 18.86,
+      "text": "Usually Google, but not always we can talk about Bing or other search engines, but usually we talk about Google"
+    },
+    {
+      "start": 19.22,
+      "end": 24.26,
+      "text": "Now it's important to keep in mind none of these search engines, especially Google can't read"
+    },
+    {
+      "start": 24.38,
+      "end": 29.74,
+      "text": "Okay, it's just math the searchers behavior is telling these search engines"
+    },
+    {
+      "start": 29.78,
+      "end": 35.18,
+      "text": "What exactly does searchers want when they type a query into the search engine into Google?"
+    },
+    {
+      "start": 35.26,
+      "end": 37.26,
+      "text": "So let me show you what I mean by that"
+    },
+    {
+      "start": 37.58,
+      "end": 39.58,
+      "text": "So this is just a theoretical"
+    },
+    {
+      "start": 40.3,
+      "end": 44.34,
+      "text": "Search engine results page from Google say you type something into Google"
+    },
+    {
+      "start": 44.34,
+      "end": 49.22,
+      "text": "It's going to give you the first 10 results usually there's going to be ads on top and some other stuff"
+    },
+    {
+      "start": 49.22,
+      "end": 53.86,
+      "text": "But you know, this is the extent of my graphic design abilities. So this is what we get now"
+    },
+    {
+      "start": 53.86,
+      "end": 55.3,
+      "text": "Let's say"
+    },
+    {
+      "start": 55.3,
+      "end": 59.94,
+      "text": "Result number five looks really good to you the title tag looks good the meta description looks good"
+    },
+    {
+      "start": 59.94,
+      "end": 61.94,
+      "text": "So you go ahead and you click on number five"
+    },
+    {
+      "start": 62.1,
+      "end": 62.6,
+      "text": "Okay"
+    },
+    {
+      "start": 62.6,
+      "end": 67.18,
+      "text": "So then you're going to obviously be brought over to result number five and once you get there"
+    },
+    {
+      "start": 67.22,
+      "end": 71.66,
+      "text": "You see that result number five is a terrible website and it doesn't answer your question"
+    },
+    {
+      "start": 71.66,
+      "end": 73.54,
+      "text": "There's something really off-putting about it"
+    },
+    {
+      "start": 73.54,
+      "end": 81.22,
+      "text": "so you spend 15 seconds on this result number five and then you hit back and you go back to the search results page then"
+    },
+    {
+      "start": 82.02,
+      "end": 85.22,
+      "text": "You try result number nine, maybe I'll put this up here"
+    },
+    {
+      "start": 85.7,
+      "end": 91.54,
+      "text": "Then you try result number nine you click on number nine now number nine is exactly what you wanted"
+    },
+    {
+      "start": 91.54,
+      "end": 95.78,
+      "text": "And you're going to spend two minutes on result number nine read all the content"
+    },
+    {
+      "start": 95.78,
+      "end": 100.5,
+      "text": "You're going to take notes about it. Maybe even bookmark result number nine and then you close your browser"
+    },
+    {
+      "start": 101.3,
+      "end": 107.4,
+      "text": "So number five didn't answer your question number nine did the result of that if"
+    },
+    {
+      "start": 109.3,
+      "end": 113.06,
+      "text": "If if enough people do that relative to the search volume"
+    },
+    {
+      "start": 113.38,
+      "end": 118.02,
+      "text": "We are going to see number nine climb up in search results and number five go down"
+    },
+    {
+      "start": 118.5,
+      "end": 121.86,
+      "text": "So when google shows you the top 10 search results"
+    },
+    {
+      "start": 122.18,
+      "end": 129.78,
+      "text": "What it's really showing you is what of cross all of its users all of its searchers the 10 results that"
+    },
+    {
+      "start": 130.5,
+      "end": 132.5,
+      "text": "Helped those searchers the most"
+    },
+    {
+      "start": 132.74,
+      "end": 140.74,
+      "text": "Okay, now the real question is no one goes to the seventh page of search results. Very few people go past the first page"
+    },
+    {
+      "start": 141.78,
+      "end": 142.9,
+      "text": "fast"
+    },
+    {
+      "start": 142.9,
+      "end": 145.94,
+      "text": "Very few people go past the first page if I could speak"
+    },
+    {
+      "start": 146.26,
+      "end": 151.62,
+      "text": "So how does google get data user engagement data for results on the seventh page?"
+    },
+    {
+      "start": 152.02,
+      "end": 154.1,
+      "text": "Well, the answer is that it really doesn't okay"
+    },
+    {
+      "start": 154.42,
+      "end": 158.82,
+      "text": "So when you're writing your content assuming you're not going to be on the first page straight away"
+    },
+    {
+      "start": 159.14,
+      "end": 164.34,
+      "text": "You need to write that content so google knows what you're writing about again. Remember. It's just math"
+    },
+    {
+      "start": 164.42,
+      "end": 165.62,
+      "text": "It's an algorithm"
+    },
+    {
+      "start": 165.62,
+      "end": 170.66,
+      "text": "But you also have to engage your future audience if you're only out writing for google"
+    },
+    {
+      "start": 170.98,
+      "end": 174.42,
+      "text": "Maybe you'll make it to the first page, but you're not going to stay there for very long"
+    },
+    {
+      "start": 174.5,
+      "end": 180.34,
+      "text": "Google's going to drop you down pretty quick when it sees that people don't engage or interact with your content"
+    },
+    {
+      "start": 180.82,
+      "end": 183.86,
+      "text": "and links from other websites to yours"
+    },
+    {
+      "start": 184.74,
+      "end": 187.38,
+      "text": "That is a vote of trust that other website"
+    },
+    {
+      "start": 187.78,
+      "end": 194.82,
+      "text": "Trusts you enough to link to your website google still uses links as a sign of quality. Okay, so"
+    },
+    {
+      "start": 195.7,
+      "end": 197.3,
+      "text": "To get to page one"
+    },
+    {
+      "start": 197.3,
+      "end": 203.46,
+      "text": "seo is about writing content for google and then getting links to demonstrate that the content is good"
+    },
+    {
+      "start": 203.62,
+      "end": 205.86,
+      "text": "That google will build that trust with you"
+    },
+    {
+      "start": 206.26,
+      "end": 209.38,
+      "text": "Okay, then once you get to the first page or close to it"
+    },
+    {
+      "start": 209.78,
+      "end": 212.98,
+      "text": "Then you're going to need to ensure that your user experience is good"
+    },
+    {
+      "start": 213.22,
+      "end": 218.9,
+      "text": "So that you can stay there and improve working toward that number one number two number three rank position"
+    },
+    {
+      "start": 219.86,
+      "end": 225.94,
+      "text": "Now let's talk about ai when I say ai. I really mean chat gpt. There's a few others gemini"
+    },
+    {
+      "start": 226.82,
+      "end": 232.66,
+      "text": "But they're all basically large language models and gpt. I've seen this question a lot"
+    },
+    {
+      "start": 232.74,
+      "end": 237.86,
+      "text": "What does gpt stand for in chat gpt? It stands for generative pre-training transformer"
+    },
+    {
+      "start": 238.26,
+      "end": 242.98,
+      "text": "I know that's super useful. Now. I know exactly what chat gpt is because I know"
+    },
+    {
+      "start": 243.46,
+      "end": 249.7,
+      "text": "It's generative pre-training transformer. Of course. Okay, so the way these models work is"
+    },
+    {
+      "start": 250.02,
+      "end": 255.86,
+      "text": "They were basically fed the entire internet and they used that massive data set to learn about language"
+    },
+    {
+      "start": 256.5,
+      "end": 258.5,
+      "text": "word structure word use"
+    },
+    {
+      "start": 258.82,
+      "end": 263.86,
+      "text": "So right now they don't read from left to what they don't read from left to right"
+    },
+    {
+      "start": 264.1,
+      "end": 269.14,
+      "text": "They read every word in a sentence at the same time and then they compare to others. Okay"
+    },
+    {
+      "start": 270.58,
+      "end": 271.38,
+      "text": "So"
+    },
+    {
+      "start": 271.38,
+      "end": 277.78,
+      "text": "The way they generate a response is it chooses words and sentences that fit the prompt using previously learned patterns"
+    },
+    {
+      "start": 278.1,
+      "end": 281.46,
+      "text": "Okay, so that's a really fancy way to say they're basically a content re-writer"
+    },
+    {
+      "start": 281.78,
+      "end": 287.46,
+      "text": "A very fancy content re-writer, but a content re-writer. So it's just basically regurgitating"
+    },
+    {
+      "start": 288.34,
+      "end": 294.82,
+      "text": "Words languages sentences that it has read on the internet, but regurgitating them in a in a new way"
+    },
+    {
+      "start": 296.34,
+      "end": 301.62,
+      "text": "So the result of this two big challenges with ai number one is something that is"
+    },
+    {
+      "start": 302.18,
+      "end": 306.74,
+      "text": "politely called hallucination that means, you know, my favorite joke here"
+    },
+    {
+      "start": 306.74,
+      "end": 309.7,
+      "text": "Why can't you trust an atom because they make up everything?"
+    },
+    {
+      "start": 310.42,
+      "end": 314.66,
+      "text": "Ai has a tendency to just make things up, right? It can't fact check itself"
+    },
+    {
+      "start": 314.9,
+      "end": 318.5,
+      "text": "It's just going to spit out a very confident and very wrong answer"
+    },
+    {
+      "start": 318.74,
+      "end": 324.74,
+      "text": "And it does this often enough that you really need to be careful about it when you're using ai to generate or to help"
+    },
+    {
+      "start": 324.74,
+      "end": 328.42,
+      "text": "You generate content the second one is uniqueness, right?"
+    },
+    {
+      "start": 328.66,
+      "end": 334.82,
+      "text": "I just said the way that ai works is it generates responses based on its data set based on the internet"
+    },
+    {
+      "start": 335.14,
+      "end": 341.78,
+      "text": "So it the way they work now it is impossible for the ai to give uniqueness to its content"
+    },
+    {
+      "start": 342.02,
+      "end": 344.02,
+      "text": "There's no human experience"
+    },
+    {
+      "start": 344.5,
+      "end": 346.98,
+      "text": "And that means that when you're"
+    },
+    {
+      "start": 347.7,
+      "end": 354.66,
+      "text": "Editing this content you need to go in and add opinions advice life experience human perspective uniqueness"
+    },
+    {
+      "start": 355.14,
+      "end": 360.1,
+      "text": "So those are the two things that you need to worry about when you're using ai content"
+    },
+    {
+      "start": 360.42,
+      "end": 362.66,
+      "text": "Now we can avoid the second one"
+    },
+    {
+      "start": 362.74,
+      "end": 368.26,
+      "text": "We can get chat gpt to add a little bit more human perspective when we use good prompts"
+    },
+    {
+      "start": 368.42,
+      "end": 372.34,
+      "text": "You'll get to those later. I'll give you exactly the prompts that we use at my agency"
+    },
+    {
+      "start": 372.98,
+      "end": 378.58,
+      "text": "But you still need a human editor to fact check because of hallucination and you know"
+    },
+    {
+      "start": 379.14,
+      "end": 385.94,
+      "text": "Words like delve or the digital landscape of today humans don't really write like that, but chat gpt loves to"
+    },
+    {
+      "start": 386.58,
+      "end": 387.62,
+      "text": "So"
+    },
+    {
+      "start": 387.62,
+      "end": 392.66,
+      "text": "In general we're going to use chat gpt to save time. So we're not going to spend hours doing analysis"
+    },
+    {
+      "start": 392.74,
+      "end": 394.74,
+      "text": "We're not going to spend hours doing content production"
+    },
+    {
+      "start": 394.98,
+      "end": 400.34,
+      "text": "We're not going to need to hire employees to do these things chat gpt is going to do it for us in just a few minutes"
+    },
+    {
+      "start": 400.58,
+      "end": 404.26,
+      "text": "It's incredibly strong in what it can do, especially chat gpt 4"
+    },
+    {
+      "start": 404.5,
+      "end": 408.1,
+      "text": "It can analyze and generate csv files if we ask it to it can analyze"
+    },
+    {
+      "start": 408.5,
+      "end": 411.22,
+      "text": "PowerPoint slides it can generate charts it can generate images"
+    },
+    {
+      "start": 411.46,
+      "end": 418.34,
+      "text": "So chat gpt is going to be a massive time saver so that we can accelerate results for our websites for our clients"
+    }
+  ],
+  "transcript_text": "Okay, so five minutes less than five minutes on SEO and AI, so we're going to start with what is SEO? The goal of SEO is to rank websites higher on organic search Usually Google, but not always we can talk about Bing or other search engines, but usually we talk about Google Now it's important to keep in mind none of these search engines, especially Google can't read Okay, it's just math the searchers behavior is telling these search engines What exactly does searchers want when they type a query into the search engine into Google? So let me show you what I mean by that So this is just a theoretical Search engine results page from Google say you type something into Google It's going to give you the first 10 results usually there's going to be ads on top and some other stuff But you know, this is the extent of my graphic design abilities. So this is what we get now Let's say Result number five looks really good to you the title tag looks good the meta description looks good So you go ahead and you click on number five Okay So then you're going to obviously be brought over to result number five and once you get there You see that result number five is a terrible website and it doesn't answer your question There's something really off-putting about it so you spend 15 seconds on this result number five and then you hit back and you go back to the search results page then You try result number nine, maybe I'll put this up here Then you try result number nine you click on number nine now number nine is exactly what you wanted And you're going to spend two minutes on result number nine read all the content You're going to take notes about it. Maybe even bookmark result number nine and then you close your browser So number five didn't answer your question number nine did the result of that if If if enough people do that relative to the search volume We are going to see number nine climb up in search results and number five go down So when google shows you the top 10 search results What it's really showing you is what of cross all of its users all of its searchers the 10 results that Helped those searchers the most Okay, now the real question is no one goes to the seventh page of search results. Very few people go past the first page fast Very few people go past the first page if I could speak So how does google get data user engagement data for results on the seventh page? Well, the answer is that it really doesn't okay So when you're writing your content assuming you're not going to be on the first page straight away You need to write that content so google knows what you're writing about again. Remember. It's just math It's an algorithm But you also have to engage your future audience if you're only out writing for google Maybe you'll make it to the first page, but you're not going to stay there for very long Google's going to drop you down pretty quick when it sees that people don't engage or interact with your content and links from other websites to yours That is a vote of trust that other website Trusts you enough to link to your website google still uses links as a sign of quality. Okay, so To get to page one seo is about writing content for google and then getting links to demonstrate that the content is good That google will build that trust with you Okay, then once you get to the first page or close to it Then you're going to need to ensure that your user experience is good So that you can stay there and improve working toward that number one number two number three rank position Now let's talk about ai when I say ai. I really mean chat gpt. There's a few others gemini But they're all basically large language models and gpt. I've seen this question a lot What does gpt stand for in chat gpt? It stands for generative pre-training transformer I know that's super useful. Now. I know exactly what chat gpt is because I know It's generative pre-training transformer. Of course. Okay, so the way these models work is They were basically fed the entire internet and they used that massive data set to learn about language word structure word use So right now they don't read from left to what they don't read from left to right They read every word in a sentence at the same time and then they compare to others. Okay So The way they generate a response is it chooses words and sentences that fit the prompt using previously learned patterns Okay, so that's a really fancy way to say they're basically a content re-writer A very fancy content re-writer, but a content re-writer. So it's just basically regurgitating Words languages sentences that it has read on the internet, but regurgitating them in a in a new way So the result of this two big challenges with ai number one is something that is politely called hallucination that means, you know, my favorite joke here Why can't you trust an atom because they make up everything? Ai has a tendency to just make things up, right? It can't fact check itself It's just going to spit out a very confident and very wrong answer And it does this often enough that you really need to be careful about it when you're using ai to generate or to help You generate content the second one is uniqueness, right? I just said the way that ai works is it generates responses based on its data set based on the internet So it the way they work now it is impossible for the ai to give uniqueness to its content There's no human experience And that means that when you're Editing this content you need to go in and add opinions advice life experience human perspective uniqueness So those are the two things that you need to worry about when you're using ai content Now we can avoid the second one We can get chat gpt to add a little bit more human perspective when we use good prompts You'll get to those later. I'll give you exactly the prompts that we use at my agency But you still need a human editor to fact check because of hallucination and you know Words like delve or the digital landscape of today humans don't really write like that, but chat gpt loves to So In general we're going to use chat gpt to save time. So we're not going to spend hours doing analysis We're not going to spend hours doing content production We're not going to need to hire employees to do these things chat gpt is going to do it for us in just a few minutes It's incredibly strong in what it can do, especially chat gpt 4 It can analyze and generate csv files if we ask it to it can analyze PowerPoint slides it can generate charts it can generate images So chat gpt is going to be a massive time saver so that we can accelerate results for our websites for our clients",
+  "summary": "",
+  "key_points": [],
+  "tags": []
+}

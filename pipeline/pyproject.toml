@@ -1,0 +1,16 @@
+[project]
+name = "knowledge-base-pipeline"
+version = "0.1.0"
+description = "Laptop/GPU offline pipeline: transcribe, enrich, chunk+embed"
+readme = "../README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "faster-whisper>=1.2",   # transcription (CTranslate2, no torch)
+    "ollama>=0.4",           # local LLM enrichment
+    "fastembed>=0.4",        # bge-small embeddings (ONNX) — MUST match server
+    "pyarrow>=17",           # chunks.parquet
+    # CUDA runtime DLLs CTranslate2 needs for --device cuda on Windows.
+    # transcribe.py registers their bin dirs via os.add_dll_directory.
+    "nvidia-cublas-cu12>=12.4",
+    "nvidia-cudnn-cu12>=9.0",
+]

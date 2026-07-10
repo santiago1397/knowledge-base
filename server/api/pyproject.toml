@@ -1,0 +1,17 @@
+[project]
+name = "knowledge-base-api"
+version = "0.1.0"
+description = "FastAPI backend + built SPA for the knowledge base"
+requires-python = ">=3.12"
+dependencies = [
+    "fastapi>=0.115",
+    "uvicorn[standard]>=0.32",
+    "psycopg[binary]>=3.2",
+    "psycopg-pool>=3.2",
+    "pgvector>=0.3",
+    "fastembed>=0.4",        # bge-small — MUST match the pipeline
+    "argon2-cffi>=23.1",     # argon2id password hashing
+    "itsdangerous>=2.2",     # signed session cookie
+    "httpx>=0.28",           # MiniMax API calls
+    "pyarrow>=17",           # read chunks.parquet during ingest
+]

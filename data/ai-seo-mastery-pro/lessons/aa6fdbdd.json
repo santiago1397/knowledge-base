@@ -1,0 +1,311 @@
+{
+  "course": "ai-seo-mastery-pro",
+  "code": "aa6fdbdd",
+  "title": "How SEO Authority is Passed",
+  "duration": "4m38s",
+  "source_url": "https://www.skool.com/ai-seo-mastery-pro/classroom/63a81f62?md=aa6fdbdd7589428fbe306cbd375ade96",
+  "video_url": "https://www.loom.com/share/24c48eb23e59428ea93156dd12d6c691?sid=c956c0ab-e67a-487c-ae87-ffac84a184fe?hide_owner=true&hide_share=true&hide_title=true&hideEmbedTopBar=true",
+  "video_file": "aa6fdbdd_how-seo-authority-is-passed [24c48eb23e59428ea93156dd12d6c691].mp4",
+  "content_md": "# How SEO Authority is Passed\n\n- Code: aa6fdbdd\n- Source: https://www.skool.com/ai-seo-mastery-pro/classroom/63a81f62?md=aa6fdbdd7589428fbe306cbd375ade96\n- Video: https://www.loom.com/share/24c48eb23e59428ea93156dd12d6c691?sid=c956c0ab-e67a-487c-ae87-ffac84a184fe?hide_owner=true&hide_share=true&hide_title=true&hideEmbedTopBar=true\n- Duration: 4m 38s\n\n## Description\n\n_(no description)_\n",
+  "transcript": [
+    {
+      "start": 0.37,
+      "end": 7.01,
+      "text": "So let's talk about how SEO authority is passed and the reason I want to talk about this is this is something that a lot of"
+    },
+    {
+      "start": 7.21,
+      "end": 15.21,
+      "text": "SEOs mess up. They don't really understand this. In fact, I remember having a conversation with a webmaster for the Better Business Bureau"
+    },
+    {
+      "start": 15.81,
+      "end": 23.05,
+      "text": "bbb.org and that webmaster did not understand how SEO authority was passed. So let's talk about it."
+    },
+    {
+      "start": 23.33,
+      "end": 30.73,
+      "text": "We can call it linkjuice SEO authority. Linkjuice is the colloquialism for the trust and quality"
+    },
+    {
+      "start": 30.73,
+      "end": 37.57,
+      "text": "you're building with Google when you have links from external websites. They're still very important for modern SEO."
+    },
+    {
+      "start": 37.77,
+      "end": 39.77,
+      "text": "Google says they're not. Google is lying."
+    },
+    {
+      "start": 40.41,
+      "end": 44.57,
+      "text": "Google, yes, uses user engagement data for the first page, maybe the second page."
+    },
+    {
+      "start": 44.81,
+      "end": 50.93,
+      "text": "But once you get into the seventh, eighth, ninth page, there's no user engagement data because no one goes that deep in Google search."
+    },
+    {
+      "start": 51.25,
+      "end": 53.25,
+      "text": "So let's talk about the type of links."
+    },
+    {
+      "start": 53.81,
+      "end": 59.29,
+      "text": "There's a nofollow link. That was the type of link that Google actually invented to manage"
+    },
+    {
+      "start": 59.33,
+      "end": 64.73,
+      "text": "so that webmasters had a way to manage the flow of linkjuice. So we have nofollow. Then we have"
+    },
+    {
+      "start": 65.45,
+      "end": 68.93,
+      "text": "an editorial link. So this is a link in the content of"
+    },
+    {
+      "start": 69.61,
+      "end": 75.73,
+      "text": "the main body of the website. We have a navigation bar link that's on top. We have a footer link"
+    },
+    {
+      "start": 75.77,
+      "end": 80.49,
+      "text": "that's usually on the bottom. We have side rail links. Those are on the sides, hence the name."
+    },
+    {
+      "start": 80.73,
+      "end": 86.37,
+      "text": "And then we have an author bio box. All of these links are follow, but they do not behave the same."
+    },
+    {
+      "start": 87.21,
+      "end": 92.65,
+      "text": "So editorial body content follow links pass the linkjuice."
+    },
+    {
+      "start": 93.17,
+      "end": 99.57,
+      "text": "Other links do not, whether they're nofollow or whether they're dofollow, they do not pass"
+    },
+    {
+      "start": 99.61,
+      "end": 103.41,
+      "text": "significant linkjuice. Only the editorial body content links pass it."
+    },
+    {
+      "start": 103.89,
+      "end": 109.57,
+      "text": "Okay. And on top of that, only the first link to URL passes authority."
+    },
+    {
+      "start": 110.09,
+      "end": 117.17,
+      "text": "And generally Google crawls pages from top to bottom. Modern Google actually renders the page in Chrome."
+    },
+    {
+      "start": 118.17,
+      "end": 124.21,
+      "text": "And therefore Google is going to see the navigation links first. Now remember navigation links don't pass"
+    },
+    {
+      "start": 124.25,
+      "end": 130.85,
+      "text": "authority and only the first link passes authority. What that means is we don't want pages we were trying"
+    },
+    {
+      "start": 130.85,
+      "end": 137.61,
+      "text": "to rank in the navigation bar, because if we put them in the navigation bar, then we basically cannot pass"
+    },
+    {
+      "start": 137.65,
+      "end": 142.37,
+      "text": "linkjuice with internal links to that page on our website anymore."
+    },
+    {
+      "start": 142.65,
+      "end": 147.73,
+      "text": "Okay. Also, when you link to other sites, whether you do it follow or nofollow, it does not"
+    },
+    {
+      "start": 147.73,
+      "end": 151.65,
+      "text": "degrease your authority. You get to keep all of your authority no matter how many links you have."
+    },
+    {
+      "start": 152.05,
+      "end": 157.53,
+      "text": "And in fact, there's a lot of data that supports if you have links to trusted external websites like"
+    },
+    {
+      "start": 157.53,
+      "end": 162.77,
+      "text": "big DR websites, 90 plus DR, that's actually going to help your rank position."
+    },
+    {
+      "start": 163.05,
+      "end": 169.09,
+      "text": "And I briefly mentioned this, it's important to keep in mind internal links work exactly the same as external links."
+    },
+    {
+      "start": 169.29,
+      "end": 172.01,
+      "text": "You're building your link juice URL by URL."
+    },
+    {
+      "start": 172.45,
+      "end": 178.61,
+      "text": "So these internal links are an excellent way to build authority with Google."
+    },
+    {
+      "start": 178.65,
+      "end": 180.49,
+      "text": "Okay. So let me give you a simplified example."
+    },
+    {
+      "start": 181.09,
+      "end": 186.45,
+      "text": "So this gray box, we're going to pretend this is a URL and it has 100 link authority points."
+    },
+    {
+      "start": 186.45,
+      "end": 188.49,
+      "text": "Obviously, this is a very, very simplified example."
+    },
+    {
+      "start": 189.05,
+      "end": 192.69,
+      "text": "So we have five follow links that are in the body of the content."
+    },
+    {
+      "start": 192.73,
+      "end": 194.41,
+      "text": "And that's it. No other links on the page."
+    },
+    {
+      "start": 194.69,
+      "end": 198.85,
+      "text": "That means each one of those links is going to pass about 20 authority points."
+    },
+    {
+      "start": 199.13,
+      "end": 203.25,
+      "text": "That's very simplified version of how this link authority passing works."
+    },
+    {
+      "start": 203.57,
+      "end": 208.53,
+      "text": "Okay. So the more links we have, the less authority each one of those links is going to pass on."
+    },
+    {
+      "start": 209.29,
+      "end": 210.53,
+      "text": "Let's change this a little bit."
+    },
+    {
+      "start": 210.69,
+      "end": 213.73,
+      "text": "See, we have four follow links and one nofollow link."
+    },
+    {
+      "start": 214.37,
+      "end": 218.09,
+      "text": "Each follow link is still going to pass 20 authority points."
+    },
+    {
+      "start": 218.13,
+      "end": 219.97,
+      "text": "The nofollow link passes zero."
+    },
+    {
+      "start": 220.49,
+      "end": 224.33,
+      "text": "Now, of course, that means we've only passed 80 authority points, not the full 100."
+    },
+    {
+      "start": 224.61,
+      "end": 231.33,
+      "text": "And the reason for this is what SEOs we're doing is there are no following every link on their page."
+    },
+    {
+      "start": 231.53,
+      "end": 236.61,
+      "text": "And then they'd only like put follow on one or two to authority sculpt."
+    },
+    {
+      "start": 236.93,
+      "end": 238.09,
+      "text": "Google didn't like that."
+    },
+    {
+      "start": 238.29,
+      "end": 244.25,
+      "text": "So you now lose authority, regardless of whether it's a nofollow or a dofollow link."
+    },
+    {
+      "start": 244.57,
+      "end": 247.21,
+      "text": "It's based on the total number of links on the page."
+    },
+    {
+      "start": 247.33,
+      "end": 249.17,
+      "text": "Okay. Hopefully that makes sense."
+    },
+    {
+      "start": 249.61,
+      "end": 253.93,
+      "text": "And the last example I'm going to give you, again, say we have five total links."
+    },
+    {
+      "start": 254.05,
+      "end": 255.97,
+      "text": "So we have three follow links in the body."
+    },
+    {
+      "start": 256.21,
+      "end": 258.29,
+      "text": "We have one nofollow link in the body."
+    },
+    {
+      "start": 258.49,
+      "end": 260.65,
+      "text": "And now we have one follow link in the navbar."
+    },
+    {
+      "start": 261.09,
+      "end": 264.33,
+      "text": "So each body follow link is still going to pass 20."
+    },
+    {
+      "start": 264.69,
+      "end": 266.85,
+      "text": "The nofollow link is still going to pass zero."
+    },
+    {
+      "start": 267.09,
+      "end": 269.97,
+      "text": "And the navbar follow link maybe it passes one."
+    },
+    {
+      "start": 270.13,
+      "end": 272.33,
+      "text": "We know it's a lot less than the editorial link."
+    },
+    {
+      "start": 272.69,
+      "end": 278.77,
+      "text": "So again, very simplified example, but this is how SEO authority, how link juice works."
+    }
+  ],
+  "transcript_text": "So let's talk about how SEO authority is passed and the reason I want to talk about this is this is something that a lot of SEOs mess up. They don't really understand this. In fact, I remember having a conversation with a webmaster for the Better Business Bureau bbb.org and that webmaster did not understand how SEO authority was passed. So let's talk about it. We can call it linkjuice SEO authority. Linkjuice is the colloquialism for the trust and quality you're building with Google when you have links from external websites. They're still very important for modern SEO. Google says they're not. Google is lying. Google, yes, uses user engagement data for the first page, maybe the second page. But once you get into the seventh, eighth, ninth page, there's no user engagement data because no one goes that deep in Google search. So let's talk about the type of links. There's a nofollow link. That was the type of link that Google actually invented to manage so that webmasters had a way to manage the flow of linkjuice. So we have nofollow. Then we have an editorial link. So this is a link in the content of the main body of the website. We have a navigation bar link that's on top. We have a footer link that's usually on the bottom. We have side rail links. Those are on the sides, hence the name. And then we have an author bio box. All of these links are follow, but they do not behave the same. So editorial body content follow links pass the linkjuice. Other links do not, whether they're nofollow or whether they're dofollow, they do not pass significant linkjuice. Only the editorial body content links pass it. Okay. And on top of that, only the first link to URL passes authority. And generally Google crawls pages from top to bottom. Modern Google actually renders the page in Chrome. And therefore Google is going to see the navigation links first. Now remember navigation links don't pass authority and only the first link passes authority. What that means is we don't want pages we were trying to rank in the navigation bar, because if we put them in the navigation bar, then we basically cannot pass linkjuice with internal links to that page on our website anymore. Okay. Also, when you link to other sites, whether you do it follow or nofollow, it does not degrease your authority. You get to keep all of your authority no matter how many links you have. And in fact, there's a lot of data that supports if you have links to trusted external websites like big DR websites, 90 plus DR, that's actually going to help your rank position. And I briefly mentioned this, it's important to keep in mind internal links work exactly the same as external links. You're building your link juice URL by URL. So these internal links are an excellent way to build authority with Google. Okay. So let me give you a simplified example. So this gray box, we're going to pretend this is a URL and it has 100 link authority points. Obviously, this is a very, very simplified example. So we have five follow links that are in the body of the content. And that's it. No other links on the page. That means each one of those links is going to pass about 20 authority points. That's very simplified version of how this link authority passing works. Okay. So the more links we have, the less authority each one of those links is going to pass on. Let's change this a little bit. See, we have four follow links and one nofollow link. Each follow link is still going to pass 20 authority points. The nofollow link passes zero. Now, of course, that means we've only passed 80 authority points, not the full 100. And the reason for this is what SEOs we're doing is there are no following every link on their page. And then they'd only like put follow on one or two to authority sculpt. Google didn't like that. So you now lose authority, regardless of whether it's a nofollow or a dofollow link. It's based on the total number of links on the page. Okay. Hopefully that makes sense. And the last example I'm going to give you, again, say we have five total links. So we have three follow links in the body. We have one nofollow link in the body. And now we have one follow link in the navbar. So each body follow link is still going to pass 20. The nofollow link is still going to pass zero. And the navbar follow link maybe it passes one. We know it's a lot less than the editorial link. So again, very simplified example, but this is how SEO authority, how link juice works.",
+  "summary": "",
+  "key_points": [],
+  "tags": []
+}
