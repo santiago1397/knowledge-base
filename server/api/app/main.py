@@ -78,7 +78,8 @@ def search_route(q: str, course: str | None = None,
 # ---------- chat (streaming; spends MiniMax tokens) ----------
 class ChatBody(BaseModel):
     question: str
-    course: str | None = None
+    course: str | None = None         # single-course chat
+    courses: list[str] | None = None  # multi-course chat
 
 
 @app.post("/api/chat")
@@ -87,12 +88,13 @@ async def chat_route(body: ChatBody, user_id: int = Depends(auth.current_user)):
         raise HTTPException(status_code=400, detail="Empty question")
 
     budget.check_and_count_question(user_id)        # rate-limit + kill-switch
-    chunks = search(body.question, settings.TOP_K, body.course)
+    scope = body.courses if body.courses else body.course
+    chunks = search(body.question, settings.TOP_K, scope)
     messages = build_messages(body.question, chunks)
 
     citations = [
         {"code": c["code"], "title": c["title"], "course": c["course"],
-         "start_time": c["start_time"]}
+         "course_title": c["course_title"], "start_time": c["start_time"]}
         for c in chunks
     ]
 

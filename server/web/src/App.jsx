@@ -1,6 +1,6 @@
 import { useEffect, useRef, useState } from "react";
 import {
-  Routes, Route, Link, useNavigate, useParams, useSearchParams,
+  Routes, Route, Link, Navigate, useNavigate, useParams, useSearchParams,
 } from "react-router-dom";
 import { api, chatStream } from "./api.js";
 
@@ -32,8 +32,8 @@ export default function App() {
   return (
     <>
       <nav className="nav">
-        <Link to="/"><strong>Library</strong></Link>
-        <Link to="/chat">Chat</Link>
+        <Link to="/"><strong>Courses</strong></Link>
+        <Link to="/multi-chat">Multi-Course Chat</Link>
         <span className="grow" />
         <a href="#" onClick={(e) => { e.preventDefault(); api.logout().then(() => location.reload()); }}>
           Sign out
@@ -41,9 +41,11 @@ export default function App() {
       </nav>
       <div className="wrap">
         <Routes>
-          <Route path="/" element={<Library />} />
+          <Route path="/" element={<CourseGrid />} />
+          <Route path="/course/:slug" element={<CoursePage />} />
           <Route path="/lesson/:code" element={<Lesson />} />
-          <Route path="/chat" element={<Chat />} />
+          <Route path="/multi-chat" element={<MultiChat />} />
+          <Route path="/chat" element={<Navigate to="/multi-chat" replace />} />
         </Routes>
       </div>
     </>
@@ -74,16 +76,84 @@ function Login({ onLogin }) {
   );
 }
 
-function Library() {
+function CourseGrid() {
+  const [courses, setCourses] = useState([]);
+  useEffect(() => { api.courses().then((d) => setCourses(d.courses)); }, []);
+  return (
+    <div className="grid-cards">
+      {courses.map((c) => (
+        <Link className="card course-card" key={c.slug} to={`/course/${c.slug}`}>
+          <h3>{c.title}</h3>
+        </Link>
+      ))}
+    </div>
+  );
+}
+
+function CoursePage() {
+  const { slug } = useParams();
+  const [tab, setTab] = useState("lessons"); // "lessons" | "chat"
+  const [courseTitle, setCourseTitle] = useState("");
+  useEffect(() => {
+    api.courses().then((d) => {
+      setCourseTitle(d.courses.find((c) => c.slug === slug)?.title || slug);
+    });
+  }, [slug]);
+
+  return (
+    <>
+      <p><Link to="/">← All courses</Link></p>
+      <h2>{courseTitle}</h2>
+      <div className="tabs" style={{ display: "flex", gap: 8, marginBottom: 12 }}>
+        <button type="button" onClick={() => setTab("lessons")} disabled={tab === "lessons"}>Lessons</button>
+        <button type="button" onClick={() => setTab("chat")} disabled={tab === "chat"}>Chat</button>
+      </div>
+      {tab === "lessons" ? <Library course={slug} /> : <Chat course={slug} />}
+    </>
+  );
+}
+
+function MultiChat() {
+  const [courses, setCourses] = useState([]);
+  const [selected, setSelected] = useState([]);
+  useEffect(() => { api.courses().then((d) => setCourses(d.courses)); }, []);
+
+  const toggle = (slug) =>
+    setSelected((s) => (s.includes(slug) ? s.filter((x) => x !== slug) : [...s, slug]));
+
+  return (
+    <>
+      <h2>Multi-Course Chat</h2>
+      <p className="muted">Select the courses the AI should search across.</p>
+      <div className="chip-picker">
+        {courses.map((c) => (
+          <button
+            key={c.slug}
+            type="button"
+            className={`tag chip ${selected.includes(c.slug) ? "chip-selected" : ""}`}
+            onClick={() => toggle(c.slug)}
+          >
+            {c.title}
+          </button>
+        ))}
+      </div>
+      {selected.length > 0 && (
+        <Chat course={selected} showCourseInCitations key={selected.join(",")} />
+      )}
+    </>
+  );
+}
+
+function Library({ course }) {
   const [lessons, setLessons] = useState([]);
   const [results, setResults] = useState(null);
   const [q, setQ] = useState("");
-  useEffect(() => { api.lessons().then((d) => setLessons(d.lessons)); }, []);
+  useEffect(() => { api.lessons(course).then((d) => setLessons(d.lessons)); }, [course]);
 
   const runSearch = async (e) => {
     e.preventDefault();
     if (!q.trim()) return setResults(null);
-    const d = await api.search(q);
+    const d = await api.search(q, course);
     setResults(d.results);
   };
 
@@ -138,7 +208,7 @@ function Lesson() {
 
   return (
     <>
-      <p><Link to="/">← Library</Link></p>
+      <p><Link to={l.course ? `/course/${l.course}` : "/"}>← Back</Link></p>
       {l.module_title && <p className="muted">{l.module_title}</p>}
       <h2>{l.title} <span className="muted">{l.duration}</span></h2>
       {src && <video ref={video} src={src} controls onLoadedMetadata={onLoaded} />}
@@ -166,7 +236,7 @@ function Lesson() {
   );
 }
 
-function Chat() {
+function Chat({ course, showCourseInCitations = false }) {
   const [q, setQ] = useState("");
   const [answer, setAnswer] = useState("");
   const [cites, setCites] = useState([]);
@@ -178,7 +248,7 @@ function Chat() {
     e.preventDefault();
     if (!q.trim() || busy) return;
     setBusy(true); setAnswer(""); setCites([]); setErr("");
-    await chatStream(q, null, {
+    await chatStream(q, course, {
       onCitations: setCites,
       onToken: (t) => setAnswer((a) => a + t),
       onError: setErr,
@@ -204,6 +274,7 @@ function Chat() {
                 e.preventDefault();
                 nav(`/lesson/${c.code}${c.start_time != null ? `?t=${Math.floor(c.start_time)}` : ""}`);
               }}>
+                {showCourseInCitations && c.course_title ? `${c.course_title} — ` : ""}
                 {c.title}{c.start_time != null ? ` @ ${fmt(c.start_time)}` : ""}
               </a>
             </div>

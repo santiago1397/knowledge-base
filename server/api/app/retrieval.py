@@ -6,21 +6,23 @@ from .db import cursor
 from .embed import embed_query
 
 
-def search(query: str, k: int, course: str | None = None) -> list[dict]:
+def search(query: str, k: int, course: str | list[str] | None = None) -> list[dict]:
     vec = embed_query(query)
+    if isinstance(course, str):
+        course = [course]
 
     # Placeholder order must match the SQL below:
     #   score(vec) , [course] , order-by(vec) , limit(k)
     params: list = [vec]
     where = ""
     if course:
-        where = "WHERE c.slug = %s"
+        where = "WHERE c.slug = ANY(%s)"
         params.append(course)
     params += [vec, k]
 
     sql = f"""
         SELECT ch.text, ch.source, ch.start_time,
-               l.code, l.title, c.slug AS course,
+               l.code, l.title, c.slug AS course, c.title AS course_title,
                1 - (ch.embedding <=> %s::vector) AS score
         FROM chunks ch
         JOIN lessons l ON l.id = ch.lesson_id

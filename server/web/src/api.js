@@ -26,12 +26,16 @@ export const api = {
 };
 
 // POST /api/chat and parse the SSE stream. Calls handlers as events arrive.
-export async function chatStream(question, course, { onCitations, onToken, onError, onDone }) {
+// `courseOrCourses` may be a single slug string or an array of slugs (multi-course chat).
+export async function chatStream(question, courseOrCourses, { onCitations, onToken, onError, onDone }) {
+  const body = Array.isArray(courseOrCourses)
+    ? { question, courses: courseOrCourses }
+    : { question, course: courseOrCourses };
   const res = await fetch("/api/chat", {
     method: "POST",
     credentials: "include",
     headers: { "Content-Type": "application/json" },
-    body: JSON.stringify({ question, course }),
+    body: JSON.stringify(body),
   });
   if (!res.ok) {
     onError?.(res.status === 429 ? "Rate/budget limit reached." : "Chat failed.");
