@@ -1,0 +1,118 @@
+[
+  {
+    "module_order": 1,
+    "module_title": "Coaching Calls",
+    "lessons": [
+      {
+        "code": "4ffc1bc4",
+        "title": "2026-07-07 Core30 Updates, GBP & Ask Maps",
+        "lesson_order": 1
+      },
+      {
+        "code": "be97e944",
+        "title": "2026-06-30 GBP, Topical Relevance, Core 30",
+        "lesson_order": 2
+      },
+      {
+        "code": "f4cb8fba",
+        "title": "2026-06-24 Rank Maps, Geo Relevance, Links",
+        "lesson_order": 3
+      },
+      {
+        "code": "0b72f4ca",
+        "title": "2026-06-09 Pricing Multi-Location AI Search",
+        "lesson_order": 4
+      },
+      {
+        "code": "c9ac32d6",
+        "title": "2026-06-02 GBP Categories, Rank Maps, Core30",
+        "lesson_order": 5
+      },
+      {
+        "code": "d3d085d3",
+        "title": "2026-05-26 Re-theming & Rank Map Diagnostics",
+        "lesson_order": 6
+      },
+      {
+        "code": "1c9823dd",
+        "title": "2026-05-12 GBPs, Links & Cost Per Article",
+        "lesson_order": 7
+      },
+      {
+        "code": "f5cf630c",
+        "title": "2026-05-05 Credits, Rank Maps, GBP Setup",
+        "lesson_order": 8
+      },
+      {
+        "code": "17ede118",
+        "title": "2026-04-28 Client Acquisition & Ask Maps",
+        "lesson_order": 9
+      },
+      {
+        "code": "7d4275c0",
+        "title": "2026-04-21 GBP Photos, Rank Maps, Core 30",
+        "lesson_order": 10
+      },
+      {
+        "code": "3843104a",
+        "title": "2026-04-09 GBP Moves, Categories, Ask Maps",
+        "lesson_order": 11
+      },
+      {
+        "code": "5ab72678",
+        "title": "2026-03-31 Rank Maps, AI Rankings, GBP",
+        "lesson_order": 12
+      },
+      {
+        "code": "c170149f",
+        "title": "2026-03-17 Sales, Onboarding & LLM SEO",
+        "lesson_order": 13
+      },
+      {
+        "code": "1799aa24",
+        "title": "2026-03-12 Pricing, Multi-Location, Core 30",
+        "lesson_order": 14
+      },
+      {
+        "code": "8fa04576",
+        "title": "2026-03-03 Core30 Tool, AI Overviews, GBP",
+        "lesson_order": 15
+      },
+      {
+        "code": "fc63cbab",
+        "title": "2026-02-17 Rank Maps, Tool Demo, LLMs",
+        "lesson_order": 16
+      },
+      {
+        "code": "cf350e26",
+        "title": "2026-01-20 Re-theming, SAB, AI Search",
+        "lesson_order": 17
+      },
+      {
+        "code": "180d6771",
+        "title": "2026-01-13 Rank Maps, GBP Address Tips",
+        "lesson_order": 18
+      },
+      {
+        "code": "cd26cd25",
+        "title": "2026-01-06 Goal Completion & AI Content",
+        "lesson_order": 19
+      },
+      {
+        "code": "fa7b441c",
+        "title": "2025-12-30 Core 30, Lovable, AI Trends",
+        "lesson_order": 20
+      },
+      {
+        "code": "322fa1fb",
+        "title": "2025-12-23 GBP Categories & Links",
+        "lesson_order": 21
+      },
+      {
+        "code": "a2fc775d",
+        "title": "2025-12-16 Schema, Linking & Rank Maps",
+        "lesson_order": 22
+      }
+    ]
+  }
+]

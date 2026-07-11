@@ -1,0 +1,4713 @@
+{
+  "course": "ai-seo-coaching-calls",
+  "code": "1799aa24",
+  "title": "2026-03-12 Pricing, Multi-Location, Core 30",
+  "duration": "64m09s",
+  "source_url": "https://www.skool.com/ai-seo-mastery-pro/classroom/52e05dc7?md=1799aa24f6964b60ac9daccfe080723d",
+  "video_url": "https://player.vimeo.com/video/1172678262",
+  "video_file": "1799aa24_2026-03-12-pricing-multi-location-core-30 [1172678262].mp4",
+  "content_md": "# 2026-03-12 Pricing, Multi-Location, Core 30\n\n- Code: 1799aa24\n- Source: https://www.skool.com/ai-seo-mastery-pro/classroom/52e05dc7?md=1799aa24f6964b60ac9daccfe080723d\n- Video: https://vimeo.com/1172678262?share=copy&fl=sv&fe=ci\n- Duration: 64m 9s\n\n## Description\n\n_(no description)_\n",
+  "transcript": [
+    {
+      "start": 0.0,
+      "end": 10.34,
+      "text": "all right welcome welcome it is wednesday at one o'clock i was not in town uh yesterday so that's"
+    },
+    {
+      "start": 10.34,
+      "end": 18.12,
+      "text": "why we're doing this today um but yeah let's go ahead and dive on in um is there anything in"
+    },
+    {
+      "start": 18.12,
+      "end": 23.98,
+      "text": "particular you guys have questions about you want to talk about anything let me know in the chat um"
+    },
+    {
+      "start": 23.98,
+      "end": 33.32,
+      "text": "let's see yeah um we were in austin yesterday uh flew back yesterday and i don't know something"
+    },
+    {
+      "start": 33.32,
+      "end": 40.63,
+      "text": "on the airplane or something you know something unpleasant anyway anyway"
+    },
+    {
+      "start": 40.63,
+      "end": 52.8,
+      "text": "yeah so uh hi tran basically the way the tool works you're asking about whether the tool works"
+    },
+    {
+      "start": 52.8,
+      "end": 59.1,
+      "text": "you connect it to a wordpress install and then"
+    },
+    {
+      "start": 59.36,
+      "end": 65.02,
+      "text": "once you uh connect it with the app password which pretty much any installation of wordpress"
+    },
+    {
+      "start": 65.02,
+      "end": 70.84,
+      "text": "should be able to generate a map an app password so then once you generate that map app password"
+    },
+    {
+      "start": 70.84,
+      "end": 77.38,
+      "text": "it's connected and it works so basically as long as you have a wordpress installation"
+    },
+    {
+      "start": 77.38,
+      "end": 84.4,
+      "text": "the tool should work in that installation uh and if you're having trouble with it can i help you"
+    },
+    {
+      "start": 84.7,
+      "end": 89.14,
+      "text": "if you're having any trouble with it uh let me know uh put a message in the school"
+    },
+    {
+      "start": 89.14,
+      "end": 89.34,
+      "text": "group"
+    },
+    {
+      "start": 89.36,
+      "end": 94.12,
+      "text": "send me a quick message and we'll try to figure out what's going on and get it sorted"
+    },
+    {
+      "start": 94.12,
+      "end": 102.66,
+      "text": "yeah um alfredo a few people have posted bug updates as far as i know at the moment i'm caught"
+    },
+    {
+      "start": 102.66,
+      "end": 111.62,
+      "text": "up and all of the bug updates have been deployed so if anyone has additional bugs uh in additional"
+    },
+    {
+      "start": 111.62,
+      "end": 118.48,
+      "text": "issues that they've run into let me know and we can roll out uh more updates i stopped putting"
+    },
+    {
+      "start": 118.48,
+      "end": 119.34,
+      "text": "out new features i stopped putting out new features i stopped putting out new features"
+    },
+    {
+      "start": 119.34,
+      "end": 124.42,
+      "text": "just really wanting to get through make sure that we don't have any more bugs things like that"
+    },
+    {
+      "start": 124.42,
+      "end": 131.18,
+      "text": "uh todd some questions about how to build and scope and then some core 30 deployment"
+    },
+    {
+      "start": 131.18,
+      "end": 135.98,
+      "text": "go ahead todd what you got yeah hey how's it going thanks for meeting"
+    },
+    {
+      "start": 135.98,
+      "end": 140.82,
+      "text": "yeah absolutely man good to have you here that's here today uh i'm a new member so"
+    },
+    {
+      "start": 140.82,
+      "end": 148.54,
+      "text": "yeah yeah excited um yeah i've got a bunch of uh appointments in the next two days and um i'm kind"
+    },
+    {
+      "start": 148.54,
+      "end": 149.32,
+      "text": "of like i'm kind of like i'm kind of like i'm kind of like i'm kind of like i'm kind of like i'm kind of"
+    },
+    {
+      "start": 149.34,
+      "end": 149.84,
+      "text": "like i'm kind of like i'm kind of like i'm kind of like i'm kind of like i'm damn,"
+    },
+    {
+      "start": 149.84,
+      "end": 150.3,
+      "text": "yeah i'm kind of like i'm kind of like i'm kind of like i'm kind of like i'm crazy,"
+    },
+    {
+      "start": 150.3,
+      "end": 153.34,
+      "text": "one of them's an injury attorney so i'm trying to kind of figure out how to build and you know"
+    },
+    {
+      "start": 153.34,
+      "end": 162.58,
+      "text": "like uh what kind of scope i should i should offer uh to get you know results that we need to get"
+    },
+    {
+      "start": 163.3,
+      "end": 166.5,
+      "text": "um so you know another a little bit more competitive but"
+    },
+    {
+      "start": 166.5,
+      "end": 171.7,
+      "text": "he's actually not going after like a big city he's going up for the outskirts so"
+    },
+    {
+      "start": 175.06,
+      "end": 178.34,
+      "text": "i guess i don't know if you want to like look at the site or if you"
+    },
+    {
+      "start": 178.34,
+      "end": 180.74,
+      "text": "just have an idea of what i should be looking at or that sort of thing"
+    },
+    {
+      "start": 182.02,
+      "end": 188.96,
+      "text": "like i forgot what to charge them yeah so usually we charge based on scope of work so"
+    },
+    {
+      "start": 188.96,
+      "end": 197.96,
+      "text": "um before that core 30 tool my cost to produce an article and then do everything else associated"
+    },
+    {
+      "start": 197.96,
+      "end": 203.26,
+      "text": "with right so produce the article and do the interlinking uh do the schema do the images"
+    },
+    {
+      "start": 203.26,
+      "end": 211.3,
+      "text": "source an external link all of that was uh about 95 and now with the tool it's about 45"
+    },
+    {
+      "start": 211.3,
+      "end": 218.08,
+      "text": "so uh whatever you charge is whatever you want to charge but then uh what we'll often do is take"
+    },
+    {
+      "start": 218.08,
+      "end": 224.48,
+      "text": "a look at and there is a module in there in the pro training um let me pull it up so i can send"
+    },
+    {
+      "start": 224.48,
+      "end": 230.88,
+      "text": "you a link straight to it because really uh we estimate scope of work by trying to figure out"
+    },
+    {
+      "start": 230.88,
+      "end": 235.8,
+      "text": "here's a link to it i'll just drop a link there so we estimate scope of work by looking at how"
+    },
+    {
+      "start": 235.8,
+      "end": 241.1,
+      "text": "many uh how many pages their competitors have right"
+    },
+    {
+      "start": 241.3,
+      "end": 250.66,
+      "text": "so sometimes their competitors will have 30 40 70 pages and usually our best guess in terms of hey"
+    },
+    {
+      "start": 250.66,
+      "end": 257.16,
+      "text": "how many uh pages should we do it's just like well we probably want to be somewhere around the"
+    },
+    {
+      "start": 257.16,
+      "end": 263.06,
+      "text": "size of their competitors uh unless we see that their competitors have you know 500 pages or"
+    },
+    {
+      "start": 263.06,
+      "end": 267.4,
+      "text": "something like that then we'll do like an additional step and that could be pretty common"
+    },
+    {
+      "start": 267.4,
+      "end": 271.28,
+      "text": "for pi uh so pi is usually going to be pretty expensive if i'm not mistaken and then we'll do"
+    },
+    {
+      "start": 271.3,
+      "end": 271.76,
+      "text": "it again in the future and then we'll do it again in the future and then we'll do it again in the future"
+    },
+    {
+      "start": 271.76,
+      "end": 279.14,
+      "text": "just because it's very very competitive uh was that helpful todd well yeah so okay so look at"
+    },
+    {
+      "start": 279.14,
+      "end": 286.14,
+      "text": "the competitors look at the pages and then you're charging what a hundred dollars a page now"
+    },
+    {
+      "start": 286.14,
+      "end": 293.64,
+      "text": "that we kind of i was no as of now i haven't actually adjusted my pricing so we just added"
+    },
+    {
+      "start": 293.64,
+      "end": 299.2,
+      "text": "to our profit margin so you're at 200 a page they're about depends on how many pages they're"
+    },
+    {
+      "start": 299.2,
+      "end": 301.6,
+      "text": "getting uh but between 200 and 250."
+    },
+    {
+      "start": 303.54,
+      "end": 307.68,
+      "text": "so then we guess we have to determine how many pages we want to do a month so if it's like 10"
+    },
+    {
+      "start": 307.68,
+      "end": 315.64,
+      "text": "it's 2000 a month and that's exactly what what uh that scope uh the estimate scope will will help"
+    },
+    {
+      "start": 315.64,
+      "end": 323.28,
+      "text": "you figure out okay i'll go through that um can i have a i have a secondary question related related"
+    },
+    {
+      "start": 323.28,
+      "end": 332.46,
+      "text": "to the uh deployment of the ai uh content tool sure um it works with wordpress what do you do"
+    },
+    {
+      "start": 332.46,
+      "end": 335.38,
+      "text": "if uh there's already an existing wordpress"
+    },
+    {
+      "start": 335.62,
+      "end": 342.54,
+      "text": "and is it just like overwrite pages or does it just create new pages"
+    },
+    {
+      "start": 342.54,
+      "end": 347.5,
+      "text": "it creates new pages it shouldn't overwrite anything it should be uh it should it creates"
+    },
+    {
+      "start": 347.5,
+      "end": 353.4,
+      "text": "new pages new pages so it doesn't touch old stuff it leaves it all there it does not and i know"
+    },
+    {
+      "start": 353.4,
+      "end": 357.96,
+      "text": "that's a few different people have made that request and i haven't done anything with it"
+    },
+    {
+      "start": 357.96,
+      "end": 362.94,
+      "text": "because it's a lot more complicated to have the tool edit existing content versus just"
+    },
+    {
+      "start": 362.94,
+      "end": 365.3,
+      "text": "post new stuff on on wordpress"
+    },
+    {
+      "start": 365.62,
+      "end": 370.26,
+      "text": "okay and then if you are not on a wordpress site i guess you're downloading"
+    },
+    {
+      "start": 370.26,
+      "end": 377.99,
+      "text": "exactly so the tool will output it has a few different formats that it can output"
+    },
+    {
+      "start": 377.99,
+      "end": 386.55,
+      "text": "uh it can do html it can do uh just raw text and it can do uh a csv so whatever one of those"
+    },
+    {
+      "start": 386.55,
+      "end": 394.59,
+      "text": "formats works for you and your developer you can output it in that and into there um now that you"
+    },
+    {
+      "start": 394.59,
+      "end": 397.89,
+      "text": "write 130 pages at once do you do you"
+    },
+    {
+      "start": 398.09,
+      "end": 402.41,
+      "text": "upload them all at once and then just like release them every month or kind of what's"
+    },
+    {
+      "start": 402.41,
+      "end": 407.21,
+      "text": "your strategy for the releasing of all this content so we basically will drip them out"
+    },
+    {
+      "start": 407.21,
+      "end": 414.49,
+      "text": "for the most part i'm not going to post right 50 pages on one day um yeah so we'll we'll usually"
+    },
+    {
+      "start": 414.49,
+      "end": 420.51,
+      "text": "drip it out and the volume that we drip it out is going to be based on what the publishing velocity"
+    },
+    {
+      "start": 420.51,
+      "end": 427.35,
+      "text": "was for that client historically basically i don't want to significantly increase the publishing"
+    },
+    {
+      "start": 427.35,
+      "end": 427.93,
+      "text": "velocity"
+    },
+    {
+      "start": 428.09,
+      "end": 434.79,
+      "text": "so if you know the client was publishing one article a month maybe we go up to five to ten"
+    },
+    {
+      "start": 434.79,
+      "end": 440.39,
+      "text": "and then a few months later we can increase it again 15 to 20s and just steadily increase it"
+    },
+    {
+      "start": 440.39,
+      "end": 446.37,
+      "text": "but if they've gone you know three years without posting any content you're not going to want to"
+    },
+    {
+      "start": 446.37,
+      "end": 454.14,
+      "text": "suddenly dump 100 pages on there right right okay so then like i have this bulk content queue"
+    },
+    {
+      "start": 454.14,
+      "end": 459.32,
+      "text": "right now and i would just select like five or ten articles to then i guess"
+    },
+    {
+      "start": 459.94,
+      "end": 468.78,
+      "text": "upload yeah and if you're on wordpress the tool will put them in wordpress and then usually we'll"
+    },
+    {
+      "start": 468.78,
+      "end": 473.22,
+      "text": "leave them in draft mode there is a way that you can specifically have the tool just go straight"
+    },
+    {
+      "start": 473.22,
+      "end": 479.36,
+      "text": "to publish uh that was a common request that people kept making so i added that but honestly"
+    },
+    {
+      "start": 479.36,
+      "end": 485.42,
+      "text": "that's not something that we use we let the tool just put it into draft mode and that lets us you"
+    },
+    {
+      "start": 485.42,
+      "end": 490.16,
+      "text": "know a lot of people have commented that hey the image generation sucks and it's just like yeah"
+    },
+    {
+      "start": 491.58,
+      "end": 495.86,
+      "text": "that's why you're not going straight to live right you know sometimes the content is bad sometimes"
+    },
+    {
+      "start": 495.86,
+      "end": 502.62,
+      "text": "the tool leaves artifacts where it'll leave like ai outline or something like that um and we're"
+    },
+    {
+      "start": 502.62,
+      "end": 509.48,
+      "text": "working and you know working through trying to get those addressed and fixed but like no one"
+    },
+    {
+      "start": 509.48,
+      "end": 517.6,
+      "text": "no one here should be publishing content straight from ai to a website um without reading it first"
+    },
+    {
+      "start": 517.6,
+      "end": 521.54,
+      "text": "right you have to at least read it that's why like i i didn't"
+    },
+    {
+      "start": 521.58,
+      "end": 528.44,
+      "text": "say that my content cost went to zero right it went to 45 and what we do in that 45 uh right"
+    },
+    {
+      "start": 528.44,
+      "end": 533.58,
+      "text": "we're still reading all the content we're still uh sometimes replacing images depending on how"
+    },
+    {
+      "start": 533.58,
+      "end": 538.44,
+      "text": "terrible the ones that the tool generated were uh we're still double checking the schema markup"
+    },
+    {
+      "start": 538.44,
+      "end": 542.7,
+      "text": "making sure that's accurate and we're still sourcing external links so we still have all"
+    },
+    {
+      "start": 542.7,
+      "end": 548.26,
+      "text": "of those checks in place i don't want you to think that with the tool you can just click a button and"
+    },
+    {
+      "start": 548.26,
+      "end": 551.56,
+      "text": "you suddenly start ranking because it's just going to mass publish all of the content and"
+    },
+    {
+      "start": 551.58,
+      "end": 559.63,
+      "text": "all of this content uh you still need to double check everything am i making sense with that thank"
+    },
+    {
+      "start": 559.63,
+      "end": 568.14,
+      "text": "you awesome yeah all right so steven question on categories on the front page a lot of similar"
+    },
+    {
+      "start": 568.14,
+      "end": 574.06,
+      "text": "categories should have put them all on the gbp landing page so one two three four five six seven"
+    },
+    {
+      "start": 574.06,
+      "end": 579.3,
+      "text": "eight so that's a lot of categories steven uh one thing i would uh keep in mind i think pain"
+    },
+    {
+      "start": 579.3,
+      "end": 584.96,
+      "text": "management physician and pain control clinic means something very specific uh so i would just make"
+    },
+    {
+      "start": 585.26,
+      "end": 592.6,
+      "text": "sure that it's okay to use those categories with chiropractor um but yeah if you have that many"
+    },
+    {
+      "start": 592.6,
+      "end": 601.18,
+      "text": "then usually we would not uh i want to link to maybe uh four to seven uh core categories core"
+    },
+    {
+      "start": 601.18,
+      "end": 607.02,
+      "text": "services from the gbp landing page uh all the rest of the services and categories i'm going to"
+    },
+    {
+      "start": 607.02,
+      "end": 613.08,
+      "text": "create this like hub page and then link to all of them from the hub page so i don't dilute too much"
+    },
+    {
+      "start": 613.08,
+      "end": 615.24,
+      "text": "of the link coming from the gbp landing page so i'm going to link to all of them from the hub page"
+    },
+    {
+      "start": 615.26,
+      "end": 624.1,
+      "text": "landing page awesome let me know if that helps uh that's perfect perfect all right bob does"
+    },
+    {
+      "start": 624.1,
+      "end": 628.6,
+      "text": "changing the url of your gbp listing website landing page from slash home to slash landing"
+    },
+    {
+      "start": 628.6,
+      "end": 634.5,
+      "text": "page affect the ranking uh almost certainly uh almost certainly if you change the url of your"
+    },
+    {
+      "start": 634.5,
+      "end": 639.52,
+      "text": "gbp landing page it will affect the ranking uh there's a wide number of reasons for that"
+    },
+    {
+      "start": 639.52,
+      "end": 643.86,
+      "text": "everything from just as simple as hey google hates change so when you change things google"
+    },
+    {
+      "start": 643.86,
+      "end": 646.86,
+      "text": "doesn't like it all the way to uh you have"
+    },
+    {
+      "start": 646.92,
+      "end": 652.64,
+      "text": "links likely pointed to your slash home to your gbp landing page so if you change it to a different"
+    },
+    {
+      "start": 652.64,
+      "end": 658.9,
+      "text": "slug even if you do a 301 redirect you are going to lose some of that link authority in general uh"
+    },
+    {
+      "start": 658.9,
+      "end": 663.46,
+      "text": "unless they're like unless unless we really have to or they're just not ranking at all"
+    },
+    {
+      "start": 663.46,
+      "end": 670.5,
+      "text": "we usually just don't change anything uh joe i think everyone can hear um hopefully you're not"
+    },
+    {
+      "start": 670.5,
+      "end": 676.54,
+      "text": "having issues all right i think i read somewhere and you said the average number one ranking page"
+    },
+    {
+      "start": 676.54,
+      "end": 676.9,
+      "text": "is three years old so i'm going to change it to three years old and i'm going to change it to"
+    },
+    {
+      "start": 676.92,
+      "end": 681.7,
+      "text": "a new content takes months to gain traction for local service businesses that need inquiries now"
+    },
+    {
+      "start": 681.7,
+      "end": 686.56,
+      "text": "do you recommend running google ads alongside the seo build to cover the gap so we don't do that"
+    },
+    {
+      "start": 686.56,
+      "end": 691.6,
+      "text": "james i know a lot of people who do uh i know a lot of people who run their agency like that well"
+    },
+    {
+      "start": 691.6,
+      "end": 695.86,
+      "text": "they'll run ads in the beginning they'll do some seo and then they ramp the ads down as the seo"
+    },
+    {
+      "start": 695.86,
+      "end": 700.54,
+      "text": "gains traction we don't do that because i'm not very good at running ads uh so we just have the"
+    },
+    {
+      "start": 700.54,
+      "end": 706.1,
+      "text": "conversation with uh we just have the conversation with the client that hey this is what we're going"
+    },
+    {
+      "start": 706.1,
+      "end": 706.9,
+      "text": "to do we're going to work with them and we're going to work with them and we're going to work with"
+    },
+    {
+      "start": 706.92,
+      "end": 713.66,
+      "text": "you know turn your rank map green uh we're going to get you uh recommended by ai systems and if"
+    },
+    {
+      "start": 713.66,
+      "end": 719.42,
+      "text": "they need leads faster than that then we would usually advise that they uh add someone else"
+    },
+    {
+      "start": 719.42,
+      "end": 728.08,
+      "text": "uh we are not a one-stop shop we do seo and that's it all right when it comes to building"
+    },
+    {
+      "start": 728.08,
+      "end": 731.82,
+      "text": "content on the client's website what happens when the client has a developer who controls"
+    },
+    {
+      "start": 731.82,
+      "end": 736.72,
+      "text": "or they're on a platform you don't have access to so we would want uh cms access"
+    },
+    {
+      "start": 736.92,
+      "end": 743.62,
+      "text": "um to be able to post content uh that we do have clients that we don't post content for we"
+    },
+    {
+      "start": 743.62,
+      "end": 749.0,
+      "text": "basically just deliver the content in google docs and then the client's developer handles posting it"
+    },
+    {
+      "start": 749.0,
+      "end": 756.74,
+      "text": "um that saves us a small amount like i think it's literally like 11 a page if i remember correctly"
+    },
+    {
+      "start": 756.74,
+      "end": 761.5,
+      "text": "because we don't have our developer that has to do things but we still do all the double checks"
+    },
+    {
+      "start": 761.5,
+      "end": 765.92,
+      "text": "right so their developer is going to post the content then we double check the content just"
+    },
+    {
+      "start": 765.92,
+      "end": 766.9,
+      "text": "like we would have double checked the content and then we would have double checked the content"
+    },
+    {
+      "start": 766.92,
+      "end": 773.36,
+      "text": "if we were posting it uh hi tran and lead snap which do you recommend and what distance how"
+    },
+    {
+      "start": 773.36,
+      "end": 777.42,
+      "text": "should the keywords so in when we're running a rank map we're almost always just going to do"
+    },
+    {
+      "start": 777.42,
+      "end": 784.88,
+      "text": "primary category city name uh we'll usually do 13 by 13 and the size of it is based on we want"
+    },
+    {
+      "start": 784.88,
+      "end": 792.08,
+      "text": "some of the top competitors to be showing like a 60 to 90 percent top three if you run the rank map"
+    },
+    {
+      "start": 792.08,
+      "end": 796.9,
+      "text": "and the top competitors have like a 10 percent top three your rank map is too big"
+    },
+    {
+      "start": 796.92,
+      "end": 801.3,
+      "text": "if you run the rank map and the top competitors have a hundred percent top three the rank map is"
+    },
+    {
+      "start": 801.3,
+      "end": 808.02,
+      "text": "too small and that's also how we set expectations for clients so we have a client a multi-location"
+    },
+    {
+      "start": 808.02,
+      "end": 814.22,
+      "text": "veterinary office and uh they did not want to target veterinarian city name they wanted to"
+    },
+    {
+      "start": 814.22,
+      "end": 820.78,
+      "text": "target veterinarians near me uh which is fine we can but uh the near me is much harder to rank"
+    },
+    {
+      "start": 820.78,
+      "end": 826.3,
+      "text": "because google cares a lot about proximity and if you have the near me versus just the"
+    },
+    {
+      "start": 826.92,
+      "end": 831.82,
+      "text": "usually the rank map looks almost identical so veterinarian and veterinarian near me are pretty"
+    },
+    {
+      "start": 831.82,
+      "end": 837.8,
+      "text": "much the exact same thing so when he said hey i want to target veterinarian and not veterinarian"
+    },
+    {
+      "start": 837.8,
+      "end": 844.24,
+      "text": "city name we zoomed the map in until we got to some top three percent competitors that looked"
+    },
+    {
+      "start": 844.24,
+      "end": 848.26,
+      "text": "you know in the 70 to 80 percent range and we said okay it's going to be a much tighter"
+    },
+    {
+      "start": 848.26,
+      "end": 856.6,
+      "text": "area to target uh here's what we're looking at and he agreed um all right so let's hop over to billy"
+    },
+    {
+      "start": 856.92,
+      "end": 860.96,
+      "text": "took a lot of those verbal questions let's hop on over to billy and we'll get back to those don't"
+    },
+    {
+      "start": 860.96,
+      "end": 866.44,
+      "text": "worry uh what's up billy good to see you man hey how you doing hey those are some great questions"
+    },
+    {
+      "start": 866.44,
+      "end": 873.54,
+      "text": "uh that was and i'm uh i guess i'm i'm struggling trying to figure out the the new core 30"
+    },
+    {
+      "start": 873.54,
+      "end": 880.38,
+      "text": "and and i'm working on it though so uh anyway i appreciate all this you're doing some great stuff"
+    },
+    {
+      "start": 880.38,
+      "end": 886.4,
+      "text": "for us so i i'm i have some questions i've asked these before but i want some clarification or"
+    },
+    {
+      "start": 886.92,
+      "end": 893.42,
+      "text": "questions i have quite a few clients that either have other second third locations or opening"
+    },
+    {
+      "start": 893.42,
+      "end": 899.36,
+      "text": "second and third locations and so i'm trying to figure out the right way to do that so i understand"
+    },
+    {
+      "start": 899.36,
+      "end": 904.82,
+      "text": "we have should have a separate location page for each google business profile landing page i got"
+    },
+    {
+      "start": 904.82,
+      "end": 910.38,
+      "text": "that but on their home page do we put just one address there or on the footer or somewhere or"
+    },
+    {
+      "start": 910.38,
+      "end": 916.88,
+      "text": "do you put two addresses how do we handle that part and secondly is when we go to link the"
+    },
+    {
+      "start": 916.92,
+      "end": 923.5,
+      "text": "google business profile with uh the second location we're using the same facebook the same"
+    },
+    {
+      "start": 923.5,
+      "end": 928.06,
+      "text": "social media same instagram and all that do we put anything new or different on that new addresses"
+    },
+    {
+      "start": 928.06,
+      "end": 934.8,
+      "text": "for example and and then last thing is related to all this we go open up that next google business"
+    },
+    {
+      "start": 934.8,
+      "end": 941.14,
+      "text": "profile do we use the same gmail account that we open up the last one with or should we get a new"
+    },
+    {
+      "start": 941.14,
+      "end": 946.28,
+      "text": "gmail those are all sort of semi-related questions i appreciate if you can help me on that yeah no"
+    },
+    {
+      "start": 946.92,
+      "end": 952.12,
+      "text": "multi-location business and that's a really cute puppy man yeah that's that's a hallmark card right"
+    },
+    {
+      "start": 952.12,
+      "end": 957.18,
+      "text": "there yeah he likes sitting with me he likes sitting with me come on little dog here we go"
+    },
+    {
+      "start": 957.18,
+      "end": 961.56,
+      "text": "all right so those are all semi-related questions i appreciate it yeah yeah multi-location business"
+    },
+    {
+      "start": 961.56,
+      "end": 967.86,
+      "text": "so the first question is whether it is a real business or whether it is like a lead gen and"
+    },
+    {
+      "start": 967.86,
+      "end": 972.48,
+      "text": "you have a whole bunch of gbps attached to it based on your questions i'm going to assume that"
+    },
+    {
+      "start": 972.48,
+      "end": 976.72,
+      "text": "it's like an actual real business these are real businesses yeah exactly real"
+    },
+    {
+      "start": 976.92,
+      "end": 983.52,
+      "text": "businesses 30 miles apart 75 miles apart you know real locations so then what we would do"
+    },
+    {
+      "start": 983.52,
+      "end": 990.14,
+      "text": "is we put all the locations on the footer uh and at some point you end up with just an obscene number"
+    },
+    {
+      "start": 990.14,
+      "end": 996.88,
+      "text": "of addresses on the footer so if they have like you know eight locations six locations if it starts"
+    },
+    {
+      "start": 996.88,
+      "end": 1001.46,
+      "text": "to the footer starts to look ridiculous then we'll move them so they won't all be on the footer"
+    },
+    {
+      "start": 1001.46,
+      "end": 1005.52,
+      "text": "but if they have two three four locations we'll put all the addresses on the footer"
+    },
+    {
+      "start": 1006.92,
+      "end": 1011.9,
+      "text": "they'll have their unique gbp landing page unique phone number uh usually we'll do uh unique social"
+    },
+    {
+      "start": 1011.9,
+      "end": 1018.88,
+      "text": "profiles for each uh location social profiles um do help you rank uh so there's no compelling"
+    },
+    {
+      "start": 1018.88,
+      "end": 1023.16,
+      "text": "reason why we wouldn't just create a whole bunch of them uh one for each profile especially again"
+    },
+    {
+      "start": 1023.16,
+      "end": 1029.58,
+      "text": "right if it's a real business then um we can just you know create all of the facebook pages and"
+    },
+    {
+      "start": 1029.58,
+      "end": 1035.48,
+      "text": "linkedin whatever for each individual location uh what was your other question billy that you had"
+    },
+    {
+      "start": 1035.48,
+      "end": 1036.8,
+      "text": "the footer yeah"
+    },
+    {
+      "start": 1036.92,
+      "end": 1043.08,
+      "text": "back up here let's see here i had uh oh yeah when you go to open up the new the new ones"
+    },
+    {
+      "start": 1043.08,
+      "end": 1049.16,
+      "text": "or go to go to open up to use a separate gmail account or same gmail account right so if they're"
+    },
+    {
+      "start": 1049.16,
+      "end": 1053.22,
+      "text": "all pointed to the same domain and they're all real locations for a real business we'll usually"
+    },
+    {
+      "start": 1053.22,
+      "end": 1062.77,
+      "text": "do it all into the same uh google account okay but you you if i got this right so let's say we"
+    },
+    {
+      "start": 1062.77,
+      "end": 1067.87,
+      "text": "have a dallas location now we're going to open up a fort worth location okay"
+    },
+    {
+      "start": 1068.23,
+      "end": 1073.57,
+      "text": "and then what we do is we get a separate facebook linkedin instagram youtube for the new"
+    },
+    {
+      "start": 1073.57,
+      "end": 1079.61,
+      "text": "location is that what you're suggesting yep that's what we would do okay got it and then"
+    },
+    {
+      "start": 1079.61,
+      "end": 1086.27,
+      "text": "uh but then i i also have a separate landing page for each and then but i also on the main footer i"
+    },
+    {
+      "start": 1086.27,
+      "end": 1090.95,
+      "text": "put all the addresses in is that is that is there anything else i need to be looking forward doing"
+    },
+    {
+      "start": 1090.95,
+      "end": 1094.45,
+      "text": "to a separate location this is a good problem to have when you have clients that want to open up"
+    },
+    {
+      "start": 1095.45,
+      "end": 1098.15,
+      "text": "locations yeah i know it's definitely a good problem to have and you're"
+    },
+    {
+      "start": 1098.23,
+      "end": 1103.07,
+      "text": "Basically, I'm going to build a core 30 structure under each location and watch the rank maps"
+    },
+    {
+      "start": 1103.07,
+      "end": 1106.81,
+      "text": "because eventually you'll find that you have enough topical relevance that you don't need"
+    },
+    {
+      "start": 1106.81,
+      "end": 1109.01,
+      "text": "to keep building a core 30 for every location."
+    },
+    {
+      "start": 1109.89,
+      "end": 1110.19,
+      "text": "Got it."
+    },
+    {
+      "start": 1110.23,
+      "end": 1111.05,
+      "text": "Okay, cool."
+    },
+    {
+      "start": 1111.51,
+      "end": 1111.77,
+      "text": "Okay."
+    },
+    {
+      "start": 1112.05,
+      "end": 1115.41,
+      "text": "Anything else I need to be looking at when these second locations that we haven't covered?"
+    },
+    {
+      "start": 1116.41,
+      "end": 1117.77,
+      "text": "No, I think that's about it, man."
+    },
+    {
+      "start": 1118.91,
+      "end": 1119.65,
+      "text": "Cool, cool."
+    },
+    {
+      "start": 1120.01,
+      "end": 1120.29,
+      "text": "All right."
+    },
+    {
+      "start": 1120.37,
+      "end": 1120.99,
+      "text": "Thanks so much."
+    },
+    {
+      "start": 1121.05,
+      "end": 1121.67,
+      "text": "I appreciate it, Caleb."
+    },
+    {
+      "start": 1122.27,
+      "end": 1122.65,
+      "text": "Awesome."
+    },
+    {
+      "start": 1123.65,
+      "end": 1124.19,
+      "text": "All right."
+    },
+    {
+      "start": 1124.27,
+      "end": 1126.35,
+      "text": "Justin has six questions."
+    },
+    {
+      "start": 1126.35,
+      "end": 1127.17,
+      "text": "Boy, all right."
+    },
+    {
+      "start": 1127.17,
+      "end": 1131.11,
+      "text": "So he has seven, but a seventh one is how do I get questions answered?"
+    },
+    {
+      "start": 1131.25,
+      "end": 1132.03,
+      "text": "So you did it right."
+    },
+    {
+      "start": 1132.15,
+      "end": 1133.03,
+      "text": "That's how you get them answered."
+    },
+    {
+      "start": 1133.11,
+      "end": 1136.11,
+      "text": "Okay, number one, client has bad URL structure."
+    },
+    {
+      "start": 1136.19,
+      "end": 1137.13,
+      "text": "Should I 301 redirect?"
+    },
+    {
+      "start": 1137.39,
+      "end": 1138.35,
+      "text": "Almost never."
+    },
+    {
+      "start": 1139.19,
+      "end": 1141.01,
+      "text": "Google doesn't care about your URL structure."
+    },
+    {
+      "start": 1141.17,
+      "end": 1142.73,
+      "text": "I don't care about your URL structure."
+    },
+    {
+      "start": 1143.39,
+      "end": 1147.93,
+      "text": "There would have to be a really compelling reason to fix a URL structure because if you"
+    },
+    {
+      "start": 1147.93,
+      "end": 1151.33,
+      "text": "change the URL structure and redirect, you're going to lose rank position."
+    },
+    {
+      "start": 1151.95,
+      "end": 1154.23,
+      "text": "Is the URL important and mostly just title tag?"
+    },
+    {
+      "start": 1155.23,
+      "end": 1156.91,
+      "text": "We like including the target."
+    },
+    {
+      "start": 1157.17,
+      "end": 1165.75,
+      "text": "The URL doesn't really matter when I'm going my core 30 junk removal, San Jose, does that"
+    },
+    {
+      "start": 1165.75,
+      "end": 1169.03,
+      "text": "read junk removal, San Jose, or can Google understand junk removal in, you can put the"
+    },
+    {
+      "start": 1169.03,
+      "end": 1171.33,
+      "text": "word in, in there on your lovable example."
+    },
+    {
+      "start": 1171.33,
+      "end": 1173.67,
+      "text": "I only see two services for a mechanic or plumber."
+    },
+    {
+      "start": 1173.83,
+      "end": 1174.15,
+      "text": "There's much."
+    },
+    {
+      "start": 1174.31,
+      "end": 1178.73,
+      "text": "So there are way more services on the lovable example, Justin."
+    },
+    {
+      "start": 1178.97,
+      "end": 1188.79,
+      "text": "So if you go back to the example page for the lovable, so go back to the lovable example"
+    },
+    {
+      "start": 1188.79,
+      "end": 1189.21,
+      "text": "page."
+    },
+    {
+      "start": 1189.27,
+      "end": 1190.03,
+      "text": "So this goes back to the lovable example page."
+    },
+    {
+      "start": 1190.03,
+      "end": 1190.13,
+      "text": "So this goes back to the lovable example page."
+    },
+    {
+      "start": 1190.13,
+      "end": 1193.31,
+      "text": "So this goes back to what Steven had asked before about how many different categories"
+    },
+    {
+      "start": 1193.31,
+      "end": 1194.11,
+      "text": "to put on the homepage."
+    },
+    {
+      "start": 1194.65,
+      "end": 1199.17,
+      "text": "Generally, I don't want to put more than like four or five, six, seven links from the homepage"
+    },
+    {
+      "start": 1199.17,
+      "end": 1204.71,
+      "text": "to services or category pages, because the more links, the less power gets passed from"
+    },
+    {
+      "start": 1204.71,
+      "end": 1205.27,
+      "text": "each link."
+    },
+    {
+      "start": 1205.75,
+      "end": 1213.03,
+      "text": "So if you go back to the example page, you will find about two thirds of the way down."
+    },
+    {
+      "start": 1213.15,
+      "end": 1214.97,
+      "text": "There's a button that says view all services."
+    },
+    {
+      "start": 1214.97,
+      "end": 1220.01,
+      "text": "You can also click the services button on the nav bar, and then you get brought to the"
+    },
+    {
+      "start": 1220.01,
+      "end": 1224.43,
+      "text": "service hub page for this sample website."
+    },
+    {
+      "start": 1224.43,
+      "end": 1229.03,
+      "text": "And you can see how we're handling all of the other services that aren't on the homepage."
+    },
+    {
+      "start": 1230.27,
+      "end": 1230.83,
+      "text": "All right."
+    },
+    {
+      "start": 1230.85,
+      "end": 1234.43,
+      "text": "I'm having trouble because Claude thinks my generic service pages and location pages"
+    },
+    {
+      "start": 1234.43,
+      "end": 1235.29,
+      "text": "interconnect."
+    },
+    {
+      "start": 1236.51,
+      "end": 1237.99,
+      "text": "I'm not sure."
+    },
+    {
+      "start": 1239.79,
+      "end": 1241.63,
+      "text": "I don't think I understand that."
+    },
+    {
+      "start": 1241.69,
+      "end": 1242.77,
+      "text": "You're going to have to say more about it."
+    },
+    {
+      "start": 1243.01,
+      "end": 1244.37,
+      "text": "So put another message in there."
+    },
+    {
+      "start": 1244.47,
+      "end": 1249.07,
+      "text": "And on the plumber website on the category pages, it doesn't seem again, you're going"
+    },
+    {
+      "start": 1249.07,
+      "end": 1249.99,
+      "text": "to probably want to finish."
+    },
+    {
+      "start": 1250.01,
+      "end": 1250.29,
+      "text": "Let's finish that."
+    },
+    {
+      "start": 1250.53,
+      "end": 1251.51,
+      "text": "Let's finish that."
+    },
+    {
+      "start": 1252.07,
+      "end": 1255.07,
+      "text": "Bob, what's the true value of posts and or videos on the GBP listing?"
+    },
+    {
+      "start": 1255.19,
+      "end": 1256.61,
+      "text": "It keeps the GBP active."
+    },
+    {
+      "start": 1258.39,
+      "end": 1259.91,
+      "text": "It keeps the GBP active."
+    },
+    {
+      "start": 1260.35,
+      "end": 1262.67,
+      "text": "And Google likes when the GBP is active."
+    },
+    {
+      "start": 1262.91,
+      "end": 1264.91,
+      "text": "So there's no compelling reason not to do it."
+    },
+    {
+      "start": 1264.97,
+      "end": 1266.35,
+      "text": "It's very quick, very easy."
+    },
+    {
+      "start": 1267.01,
+      "end": 1270.95,
+      "text": "If you just do that and nothing else, it's not like you're going to be dominating your"
+    },
+    {
+      "start": 1270.95,
+      "end": 1272.91,
+      "text": "local area in two days."
+    },
+    {
+      "start": 1273.91,
+      "end": 1276.29,
+      "text": "But there's no compelling reason not to do it."
+    },
+    {
+      "start": 1276.31,
+      "end": 1277.01,
+      "text": "It's very easy."
+    },
+    {
+      "start": 1277.97,
+      "end": 1278.19,
+      "text": "All right."
+    },
+    {
+      "start": 1278.19,
+      "end": 1279.99,
+      "text": "And Jean, I have a roofing process."
+    },
+    {
+      "start": 1280.01,
+      "end": 1283.17,
+      "text": "I have three locations, leaving a franchise to rebrand."
+    },
+    {
+      "start": 1283.31,
+      "end": 1285.29,
+      "text": "The biggest fear is using GBPs and user reviews."
+    },
+    {
+      "start": 1286.51,
+      "end": 1289.69,
+      "text": "So you probably won't lose the GBP."
+    },
+    {
+      "start": 1290.15,
+      "end": 1294.57,
+      "text": "If you change the name of the GBP, the most likely thing that's going to happen is that"
+    },
+    {
+      "start": 1294.57,
+      "end": 1300.05,
+      "text": "Google will ask you to re-verify the GBP, which will require re-recording the verification"
+    },
+    {
+      "start": 1300.05,
+      "end": 1300.61,
+      "text": "video."
+    },
+    {
+      "start": 1301.03,
+      "end": 1306.41,
+      "text": "So just make sure that the client is ready to re-record the verification video and they"
+    },
+    {
+      "start": 1306.41,
+      "end": 1307.15,
+      "text": "should be fine."
+    },
+    {
+      "start": 1308.39,
+      "end": 1309.65,
+      "text": "And site structure."
+    },
+    {
+      "start": 1309.65,
+      "end": 1310.79,
+      "text": "We talked about that with Billy."
+    },
+    {
+      "start": 1311.37,
+      "end": 1313.49,
+      "text": "And how would you price position this?"
+    },
+    {
+      "start": 1313.63,
+      "end": 1318.87,
+      "text": "I mean, I'm not sure what you're asking on pricing positioning, because the rebranding,"
+    },
+    {
+      "start": 1319.03,
+      "end": 1322.77,
+      "text": "like if it was a client of ours and they're paying for monthly SEO services, we'd probably"
+    },
+    {
+      "start": 1322.77,
+      "end": 1323.57,
+      "text": "just do this."
+    },
+    {
+      "start": 1323.81,
+      "end": 1328.97,
+      "text": "Like it's not a significant development lift to, you know, change the business name on"
+    },
+    {
+      "start": 1328.97,
+      "end": 1329.51,
+      "text": "the website."
+    },
+    {
+      "start": 1329.67,
+      "end": 1332.69,
+      "text": "That's just that's something that I just give to the developer."
+    },
+    {
+      "start": 1333.01,
+      "end": 1334.21,
+      "text": "Hey, make this update."
+    },
+    {
+      "start": 1334.47,
+      "end": 1335.93,
+      "text": "Developer would say I'm done."
+    },
+    {
+      "start": 1335.93,
+      "end": 1339.31,
+      "text": "Then I would do a site colon search with the business."
+    },
+    {
+      "start": 1339.31,
+      "end": 1345.77,
+      "text": "Old name to make sure that the developer got everything and any misses, I would let"
+    },
+    {
+      "start": 1345.77,
+      "end": 1347.75,
+      "text": "the developer know and we would go from there."
+    },
+    {
+      "start": 1348.37,
+      "end": 1349.57,
+      "text": "All right, Gary, what's going on, man?"
+    },
+    {
+      "start": 1353.2,
+      "end": 1353.82,
+      "text": "How's it going?"
+    },
+    {
+      "start": 1354.88,
+      "end": 1356.52,
+      "text": "Just a few questions real quick."
+    },
+    {
+      "start": 1356.6,
+      "end": 1360.24,
+      "text": "I've got a current client that is adding a location."
+    },
+    {
+      "start": 1360.92,
+      "end": 1363.9,
+      "text": "They're in the process of getting the Google business profile verified."
+    },
+    {
+      "start": 1364.52,
+      "end": 1371.96,
+      "text": "Is there any reason why I wouldn't start building out the site for the new core 30 for the new"
+    },
+    {
+      "start": 1371.96,
+      "end": 1372.1,
+      "text": "location?"
+    },
+    {
+      "start": 1372.12,
+      "end": 1378.88,
+      "text": "Before it's verified or no, that's exactly what we would usually do, because if it's a brand new"
+    },
+    {
+      "start": 1378.88,
+      "end": 1383.82,
+      "text": "location and it's usually going to take around a month to get it verified, because we'll usually do"
+    },
+    {
+      "start": 1383.82,
+      "end": 1387.06,
+      "text": "the citations, we'll do a press release and then we'll wait 30 days."
+    },
+    {
+      "start": 1388.12,
+      "end": 1389.58,
+      "text": "So, yeah, it takes time."
+    },
+    {
+      "start": 1390.24,
+      "end": 1399.92,
+      "text": "OK, and then as far as the same company, they don't send me a lot of photos that I've been asking"
+    },
+    {
+      "start": 1400.14,
+      "end": 1400.92,
+      "text": "every month."
+    },
+    {
+      "start": 1401.34,
+      "end": 1402.04,
+      "text": "So for their Google."
+    },
+    {
+      "start": 1402.12,
+      "end": 1403.82,
+      "text": "Google is profile like host."
+    },
+    {
+      "start": 1403.9,
+      "end": 1405.1,
+      "text": "I've just been posting text."
+    },
+    {
+      "start": 1406.8,
+      "end": 1411.6,
+      "text": "Is that better than not posting at all or should I do some AI generated images?"
+    },
+    {
+      "start": 1411.82,
+      "end": 1414.46,
+      "text": "Will that affect me negatively for them?"
+    },
+    {
+      "start": 1415.06,
+      "end": 1418.62,
+      "text": "But, yeah, I've just been on their tail about sending the images and they do not."
+    },
+    {
+      "start": 1419.86,
+      "end": 1425.14,
+      "text": "So for the new location stuff, I want to put some new images up and everything."
+    },
+    {
+      "start": 1425.48,
+      "end": 1425.7,
+      "text": "But."
+    },
+    {
+      "start": 1426.62,
+      "end": 1429.38,
+      "text": "Just wondering about the AI stuff that generated."
+    },
+    {
+      "start": 1430.12,
+      "end": 1431.38,
+      "text": "Yeah, so usually."
+    },
+    {
+      "start": 1432.12,
+      "end": 1436.2,
+      "text": "We won't put images on the GBP posts, we'll just keep them text."
+    },
+    {
+      "start": 1437.34,
+      "end": 1441.44,
+      "text": "If you need more images, then we'll just use AI to generate more images."
+    },
+    {
+      "start": 1441.44,
+      "end": 1443.86,
+      "text": "But we won't do that for the GBP posts."
+    },
+    {
+      "start": 1444.0,
+      "end": 1444.82,
+      "text": "Not usually."
+    },
+    {
+      "start": 1445.38,
+      "end": 1448.96,
+      "text": "What about for adding photos to the GBP?"
+    },
+    {
+      "start": 1448.96,
+      "end": 1450.66,
+      "text": "You won't do any AI?"
+    },
+    {
+      "start": 1451.16,
+      "end": 1452.88,
+      "text": "Oh, no, no. We'll do a lot of AI."
+    },
+    {
+      "start": 1452.88,
+      "end": 1458.12,
+      "text": "I mean, we want to add weekly photos and a lot of clients just can't give us enough photos to make that work."
+    },
+    {
+      "start": 1458.12,
+      "end": 1460.26,
+      "text": "So most of the ones that we add are AI."
+    },
+    {
+      "start": 1460.26,
+      "end": 1472.92,
+      "text": "And so for the like, say, for a plumber, so instead of like AI generated image of a plumber, would it be beneficial to do like tools and stuff so it doesn't look as crappy or does it not?"
+    },
+    {
+      "start": 1472.92,
+      "end": 1481.66,
+      "text": "I don't know. I mean, the nano banana does a great job generating images of people, so we haven't really had issues with it."
+    },
+    {
+      "start": 1481.72,
+      "end": 1484.38,
+      "text": "We just generate a bunch of images and then drip them."
+    },
+    {
+      "start": 1485.18,
+      "end": 1487.62,
+      "text": "OK, but you're doing that for the adding them weekly."
+    },
+    {
+      "start": 1487.7,
+      "end": 1489.3,
+      "text": "You're not posting with those images."
+    },
+    {
+      "start": 1490.26,
+      "end": 1492.72,
+      "text": "We're not we're not doing that with GBP posts."
+    },
+    {
+      "start": 1492.86,
+      "end": 1494.5,
+      "text": "We're just adding those images weekly."
+    },
+    {
+      "start": 1495.22,
+      "end": 1495.36,
+      "text": "OK."
+    },
+    {
+      "start": 1496.16,
+      "end": 1499.02,
+      "text": "And then last question for internal linking."
+    },
+    {
+      "start": 1500.34,
+      "end": 1507.3,
+      "text": "I know that it's basically like from the home page to the categories and then from the category page to each service within."
+    },
+    {
+      "start": 1508.88,
+      "end": 1513.54,
+      "text": "And then from each service page, you're going back to the categories, correct?"
+    },
+    {
+      "start": 1513.62,
+      "end": 1514.62,
+      "text": "The category that's under."
+    },
+    {
+      "start": 1515.52,
+      "end": 1515.7,
+      "text": "Yes."
+    },
+    {
+      "start": 1516.56,
+      "end": 1520.02,
+      "text": "Is there any reason like should I be linking?"
+    },
+    {
+      "start": 1520.26,
+      "end": 1523.22,
+      "text": "Each service within the same category to each other or not?"
+    },
+    {
+      "start": 1523.26,
+      "end": 1524.34,
+      "text": "Don't don't worry about that."
+    },
+    {
+      "start": 1525.14,
+      "end": 1531.54,
+      "text": "That is we used to do that and didn't really see a significant change when we stopped doing it."
+    },
+    {
+      "start": 1531.96,
+      "end": 1536.38,
+      "text": "So now we just don't do it because I mean, why?"
+    },
+    {
+      "start": 1536.4,
+      "end": 1538.5,
+      "text": "Why spend the effort if we weren't seeing a benefit?"
+    },
+    {
+      "start": 1539.16,
+      "end": 1548.58,
+      "text": "OK. And then for building like a new site with the core 30, do you add in the internal linking and just don't link anything yet so you can go back and put it in?"
+    },
+    {
+      "start": 1548.62,
+      "end": 1549.72,
+      "text": "Or do you just not put it in?"
+    },
+    {
+      "start": 1550.26,
+      "end": 1555.12,
+      "text": "I don't put any of that stuff in the content at all until you have the pages built."
+    },
+    {
+      "start": 1555.16,
+      "end": 1555.96,
+      "text": "Does that make any sense?"
+    },
+    {
+      "start": 1556.38,
+      "end": 1557.44,
+      "text": "No. Ask again, please."
+    },
+    {
+      "start": 1557.46,
+      "end": 1557.88,
+      "text": "Sorry."
+    },
+    {
+      "start": 1558.24,
+      "end": 1575.34,
+      "text": "So like before when you're building out a site, since you don't have the core 30 built, you don't have all of the links like for the home page, for example, would you build out all of the what would be anchor text to the category pages and just not actually link them because they don't exist yet?"
+    },
+    {
+      "start": 1575.38,
+      "end": 1580.04,
+      "text": "Or would you not put the anchor text that you're going to link out to because you don't have the page?"
+    },
+    {
+      "start": 1580.26,
+      "end": 1593.94,
+      "text": "Bill, yeah, we're just going to write the content for the category pages and then when we add the service pages later on, we're going to go back, edit it and then add the link down to the service page we just added."
+    },
+    {
+      "start": 1594.24,
+      "end": 1595.88,
+      "text": "OK, thank you."
+    },
+    {
+      "start": 1596.4,
+      "end": 1607.14,
+      "text": "Yeah, absolutely. That's one of the reasons I think I said that I was trying to get internal linking to work in the tool and I've been playing with it, testing it."
+    },
+    {
+      "start": 1607.14,
+      "end": 1610.04,
+      "text": "And so far, the tool is really, really good at messaging."
+    },
+    {
+      "start": 1610.26,
+      "end": 1615.78,
+      "text": "Things up when it goes back and tries to edit existing WordPress pages."
+    },
+    {
+      "start": 1616.58,
+      "end": 1618.68,
+      "text": "So that would be cool if it worked."
+    },
+    {
+      "start": 1618.68,
+      "end": 1620.3,
+      "text": "And if it doesn't work, that'll be OK."
+    },
+    {
+      "start": 1620.48,
+      "end": 1622.14,
+      "text": "We'll we'll we'll get it figured out."
+    },
+    {
+      "start": 1622.72,
+      "end": 1623.2,
+      "text": "All right."
+    },
+    {
+      "start": 1623.2,
+      "end": 1625.52,
+      "text": "So if you feel better, I appreciate it."
+    },
+    {
+      "start": 1625.54,
+      "end": 1626.46,
+      "text": "Thank you."
+    },
+    {
+      "start": 1627.2,
+      "end": 1627.78,
+      "text": "All right."
+    },
+    {
+      "start": 1627.86,
+      "end": 1629.4,
+      "text": "So, Gene, hey, congrats."
+    },
+    {
+      "start": 1629.44,
+      "end": 1635.24,
+      "text": "Excited to hear that you have another prospect closing domains registered, but not ranking."
+    },
+    {
+      "start": 1635.58,
+      "end": 1636.56,
+      "text": "Should you create a new website?"
+    },
+    {
+      "start": 1636.56,
+      "end": 1638.06,
+      "text": "So it depends what you mean by not ranking."
+    },
+    {
+      "start": 1638.64,
+      "end": 1639.04,
+      "text": "Right."
+    },
+    {
+      "start": 1639.1,
+      "end": 1640.24,
+      "text": "Because there's a big difference between."
+    },
+    {
+      "start": 1640.24,
+      "end": 1648.06,
+      "text": "I mean, hey, I ran my rank map and every single block is 20 plus and I ran my rank map and every single block is four."
+    },
+    {
+      "start": 1648.52,
+      "end": 1656.16,
+      "text": "But honestly, both of those essentially are not ranking because if you're not in the top three, you're not ranking."
+    },
+    {
+      "start": 1656.96,
+      "end": 1662.16,
+      "text": "I don't like creating new websites because when you create new websites, we typically see a drop in rank position."
+    },
+    {
+      "start": 1666.38,
+      "end": 1666.88,
+      "text": "Excuse me."
+    },
+    {
+      "start": 1667.88,
+      "end": 1673.76,
+      "text": "So usually we won't create new websites unless there's a really compelling reason to."
+    },
+    {
+      "start": 1674.3,
+      "end": 1681.8,
+      "text": "But, you know, if they're not ranking, like truly not ranking, then there's much less of a downside to creating a new website."
+    },
+    {
+      "start": 1683.3,
+      "end": 1683.9,
+      "text": "All right."
+    },
+    {
+      "start": 1683.98,
+      "end": 1689.44,
+      "text": "Let's do Justin having trouble because Claude thinks my generic service pages and location pages interconnect."
+    },
+    {
+      "start": 1690.0,
+      "end": 1692.66,
+      "text": "When I use Claude, they see these as the same."
+    },
+    {
+      "start": 1692.78,
+      "end": 1693.64,
+      "text": "I don't know."
+    },
+    {
+      "start": 1693.72,
+      "end": 1695.84,
+      "text": "Like when you use Claude for what, Justin?"
+    },
+    {
+      "start": 1695.96,
+      "end": 1696.92,
+      "text": "Like, what are you trying to do?"
+    },
+    {
+      "start": 1697.04,
+      "end": 1698.02,
+      "text": "Like, I need more information."
+    },
+    {
+      "start": 1698.1,
+      "end": 1700.38,
+      "text": "Like, I'm not sure what is going on here."
+    },
+    {
+      "start": 1700.58,
+      "end": 1701.72,
+      "text": "Can you hear me?"
+    },
+    {
+      "start": 1702.4,
+      "end": 1702.64,
+      "text": "Yeah."
+    },
+    {
+      "start": 1703.76,
+      "end": 1710.46,
+      "text": "So, like, when you go to, like, Roto-Rooter, right, they have their plumbing drain cleaning page, right?"
+    },
+    {
+      "start": 1711.68,
+      "end": 1715.9,
+      "text": "And then they have their drain cleaning page for a specific city."
+    },
+    {
+      "start": 1717.18,
+      "end": 1730.72,
+      "text": "When I enter the prompt, Claude is kind of, like, getting it confused and seeing the core 30 as the generic overall, like, top layer service pages."
+    },
+    {
+      "start": 1734.26,
+      "end": 1736.38,
+      "text": "It's kind of interconnecting them."
+    },
+    {
+      "start": 1736.68,
+      "end": 1743.76,
+      "text": "I mean, I don't know what ‑‑ I mean, Claude isn't, like, when you say interconnecting them, it's not like Claude is adding links."
+    },
+    {
+      "start": 1743.88,
+      "end": 1744.3,
+      "text": "What do you mean?"
+    },
+    {
+      "start": 1744.4,
+      "end": 1748.62,
+      "text": "Like, Claude, like, the content isn't what you want when you're trying to generate content?"
+    },
+    {
+      "start": 1750.46,
+      "end": 1750.82,
+      "text": "No."
+    },
+    {
+      "start": 1750.96,
+      "end": 1755.38,
+      "text": "I just did a check to see if I did the ‑‑ I have the core 30 pages."
+    },
+    {
+      "start": 1756.02,
+      "end": 1761.48,
+      "text": "And then it crawls it, and then it's looking at the URL structure for, like, drain cleaning."
+    },
+    {
+      "start": 1761.96,
+      "end": 1764.22,
+      "text": "And then the drain cleaning for, like, a city."
+    },
+    {
+      "start": 1764.52,
+      "end": 1766.22,
+      "text": "And then they're, like ‑‑"
+    },
+    {
+      "start": 1766.68,
+      "end": 1775.24,
+      "text": "Saying that that's not correct, that you have two duplicate service pages trying to go after the core 30 in your area."
+    },
+    {
+      "start": 1776.68,
+      "end": 1777.48,
+      "text": "I mean, that's fine."
+    },
+    {
+      "start": 1777.52,
+      "end": 1779.6,
+      "text": "You can just ignore it if you know what you're doing."
+    },
+    {
+      "start": 1781.04,
+      "end": 1781.4,
+      "text": "Okay."
+    },
+    {
+      "start": 1786.28,
+      "end": 1787.92,
+      "text": "And then ‑‑"
+    },
+    {
+      "start": 1787.92,
+      "end": 1792.18,
+      "text": "Well, I don't want to go too far, right, because we have a couple of people ahead of you."
+    },
+    {
+      "start": 1792.24,
+      "end": 1792.72,
+      "text": "Okay, Justin?"
+    },
+    {
+      "start": 1793.24,
+      "end": 1793.58,
+      "text": "Okay."
+    },
+    {
+      "start": 1794.9,
+      "end": 1796.1,
+      "text": "All right, Gene, what's going on, man?"
+    },
+    {
+      "start": 1796.1,
+      "end": 1796.58,
+      "text": "What you got?"
+    },
+    {
+      "start": 1802.52,
+      "end": 1802.88,
+      "text": "Gene?"
+    },
+    {
+      "start": 1802.88,
+      "end": 1804.04,
+      "text": "All right, I guess ‑‑ yeah."
+    },
+    {
+      "start": 1804.2,
+      "end": 1810.94,
+      "text": "When I was connected, my internet dropped, so I didn't hear what you said about the roofing prospecting with the relocations."
+    },
+    {
+      "start": 1811.76,
+      "end": 1816.28,
+      "text": "We'll post the recording, so you can always go back and rewatch the recording."
+    },
+    {
+      "start": 1817.92,
+      "end": 1818.64,
+      "text": "Okay, cool."
+    },
+    {
+      "start": 1819.52,
+      "end": 1819.76,
+      "text": "Cool."
+    },
+    {
+      "start": 1820.02,
+      "end": 1821.44,
+      "text": "All right, Marla, what's going on?"
+    },
+    {
+      "start": 1821.98,
+      "end": 1829.06,
+      "text": "Hey, so I want to clarify that I understand correctly about the GBP's categories and service pages."
+    },
+    {
+      "start": 1829.06,
+      "end": 1833.28,
+      "text": "Did I understand that if they are written as service pages on the GBP,"
+    },
+    {
+      "start": 1833.4,
+      "end": 1834.06,
+      "text": "then we should have ‑‑"
+    },
+    {
+      "start": 1834.2,
+      "end": 1838.22,
+      "text": "Yes, you should have a page on the website that is also that."
+    },
+    {
+      "start": 1838.38,
+      "end": 1843.84,
+      "text": "So the core 30 is basically having a page for every category and every service that's on the GBP."
+    },
+    {
+      "start": 1844.2,
+      "end": 1846.58,
+      "text": "And do they need to be linked in the navigation?"
+    },
+    {
+      "start": 1848.04,
+      "end": 1850.54,
+      "text": "Because, like, I have a client that they don't."
+    },
+    {
+      "start": 1850.64,
+      "end": 1852.38,
+      "text": "Okay, then that answers that question."
+    },
+    {
+      "start": 1852.84,
+      "end": 1859.22,
+      "text": "Okay, and then my next question is I have a client that the name of her city is in her URL, her domain."
+    },
+    {
+      "start": 1860.32,
+      "end": 1861.18,
+      "text": "Sorry, say it again."
+    },
+    {
+      "start": 1861.24,
+      "end": 1862.32,
+      "text": "The name of her city is what?"
+    },
+    {
+      "start": 1862.32,
+      "end": 1863.48,
+      "text": "In her domain."
+    },
+    {
+      "start": 1863.48,
+      "end": 1865.7,
+      "text": "So it's, like, era of Chino."
+    },
+    {
+      "start": 1866.26,
+      "end": 1870.88,
+      "text": "And so she wants to also try and write for surrounding areas."
+    },
+    {
+      "start": 1871.56,
+      "end": 1874.94,
+      "text": "So how do I go about doing that?"
+    },
+    {
+      "start": 1875.6,
+      "end": 1879.68,
+      "text": "Yeah, so the first question would be whether it's possible."
+    },
+    {
+      "start": 1879.92,
+      "end": 1882.56,
+      "text": "There are a lot of places where it's just not possible to do that."
+    },
+    {
+      "start": 1883.08,
+      "end": 1890.12,
+      "text": "Google puts a lot of emphasis on the city the searcher is in compared to the city that the GBP is in."
+    },
+    {
+      "start": 1890.52,
+      "end": 1891.0,
+      "text": "Okay."
+    },
+    {
+      "start": 1891.0,
+      "end": 1893.12,
+      "text": "And it's very often if the city and searcher ‑‑"
+    },
+    {
+      "start": 1893.48,
+      "end": 1901.06,
+      "text": "If the city on the GBP is different from the city the searcher is in, it is often just impossible to rank."
+    },
+    {
+      "start": 1901.16,
+      "end": 1902.1,
+      "text": "Google just won't do it."
+    },
+    {
+      "start": 1902.52,
+      "end": 1905.62,
+      "text": "We have a lot of clients that this is true for."
+    },
+    {
+      "start": 1905.62,
+      "end": 1916.88,
+      "text": "And I can, like, we can look at rank maps and we can literally see the border of the city because they go from top three to, like, 15 plus right on the city border."
+    },
+    {
+      "start": 1917.52,
+      "end": 1923.0,
+      "text": "So, you know, the common example I always use, it's, like, somebody does landscaping in Naperville."
+    },
+    {
+      "start": 1923.0,
+      "end": 1925.44,
+      "text": "And they want to rank for landscaping in Chicago."
+    },
+    {
+      "start": 1925.76,
+      "end": 1926.72,
+      "text": "They're not going to."
+    },
+    {
+      "start": 1926.98,
+      "end": 1930.84,
+      "text": "If it's a suburb and you want to rank in the main city, it's very, very hard to do that."
+    },
+    {
+      "start": 1931.34,
+      "end": 1936.26,
+      "text": "So to decide whether you can actually do that or not, what we'll do is we'll run the rank map."
+    },
+    {
+      "start": 1936.88,
+      "end": 1939.82,
+      "text": "And a lot of tools do this now, which is very nice."
+    },
+    {
+      "start": 1940.02,
+      "end": 1941.56,
+      "text": "But it used to not be the case."
+    },
+    {
+      "start": 1941.64,
+      "end": 1945.1,
+      "text": "It used to just be lead snap is the only one that did it."
+    },
+    {
+      "start": 1945.28,
+      "end": 1948.78,
+      "text": "But now a lot of tools will pull up your competitor rank maps along with yours."
+    },
+    {
+      "start": 1949.04,
+      "end": 1952.98,
+      "text": "So that's where, like, just pull up the rank map and look at your competitor rank map."
+    },
+    {
+      "start": 1953.0,
+      "end": 1959.1,
+      "text": "And see if there's anyone ranking in the area that you want to rank in who's also ranking in the area you are now."
+    },
+    {
+      "start": 1959.36,
+      "end": 1960.86,
+      "text": "Hopefully I'm making sense with that."
+    },
+    {
+      "start": 1961.32,
+      "end": 1964.66,
+      "text": "If there is someone else who has done that, then you know it's possible."
+    },
+    {
+      "start": 1964.66,
+      "end": 1968.02,
+      "text": "And you can just go build geographical relevance for that other city."
+    },
+    {
+      "start": 1968.82,
+      "end": 1969.02,
+      "text": "Okay."
+    },
+    {
+      "start": 1969.26,
+      "end": 1969.54,
+      "text": "Okay."
+    },
+    {
+      "start": 1969.56,
+      "end": 1970.24,
+      "text": "That makes sense."
+    },
+    {
+      "start": 1970.62,
+      "end": 1971.9,
+      "text": "And last quick question."
+    },
+    {
+      "start": 1972.22,
+      "end": 1976.44,
+      "text": "Like, I have a very low monthly website maintenance fee."
+    },
+    {
+      "start": 1977.74,
+      "end": 1981.8,
+      "text": "But if it's going to be more SEO related."
+    },
+    {
+      "start": 1981.8,
+      "end": 1984.62,
+      "text": "Can you give some pricing guidance?"
+    },
+    {
+      "start": 1985.24,
+      "end": 1990.84,
+      "text": "Just a range is fine of, like, monthly fees for SEO work and what that might include."
+    },
+    {
+      "start": 1991.4,
+      "end": 1992.64,
+      "text": "General is fine."
+    },
+    {
+      "start": 1993.64,
+      "end": 1995.28,
+      "text": "So for pricing?"
+    },
+    {
+      "start": 1995.76,
+      "end": 1996.1,
+      "text": "Mm-hmm."
+    },
+    {
+      "start": 1996.76,
+      "end": 1997.06,
+      "text": "Yeah."
+    },
+    {
+      "start": 1997.2,
+      "end": 1998.58,
+      "text": "So, I mean, it's really."
+    },
+    {
+      "start": 1998.76,
+      "end": 2001.56,
+      "text": "So I dropped the link to the scope of work estimator."
+    },
+    {
+      "start": 2001.84,
+      "end": 2003.46,
+      "text": "And that's really what we use."
+    },
+    {
+      "start": 2003.54,
+      "end": 2005.26,
+      "text": "Like, we price based on scope of work."
+    },
+    {
+      "start": 2006.7,
+      "end": 2008.68,
+      "text": "It's in the Zoom chat?"
+    },
+    {
+      "start": 2009.62,
+      "end": 2010.02,
+      "text": "Yeah, yeah, yeah."
+    },
+    {
+      "start": 2010.02,
+      "end": 2011.34,
+      "text": "I dropped it in the Zoom chat."
+    },
+    {
+      "start": 2011.8,
+      "end": 2013.22,
+      "text": "For someone else who'd asked after it."
+    },
+    {
+      "start": 2014.08,
+      "end": 2015.38,
+      "text": "Oh, maybe it was after I joined."
+    },
+    {
+      "start": 2015.54,
+      "end": 2015.74,
+      "text": "Okay."
+    },
+    {
+      "start": 2016.74,
+      "end": 2017.4,
+      "text": "Oh, no problem."
+    },
+    {
+      "start": 2017.46,
+      "end": 2018.72,
+      "text": "I can drop it again."
+    },
+    {
+      "start": 2019.64,
+      "end": 2020.0,
+      "text": "Sorry."
+    },
+    {
+      "start": 2020.12,
+      "end": 2020.44,
+      "text": "Thanks."
+    },
+    {
+      "start": 2021.0,
+      "end": 2021.7,
+      "text": "Yeah, no worries."
+    },
+    {
+      "start": 2022.24,
+      "end": 2022.5,
+      "text": "Okay."
+    },
+    {
+      "start": 2022.88,
+      "end": 2023.62,
+      "text": "Those are my questions."
+    },
+    {
+      "start": 2023.76,
+      "end": 2024.38,
+      "text": "I appreciate it."
+    },
+    {
+      "start": 2024.74,
+      "end": 2025.1,
+      "text": "Awesome."
+    },
+    {
+      "start": 2025.3,
+      "end": 2025.76,
+      "text": "Thank you."
+    },
+    {
+      "start": 2026.1,
+      "end": 2026.4,
+      "text": "All right."
+    },
+    {
+      "start": 2026.96,
+      "end": 2027.62,
+      "text": "So let's see."
+    },
+    {
+      "start": 2028.84,
+      "end": 2031.42,
+      "text": "Joe, I'm trying to build out a website with your prompts."
+    },
+    {
+      "start": 2031.76,
+      "end": 2034.6,
+      "text": "The first section of the prompts has me fill out all the business information."
+    },
+    {
+      "start": 2034.6,
+      "end": 2036.92,
+      "text": "And then it makes me fill out all the info again."
+    },
+    {
+      "start": 2037.02,
+      "end": 2038.46,
+      "text": "And the second part, I'm just wondering."
+    },
+    {
+      "start": 2038.76,
+      "end": 2041.76,
+      "text": "Usually the prompts are designed so that you only need to fill out the information."
+    },
+    {
+      "start": 2041.76,
+      "end": 2045.86,
+      "text": "And I think that's the case."
+    },
+    {
+      "start": 2046.14,
+      "end": 2048.92,
+      "text": "If you're filling it out twice, then you probably just don't need to."
+    },
+    {
+      "start": 2049.42,
+      "end": 2052.98,
+      "text": "It won't hurt anything if you fill it out multiple times, but it won't really help."
+    },
+    {
+      "start": 2053.84,
+      "end": 2056.32,
+      "text": "What do you generally charge for GVP management using LeadSnap?"
+    },
+    {
+      "start": 2056.88,
+      "end": 2059.28,
+      "text": "And yes, that is all we use for GVP management."
+    },
+    {
+      "start": 2059.98,
+      "end": 2063.66,
+      "text": "You can go really inexpensive for that, like $100 a month."
+    },
+    {
+      "start": 2063.76,
+      "end": 2068.52,
+      "text": "Because once you basically get it set up, it's all AI doing the GVP management."
+    },
+    {
+      "start": 2070.68,
+      "end": 2071.74,
+      "text": "And we did."
+    },
+    {
+      "start": 2071.76,
+      "end": 2079.12,
+      "text": "So if you go and look at the 90-day challenge, if I were trying to get clients for GVP management,"
+    },
+    {
+      "start": 2079.32,
+      "end": 2087.34,
+      "text": "I would run the 90-day challenge ad campaign with a phone call in it."
+    },
+    {
+      "start": 2087.42,
+      "end": 2092.26,
+      "text": "So I was trying to do it with no phone call, which is much, much more difficult to build the trust."
+    },
+    {
+      "start": 2092.7,
+      "end": 2097.12,
+      "text": "But if you just put a phone call in there, you'd be able to book phone calls for $20."
+    },
+    {
+      "start": 2097.12,
+      "end": 2101.74,
+      "text": "And your cost to provide the service is a couple of hours."
+    },
+    {
+      "start": 2101.74,
+      "end": 2108.16,
+      "text": "And then, you know, so you'd be roughly cash flow break-even for month one,"
+    },
+    {
+      "start": 2108.34,
+      "end": 2110.94,
+      "text": "but be able to grow, add clients and all of that."
+    },
+    {
+      "start": 2111.06,
+      "end": 2112.32,
+      "text": "So that's what we would do."
+    },
+    {
+      "start": 2113.42,
+      "end": 2114.06,
+      "text": "All right."
+    },
+    {
+      "start": 2115.24,
+      "end": 2120.84,
+      "text": "And Justin, we'll get to you in a moment, but we'll let you, we'll get Carlin first."
+    },
+    {
+      "start": 2120.96,
+      "end": 2121.48,
+      "text": "What's up, man?"
+    },
+    {
+      "start": 2122.86,
+      "end": 2123.74,
+      "text": "Hi there."
+    },
+    {
+      "start": 2123.96,
+      "end": 2131.2,
+      "text": "I've mostly used, for my website builder, a white-labeled version of Duda, Snaps.ai,"
+    },
+    {
+      "start": 2131.2,
+      "end": 2133.36,
+      "text": "for a bunch of my clients."
+    },
+    {
+      "start": 2134.2,
+      "end": 2140.1,
+      "text": "And if you were new to WordPress, would you attack that monster?"
+    },
+    {
+      "start": 2140.32,
+      "end": 2142.22,
+      "text": "Or is it just in my mind?"
+    },
+    {
+      "start": 2144.14,
+      "end": 2150.04,
+      "text": "So if we were, so I don't do hardly much on WordPress personally."
+    },
+    {
+      "start": 2150.04,
+      "end": 2151.78,
+      "text": "I have a developer who takes care of it."
+    },
+    {
+      "start": 2151.84,
+      "end": 2155.7,
+      "text": "Like I don't know how to mess with WordPress or anything like that."
+    },
+    {
+      "start": 2155.76,
+      "end": 2157.5,
+      "text": "So I'm not sure."
+    },
+    {
+      "start": 2157.56,
+      "end": 2159.14,
+      "text": "Is that, is that the question you're asking?"
+    },
+    {
+      "start": 2159.14,
+      "end": 2159.4,
+      "text": "Okay."
+    },
+    {
+      "start": 2159.48,
+      "end": 2160.58,
+      "text": "Yeah, that's kind of the question."
+    },
+    {
+      "start": 2160.64,
+      "end": 2160.9,
+      "text": "Okay."
+    },
+    {
+      "start": 2161.2,
+      "end": 2167.48,
+      "text": "Cause, um, I was going through your like lovable AI and I was like, dang, that's fast."
+    },
+    {
+      "start": 2167.7,
+      "end": 2169.54,
+      "text": "And I was like, I like that idea."
+    },
+    {
+      "start": 2169.66,
+      "end": 2170.24,
+      "text": "So, okay."
+    },
+    {
+      "start": 2170.24,
+      "end": 2173.22,
+      "text": "So you have a WordPress developer that handles all of that."
+    },
+    {
+      "start": 2173.36,
+      "end": 2173.58,
+      "text": "Okay."
+    },
+    {
+      "start": 2174.0,
+      "end": 2174.92,
+      "text": "That answers my question."
+    },
+    {
+      "start": 2175.44,
+      "end": 2176.2,
+      "text": "Oh, cool."
+    },
+    {
+      "start": 2176.48,
+      "end": 2176.78,
+      "text": "All right."
+    },
+    {
+      "start": 2177.24,
+      "end": 2179.56,
+      "text": "All right, Justin, let's come back to you, man."
+    },
+    {
+      "start": 2179.58,
+      "end": 2180.04,
+      "text": "What you got?"
+    },
+    {
+      "start": 2180.82,
+      "end": 2181.18,
+      "text": "Okay."
+    },
+    {
+      "start": 2181.28,
+      "end": 2183.42,
+      "text": "Um, I, this is related to the core 30."
+    },
+    {
+      "start": 2183.82,
+      "end": 2189.46,
+      "text": "So, uh, for, I have a junk removal company and the only, I don't have any like secondary"
+    },
+    {
+      "start": 2189.46,
+      "end": 2190.26,
+      "text": "categories."
+    },
+    {
+      "start": 2190.26,
+      "end": 2191.18,
+      "text": "They, they no longer."
+    },
+    {
+      "start": 2191.2,
+      "end": 2192.34,
+      "text": "Fit for the junk."
+    },
+    {
+      "start": 2192.5,
+      "end": 2193.92,
+      "text": "Uh, I only need junk removal."
+    },
+    {
+      "start": 2194.12,
+      "end": 2197.36,
+      "text": "So I was wondering if I should put all the services on the homepage."
+    },
+    {
+      "start": 2199.4,
+      "end": 2199.84,
+      "text": "Sorry."
+    },
+    {
+      "start": 2199.9,
+      "end": 2201.04,
+      "text": "Ask me one more time, Joe."
+    },
+    {
+      "start": 2201.56,
+      "end": 2204.38,
+      "text": "Uh, you have no secondary categories, but 21 services."
+    },
+    {
+      "start": 2204.84,
+      "end": 2205.52,
+      "text": "So yeah."
+    },
+    {
+      "start": 2205.82,
+      "end": 2209.98,
+      "text": "Um, so we can check out GMB everywhere."
+    },
+    {
+      "start": 2211.96,
+      "end": 2212.42,
+      "text": "Yeah."
+    },
+    {
+      "start": 2212.5,
+      "end": 2216.62,
+      "text": "The other categories are like garbage collection, debris removal."
+    },
+    {
+      "start": 2216.62,
+      "end": 2222.04,
+      "text": "Um, like these junk removal companies used to use them."
+    },
+    {
+      "start": 2222.04,
+      "end": 2226.94,
+      "text": "But now they, they really don't make sense just because Google created a new category"
+    },
+    {
+      "start": 2226.94,
+      "end": 2228.38,
+      "text": "called junk removal."
+    },
+    {
+      "start": 2228.76,
+      "end": 2232.8,
+      "text": "So that's primarily what we do."
+    },
+    {
+      "start": 2232.9,
+      "end": 2233.68,
+      "text": "And then compasses."
+    },
+    {
+      "start": 2233.86,
+      "end": 2236.6,
+      "text": "It primarily best describes what we do."
+    },
+    {
+      "start": 2236.6,
+      "end": 2239.34,
+      "text": "And most of our services, the garbage collection."
+    },
+    {
+      "start": 2239.34,
+      "end": 2246.28,
+      "text": "And this really doesn't really, uh, it's, it's more for waste collection for like a"
+    },
+    {
+      "start": 2246.28,
+      "end": 2247.22,
+      "text": "garbage collection."
+    },
+    {
+      "start": 2247.4,
+      "end": 2249.9,
+      "text": "Well, so there is debris removal service."
+    },
+    {
+      "start": 2251.56,
+      "end": 2253.26,
+      "text": "Uh, but I would just say like this."
+    },
+    {
+      "start": 2253.26,
+      "end": 2260.72,
+      "text": "The junk removal is more accurate of the description of what we're doing than the debris removal."
+    },
+    {
+      "start": 2264.12,
+      "end": 2264.4,
+      "text": "Okay."
+    },
+    {
+      "start": 2264.54,
+      "end": 2270.3,
+      "text": "I mean, if you look at debris removal or you look at rubbish collection and you're like, man, nope, that's not it."
+    },
+    {
+      "start": 2270.72,
+      "end": 2271.84,
+      "text": "We don't do that."
+    },
+    {
+      "start": 2271.84,
+      "end": 2277.78,
+      "text": "Like removals, removals company, you can say, nope, we don't do that."
+    },
+    {
+      "start": 2279.08,
+      "end": 2279.22,
+      "text": "Yeah."
+    },
+    {
+      "start": 2279.38,
+      "end": 2280.9,
+      "text": "Waste collection, waste management."
+    },
+    {
+      "start": 2281.12,
+      "end": 2281.84,
+      "text": "That's fine."
+    },
+    {
+      "start": 2282.66,
+      "end": 2283.34,
+      "text": "Garbage collection."
+    },
+    {
+      "start": 2283.48,
+      "end": 2285.26,
+      "text": "It's weird that there's three for garbage, right?"
+    },
+    {
+      "start": 2285.86,
+      "end": 2286.42,
+      "text": "Yeah."
+    },
+    {
+      "start": 2287.24,
+      "end": 2290.86,
+      "text": "House clearance service removes unwanted items and clears out homes."
+    },
+    {
+      "start": 2291.8,
+      "end": 2292.58,
+      "text": "I mean, that could be interesting."
+    },
+    {
+      "start": 2292.58,
+      "end": 2308.48,
+      "text": "I looked at the subcategories of that when I used the and they were like estate liquidation and I looked more into the like services in there and they didn't really match my services that I did, even though it sounds like what we do."
+    },
+    {
+      "start": 2312.05,
+      "end": 2313.91,
+      "text": "Sorry, I wasn't following."
+    },
+    {
+      "start": 2314.03,
+      "end": 2314.47,
+      "text": "Say it again."
+    },
+    {
+      "start": 2315.49,
+      "end": 2318.75,
+      "text": "So I used a tool to look at what."
+    },
+    {
+      "start": 2318.77,
+      "end": 2325.71,
+      "text": "Services are traditionally in that category and they didn't match my services that I provide."
+    },
+    {
+      "start": 2326.45,
+      "end": 2333.53,
+      "text": "So, yeah, if you're looking at this list of related categories and just like none of those are related to me, then that's fine."
+    },
+    {
+      "start": 2333.77,
+      "end": 2348.09,
+      "text": "We do have clients where we just have a single we just have a single category and then you're just going to choose your top couple of services that you care the most about and write about them on your homepage and then link to pages about them and the rest of them."
+    },
+    {
+      "start": 2348.09,
+      "end": 2348.75,
+      "text": "You'll just do."
+    },
+    {
+      "start": 2348.77,
+      "end": 2355.49,
+      "text": "The same service hub style the way we did it for the plumbing site for Gary, the sample site."
+    },
+    {
+      "start": 2357.95,
+      "end": 2364.99,
+      "text": "I don't understand how Google can understand the core 30 if I don't add all the services on that page."
+    },
+    {
+      "start": 2368.88,
+      "end": 2369.48,
+      "text": "Why?"
+    },
+    {
+      "start": 2371.28,
+      "end": 2374.54,
+      "text": "Because you don't want 21 services on your GVP homepage."
+    },
+    {
+      "start": 2374.54,
+      "end": 2375.46,
+      "text": "That's too many."
+    },
+    {
+      "start": 2375.9,
+      "end": 2380.46,
+      "text": "You'll dilute the effectiveness of the links with that many outbound links on the on the GVP homepage."
+    },
+    {
+      "start": 2380.82,
+      "end": 2393.44,
+      "text": "So how do I get my junk removal page or my homepage to for Google to understand the core 30 if I don't have any links or descriptions to explaining that?"
+    },
+    {
+      "start": 2393.88,
+      "end": 2395.72,
+      "text": "Well, I'm not saying don't put any links or descriptions."
+    },
+    {
+      "start": 2395.72,
+      "end": 2409.72,
+      "text": "What I said was that you want to put like a handful, like look at your list of services and find like the four or five services that you care the absolute most about and put those on your homepage with little with H2s, a little paragraph."
+    },
+    {
+      "start": 2410.82,
+      "end": 2419.4,
+      "text": "You know, of text and then a link to a detail page about that service, then create the other detail pages about your services."
+    },
+    {
+      "start": 2419.4,
+      "end": 2426.94,
+      "text": "So you have all 21 pages and you'll link to the other ones from a service hub, not from your GVP landing page."
+    },
+    {
+      "start": 2428.22,
+      "end": 2437.06,
+      "text": "Oh, because so like I'll name it something like services San Jose and then on that page, it's going to have the remaining of the services."
+    },
+    {
+      "start": 2437.82,
+      "end": 2438.12,
+      "text": "Yeah."
+    },
+    {
+      "start": 2438.12,
+      "end": 2440.76,
+      "text": "So take a look at the Gary plumbing site."
+    },
+    {
+      "start": 2441.34,
+      "end": 2447.48,
+      "text": "The sample site that's in the training and about two thirds of the way down on the homepage, there's a link that says view all services."
+    },
+    {
+      "start": 2447.66,
+      "end": 2454.96,
+      "text": "You can also click services on the nav bar and it'll bring you to the service hub page that we built for that sample site."
+    },
+    {
+      "start": 2455.78,
+      "end": 2469.48,
+      "text": "For a multiple location business, like how should I, should I just create a like a services San Jose hub page and then link the rest of the pages that."
+    },
+    {
+      "start": 2470.36,
+      "end": 2470.8,
+      "text": "Yeah."
+    },
+    {
+      "start": 2470.8,
+      "end": 2472.62,
+      "text": "That I provide on that whole page there."
+    },
+    {
+      "start": 2473.08,
+      "end": 2475.12,
+      "text": "Every location will get its own hub page."
+    },
+    {
+      "start": 2475.14,
+      "end": 2475.44,
+      "text": "Yes."
+    },
+    {
+      "start": 2477.06,
+      "end": 2477.5,
+      "text": "Okay."
+    },
+    {
+      "start": 2477.5,
+      "end": 2499.54,
+      "text": "And then I was confused when I looked at that website for the plumbing website for the, for the category secondary page of like drainage, cleanage, the URL structure doesn't have like the name of the company slash drainage,"
+    },
+    {
+      "start": 2499.54,
+      "end": 2500.7,
+      "text": "drainage, cleanage, slash."
+    },
+    {
+      "start": 2500.8,
+      "end": 2504.16,
+      "text": "The actual service, it just goes to the second layer, second level."
+    },
+    {
+      "start": 2504.64,
+      "end": 2505.96,
+      "text": "Is that how it should be?"
+    },
+    {
+      "start": 2506.08,
+      "end": 2508.16,
+      "text": "Google doesn't care about URL structure."
+    },
+    {
+      "start": 2508.16,
+      "end": 2510.94,
+      "text": "So you can do whatever URL structure makes sense for you."
+    },
+    {
+      "start": 2512.78,
+      "end": 2522.04,
+      "text": "It's actually usually very slightly better to keep the URL structure flat, but if you want to do like a folded URL system, then knock yourself out."
+    },
+    {
+      "start": 2522.04,
+      "end": 2522.94,
+      "text": "Google doesn't care."
+    },
+    {
+      "start": 2523.24,
+      "end": 2528.58,
+      "text": "Google builds images of websites based on the link flows, not based on the URL structure."
+    },
+    {
+      "start": 2529.98,
+      "end": 2530.38,
+      "text": "And then,"
+    },
+    {
+      "start": 2530.38,
+      "end": 2533.86,
+      "text": "um, I have a lot of location pages prior."
+    },
+    {
+      "start": 2534.58,
+      "end": 2547.42,
+      "text": "Um, so I should not add those location pages cause it's going to remove the link equity on the homepage or the, the service URL page or the GMB landing page."
+    },
+    {
+      "start": 2547.42,
+      "end": 2547.66,
+      "text": "I mean,"
+    },
+    {
+      "start": 2549.1,
+      "end": 2552.94,
+      "text": "Oh, so you had a, so what do you mean you had a bunch of location pages?"
+    },
+    {
+      "start": 2553.18,
+      "end": 2556.18,
+      "text": "I mean, you can like, so we also have a locations hub, right?"
+    },
+    {
+      "start": 2556.2,
+      "end": 2560.36,
+      "text": "So if you look at again, that sample site, and in addition to the."
+    },
+    {
+      "start": 2560.38,
+      "end": 2567.58,
+      "text": "View all services link, there's also a view, all locations, which we're serving using as the, uh, locations hub page."
+    },
+    {
+      "start": 2568.9,
+      "end": 2570.62,
+      "text": "Oh, uh, okay."
+    },
+    {
+      "start": 2570.64,
+      "end": 2576.46,
+      "text": "I just got confused cause I just didn't understand cause you, uh, how Google would understand all that."
+    },
+    {
+      "start": 2576.5,
+      "end": 2584.98,
+      "text": "And it's how that's structured as the, um, how that is structured as the, uh, Google, my business, like how are you supposed to structure that?"
+    },
+    {
+      "start": 2584.98,
+      "end": 2585.48,
+      "text": "Exactly."
+    },
+    {
+      "start": 2586.6,
+      "end": 2586.82,
+      "text": "Yeah."
+    },
+    {
+      "start": 2586.82,
+      "end": 2587.86,
+      "text": "Hopefully this clarifies."
+    },
+    {
+      "start": 2589.46,
+      "end": 2590.2,
+      "text": "And then, um,"
+    },
+    {
+      "start": 2590.38,
+      "end": 2612.28,
+      "text": "So I had a question, uh, uh, like when I look up a service like furniture removal and I look at my business and it says provides underneath, does that mean that, um, that that is recognized by, by Google?"
+    },
+    {
+      "start": 2612.28,
+      "end": 2618.82,
+      "text": "And then should all my services that I provide have that provides, and then that's how I know that the core 30 is implemented properly."
+    },
+    {
+      "start": 2619.2,
+      "end": 2624.32,
+      "text": "No, um, Google will usually just show that if, uh, depending on what the person searched for."
+    },
+    {
+      "start": 2624.62,
+      "end": 2627.04,
+      "text": "So don't worry about that too much."
+    },
+    {
+      "start": 2627.04,
+      "end": 2627.84,
+      "text": "Like all we're doing."
+    },
+    {
+      "start": 2627.84,
+      "end": 2629.28,
+      "text": "With the core 30, right?"
+    },
+    {
+      "start": 2629.28,
+      "end": 2631.02,
+      "text": "Cause Google can look at your GBP."
+    },
+    {
+      "start": 2631.02,
+      "end": 2632.9,
+      "text": "It sees all the services that are on there."
+    },
+    {
+      "start": 2633.08,
+      "end": 2634.26,
+      "text": "It looks at your website."
+    },
+    {
+      "start": 2634.26,
+      "end": 2645.9,
+      "text": "So all we're doing with the core 30 is building as much relevance as we can, uh, for your business to connect all the dots, to help Google understand all of that."
+    },
+    {
+      "start": 2646.46,
+      "end": 2652.16,
+      "text": "But don't worry about like, if, if the right thing showed up on a search, you know what I mean?"
+    },
+    {
+      "start": 2653.0,
+      "end": 2653.42,
+      "text": "Okay."
+    },
+    {
+      "start": 2656.31,
+      "end": 2659.79,
+      "text": "And then, uh, regarding the chamber of commerce, like."
+    },
+    {
+      "start": 2659.95,
+      "end": 2671.45,
+      "text": "Uh, let's say I, I located in like San Jose, but I get another, uh, another, uh, chamber of commerce in like Cupertino on that Cupertino page."
+    },
+    {
+      "start": 2671.79,
+      "end": 2684.77,
+      "text": "If I, uh, the chamber of commerce, uh, link, uh, should I link the, the like Cupertino, uh, chamber of commerce to the Cupertino page and then the San Jose to the San Jose page?"
+    },
+    {
+      "start": 2686.91,
+      "end": 2687.57,
+      "text": "No."
+    },
+    {
+      "start": 2687.71,
+      "end": 2691.19,
+      "text": "Um, we'll almost always send all of the."
+    },
+    {
+      "start": 2691.33,
+      "end": 2698.85,
+      "text": "Uh, we'll almost always send all of the chambers of commerce to the GBP landing page."
+    },
+    {
+      "start": 2699.97,
+      "end": 2715.81,
+      "text": "Uh, and then, um, on the, on the header for the dropdowns, um, should I have dropped down with all the locations and all the, um, services or does that take away the link equity?"
+    },
+    {
+      "start": 2716.99,
+      "end": 2718.09,
+      "text": "Usually we don't."
+    },
+    {
+      "start": 2718.19,
+      "end": 2720.35,
+      "text": "And you can see how we did it on the sample site."
+    },
+    {
+      "start": 2720.51,
+      "end": 2722.55,
+      "text": "And we very specifically didn't throw a."
+    },
+    {
+      "start": 2722.61,
+      "end": 2723.79,
+      "text": "A ton of links in the header."
+    },
+    {
+      "start": 2724.13,
+      "end": 2728.99,
+      "text": "Uh, a ton of header footer links is a common mistake and it just throws away link equity."
+    },
+    {
+      "start": 2729.49,
+      "end": 2731.39,
+      "text": "Even if I put no follow on there."
+    },
+    {
+      "start": 2732.17,
+      "end": 2734.09,
+      "text": "So the way no follow works, right?"
+    },
+    {
+      "start": 2734.13,
+      "end": 2736.43,
+      "text": "So say just to make the math easy."
+    },
+    {
+      "start": 2736.43,
+      "end": 2745.25,
+      "text": "So say you had a hundred link equity points on your homepage and you had 10 outbound links, then each outbound link is going to get 10 points."
+    },
+    {
+      "start": 2745.45,
+      "end": 2750.25,
+      "text": "If you put nine, no follows, and then one regular link."
+    },
+    {
+      "start": 2750.79,
+      "end": 2752.59,
+      "text": "The one regular link will get."
+    },
+    {
+      "start": 2752.61,
+      "end": 2755.43,
+      "text": "10 points and the nine, no follows, we'll get zero."
+    },
+    {
+      "start": 2756.57,
+      "end": 2764.79,
+      "text": "So it still gets divided by the total number of links, uh, so that you can't authority sculpt in the way that you're wanting to it."
+    },
+    {
+      "start": 2764.79,
+      "end": 2766.11,
+      "text": "That just doesn't work anymore."
+    },
+    {
+      "start": 2768.54,
+      "end": 2776.86,
+      "text": "And then, um, so for my generic services, like I have one for apartment cleaning, but that's more for like house cleaning and stuff."
+    },
+    {
+      "start": 2777.22,
+      "end": 2782.14,
+      "text": "It's not related to, um, uh, uh, junk removal."
+    },
+    {
+      "start": 2782.38,
+      "end": 2784.24,
+      "text": "So I didn't create like a city."
+    },
+    {
+      "start": 2784.24,
+      "end": 2786.68,
+      "text": "Specific page for that."
+    },
+    {
+      "start": 2786.7,
+      "end": 2789.4,
+      "text": "But on my generic services, I have that."
+    },
+    {
+      "start": 2789.94,
+      "end": 2800.92,
+      "text": "And, uh, when I was running with Claude, it, it said I should make an apartment clean out page for, uh, for my city specific page should."
+    },
+    {
+      "start": 2801.7,
+      "end": 2808.96,
+      "text": "So should I create every generic service that I have and then a city corresponding city page with that?"
+    },
+    {
+      "start": 2809.5,
+      "end": 2809.74,
+      "text": "No."
+    },
+    {
+      "start": 2809.74,
+      "end": 2814.2,
+      "text": "So when we create the pages for the core 30, it's going to be like the service plus city."
+    },
+    {
+      "start": 2814.2,
+      "end": 2814.68,
+      "text": "Name."
+    },
+    {
+      "start": 2814.72,
+      "end": 2817.14,
+      "text": "And we're just going to create one of those for every service."
+    },
+    {
+      "start": 2818.7,
+      "end": 2823.14,
+      "text": "And then that will be like the core 30 for topical and geo relevance."
+    },
+    {
+      "start": 2823.5,
+      "end": 2828.96,
+      "text": "And then beyond that, if we need more topical relevance, then we start to answer PAA or Reddit questions."
+    },
+    {
+      "start": 2828.96,
+      "end": 2834.36,
+      "text": "If we need more geo relevance, we start to build like hyper local pages."
+    },
+    {
+      "start": 2836.48,
+      "end": 2844.86,
+      "text": "Um, when I was looking at the content writing section, I was very confused at what's supporting content, outline men, and then the neighborhood page outline."
+    },
+    {
+      "start": 2845.34,
+      "end": 2848.62,
+      "text": "Uh, like I don't understand that at all."
+    },
+    {
+      "start": 2848.62,
+      "end": 2852.36,
+      "text": "I didn't see any examples on the plumbing website or anything in regards to that."
+    },
+    {
+      "start": 2852.94,
+      "end": 2854.88,
+      "text": "So there are examples on the plumbing website."
+    },
+    {
+      "start": 2855.6,
+      "end": 2864.06,
+      "text": "So if you go to the location hub, you'll see that there are a couple dozen, uh, location pages on the sample site."
+    },
+    {
+      "start": 2869.31,
+      "end": 2872.27,
+      "text": "Oh, so the, so the, these are just location pages."
+    },
+    {
+      "start": 2873.11,
+      "end": 2874.43,
+      "text": "They're not location pages."
+    },
+    {
+      "start": 2874.43,
+      "end": 2876.33,
+      "text": "They're pages for geographical relevance."
+    },
+    {
+      "start": 2876.33,
+      "end": 2878.33,
+      "text": "So they're more like hyper local."
+    },
+    {
+      "start": 2878.65,
+      "end": 2879.29,
+      "text": "Uh,"
+    },
+    {
+      "start": 2879.93,
+      "end": 2880.97,
+      "text": "Content, right?"
+    },
+    {
+      "start": 2881.15,
+      "end": 2886.01,
+      "text": "So if you go into the site, there, there's a lesson in there."
+    },
+    {
+      "start": 2886.01,
+      "end": 2887.21,
+      "text": "Let me pull it for you."
+    },
+    {
+      "start": 2887.27,
+      "end": 2893.15,
+      "text": "Um, about geo relevance, where we talk about what we're doing and why we're doing it."
+    },
+    {
+      "start": 2894.09,
+      "end": 2897.23,
+      "text": "Let's see, building more geographical relevance."
+    },
+    {
+      "start": 2897.75,
+      "end": 2904.65,
+      "text": "So you should be able to check this out and that'll break down what we're doing exactly to build geographical relevance."
+    },
+    {
+      "start": 2908.68,
+      "end": 2910.78,
+      "text": "Oh, and then what is this?"
+    },
+    {
+      "start": 2911.14,
+      "end": 2911.68,
+      "text": "Uh,"
+    },
+    {
+      "start": 2911.68,
+      "end": 2915.39,
+      "text": "what is the neighborhood page?"
+    },
+    {
+      "start": 2915.39,
+      "end": 2917.37,
+      "text": "Is there some example on there as well?"
+    },
+    {
+      "start": 2917.85,
+      "end": 2918.65,
+      "text": "That's the same thing."
+    },
+    {
+      "start": 2918.71,
+      "end": 2923.09,
+      "text": "Those, those are all the same type of page just to build geographical relevance."
+    },
+    {
+      "start": 2925.82,
+      "end": 2927.42,
+      "text": "Uh, so you have, okay."
+    },
+    {
+      "start": 2927.76,
+      "end": 2937.49,
+      "text": "Um, and then, uh, let's say I have a location in like my main location is in San Jose, but I have another one in San Diego."
+    },
+    {
+      "start": 2937.85,
+      "end": 2945.99,
+      "text": "Should I name the one in San Diego, like my business name plus San Diego for the GMB, just so it's like not confusing."
+    },
+    {
+      "start": 2945.99,
+      "end": 2950.31,
+      "text": "Usually we don't, usually we'll just use the same business name."
+    },
+    {
+      "start": 2951.21,
+      "end": 2963.97,
+      "text": "So does Facebook allow for like, um, a different account with the same email and then you constantly create like different Google, my business pages for each location on the same account?"
+    },
+    {
+      "start": 2964.99,
+      "end": 2966.61,
+      "text": "So you asked Facebook there."
+    },
+    {
+      "start": 2966.61,
+      "end": 2972.65,
+      "text": "So if you're trying to create Facebook pages, yes, you can create, I've never run into a limit creating Facebook pages."
+    },
+    {
+      "start": 2972.71,
+      "end": 2974.89,
+      "text": "Um, so that usually isn't an issue."
+    },
+    {
+      "start": 2975.07,
+      "end": 2975.97,
+      "text": "And then you would."
+    },
+    {
+      "start": 2975.97,
+      "end": 2982.27,
+      "text": "Just create the pages for all of the different locations, uh, for your Google, my business on your Google account."
+    },
+    {
+      "start": 2982.51,
+      "end": 2984.37,
+      "text": "We also generally don't have issues."
+    },
+    {
+      "start": 2984.37,
+      "end": 2988.45,
+      "text": "Like I have several hundred GBPs under management on my Google account."
+    },
+    {
+      "start": 2993.24,
+      "end": 2993.62,
+      "text": "Okay."
+    },
+    {
+      "start": 2993.68,
+      "end": 2994.22,
+      "text": "Thank you."
+    },
+    {
+      "start": 2994.88,
+      "end": 2995.42,
+      "text": "Appreciate your help."
+    },
+    {
+      "start": 2996.02,
+      "end": 2996.56,
+      "text": "Awesome, man."
+    },
+    {
+      "start": 2996.62,
+      "end": 2996.86,
+      "text": "Cool."
+    },
+    {
+      "start": 2996.86,
+      "end": 2997.24,
+      "text": "Cool."
+    },
+    {
+      "start": 2998.0,
+      "end": 2998.42,
+      "text": "All right."
+    },
+    {
+      "start": 2998.42,
+      "end": 3010.07,
+      "text": "So a couple of other questions we'll get, um, so somebody asks sessions where we can submit the site reviews for feedback."
+    },
+    {
+      "start": 3010.45,
+      "end": 3011.03,
+      "text": "Yeah."
+    },
+    {
+      "start": 3011.03,
+      "end": 3012.41,
+      "text": "So I'll give you a link."
+    },
+    {
+      "start": 3012.41,
+      "end": 3016.07,
+      "text": "You can submit, uh, and my team will take a look at it."
+    },
+    {
+      "start": 3016.07,
+      "end": 3027.17,
+      "text": "If you want to take a look at one during this zoom call, uh, then you can put your hand up and, um, when, when we get to you, we can, uh, do a quick share screen share and, and take a look."
+    },
+    {
+      "start": 3027.29,
+      "end": 3028.87,
+      "text": "So a couple of different ways there."
+    },
+    {
+      "start": 3029.49,
+      "end": 3030.31,
+      "text": "Um, yeah."
+    },
+    {
+      "start": 3030.37,
+      "end": 3032.67,
+      "text": "And Joe, you need to be logged in for that link to work."
+    },
+    {
+      "start": 3033.77,
+      "end": 3035.31,
+      "text": "How many services are ideal?"
+    },
+    {
+      "start": 3035.45,
+      "end": 3039.45,
+      "text": "Uh, however many are relevant to your business or your client's business."
+    },
+    {
+      "start": 3039.45,
+      "end": 3040.41,
+      "text": "Like don't push it."
+    },
+    {
+      "start": 3040.41,
+      "end": 3042.37,
+      "text": "Uh, like we just said with Justin."
+    },
+    {
+      "start": 3042.41,
+      "end": 3045.29,
+      "text": "He didn't even have 30, which is fine, right?"
+    },
+    {
+      "start": 3045.33,
+      "end": 3047.53,
+      "text": "Pick ones that are service that are relevant to you."
+    },
+    {
+      "start": 3047.79,
+      "end": 3048.71,
+      "text": "Don't stretch it."
+    },
+    {
+      "start": 3049.55,
+      "end": 3051.05,
+      "text": "Um, all right."
+    },
+    {
+      "start": 3051.09,
+      "end": 3051.63,
+      "text": "Hi Tran."
+    },
+    {
+      "start": 3051.63,
+      "end": 3057.89,
+      "text": "If a client has a business with the same name as two other similar businesses, they're not connected in any way."
+    },
+    {
+      "start": 3058.19,
+      "end": 3061.13,
+      "text": "How does my effort to help her optimize affect the other two of any?"
+    },
+    {
+      "start": 3062.57,
+      "end": 3072.11,
+      "text": "So, um, as long as the, so the, in order to identify the specific business, Google and AI systems used your name, address, and phone number."
+    },
+    {
+      "start": 3072.41,
+      "end": 3078.41,
+      "text": "So assuming that your name, address, and phone number are not the same, they will be seen as separate businesses."
+    },
+    {
+      "start": 3078.79,
+      "end": 3084.29,
+      "text": "If your name, address, and phone number are the same, then you might actually have the same business."
+    },
+    {
+      "start": 3084.29,
+      "end": 3089.63,
+      "text": "Cause that, um, I mean, that would be really hard to have the same name, address, phone number for multiple different businesses."
+    },
+    {
+      "start": 3090.37,
+      "end": 3092.93,
+      "text": "Uh, does it still matter to have GBP embedded on the homepage?"
+    },
+    {
+      "start": 3092.93,
+      "end": 3093.15,
+      "text": "Yeah."
+    },
+    {
+      "start": 3093.15,
+      "end": 3095.15,
+      "text": "We still didn't bed the GBP on the homepage."
+    },
+    {
+      "start": 3095.17,
+      "end": 3096.41,
+      "text": "It's usually pretty easy to do."
+    },
+    {
+      "start": 3096.87,
+      "end": 3098.09,
+      "text": "All right, Jordan, what's up, man."
+    },
+    {
+      "start": 3099.15,
+      "end": 3099.91,
+      "text": "Hey, nice to meet you."
+    },
+    {
+      "start": 3099.99,
+      "end": 3101.35,
+      "text": "Uh, one quick question."
+    },
+    {
+      "start": 3101.39,
+      "end": 3102.29,
+      "text": "Uh, one of my clients."
+    },
+    {
+      "start": 3102.29,
+      "end": 3105.11,
+      "text": "My clients is in a really competitive market, riffing market."
+    },
+    {
+      "start": 3105.65,
+      "end": 3109.33,
+      "text": "And for some reason, GBP is constantly adding services."
+    },
+    {
+      "start": 3109.33,
+      "end": 3113.93,
+      "text": "Like I'm looking at it right now and it says services were changed based on feedback from Google users, blah, blah, blah, blah, blah."
+    },
+    {
+      "start": 3114.17,
+      "end": 3115.35,
+      "text": "And it always throws stuff in there."
+    },
+    {
+      "start": 3115.35,
+      "end": 3116.21,
+      "text": "That's not relevant."
+    },
+    {
+      "start": 3116.21,
+      "end": 3117.53,
+      "text": "Like HVAC installation."
+    },
+    {
+      "start": 3117.61,
+      "end": 3122.81,
+      "text": "I mean, I just kind of like, we take it off, put it back on, but it's not like on the website or anything."
+    },
+    {
+      "start": 3122.81,
+      "end": 3126.35,
+      "text": "How do you manage that constant influx?"
+    },
+    {
+      "start": 3127.13,
+      "end": 3127.65,
+      "text": "I'm sorry."
+    },
+    {
+      "start": 3127.67,
+      "end": 3128.93,
+      "text": "The influx of what?"
+    },
+    {
+      "start": 3130.25,
+      "end": 3132.11,
+      "text": "Every time, almost every time I log back into my."
+    },
+    {
+      "start": 3132.15,
+      "end": 3132.25,
+      "text": "Yeah."
+    },
+    {
+      "start": 3132.29,
+      "end": 3137.87,
+      "text": "Google business profile for this business, it shows me that Google has added or edited the GBP services to add services."
+    },
+    {
+      "start": 3137.87,
+      "end": 3140.75,
+      "text": "And some of them aren't relevant at all to the business."
+    },
+    {
+      "start": 3141.95,
+      "end": 3145.75,
+      "text": "So you can lock it with, uh, uh, there are a bunch of tools that do it."
+    },
+    {
+      "start": 3145.85,
+      "end": 3152.81,
+      "text": "Uh, lead snap is one of them and you can lock it so that Google, um, will not be able to change as much."
+    },
+    {
+      "start": 3153.23,
+      "end": 3158.01,
+      "text": "And, uh, beyond that, it's really just, you know, log in on a regular basis and reject them all."
+    },
+    {
+      "start": 3158.69,
+      "end": 3158.93,
+      "text": "Okay."
+    },
+    {
+      "start": 3159.65,
+      "end": 3160.05,
+      "text": "Thanks."
+    },
+    {
+      "start": 3160.97,
+      "end": 3161.23,
+      "text": "Yeah."
+    },
+    {
+      "start": 3161.27,
+      "end": 3162.15,
+      "text": "I know it's frustrating."
+    },
+    {
+      "start": 3162.15,
+      "end": 3164.05,
+      "text": "But the good news is right."
+    },
+    {
+      "start": 3164.17,
+      "end": 3167.93,
+      "text": "Google used to allow other people to change your pin location."
+    },
+    {
+      "start": 3167.93,
+      "end": 3170.11,
+      "text": "At least they did away with that."
+    },
+    {
+      "start": 3170.87,
+      "end": 3172.47,
+      "text": "So, you know, baby steps."
+    },
+    {
+      "start": 3178.85,
+      "end": 3179.03,
+      "text": "All right."
+    },
+    {
+      "start": 3179.07,
+      "end": 3180.33,
+      "text": "Any other questions?"
+    },
+    {
+      "start": 3180.61,
+      "end": 3181.61,
+      "text": "Anything else come up?"
+    },
+    {
+      "start": 3182.63,
+      "end": 3184.45,
+      "text": "I do have a really fast one if it's okay."
+    },
+    {
+      "start": 3184.79,
+      "end": 3185.15,
+      "text": "Sure."
+    },
+    {
+      "start": 3185.69,
+      "end": 3186.87,
+      "text": "Um, can I share my screen?"
+    },
+    {
+      "start": 3187.59,
+      "end": 3188.57,
+      "text": "Uh, yes."
+    },
+    {
+      "start": 3189.73,
+      "end": 3196.25,
+      "text": "Um, so when, when you were talking about the, um, categories."
+    },
+    {
+      "start": 3196.55,
+      "end": 3197.59,
+      "text": "So like this."
+    },
+    {
+      "start": 3197.59,
+      "end": 3208.79,
+      "text": "This, I just took this account over, so they have contractor, but then they also have general contractor as, and so do we need the same services under both?"
+    },
+    {
+      "start": 3208.79,
+      "end": 3217.47,
+      "text": "No, we don't, we don't like repeating services, so we would put the services only under the one that they're like most semantically relevant to."
+    },
+    {
+      "start": 3217.47,
+      "end": 3222.49,
+      "text": "Okay, so should I have the same category like contractor and general contractor or should I just choose one."
+    },
+    {
+      "start": 3222.49,
+      "end": 3226.49,
+      "text": "So the, um, I'm not sure."
+    },
+    {
+      "start": 3226.49,
+      "end": 3229.81,
+      "text": "I'm sure Google sees a difference between those two categories."
+    },
+    {
+      "start": 3229.81,
+      "end": 3231.55,
+      "text": "Otherwise they wouldn't have both of them."
+    },
+    {
+      "start": 3231.99,
+      "end": 3232.39,
+      "text": "Uh-huh."
+    },
+    {
+      "start": 3232.71,
+      "end": 3236.77,
+      "text": "Um, so I don't see anything wrong with having both of those categories on there."
+    },
+    {
+      "start": 3236.77,
+      "end": 3245.71,
+      "text": "As long as you make sure, you know, what is the difference that Google sees and making sure that it's aligned with what Google is after."
+    },
+    {
+      "start": 3246.97,
+      "end": 3247.41,
+      "text": "Okay."
+    },
+    {
+      "start": 3248.01,
+      "end": 3249.81,
+      "text": "So I think that answers my question."
+    },
+    {
+      "start": 3249.81,
+      "end": 3254.83,
+      "text": "So these are too many services and they're repetitive and I just need to clean it up."
+    },
+    {
+      "start": 3255.93,
+      "end": 3256.33,
+      "text": "Yeah."
+    },
+    {
+      "start": 3256.33,
+      "end": 3257.41,
+      "text": "I'm kind of interested."
+    },
+    {
+      "start": 3257.57,
+      "end": 3266.47,
+      "text": "So if we go to general contractor, so it says that the general contractor is manages and oversees construction or renovation projects."
+    },
+    {
+      "start": 3266.59,
+      "end": 3266.93,
+      "text": "Yep."
+    },
+    {
+      "start": 3266.95,
+      "end": 3269.11,
+      "text": "That is in fact what a general contractor is."
+    },
+    {
+      "start": 3270.21,
+      "end": 3271.63,
+      "text": "And what was the other category more like?"
+    },
+    {
+      "start": 3271.63,
+      "end": 3273.01,
+      "text": "Contractor, contractor."
+    },
+    {
+      "start": 3273.33,
+      "end": 3274.77,
+      "text": "Oh, just contractor."
+    },
+    {
+      "start": 3275.41,
+      "end": 3276.77,
+      "text": "There were, those were the two."
+    },
+    {
+      "start": 3278.57,
+      "end": 3288.76,
+      "text": "And there's contractor and contractor manages and completes construction renovation or repair projects for homes or businesses."
+    },
+    {
+      "start": 3289.08,
+      "end": 3289.58,
+      "text": "Yeah."
+    },
+    {
+      "start": 3289.58,
+      "end": 3290.88,
+      "text": "That's exactly the same."
+    },
+    {
+      "start": 3292.58,
+      "end": 3298.8,
+      "text": "So the contractor manages and completes and the general contractor manages and oversees."
+    },
+    {
+      "start": 3301.68,
+      "end": 3302.18,
+      "text": "Yeah."
+    },
+    {
+      "start": 3302.18,
+      "end": 3304.44,
+      "text": "So do I include them both then?"
+    },
+    {
+      "start": 3305.32,
+      "end": 3307.5,
+      "text": "I mean, they look, they seem so similar."
+    },
+    {
+      "start": 3307.76,
+      "end": 3309.0,
+      "text": "Uh, I probably would."
+    },
+    {
+      "start": 3309.64,
+      "end": 3310.14,
+      "text": "Okay."
+    },
+    {
+      "start": 3310.2,
+      "end": 3312.84,
+      "text": "So leave them both and just don't repeat the services."
+    },
+    {
+      "start": 3313.38,
+      "end": 3313.88,
+      "text": "Yeah."
+    },
+    {
+      "start": 3314.1,
+      "end": 3314.6,
+      "text": "Okay."
+    },
+    {
+      "start": 3314.76,
+      "end": 3315.26,
+      "text": "All right."
+    },
+    {
+      "start": 3315.26,
+      "end": 3315.76,
+      "text": "Awesome."
+    },
+    {
+      "start": 3315.76,
+      "end": 3316.26,
+      "text": "Thanks."
+    },
+    {
+      "start": 3317.32,
+      "end": 3317.82,
+      "text": "Yeah."
+    },
+    {
+      "start": 3317.82,
+      "end": 3318.52,
+      "text": "Uh, let's see."
+    },
+    {
+      "start": 3318.52,
+      "end": 3321.28,
+      "text": "Joe, um, no, because we still have a bunch."
+    },
+    {
+      "start": 3321.36,
+      "end": 3325.88,
+      "text": "So the question is, do, do you just use level and Claude for site building now and maintenance?"
+    },
+    {
+      "start": 3326.18,
+      "end": 3337.72,
+      "text": "And no, we don't because we still have a bunch of clients under old, uh, I shouldn't say old under other types of, um, content platforms."
+    },
+    {
+      "start": 3337.86,
+      "end": 3338.36,
+      "text": "All right."
+    },
+    {
+      "start": 3338.36,
+      "end": 3343.7,
+      "text": "So we have some clients on, on, uh, web flow or GHL sites, stuff like that."
+    },
+    {
+      "start": 3343.7,
+      "end": 3345.94,
+      "text": "Um, so."
+    },
+    {
+      "start": 3346.9,
+      "end": 3347.3,
+      "text": "Ah."
+    },
+    {
+      "start": 3347.3,
+      "end": 3356.18,
+      "text": "I'm honestly not the biggest fan of the lovable site, especially now that the, um, core 30 builder, uh, I think it works pretty well."
+    },
+    {
+      "start": 3356.84,
+      "end": 3360.62,
+      "text": "I know there've been a lot of bugs here and there, but hopefully a lot of those are fixed."
+    },
+    {
+      "start": 3360.62,
+      "end": 3364.58,
+      "text": "And even with the bugs, it's still has worked for the most part."
+    },
+    {
+      "start": 3365.06,
+      "end": 3375.92,
+      "text": "Um, so anyway, hopefully that answers, we basically, because there's going to be a loss of rank position for moving to a new CRM, we generally don't move CRMs."
+    },
+    {
+      "start": 3376.42,
+      "end": 3376.92,
+      "text": "Uh, we."
+    },
+    {
+      "start": 3377.3,
+      "end": 3383.2,
+      "text": "We use whatever the client has, um, could the core 30 agent is built on Claude code."
+    },
+    {
+      "start": 3383.2,
+      "end": 3384.08,
+      "text": "Yes, that's correct."
+    },
+    {
+      "start": 3384.3,
+      "end": 3388.76,
+      "text": "Um, but I don't know that it really matters what it was built on, but it was built on Claude code."
+    },
+    {
+      "start": 3389.04,
+      "end": 3391.74,
+      "text": "Lovable can only build a web apps."
+    },
+    {
+      "start": 3391.76,
+      "end": 3393.98,
+      "text": "It can't edit files on your computer."
+    },
+    {
+      "start": 3394.34,
+      "end": 3401.68,
+      "text": "Um, the core 30 agent, uh, the first version of it was actually a local app."
+    },
+    {
+      "start": 3402.02,
+      "end": 3406.82,
+      "text": "Um, some of you may remember when it was available, you had to download a dot exe."
+    },
+    {
+      "start": 3407.3,
+      "end": 3411.32,
+      "text": "Uh, but ended up moving it over to the web app because people kept asking for that."
+    },
+    {
+      "start": 3411.36,
+      "end": 3414.26,
+      "text": "That was, uh, a challenging migration, but done."
+    },
+    {
+      "start": 3414.5,
+      "end": 3416.6,
+      "text": "Um, anyway, all right, Justin, what's up, man."
+    },
+    {
+      "start": 3417.7,
+      "end": 3426.2,
+      "text": "Um, so I have about like 51 reviews, um, in a very competitive market in San Jose with over like a million people."
+    },
+    {
+      "start": 3427.64,
+      "end": 3434.96,
+      "text": "And, um, I was wondering, uh, when, when should I get the chamber of commerce link is cause it's like $600 where I'm at."
+    },
+    {
+      "start": 3435.34,
+      "end": 3437.06,
+      "text": "And, um, I don't want to."
+    },
+    {
+      "start": 3437.3,
+      "end": 3442.46,
+      "text": "Spend that $600 until I have like an actual chance to like rank in the top three."
+    },
+    {
+      "start": 3445.88,
+      "end": 3450.52,
+      "text": "So the chamber link is something that we typically will do almost all of the time."
+    },
+    {
+      "start": 3450.64,
+      "end": 3465.98,
+      "text": "Uh, like almost immediately, the chamber of commerce link provides a lot of local authority, both for Google and for, um, both for Google and for AI systems."
+    },
+    {
+      "start": 3466.02,
+      "end": 3468.16,
+      "text": "So we'll usually just do it."
+    },
+    {
+      "start": 3468.7,
+      "end": 3470.02,
+      "text": "Uh, I mean, if you don't want."
+    },
+    {
+      "start": 3470.02,
+      "end": 3471.22,
+      "text": "To then, then that's fine."
+    },
+    {
+      "start": 3471.22,
+      "end": 3473.5,
+      "text": "You don't have to, but it does help you rank."
+    },
+    {
+      "start": 3474.2,
+      "end": 3474.42,
+      "text": "Okay."
+    },
+    {
+      "start": 3474.42,
+      "end": 3482.52,
+      "text": "And then, um, for my GPP, uh, profile, like underneath the suggestion, it says to put in my Google maps."
+    },
+    {
+      "start": 3482.82,
+      "end": 3489.58,
+      "text": "But, um, whenever I try to click on that, um, it won't, it won't disappear if I embed it on my website."
+    },
+    {
+      "start": 3489.94,
+      "end": 3499.84,
+      "text": "It's now asking me to go to like Google platforms and then connect some APIs to try to, I'm trying to get rid of that suggestion from my Google, my business."
+    },
+    {
+      "start": 3500.02,
+      "end": 3503.68,
+      "text": "I'm not sure, man, that sounds strange."
+    },
+    {
+      "start": 3503.74,
+      "end": 3515.62,
+      "text": "Um, if you could just, uh, do a screen snip for what the errors is that's being generated and give it to Claude and, uh, maybe Claude can help you sort what's going on and how to get rid of it."
+    },
+    {
+      "start": 3517.14,
+      "end": 3528.46,
+      "text": "Um, and then, uh, you know, on the plumbing page with the locations, uh, with the supporting and the neighborhood pages, like I have cities around San Jose."
+    },
+    {
+      "start": 3529.0,
+      "end": 3529.9,
+      "text": "Like Cupertino."
+    },
+    {
+      "start": 3529.9,
+      "end": 3535.24,
+      "text": "And, um, like Campbell and such, do I create pages for those?"
+    },
+    {
+      "start": 3535.28,
+      "end": 3538.58,
+      "text": "Like those are general cities and then like the neighborhood pages as well."
+    },
+    {
+      "start": 3539.14,
+      "end": 3544.82,
+      "text": "And then just, we don't just, we don't create just random city pages like that anymore."
+    },
+    {
+      "start": 3544.9,
+      "end": 3548.68,
+      "text": "Uh, w we do geo relevance based on what the rank map is showing."
+    },
+    {
+      "start": 3550.44,
+      "end": 3556.3,
+      "text": "So I just don't create the location pages, go after the neighborhoods where it's not showing properly."
+    },
+    {
+      "start": 3556.84,
+      "end": 3557.26,
+      "text": "Yes."
+    },
+    {
+      "start": 3557.96,
+      "end": 3558.5,
+      "text": "Oh, okay."
+    },
+    {
+      "start": 3558.5,
+      "end": 3562.7,
+      "text": "Um, and then if I have those pages, what should I do with those?"
+    },
+    {
+      "start": 3562.7,
+      "end": 3564.5,
+      "text": "Should I 404 them or."
+    },
+    {
+      "start": 3565.04,
+      "end": 3568.64,
+      "text": "Oh, if you have them and leave them, then leave them."
+    },
+    {
+      "start": 3568.64,
+      "end": 3570.02,
+      "text": "Just don't keep building new ones."
+    },
+    {
+      "start": 3571.86,
+      "end": 3575.4,
+      "text": "Should I not connect them to the, to the hub page?"
+    },
+    {
+      "start": 3576.18,
+      "end": 3576.74,
+      "text": "No, you can."
+    },
+    {
+      "start": 3576.74,
+      "end": 3582.5,
+      "text": "I mean, if you have them, then you may as well, but I, but yeah, they're just not going to be super useful."
+    },
+    {
+      "start": 3583.04,
+      "end": 3588.48,
+      "text": "Oh, and then, uh, is there any example that you can give me for a multiple location site?"
+    },
+    {
+      "start": 3588.5,
+      "end": 3592.4,
+      "text": "So it's basically going to be the exact same structure."
+    },
+    {
+      "start": 3592.4,
+      "end": 3596.94,
+      "text": "We just build the core 30, um, under each GBP landing page."
+    },
+    {
+      "start": 3597.18,
+      "end": 3603.74,
+      "text": "So every location will have a unique GBP landing page that will be linked to, uh, from their GBP."
+    },
+    {
+      "start": 3603.9,
+      "end": 3606.26,
+      "text": "And then the core 30 just gets built underneath that."
+    },
+    {
+      "start": 3608.97,
+      "end": 3616.47,
+      "text": "Um, so if I have a multiple location page, uh, on my homepage, let's say just junk removal.com."
+    },
+    {
+      "start": 3616.47,
+      "end": 3618.43,
+      "text": "Should it just be junk removal.com?"
+    },
+    {
+      "start": 3618.43,
+      "end": 3620.37,
+      "text": "And then on the location dropdown."
+    },
+    {
+      "start": 3620.37,
+      "end": 3629.01,
+      "text": "I should have, if I have two locations, one in San Jose and then, uh, one in, uh, San Diego, should I have a dropdown for each one of those?"
+    },
+    {
+      "start": 3631.18,
+      "end": 3632.82,
+      "text": "A dropdown say more."
+    },
+    {
+      "start": 3634.3,
+      "end": 3641.44,
+      "text": "Uh, yeah, like a, uh, like a locations on my menu bar and then have a dropdown of each location that I have."
+    },
+    {
+      "start": 3643.98,
+      "end": 3644.88,
+      "text": "Sorry, say it again."
+    },
+    {
+      "start": 3644.9,
+      "end": 3646.78,
+      "text": "I got a little bit of a coughing fit there."
+    },
+    {
+      "start": 3647.42,
+      "end": 3649.44,
+      "text": "Uh, no problem on the, on the dropdown."
+    },
+    {
+      "start": 3649.44,
+      "end": 3653.84,
+      "text": "If I have a multiple location, a business, uh, should I have each?"
+    },
+    {
+      "start": 3654.02,
+      "end": 3655.8,
+      "text": "Each of the specific locations."
+    },
+    {
+      "start": 3655.8,
+      "end": 3661.0,
+      "text": "Like if I have one in San Jose and one in San Diego, should it interconnect with the homepage?"
+    },
+    {
+      "start": 3661.82,
+      "end": 3661.98,
+      "text": "Yeah."
+    },
+    {
+      "start": 3662.22,
+      "end": 3665.44,
+      "text": "So we'll generally put the locations in the nav bar."
+    },
+    {
+      "start": 3665.56,
+      "end": 3666.24,
+      "text": "Is that what you're asking?"
+    },
+    {
+      "start": 3666.98,
+      "end": 3679.24,
+      "text": "And, uh, I, I remember you said something about like putting your, like most competitive market on the homepage and then, um, the less ones on the locations underneath there."
+    },
+    {
+      "start": 3679.42,
+      "end": 3681.84,
+      "text": "So how, how, how can I do that?"
+    },
+    {
+      "start": 3681.84,
+      "end": 3683.6,
+      "text": "Like for like my San Jose one."
+    },
+    {
+      "start": 3684.02,
+      "end": 3696.04,
+      "text": "Uh, if I put on the header, like San Jose or junk removal, San Jose, it's going to get confusing, uh, for like all the other people coming to the site."
+    },
+    {
+      "start": 3696.04,
+      "end": 3703.74,
+      "text": "Like, just imagine like if Roto-Rooter was based in like San Jose and that was the most competitive market, it'd just be plumbing, uh, San Jose."
+    },
+    {
+      "start": 3705.52,
+      "end": 3705.96,
+      "text": "Yeah."
+    },
+    {
+      "start": 3706.04,
+      "end": 3707.52,
+      "text": "So the way that we handle that, right."
+    },
+    {
+      "start": 3707.74,
+      "end": 3713.64,
+      "text": "Um, so nobody's going to end up on your homepage unless they're being linked to from the GBP."
+    },
+    {
+      "start": 3714.02,
+      "end": 3714.26,
+      "text": "Right."
+    },
+    {
+      "start": 3714.3,
+      "end": 3720.36,
+      "text": "The vast majority of your website visits are going to be somebody clicking through from the GBP landing page itself."
+    },
+    {
+      "start": 3720.9,
+      "end": 3726.72,
+      "text": "So whatever location they're nearest, um, that's the GBP that's going to show up for them."
+    },
+    {
+      "start": 3726.72,
+      "end": 3732.9,
+      "text": "And when they click through, that's the GBP homepage that they're going to see, not your actual homepage."
+    },
+    {
+      "start": 3732.98,
+      "end": 3733.82,
+      "text": "Does that make sense?"
+    },
+    {
+      "start": 3736.52,
+      "end": 3736.96,
+      "text": "Yes."
+    },
+    {
+      "start": 3741.83,
+      "end": 3743.05,
+      "text": "Okay, cool."
+    },
+    {
+      "start": 3745.56,
+      "end": 3745.84,
+      "text": "All right."
+    },
+    {
+      "start": 3745.94,
+      "end": 3746.58,
+      "text": "So let's see."
+    },
+    {
+      "start": 3746.86,
+      "end": 3747.56,
+      "text": "Go ahead, Justin."
+    },
+    {
+      "start": 3748.48,
+      "end": 3751.04,
+      "text": "Uh, not."
+    },
+    {
+      "start": 3751.5,
+      "end": 3754.0,
+      "text": "Um, I had all my questions answered."
+    },
+    {
+      "start": 3754.16,
+      "end": 3761.94,
+      "text": "I'm going to try it out and hopefully everything works and I can, um, help a lot of people out with all this new learned knowledge."
+    },
+    {
+      "start": 3762.58,
+      "end": 3763.02,
+      "text": "Awesome."
+    },
+    {
+      "start": 3763.2,
+      "end": 3763.5,
+      "text": "Good."
+    },
+    {
+      "start": 3763.86,
+      "end": 3764.42,
+      "text": "Love it."
+    },
+    {
+      "start": 3765.56,
+      "end": 3766.12,
+      "text": "All right."
+    },
+    {
+      "start": 3766.16,
+      "end": 3768.34,
+      "text": "Last question then from Joe."
+    },
+    {
+      "start": 3768.34,
+      "end": 3772.06,
+      "text": "He asks, uh, to use their CRM to determine what software to build the website."
+    },
+    {
+      "start": 3772.18,
+      "end": 3780.66,
+      "text": "That's so I, so that's not, so the CRM can be the customer relations management system."
+    },
+    {
+      "start": 3780.82,
+      "end": 3781.44,
+      "text": "How you manage."
+    },
+    {
+      "start": 3781.5,
+      "end": 3782.5,
+      "text": "You manage your customers."
+    },
+    {
+      "start": 3782.5,
+      "end": 3784.44,
+      "text": "You stay in contact with them, things like that."
+    },
+    {
+      "start": 3784.92,
+      "end": 3792.9,
+      "text": "CRM can also stand for like the content delivery system, uh, where whatever platform the website is built on."
+    },
+    {
+      "start": 3793.32,
+      "end": 3799.26,
+      "text": "Uh, so like GHL is a CRM, but you can also build a website on GHL."
+    },
+    {
+      "start": 3799.72,
+      "end": 3804.94,
+      "text": "Um, so we don't use their CRM to determine the software to build their website."
+    },
+    {
+      "start": 3804.96,
+      "end": 3805.46,
+      "text": "No, no, no."
+    },
+    {
+      "start": 3805.5,
+      "end": 3807.5,
+      "text": "Uh, I misspoke if that's what I said."
+    },
+    {
+      "start": 3807.9,
+      "end": 3810.96,
+      "text": "What we mean by that is most of the clients we work with."
+    },
+    {
+      "start": 3811.02,
+      "end": 3811.46,
+      "text": "Already."
+    },
+    {
+      "start": 3811.46,
+      "end": 3814.4,
+      "text": "Have a website and we're just going to use that one."
+    },
+    {
+      "start": 3815.94,
+      "end": 3820.02,
+      "text": "Uh, so we don't rebuild websites for the, for the most part."
+    },
+    {
+      "start": 3821.18,
+      "end": 3821.62,
+      "text": "Yeah."
+    },
+    {
+      "start": 3822.04,
+      "end": 3822.64,
+      "text": "All right, cool."
+    },
+    {
+      "start": 3822.74,
+      "end": 3824.22,
+      "text": "Well, thank you very much, everyone."
+    },
+    {
+      "start": 3824.22,
+      "end": 3827.12,
+      "text": "Hopefully, uh, next week I won't be as sick."
+    },
+    {
+      "start": 3827.36,
+      "end": 3829.96,
+      "text": "Uh, how miserable if I am for that long."
+    },
+    {
+      "start": 3830.52,
+      "end": 3834.56,
+      "text": "Uh, but the next one is going to be, I believe it's the 17th."
+    },
+    {
+      "start": 3834.56,
+      "end": 3834.82,
+      "text": "Yes."
+    },
+    {
+      "start": 3835.08,
+      "end": 3838.98,
+      "text": "Uh, Tuesday, March 17th at 1 PM central."
+    },
+    {
+      "start": 3839.16,
+      "end": 3840.32,
+      "text": "Thank you very much for joining."
+    },
+    {
+      "start": 3840.32,
+      "end": 3845.96,
+      "text": "Uh, send me a message or, uh, feel free to post in the group and we'll get it sorted."
+    },
+    {
+      "start": 3845.96,
+      "end": 3846.5,
+      "text": "Thank you very much."
+    },
+    {
+      "start": 3846.5,
+      "end": 3847.64,
+      "text": "Everyone take care."
+    }
+  ],
+  "transcript_text": "all right welcome welcome it is wednesday at one o'clock i was not in town uh yesterday so that's why we're doing this today um but yeah let's go ahead and dive on in um is there anything in particular you guys have questions about you want to talk about anything let me know in the chat um let's see yeah um we were in austin yesterday uh flew back yesterday and i don't know something on the airplane or something you know something unpleasant anyway anyway yeah so uh hi tran basically the way the tool works you're asking about whether the tool works you connect it to a wordpress install and then once you uh connect it with the app password which pretty much any installation of wordpress should be able to generate a map an app password so then once you generate that map app password it's connected and it works so basically as long as you have a wordpress installation the tool should work in that installation uh and if you're having trouble with it can i help you if you're having any trouble with it uh let me know uh put a message in the school group send me a quick message and we'll try to figure out what's going on and get it sorted yeah um alfredo a few people have posted bug updates as far as i know at the moment i'm caught up and all of the bug updates have been deployed so if anyone has additional bugs uh in additional issues that they've run into let me know and we can roll out uh more updates i stopped putting out new features i stopped putting out new features i stopped putting out new features just really wanting to get through make sure that we don't have any more bugs things like that uh todd some questions about how to build and scope and then some core 30 deployment go ahead todd what you got yeah hey how's it going thanks for meeting yeah absolutely man good to have you here that's here today uh i'm a new member so yeah yeah excited um yeah i've got a bunch of uh appointments in the next two days and um i'm kind of like i'm kind of like i'm kind of like i'm kind of like i'm kind of like i'm kind of like i'm kind of like i'm kind of like i'm kind of like i'm kind of like i'm kind of like i'm damn, yeah i'm kind of like i'm kind of like i'm kind of like i'm kind of like i'm crazy, one of them's an injury attorney so i'm trying to kind of figure out how to build and you know like uh what kind of scope i should i should offer uh to get you know results that we need to get um so you know another a little bit more competitive but he's actually not going after like a big city he's going up for the outskirts so i guess i don't know if you want to like look at the site or if you just have an idea of what i should be looking at or that sort of thing like i forgot what to charge them yeah so usually we charge based on scope of work so um before that core 30 tool my cost to produce an article and then do everything else associated with right so produce the article and do the interlinking uh do the schema do the images source an external link all of that was uh about 95 and now with the tool it's about 45 so uh whatever you charge is whatever you want to charge but then uh what we'll often do is take a look at and there is a module in there in the pro training um let me pull it up so i can send you a link straight to it because really uh we estimate scope of work by trying to figure out here's a link to it i'll just drop a link there so we estimate scope of work by looking at how many uh how many pages their competitors have right so sometimes their competitors will have 30 40 70 pages and usually our best guess in terms of hey how many uh pages should we do it's just like well we probably want to be somewhere around the size of their competitors uh unless we see that their competitors have you know 500 pages or something like that then we'll do like an additional step and that could be pretty common for pi uh so pi is usually going to be pretty expensive if i'm not mistaken and then we'll do it again in the future and then we'll do it again in the future and then we'll do it again in the future just because it's very very competitive uh was that helpful todd well yeah so okay so look at the competitors look at the pages and then you're charging what a hundred dollars a page now that we kind of i was no as of now i haven't actually adjusted my pricing so we just added to our profit margin so you're at 200 a page they're about depends on how many pages they're getting uh but between 200 and 250. so then we guess we have to determine how many pages we want to do a month so if it's like 10 it's 2000 a month and that's exactly what what uh that scope uh the estimate scope will will help you figure out okay i'll go through that um can i have a i have a secondary question related related to the uh deployment of the ai uh content tool sure um it works with wordpress what do you do if uh there's already an existing wordpress and is it just like overwrite pages or does it just create new pages it creates new pages it shouldn't overwrite anything it should be uh it should it creates new pages new pages so it doesn't touch old stuff it leaves it all there it does not and i know that's a few different people have made that request and i haven't done anything with it because it's a lot more complicated to have the tool edit existing content versus just post new stuff on on wordpress okay and then if you are not on a wordpress site i guess you're downloading exactly so the tool will output it has a few different formats that it can output uh it can do html it can do uh just raw text and it can do uh a csv so whatever one of those formats works for you and your developer you can output it in that and into there um now that you write 130 pages at once do you do you upload them all at once and then just like release them every month or kind of what's your strategy for the releasing of all this content so we basically will drip them out for the most part i'm not going to post right 50 pages on one day um yeah so we'll we'll usually drip it out and the volume that we drip it out is going to be based on what the publishing velocity was for that client historically basically i don't want to significantly increase the publishing velocity so if you know the client was publishing one article a month maybe we go up to five to ten and then a few months later we can increase it again 15 to 20s and just steadily increase it but if they've gone you know three years without posting any content you're not going to want to suddenly dump 100 pages on there right right okay so then like i have this bulk content queue right now and i would just select like five or ten articles to then i guess upload yeah and if you're on wordpress the tool will put them in wordpress and then usually we'll leave them in draft mode there is a way that you can specifically have the tool just go straight to publish uh that was a common request that people kept making so i added that but honestly that's not something that we use we let the tool just put it into draft mode and that lets us you know a lot of people have commented that hey the image generation sucks and it's just like yeah that's why you're not going straight to live right you know sometimes the content is bad sometimes the tool leaves artifacts where it'll leave like ai outline or something like that um and we're working and you know working through trying to get those addressed and fixed but like no one no one here should be publishing content straight from ai to a website um without reading it first right you have to at least read it that's why like i i didn't say that my content cost went to zero right it went to 45 and what we do in that 45 uh right we're still reading all the content we're still uh sometimes replacing images depending on how terrible the ones that the tool generated were uh we're still double checking the schema markup making sure that's accurate and we're still sourcing external links so we still have all of those checks in place i don't want you to think that with the tool you can just click a button and you suddenly start ranking because it's just going to mass publish all of the content and all of this content uh you still need to double check everything am i making sense with that thank you awesome yeah all right so steven question on categories on the front page a lot of similar categories should have put them all on the gbp landing page so one two three four five six seven eight so that's a lot of categories steven uh one thing i would uh keep in mind i think pain management physician and pain control clinic means something very specific uh so i would just make sure that it's okay to use those categories with chiropractor um but yeah if you have that many then usually we would not uh i want to link to maybe uh four to seven uh core categories core services from the gbp landing page uh all the rest of the services and categories i'm going to create this like hub page and then link to all of them from the hub page so i don't dilute too much of the link coming from the gbp landing page so i'm going to link to all of them from the hub page landing page awesome let me know if that helps uh that's perfect perfect all right bob does changing the url of your gbp listing website landing page from slash home to slash landing page affect the ranking uh almost certainly uh almost certainly if you change the url of your gbp landing page it will affect the ranking uh there's a wide number of reasons for that everything from just as simple as hey google hates change so when you change things google doesn't like it all the way to uh you have links likely pointed to your slash home to your gbp landing page so if you change it to a different slug even if you do a 301 redirect you are going to lose some of that link authority in general uh unless they're like unless unless we really have to or they're just not ranking at all we usually just don't change anything uh joe i think everyone can hear um hopefully you're not having issues all right i think i read somewhere and you said the average number one ranking page is three years old so i'm going to change it to three years old and i'm going to change it to a new content takes months to gain traction for local service businesses that need inquiries now do you recommend running google ads alongside the seo build to cover the gap so we don't do that james i know a lot of people who do uh i know a lot of people who run their agency like that well they'll run ads in the beginning they'll do some seo and then they ramp the ads down as the seo gains traction we don't do that because i'm not very good at running ads uh so we just have the conversation with uh we just have the conversation with the client that hey this is what we're going to do we're going to work with them and we're going to work with them and we're going to work with you know turn your rank map green uh we're going to get you uh recommended by ai systems and if they need leads faster than that then we would usually advise that they uh add someone else uh we are not a one-stop shop we do seo and that's it all right when it comes to building content on the client's website what happens when the client has a developer who controls or they're on a platform you don't have access to so we would want uh cms access um to be able to post content uh that we do have clients that we don't post content for we basically just deliver the content in google docs and then the client's developer handles posting it um that saves us a small amount like i think it's literally like 11 a page if i remember correctly because we don't have our developer that has to do things but we still do all the double checks right so their developer is going to post the content then we double check the content just like we would have double checked the content and then we would have double checked the content if we were posting it uh hi tran and lead snap which do you recommend and what distance how should the keywords so in when we're running a rank map we're almost always just going to do primary category city name uh we'll usually do 13 by 13 and the size of it is based on we want some of the top competitors to be showing like a 60 to 90 percent top three if you run the rank map and the top competitors have like a 10 percent top three your rank map is too big if you run the rank map and the top competitors have a hundred percent top three the rank map is too small and that's also how we set expectations for clients so we have a client a multi-location veterinary office and uh they did not want to target veterinarian city name they wanted to target veterinarians near me uh which is fine we can but uh the near me is much harder to rank because google cares a lot about proximity and if you have the near me versus just the usually the rank map looks almost identical so veterinarian and veterinarian near me are pretty much the exact same thing so when he said hey i want to target veterinarian and not veterinarian city name we zoomed the map in until we got to some top three percent competitors that looked you know in the 70 to 80 percent range and we said okay it's going to be a much tighter area to target uh here's what we're looking at and he agreed um all right so let's hop over to billy took a lot of those verbal questions let's hop on over to billy and we'll get back to those don't worry uh what's up billy good to see you man hey how you doing hey those are some great questions uh that was and i'm uh i guess i'm i'm struggling trying to figure out the the new core 30 and and i'm working on it though so uh anyway i appreciate all this you're doing some great stuff for us so i i'm i have some questions i've asked these before but i want some clarification or questions i have quite a few clients that either have other second third locations or opening second and third locations and so i'm trying to figure out the right way to do that so i understand we have should have a separate location page for each google business profile landing page i got that but on their home page do we put just one address there or on the footer or somewhere or do you put two addresses how do we handle that part and secondly is when we go to link the google business profile with uh the second location we're using the same facebook the same social media same instagram and all that do we put anything new or different on that new addresses for example and and then last thing is related to all this we go open up that next google business profile do we use the same gmail account that we open up the last one with or should we get a new gmail those are all sort of semi-related questions i appreciate if you can help me on that yeah no multi-location business and that's a really cute puppy man yeah that's that's a hallmark card right there yeah he likes sitting with me he likes sitting with me come on little dog here we go all right so those are all semi-related questions i appreciate it yeah yeah multi-location business so the first question is whether it is a real business or whether it is like a lead gen and you have a whole bunch of gbps attached to it based on your questions i'm going to assume that it's like an actual real business these are real businesses yeah exactly real businesses 30 miles apart 75 miles apart you know real locations so then what we would do is we put all the locations on the footer uh and at some point you end up with just an obscene number of addresses on the footer so if they have like you know eight locations six locations if it starts to the footer starts to look ridiculous then we'll move them so they won't all be on the footer but if they have two three four locations we'll put all the addresses on the footer they'll have their unique gbp landing page unique phone number uh usually we'll do uh unique social profiles for each uh location social profiles um do help you rank uh so there's no compelling reason why we wouldn't just create a whole bunch of them uh one for each profile especially again right if it's a real business then um we can just you know create all of the facebook pages and linkedin whatever for each individual location uh what was your other question billy that you had the footer yeah back up here let's see here i had uh oh yeah when you go to open up the new the new ones or go to go to open up to use a separate gmail account or same gmail account right so if they're all pointed to the same domain and they're all real locations for a real business we'll usually do it all into the same uh google account okay but you you if i got this right so let's say we have a dallas location now we're going to open up a fort worth location okay and then what we do is we get a separate facebook linkedin instagram youtube for the new location is that what you're suggesting yep that's what we would do okay got it and then uh but then i i also have a separate landing page for each and then but i also on the main footer i put all the addresses in is that is that is there anything else i need to be looking forward doing to a separate location this is a good problem to have when you have clients that want to open up locations yeah i know it's definitely a good problem to have and you're Basically, I'm going to build a core 30 structure under each location and watch the rank maps because eventually you'll find that you have enough topical relevance that you don't need to keep building a core 30 for every location. Got it. Okay, cool. Okay. Anything else I need to be looking at when these second locations that we haven't covered? No, I think that's about it, man. Cool, cool. All right. Thanks so much. I appreciate it, Caleb. Awesome. All right. Justin has six questions. Boy, all right. So he has seven, but a seventh one is how do I get questions answered? So you did it right. That's how you get them answered. Okay, number one, client has bad URL structure. Should I 301 redirect? Almost never. Google doesn't care about your URL structure. I don't care about your URL structure. There would have to be a really compelling reason to fix a URL structure because if you change the URL structure and redirect, you're going to lose rank position. Is the URL important and mostly just title tag? We like including the target. The URL doesn't really matter when I'm going my core 30 junk removal, San Jose, does that read junk removal, San Jose, or can Google understand junk removal in, you can put the word in, in there on your lovable example. I only see two services for a mechanic or plumber. There's much. So there are way more services on the lovable example, Justin. So if you go back to the example page for the lovable, so go back to the lovable example page. So this goes back to the lovable example page. So this goes back to the lovable example page. So this goes back to what Steven had asked before about how many different categories to put on the homepage. Generally, I don't want to put more than like four or five, six, seven links from the homepage to services or category pages, because the more links, the less power gets passed from each link. So if you go back to the example page, you will find about two thirds of the way down. There's a button that says view all services. You can also click the services button on the nav bar, and then you get brought to the service hub page for this sample website. And you can see how we're handling all of the other services that aren't on the homepage. All right. I'm having trouble because Claude thinks my generic service pages and location pages interconnect. I'm not sure. I don't think I understand that. You're going to have to say more about it. So put another message in there. And on the plumber website on the category pages, it doesn't seem again, you're going to probably want to finish. Let's finish that. Let's finish that. Bob, what's the true value of posts and or videos on the GBP listing? It keeps the GBP active. It keeps the GBP active. And Google likes when the GBP is active. So there's no compelling reason not to do it. It's very quick, very easy. If you just do that and nothing else, it's not like you're going to be dominating your local area in two days. But there's no compelling reason not to do it. It's very easy. All right. And Jean, I have a roofing process. I have three locations, leaving a franchise to rebrand. The biggest fear is using GBPs and user reviews. So you probably won't lose the GBP. If you change the name of the GBP, the most likely thing that's going to happen is that Google will ask you to re-verify the GBP, which will require re-recording the verification video. So just make sure that the client is ready to re-record the verification video and they should be fine. And site structure. We talked about that with Billy. And how would you price position this? I mean, I'm not sure what you're asking on pricing positioning, because the rebranding, like if it was a client of ours and they're paying for monthly SEO services, we'd probably just do this. Like it's not a significant development lift to, you know, change the business name on the website. That's just that's something that I just give to the developer. Hey, make this update. Developer would say I'm done. Then I would do a site colon search with the business. Old name to make sure that the developer got everything and any misses, I would let the developer know and we would go from there. All right, Gary, what's going on, man? How's it going? Just a few questions real quick. I've got a current client that is adding a location. They're in the process of getting the Google business profile verified. Is there any reason why I wouldn't start building out the site for the new core 30 for the new location? Before it's verified or no, that's exactly what we would usually do, because if it's a brand new location and it's usually going to take around a month to get it verified, because we'll usually do the citations, we'll do a press release and then we'll wait 30 days. So, yeah, it takes time. OK, and then as far as the same company, they don't send me a lot of photos that I've been asking every month. So for their Google. Google is profile like host. I've just been posting text. Is that better than not posting at all or should I do some AI generated images? Will that affect me negatively for them? But, yeah, I've just been on their tail about sending the images and they do not. So for the new location stuff, I want to put some new images up and everything. But. Just wondering about the AI stuff that generated. Yeah, so usually. We won't put images on the GBP posts, we'll just keep them text. If you need more images, then we'll just use AI to generate more images. But we won't do that for the GBP posts. Not usually. What about for adding photos to the GBP? You won't do any AI? Oh, no, no. We'll do a lot of AI. I mean, we want to add weekly photos and a lot of clients just can't give us enough photos to make that work. So most of the ones that we add are AI. And so for the like, say, for a plumber, so instead of like AI generated image of a plumber, would it be beneficial to do like tools and stuff so it doesn't look as crappy or does it not? I don't know. I mean, the nano banana does a great job generating images of people, so we haven't really had issues with it. We just generate a bunch of images and then drip them. OK, but you're doing that for the adding them weekly. You're not posting with those images. We're not we're not doing that with GBP posts. We're just adding those images weekly. OK. And then last question for internal linking. I know that it's basically like from the home page to the categories and then from the category page to each service within. And then from each service page, you're going back to the categories, correct? The category that's under. Yes. Is there any reason like should I be linking? Each service within the same category to each other or not? Don't don't worry about that. That is we used to do that and didn't really see a significant change when we stopped doing it. So now we just don't do it because I mean, why? Why spend the effort if we weren't seeing a benefit? OK. And then for building like a new site with the core 30, do you add in the internal linking and just don't link anything yet so you can go back and put it in? Or do you just not put it in? I don't put any of that stuff in the content at all until you have the pages built. Does that make any sense? No. Ask again, please. Sorry. So like before when you're building out a site, since you don't have the core 30 built, you don't have all of the links like for the home page, for example, would you build out all of the what would be anchor text to the category pages and just not actually link them because they don't exist yet? Or would you not put the anchor text that you're going to link out to because you don't have the page? Bill, yeah, we're just going to write the content for the category pages and then when we add the service pages later on, we're going to go back, edit it and then add the link down to the service page we just added. OK, thank you. Yeah, absolutely. That's one of the reasons I think I said that I was trying to get internal linking to work in the tool and I've been playing with it, testing it. And so far, the tool is really, really good at messaging. Things up when it goes back and tries to edit existing WordPress pages. So that would be cool if it worked. And if it doesn't work, that'll be OK. We'll we'll we'll get it figured out. All right. So if you feel better, I appreciate it. Thank you. All right. So, Gene, hey, congrats. Excited to hear that you have another prospect closing domains registered, but not ranking. Should you create a new website? So it depends what you mean by not ranking. Right. Because there's a big difference between. I mean, hey, I ran my rank map and every single block is 20 plus and I ran my rank map and every single block is four. But honestly, both of those essentially are not ranking because if you're not in the top three, you're not ranking. I don't like creating new websites because when you create new websites, we typically see a drop in rank position. Excuse me. So usually we won't create new websites unless there's a really compelling reason to. But, you know, if they're not ranking, like truly not ranking, then there's much less of a downside to creating a new website. All right. Let's do Justin having trouble because Claude thinks my generic service pages and location pages interconnect. When I use Claude, they see these as the same. I don't know. Like when you use Claude for what, Justin? Like, what are you trying to do? Like, I need more information. Like, I'm not sure what is going on here. Can you hear me? Yeah. So, like, when you go to, like, Roto-Rooter, right, they have their plumbing drain cleaning page, right? And then they have their drain cleaning page for a specific city. When I enter the prompt, Claude is kind of, like, getting it confused and seeing the core 30 as the generic overall, like, top layer service pages. It's kind of interconnecting them. I mean, I don't know what ‑‑ I mean, Claude isn't, like, when you say interconnecting them, it's not like Claude is adding links. What do you mean? Like, Claude, like, the content isn't what you want when you're trying to generate content? No. I just did a check to see if I did the ‑‑ I have the core 30 pages. And then it crawls it, and then it's looking at the URL structure for, like, drain cleaning. And then the drain cleaning for, like, a city. And then they're, like ‑‑ Saying that that's not correct, that you have two duplicate service pages trying to go after the core 30 in your area. I mean, that's fine. You can just ignore it if you know what you're doing. Okay. And then ‑‑ Well, I don't want to go too far, right, because we have a couple of people ahead of you. Okay, Justin? Okay. All right, Gene, what's going on, man? What you got? Gene? All right, I guess ‑‑ yeah. When I was connected, my internet dropped, so I didn't hear what you said about the roofing prospecting with the relocations. We'll post the recording, so you can always go back and rewatch the recording. Okay, cool. Cool. All right, Marla, what's going on? Hey, so I want to clarify that I understand correctly about the GBP's categories and service pages. Did I understand that if they are written as service pages on the GBP, then we should have ‑‑ Yes, you should have a page on the website that is also that. So the core 30 is basically having a page for every category and every service that's on the GBP. And do they need to be linked in the navigation? Because, like, I have a client that they don't. Okay, then that answers that question. Okay, and then my next question is I have a client that the name of her city is in her URL, her domain. Sorry, say it again. The name of her city is what? In her domain. So it's, like, era of Chino. And so she wants to also try and write for surrounding areas. So how do I go about doing that? Yeah, so the first question would be whether it's possible. There are a lot of places where it's just not possible to do that. Google puts a lot of emphasis on the city the searcher is in compared to the city that the GBP is in. Okay. And it's very often if the city and searcher ‑‑ If the city on the GBP is different from the city the searcher is in, it is often just impossible to rank. Google just won't do it. We have a lot of clients that this is true for. And I can, like, we can look at rank maps and we can literally see the border of the city because they go from top three to, like, 15 plus right on the city border. So, you know, the common example I always use, it's, like, somebody does landscaping in Naperville. And they want to rank for landscaping in Chicago. They're not going to. If it's a suburb and you want to rank in the main city, it's very, very hard to do that. So to decide whether you can actually do that or not, what we'll do is we'll run the rank map. And a lot of tools do this now, which is very nice. But it used to not be the case. It used to just be lead snap is the only one that did it. But now a lot of tools will pull up your competitor rank maps along with yours. So that's where, like, just pull up the rank map and look at your competitor rank map. And see if there's anyone ranking in the area that you want to rank in who's also ranking in the area you are now. Hopefully I'm making sense with that. If there is someone else who has done that, then you know it's possible. And you can just go build geographical relevance for that other city. Okay. Okay. That makes sense. And last quick question. Like, I have a very low monthly website maintenance fee. But if it's going to be more SEO related. Can you give some pricing guidance? Just a range is fine of, like, monthly fees for SEO work and what that might include. General is fine. So for pricing? Mm-hmm. Yeah. So, I mean, it's really. So I dropped the link to the scope of work estimator. And that's really what we use. Like, we price based on scope of work. It's in the Zoom chat? Yeah, yeah, yeah. I dropped it in the Zoom chat. For someone else who'd asked after it. Oh, maybe it was after I joined. Okay. Oh, no problem. I can drop it again. Sorry. Thanks. Yeah, no worries. Okay. Those are my questions. I appreciate it. Awesome. Thank you. All right. So let's see. Joe, I'm trying to build out a website with your prompts. The first section of the prompts has me fill out all the business information. And then it makes me fill out all the info again. And the second part, I'm just wondering. Usually the prompts are designed so that you only need to fill out the information. And I think that's the case. If you're filling it out twice, then you probably just don't need to. It won't hurt anything if you fill it out multiple times, but it won't really help. What do you generally charge for GVP management using LeadSnap? And yes, that is all we use for GVP management. You can go really inexpensive for that, like $100 a month. Because once you basically get it set up, it's all AI doing the GVP management. And we did. So if you go and look at the 90-day challenge, if I were trying to get clients for GVP management, I would run the 90-day challenge ad campaign with a phone call in it. So I was trying to do it with no phone call, which is much, much more difficult to build the trust. But if you just put a phone call in there, you'd be able to book phone calls for $20. And your cost to provide the service is a couple of hours. And then, you know, so you'd be roughly cash flow break-even for month one, but be able to grow, add clients and all of that. So that's what we would do. All right. And Justin, we'll get to you in a moment, but we'll let you, we'll get Carlin first. What's up, man? Hi there. I've mostly used, for my website builder, a white-labeled version of Duda, Snaps.ai, for a bunch of my clients. And if you were new to WordPress, would you attack that monster? Or is it just in my mind? So if we were, so I don't do hardly much on WordPress personally. I have a developer who takes care of it. Like I don't know how to mess with WordPress or anything like that. So I'm not sure. Is that, is that the question you're asking? Okay. Yeah, that's kind of the question. Okay. Cause, um, I was going through your like lovable AI and I was like, dang, that's fast. And I was like, I like that idea. So, okay. So you have a WordPress developer that handles all of that. Okay. That answers my question. Oh, cool. All right. All right, Justin, let's come back to you, man. What you got? Okay. Um, I, this is related to the core 30. So, uh, for, I have a junk removal company and the only, I don't have any like secondary categories. They, they no longer. Fit for the junk. Uh, I only need junk removal. So I was wondering if I should put all the services on the homepage. Sorry. Ask me one more time, Joe. Uh, you have no secondary categories, but 21 services. So yeah. Um, so we can check out GMB everywhere. Yeah. The other categories are like garbage collection, debris removal. Um, like these junk removal companies used to use them. But now they, they really don't make sense just because Google created a new category called junk removal. So that's primarily what we do. And then compasses. It primarily best describes what we do. And most of our services, the garbage collection. And this really doesn't really, uh, it's, it's more for waste collection for like a garbage collection. Well, so there is debris removal service. Uh, but I would just say like this. The junk removal is more accurate of the description of what we're doing than the debris removal. Okay. I mean, if you look at debris removal or you look at rubbish collection and you're like, man, nope, that's not it. We don't do that. Like removals, removals company, you can say, nope, we don't do that. Yeah. Waste collection, waste management. That's fine. Garbage collection. It's weird that there's three for garbage, right? Yeah. House clearance service removes unwanted items and clears out homes. I mean, that could be interesting. I looked at the subcategories of that when I used the and they were like estate liquidation and I looked more into the like services in there and they didn't really match my services that I did, even though it sounds like what we do. Sorry, I wasn't following. Say it again. So I used a tool to look at what. Services are traditionally in that category and they didn't match my services that I provide. So, yeah, if you're looking at this list of related categories and just like none of those are related to me, then that's fine. We do have clients where we just have a single we just have a single category and then you're just going to choose your top couple of services that you care the most about and write about them on your homepage and then link to pages about them and the rest of them. You'll just do. The same service hub style the way we did it for the plumbing site for Gary, the sample site. I don't understand how Google can understand the core 30 if I don't add all the services on that page. Why? Because you don't want 21 services on your GVP homepage. That's too many. You'll dilute the effectiveness of the links with that many outbound links on the on the GVP homepage. So how do I get my junk removal page or my homepage to for Google to understand the core 30 if I don't have any links or descriptions to explaining that? Well, I'm not saying don't put any links or descriptions. What I said was that you want to put like a handful, like look at your list of services and find like the four or five services that you care the absolute most about and put those on your homepage with little with H2s, a little paragraph. You know, of text and then a link to a detail page about that service, then create the other detail pages about your services. So you have all 21 pages and you'll link to the other ones from a service hub, not from your GVP landing page. Oh, because so like I'll name it something like services San Jose and then on that page, it's going to have the remaining of the services. Yeah. So take a look at the Gary plumbing site. The sample site that's in the training and about two thirds of the way down on the homepage, there's a link that says view all services. You can also click services on the nav bar and it'll bring you to the service hub page that we built for that sample site. For a multiple location business, like how should I, should I just create a like a services San Jose hub page and then link the rest of the pages that. Yeah. That I provide on that whole page there. Every location will get its own hub page. Yes. Okay. And then I was confused when I looked at that website for the plumbing website for the, for the category secondary page of like drainage, cleanage, the URL structure doesn't have like the name of the company slash drainage, drainage, cleanage, slash. The actual service, it just goes to the second layer, second level. Is that how it should be? Google doesn't care about URL structure. So you can do whatever URL structure makes sense for you. It's actually usually very slightly better to keep the URL structure flat, but if you want to do like a folded URL system, then knock yourself out. Google doesn't care. Google builds images of websites based on the link flows, not based on the URL structure. And then, um, I have a lot of location pages prior. Um, so I should not add those location pages cause it's going to remove the link equity on the homepage or the, the service URL page or the GMB landing page. I mean, Oh, so you had a, so what do you mean you had a bunch of location pages? I mean, you can like, so we also have a locations hub, right? So if you look at again, that sample site, and in addition to the. View all services link, there's also a view, all locations, which we're serving using as the, uh, locations hub page. Oh, uh, okay. I just got confused cause I just didn't understand cause you, uh, how Google would understand all that. And it's how that's structured as the, um, how that is structured as the, uh, Google, my business, like how are you supposed to structure that? Exactly. Yeah. Hopefully this clarifies. And then, um, So I had a question, uh, uh, like when I look up a service like furniture removal and I look at my business and it says provides underneath, does that mean that, um, that that is recognized by, by Google? And then should all my services that I provide have that provides, and then that's how I know that the core 30 is implemented properly. No, um, Google will usually just show that if, uh, depending on what the person searched for. So don't worry about that too much. Like all we're doing. With the core 30, right? Cause Google can look at your GBP. It sees all the services that are on there. It looks at your website. So all we're doing with the core 30 is building as much relevance as we can, uh, for your business to connect all the dots, to help Google understand all of that. But don't worry about like, if, if the right thing showed up on a search, you know what I mean? Okay. And then, uh, regarding the chamber of commerce, like. Uh, let's say I, I located in like San Jose, but I get another, uh, another, uh, chamber of commerce in like Cupertino on that Cupertino page. If I, uh, the chamber of commerce, uh, link, uh, should I link the, the like Cupertino, uh, chamber of commerce to the Cupertino page and then the San Jose to the San Jose page? No. Um, we'll almost always send all of the. Uh, we'll almost always send all of the chambers of commerce to the GBP landing page. Uh, and then, um, on the, on the header for the dropdowns, um, should I have dropped down with all the locations and all the, um, services or does that take away the link equity? Usually we don't. And you can see how we did it on the sample site. And we very specifically didn't throw a. A ton of links in the header. Uh, a ton of header footer links is a common mistake and it just throws away link equity. Even if I put no follow on there. So the way no follow works, right? So say just to make the math easy. So say you had a hundred link equity points on your homepage and you had 10 outbound links, then each outbound link is going to get 10 points. If you put nine, no follows, and then one regular link. The one regular link will get. 10 points and the nine, no follows, we'll get zero. So it still gets divided by the total number of links, uh, so that you can't authority sculpt in the way that you're wanting to it. That just doesn't work anymore. And then, um, so for my generic services, like I have one for apartment cleaning, but that's more for like house cleaning and stuff. It's not related to, um, uh, uh, junk removal. So I didn't create like a city. Specific page for that. But on my generic services, I have that. And, uh, when I was running with Claude, it, it said I should make an apartment clean out page for, uh, for my city specific page should. So should I create every generic service that I have and then a city corresponding city page with that? No. So when we create the pages for the core 30, it's going to be like the service plus city. Name. And we're just going to create one of those for every service. And then that will be like the core 30 for topical and geo relevance. And then beyond that, if we need more topical relevance, then we start to answer PAA or Reddit questions. If we need more geo relevance, we start to build like hyper local pages. Um, when I was looking at the content writing section, I was very confused at what's supporting content, outline men, and then the neighborhood page outline. Uh, like I don't understand that at all. I didn't see any examples on the plumbing website or anything in regards to that. So there are examples on the plumbing website. So if you go to the location hub, you'll see that there are a couple dozen, uh, location pages on the sample site. Oh, so the, so the, these are just location pages. They're not location pages. They're pages for geographical relevance. So they're more like hyper local. Uh, Content, right? So if you go into the site, there, there's a lesson in there. Let me pull it for you. Um, about geo relevance, where we talk about what we're doing and why we're doing it. Let's see, building more geographical relevance. So you should be able to check this out and that'll break down what we're doing exactly to build geographical relevance. Oh, and then what is this? Uh, what is the neighborhood page? Is there some example on there as well? That's the same thing. Those, those are all the same type of page just to build geographical relevance. Uh, so you have, okay. Um, and then, uh, let's say I have a location in like my main location is in San Jose, but I have another one in San Diego. Should I name the one in San Diego, like my business name plus San Diego for the GMB, just so it's like not confusing. Usually we don't, usually we'll just use the same business name. So does Facebook allow for like, um, a different account with the same email and then you constantly create like different Google, my business pages for each location on the same account? So you asked Facebook there. So if you're trying to create Facebook pages, yes, you can create, I've never run into a limit creating Facebook pages. Um, so that usually isn't an issue. And then you would. Just create the pages for all of the different locations, uh, for your Google, my business on your Google account. We also generally don't have issues. Like I have several hundred GBPs under management on my Google account. Okay. Thank you. Appreciate your help. Awesome, man. Cool. Cool. All right. So a couple of other questions we'll get, um, so somebody asks sessions where we can submit the site reviews for feedback. Yeah. So I'll give you a link. You can submit, uh, and my team will take a look at it. If you want to take a look at one during this zoom call, uh, then you can put your hand up and, um, when, when we get to you, we can, uh, do a quick share screen share and, and take a look. So a couple of different ways there. Um, yeah. And Joe, you need to be logged in for that link to work. How many services are ideal? Uh, however many are relevant to your business or your client's business. Like don't push it. Uh, like we just said with Justin. He didn't even have 30, which is fine, right? Pick ones that are service that are relevant to you. Don't stretch it. Um, all right. Hi Tran. If a client has a business with the same name as two other similar businesses, they're not connected in any way. How does my effort to help her optimize affect the other two of any? So, um, as long as the, so the, in order to identify the specific business, Google and AI systems used your name, address, and phone number. So assuming that your name, address, and phone number are not the same, they will be seen as separate businesses. If your name, address, and phone number are the same, then you might actually have the same business. Cause that, um, I mean, that would be really hard to have the same name, address, phone number for multiple different businesses. Uh, does it still matter to have GBP embedded on the homepage? Yeah. We still didn't bed the GBP on the homepage. It's usually pretty easy to do. All right, Jordan, what's up, man. Hey, nice to meet you. Uh, one quick question. Uh, one of my clients. My clients is in a really competitive market, riffing market. And for some reason, GBP is constantly adding services. Like I'm looking at it right now and it says services were changed based on feedback from Google users, blah, blah, blah, blah, blah. And it always throws stuff in there. That's not relevant. Like HVAC installation. I mean, I just kind of like, we take it off, put it back on, but it's not like on the website or anything. How do you manage that constant influx? I'm sorry. The influx of what? Every time, almost every time I log back into my. Yeah. Google business profile for this business, it shows me that Google has added or edited the GBP services to add services. And some of them aren't relevant at all to the business. So you can lock it with, uh, uh, there are a bunch of tools that do it. Uh, lead snap is one of them and you can lock it so that Google, um, will not be able to change as much. And, uh, beyond that, it's really just, you know, log in on a regular basis and reject them all. Okay. Thanks. Yeah. I know it's frustrating. But the good news is right. Google used to allow other people to change your pin location. At least they did away with that. So, you know, baby steps. All right. Any other questions? Anything else come up? I do have a really fast one if it's okay. Sure. Um, can I share my screen? Uh, yes. Um, so when, when you were talking about the, um, categories. So like this. This, I just took this account over, so they have contractor, but then they also have general contractor as, and so do we need the same services under both? No, we don't, we don't like repeating services, so we would put the services only under the one that they're like most semantically relevant to. Okay, so should I have the same category like contractor and general contractor or should I just choose one. So the, um, I'm not sure. I'm sure Google sees a difference between those two categories. Otherwise they wouldn't have both of them. Uh-huh. Um, so I don't see anything wrong with having both of those categories on there. As long as you make sure, you know, what is the difference that Google sees and making sure that it's aligned with what Google is after. Okay. So I think that answers my question. So these are too many services and they're repetitive and I just need to clean it up. Yeah. I'm kind of interested. So if we go to general contractor, so it says that the general contractor is manages and oversees construction or renovation projects. Yep. That is in fact what a general contractor is. And what was the other category more like? Contractor, contractor. Oh, just contractor. There were, those were the two. And there's contractor and contractor manages and completes construction renovation or repair projects for homes or businesses. Yeah. That's exactly the same. So the contractor manages and completes and the general contractor manages and oversees. Yeah. So do I include them both then? I mean, they look, they seem so similar. Uh, I probably would. Okay. So leave them both and just don't repeat the services. Yeah. Okay. All right. Awesome. Thanks. Yeah. Uh, let's see. Joe, um, no, because we still have a bunch. So the question is, do, do you just use level and Claude for site building now and maintenance? And no, we don't because we still have a bunch of clients under old, uh, I shouldn't say old under other types of, um, content platforms. All right. So we have some clients on, on, uh, web flow or GHL sites, stuff like that. Um, so. Ah. I'm honestly not the biggest fan of the lovable site, especially now that the, um, core 30 builder, uh, I think it works pretty well. I know there've been a lot of bugs here and there, but hopefully a lot of those are fixed. And even with the bugs, it's still has worked for the most part. Um, so anyway, hopefully that answers, we basically, because there's going to be a loss of rank position for moving to a new CRM, we generally don't move CRMs. Uh, we. We use whatever the client has, um, could the core 30 agent is built on Claude code. Yes, that's correct. Um, but I don't know that it really matters what it was built on, but it was built on Claude code. Lovable can only build a web apps. It can't edit files on your computer. Um, the core 30 agent, uh, the first version of it was actually a local app. Um, some of you may remember when it was available, you had to download a dot exe. Uh, but ended up moving it over to the web app because people kept asking for that. That was, uh, a challenging migration, but done. Um, anyway, all right, Justin, what's up, man. Um, so I have about like 51 reviews, um, in a very competitive market in San Jose with over like a million people. And, um, I was wondering, uh, when, when should I get the chamber of commerce link is cause it's like $600 where I'm at. And, um, I don't want to. Spend that $600 until I have like an actual chance to like rank in the top three. So the chamber link is something that we typically will do almost all of the time. Uh, like almost immediately, the chamber of commerce link provides a lot of local authority, both for Google and for, um, both for Google and for AI systems. So we'll usually just do it. Uh, I mean, if you don't want. To then, then that's fine. You don't have to, but it does help you rank. Okay. And then, um, for my GPP, uh, profile, like underneath the suggestion, it says to put in my Google maps. But, um, whenever I try to click on that, um, it won't, it won't disappear if I embed it on my website. It's now asking me to go to like Google platforms and then connect some APIs to try to, I'm trying to get rid of that suggestion from my Google, my business. I'm not sure, man, that sounds strange. Um, if you could just, uh, do a screen snip for what the errors is that's being generated and give it to Claude and, uh, maybe Claude can help you sort what's going on and how to get rid of it. Um, and then, uh, you know, on the plumbing page with the locations, uh, with the supporting and the neighborhood pages, like I have cities around San Jose. Like Cupertino. And, um, like Campbell and such, do I create pages for those? Like those are general cities and then like the neighborhood pages as well. And then just, we don't just, we don't create just random city pages like that anymore. Uh, w we do geo relevance based on what the rank map is showing. So I just don't create the location pages, go after the neighborhoods where it's not showing properly. Yes. Oh, okay. Um, and then if I have those pages, what should I do with those? Should I 404 them or. Oh, if you have them and leave them, then leave them. Just don't keep building new ones. Should I not connect them to the, to the hub page? No, you can. I mean, if you have them, then you may as well, but I, but yeah, they're just not going to be super useful. Oh, and then, uh, is there any example that you can give me for a multiple location site? So it's basically going to be the exact same structure. We just build the core 30, um, under each GBP landing page. So every location will have a unique GBP landing page that will be linked to, uh, from their GBP. And then the core 30 just gets built underneath that. Um, so if I have a multiple location page, uh, on my homepage, let's say just junk removal.com. Should it just be junk removal.com? And then on the location dropdown. I should have, if I have two locations, one in San Jose and then, uh, one in, uh, San Diego, should I have a dropdown for each one of those? A dropdown say more. Uh, yeah, like a, uh, like a locations on my menu bar and then have a dropdown of each location that I have. Sorry, say it again. I got a little bit of a coughing fit there. Uh, no problem on the, on the dropdown. If I have a multiple location, a business, uh, should I have each? Each of the specific locations. Like if I have one in San Jose and one in San Diego, should it interconnect with the homepage? Yeah. So we'll generally put the locations in the nav bar. Is that what you're asking? And, uh, I, I remember you said something about like putting your, like most competitive market on the homepage and then, um, the less ones on the locations underneath there. So how, how, how can I do that? Like for like my San Jose one. Uh, if I put on the header, like San Jose or junk removal, San Jose, it's going to get confusing, uh, for like all the other people coming to the site. Like, just imagine like if Roto-Rooter was based in like San Jose and that was the most competitive market, it'd just be plumbing, uh, San Jose. Yeah. So the way that we handle that, right. Um, so nobody's going to end up on your homepage unless they're being linked to from the GBP. Right. The vast majority of your website visits are going to be somebody clicking through from the GBP landing page itself. So whatever location they're nearest, um, that's the GBP that's going to show up for them. And when they click through, that's the GBP homepage that they're going to see, not your actual homepage. Does that make sense? Yes. Okay, cool. All right. So let's see. Go ahead, Justin. Uh, not. Um, I had all my questions answered. I'm going to try it out and hopefully everything works and I can, um, help a lot of people out with all this new learned knowledge. Awesome. Good. Love it. All right. Last question then from Joe. He asks, uh, to use their CRM to determine what software to build the website. That's so I, so that's not, so the CRM can be the customer relations management system. How you manage. You manage your customers. You stay in contact with them, things like that. CRM can also stand for like the content delivery system, uh, where whatever platform the website is built on. Uh, so like GHL is a CRM, but you can also build a website on GHL. Um, so we don't use their CRM to determine the software to build their website. No, no, no. Uh, I misspoke if that's what I said. What we mean by that is most of the clients we work with. Already. Have a website and we're just going to use that one. Uh, so we don't rebuild websites for the, for the most part. Yeah. All right, cool. Well, thank you very much, everyone. Hopefully, uh, next week I won't be as sick. Uh, how miserable if I am for that long. Uh, but the next one is going to be, I believe it's the 17th. Yes. Uh, Tuesday, March 17th at 1 PM central. Thank you very much for joining. Uh, send me a message or, uh, feel free to post in the group and we'll get it sorted. Thank you very much. Everyone take care.",
+  "summary": "The lesson discusses a tool for generating content on WordPress sites and strategies for pricing services based on competitor analysis. It also covers deployment considerations and content release strategies.",
+  "key_points": [
+    "Connect the tool to a WordPress installation using an app password",
+    "Charge based on scope of work, estimating by competitor pages",
+    "Create new pages rather than overwrite existing ones with the tool"
+  ],
+  "tags": [
+    "wordpress",
+    "content generation",
+    "pricing strategy",
+    "competitor analysis",
+    "tool deployment",
+    "seo",
+    "client services"
+  ]
+}
