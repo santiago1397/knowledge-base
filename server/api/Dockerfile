@@ -3,7 +3,7 @@
 # are available.
 
 # ---- stage 1: build the SPA ----
-FROM node:20-alpine AS web
+FROM node:22-alpine AS web
 WORKDIR /web
 COPY web/package.json web/package-lock.json* ./
 RUN npm install
@@ -16,7 +16,7 @@ WORKDIR /app
 
 # Light deps only — no faster-whisper / torch / ollama.
 RUN pip install --no-cache-dir \
-    "fastapi>=0.115" "uvicorn[standard]>=0.32" \
+    "fastapi>=0.141.1" "certifi>=2026.10.19" "urllib3>=2.8.0" "uvicorn[standard]>=0.32" \
     "psycopg[binary]>=3.2" "psycopg-pool>=3.2" "pgvector>=0.3" \
     "fastembed>=0.4" "argon2-cffi>=23.1" "itsdangerous>=2.2" \
     "httpx>=0.28" "pyarrow>=17"
